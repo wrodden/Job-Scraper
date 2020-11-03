@@ -1,0 +1,1240 @@
+,City,Employers,Jobs
+0,San Francisco,Facebook,22
+1,New York,Facebook,21
+2,Washington,MITRE,19
+3,Washington,Leidos,19
+4,New York,Spotify,13
+5,Indianapolis,Lilly UK,13
+6,Washington,IBM,13
+7,San Francisco,Google,12
+8,Indianapolis,Eli Lilly,12
+9,San Francisco,Twitter,10
+10,Washington,Perspecta,10
+11,Washington,Capital One,9
+12,Indianapolis,Salesforce,9
+13,New York,Bloomberg,9
+14,San Francisco,Wish,8
+15,New York,IBM,8
+16,San Francisco,Salesforce,7
+17,Washington,DataRobot,7
+18,San Francisco,Roblox,7
+19,Chicago,GoHealth,7
+20,Washington,Novetta,7
+21,Washington,General Dynamics Information Technology,7
+22,Washington,SAIC,7
+23,San Francisco,Pinterest,7
+24,San Francisco,UCSF Medical Center,6
+25,San Francisco,Adobe,6
+26,San Francisco,University of California San Francisco,6
+27,Washington,Facebook,6
+28,Washington,steampunk,6
+29,New York,Amazon,6
+30,San Francisco,Lyft,6
+31,New York,New Jersey Institute of Technology,6
+32,San Francisco,Arsenal Biosciences,6
+33,New York,Google,6
+34,New York,Creative Circle ,6
+35,New York,Aquent,5
+36,New York,Brookhaven National Laboratory,5
+37,Washington,Marriott,5
+38,San Francisco,DocuSign,5
+39,San Francisco,Oracle,5
+40,Washington,Booz Allen Hamilton Inc.,5
+41,New York,BNY Mellon,5
+42,Washington,"Latitude, Inc.",5
+43,San Francisco,Nextdoor,5
+44,Chicago,Shure Incorporated,5
+45,New York,GroupM Data & Technology,5
+46,New York,Compass,5
+47,Indianapolis,Covance,5
+48,San Francisco,Asana,5
+49,New York,"JPMorgan Chase Bank, N.A.",5
+50,San Francisco,Blue Owl,5
+51,New York,Capital One,5
+52,Chicago,Tempus Labs,5
+53,New York,BrainStation,5
+54,Washington,Volkswagen Group of America,5
+55,New York,NYC Data Science Academy,5
+56,Chicago,Epsilon,5
+57,New York,New School,5
+58,Washington,CACI International,5
+59,New York,Two Sigma,5
+60,New York,Teachers Pay Teachers,5
+61,San Francisco,Silicon Valley Bank,5
+62,San Francisco,Stitch Fix,5
+63,New York,Plymouth Rock Assurance,5
+64,Washington,Johns Hopkins Applied Physics Laboratory (APL),4
+65,Chicago,Capgemini,4
+66,Chicago,Capital One,4
+67,Washington,"ADNET Systems, Inc.",4
+68,Washington,Atlas Research,4
+69,San Francisco,Coinbase,4
+70,New York,Vimeo,4
+71,Washington,Central Intelligence Agency,4
+72,San Francisco,Splunk,4
+73,New York,Verizon,4
+74,Washington,AstraZeneca,4
+75,New York,Aetna,4
+76,San Francisco,Diamond Foundry,4
+77,Washington,BAE Systems,4
+78,New York,Amazon.com Services LLC,4
+79,Washington,Amazon,4
+80,New York,"Two Sigma Investments, LLC.",4
+81,San Francisco,First American Financial Corporation,4
+82,Chicago,Aon,4
+83,New York,The Rockefeller University,4
+84,San Francisco,DoorDash,4
+85,Washington,stanleyreid,4
+86,Indianapolis,Indiana University,4
+87,New York,NBCUniversal,4
+88,Washington,Deloitte,4
+89,Washington,CNA Corporation,4
+90,New York,Point72,4
+91,San Francisco,Scale AI,4
+92,Chicago,Zoro Tools,4
+93,San Francisco,Shaper Tools,4
+94,San Francisco,C3.ai,4
+95,Washington,Booz Allen Hamilton,4
+96,Chicago,Unicom Technologies INC,4
+97,San Francisco,Levi Strauss,4
+98,San Francisco,Opendoor,4
+99,Indianapolis,B2S Life Sciences LLC,4
+100,San Francisco,RingCentral,4
+101,New York,New York University,4
+102,San Francisco,PicnicHealth,4
+103,Chicago,The University of Chicago,4
+104,Washington,Aptive,3
+105,New York,Citadel,3
+106,Washington,Google,3
+107,Washington,Coverent,3
+108,Washington,Blue Water Media,3
+109,New York,Peloton Interactive,3
+110,San Francisco,SurveyMonkey,3
+111,New York,Peloton,3
+112,San Francisco,Adikteev,3
+113,New York,Tapad,3
+114,New York,Match Group,3
+115,San Francisco,Benchling,3
+116,Washington,Highlight Technologies,3
+117,New York,Columbia University,3
+118,New York,Comet.ml,3
+119,New York,ZS Associates,3
+120,San Francisco,CIA,3
+121,New York,Genesis Research,3
+122,New York,Simons Foundation,3
+123,Washington,"GBTI Solutions, Inc.",3
+124,New York,frog,3
+125,Washington,IMSG/NOAA,3
+126,San Francisco,Charles River Laboratories,3
+127,Washington,Creative Circle ,3
+128,New York,Grubhub,3
+129,San Francisco,Color,3
+130,San Francisco,Creative Circle ,3
+131,Washington,Internal Revenue Service,3
+132,New York,IBISWorld,3
+133,Washington,Ironclad Technology Services,3
+134,New York,ConcertAI,3
+135,New York,RBC,3
+136,Washington,Battelle,3
+137,Washington,Georgetown University,3
+138,Chicago,Myticas Consulting,3
+139,Indianapolis,MiraVista Diagnostics,3
+140,Chicago,Civis Analytics,3
+141,Indianapolis,KAR Auction Services,3
+142,Chicago,Optiver US,3
+143,Washington,Novavax,3
+144,San Francisco,Instagram,3
+145,Indianapolis,IQVIA,3
+146,San Francisco,Joby Aviation,3
+147,Washington,Salient CRGT,3
+148,Washington,Salesforce,3
+149,San Francisco,Snowflake,3
+150,Indianapolis,Beckman Coulter Life Sciences,3
+151,San Francisco,Natera,3
+152,San Francisco,Nektar Therapeutics,3
+153,Washington,Two Six Labs,3
+154,Chicago,FS LLC.,3
+155,San Francisco,Wells Fargo,3
+156,Chicago,TransUnion,3
+157,Chicago,Toyota Research Institute,3
+158,Chicago,Specialty Consulting Inc.,3
+159,Chicago,Thermo Fisher Scientific,3
+160,San Francisco,Samsung Research America,3
+161,Chicago,Syngenta,3
+162,Indianapolis,Milliman,3
+163,Chicago,Citadel Securities,3
+164,San Francisco,Square,3
+165,Chicago,Acara Solutions,3
+166,Chicago,Allstate,3
+167,San Francisco,TRM Labs,3
+168,San Francisco,Tapjoy,3
+169,Chicago,Aquent,3
+170,New York,Thomson Reuters,3
+171,Chicago,Nielsen,3
+172,Washington,Mitre Corporation,3
+173,San Francisco,Gap Inc.,3
+174,San Francisco,Patreon,3
+175,Chicago,Citadel,3
+176,San Francisco,Grammarly,3
+177,San Francisco,Gusto,3
+178,Indianapolis,Q2 Solutions,3
+179,Indianapolis,PayPal,3
+180,Washington,National Security Agency,3
+181,Chicago,Caterpillar,3
+182,Washington,University of Southern California,3
+183,Washington,Accenture,3
+184,Chicago,Old World Industries,3
+185,Washington,The Motley Fool,3
+186,San Francisco,Postmates,2
+187,San Francisco,Robert Half Corporate Internal,2
+188,San Francisco,Punchh,2
+189,San Francisco,22nd Century Technologies,2
+190,San Francisco,Airbnb,2
+191,San Francisco,Eluvio,2
+192,New York,the dtx company,2
+193,San Francisco,Sisu Data,2
+194,San Francisco,Slack,2
+195,San Francisco,"SmartNews, Inc.",2
+196,New York,Zoetis,2
+197,San Francisco,SoFi,2
+198,New York,Xero,2
+199,San Francisco,Plexuss,2
+200,New York,WW International,2
+201,San Francisco,Sonder,2
+202,San Francisco,Sony PlayStation,2
+203,San Francisco,Spotify,2
+204,New York,VTS,2
+205,New York,VMLY&R,2
+206,New York,Weber Shandwick,2
+207,San Francisco,On Board Experiential Marketing,2
+208,San Francisco,Amazon,2
+209,San Francisco,Amyris,2
+210,San Francisco,Citrine Informatics,2
+211,San Francisco,Instacart,2
+212,San Francisco,Datatron Technologies,2
+213,San Francisco,Dell Technologies,2
+214,San Francisco,IDEO,2
+215,San Francisco,Hired Recruiters,2
+216,San Francisco,Hinge Health,2
+217,San Francisco,Grand Rounds,2
+218,San Francisco,Delta Dental,2
+219,San Francisco,GENENTECH,2
+220,San Francisco,Flexport,2
+221,San Francisco,Fanatics,2
+222,San Francisco,Faire,2
+223,San Francisco,Epic,2
+224,San Francisco,Dropbox,2
+225,San Francisco,Catholic Health Initiatives,2
+226,San Francisco,Carpenter/Robbins Commercial Real Estate,2
+227,San Francisco,Invitae,2
+228,San Francisco,NorthOne,2
+229,San Francisco,PPD,2
+230,San Francisco,Oxygen,2
+231,San Francisco,"Operating Company SLEDGEHAMMER GAMES, INC.",2
+232,San Francisco,Emendata,2
+233,San Francisco,Ascent Services Group,2
+234,San Francisco,Notion,2
+235,San Francisco,Nomis Solutions,2
+236,San Francisco,Capital One,2
+237,San Francisco,Brightidea,2
+238,San Francisco,Noah,2
+239,San Francisco,NinthDecimal,2
+240,San Francisco,Ngm Biopharmaceuticals,2
+241,San Francisco,Lawrence Berkeley National Laboratory,2
+242,San Francisco,Kaiser Permanente,2
+243,New York,Triplebyte,2
+244,Washington,Øptimus Consulting,2
+245,New York,Thermo Fisher Scientific,2
+246,Chicago,dunnhumby,2
+247,Chicago,Salesforce,2
+248,Chicago,Sky Consulting Inc,2
+249,Chicago,"Smart Synergies, Inc.",2
+250,Chicago,TIAA,2
+251,Chicago,Tegus,2
+252,Chicago,ThinkMarkets - North America,2
+253,Chicago,Uline,2
+254,Chicago,VIVA USA,2
+255,Chicago,Valkyrie Trading,2
+256,Chicago,VillageMD,2
+257,Chicago,Wavicle Data Solutions LLC,2
+258,Chicago,Waystar,2
+259,Chicago,bswift,2
+260,Chicago,divvyDOSE,2
+261,Indianapolis,Anthem,2
+262,New York,Akur8,2
+263,Indianapolis,Crowe,2
+264,Indianapolis,Delta Faucet Company,2
+265,Indianapolis,Elanco,2
+266,Indianapolis,Finish Line,2
+267,Indianapolis,Internal Revenue Service,2
+268,Indianapolis,Masco,2
+269,Indianapolis,"MiraVista Diagnostics, LLC",2
+270,Indianapolis,MuleSoft,2
+271,Indianapolis,Navient,2
+272,Indianapolis,POLARIS Laboratories,2
+273,Indianapolis,Platinum Group,2
+274,Indianapolis,SpringML,2
+275,New York,1stopbedrooms,2
+276,New York,Advance Local,2
+277,Chicago,Sagence,2
+278,Chicago,RiverPoint,2
+279,Chicago,PPD,2
+280,Chicago,Old Mission Capital,2
+281,Chicago,American Cancer Society,2
+282,Chicago,Ann & Robert H. Lurie Children's Hospital of Chicago,2
+283,Chicago,Apex Systems,2
+284,Chicago,Balyasny Asset Management,2
+285,Chicago,CGN Global,2
+286,Chicago,"CTI Clinical Trial Services, Inc",2
+287,Chicago,Chowbus,2
+288,Chicago,Deloitte,2
+289,Chicago,Early Warning Services,2
+290,Chicago,Environmental Law and Policy Center,2
+291,Chicago,Farmers Insurance,2
+292,Chicago,Google,2
+293,Chicago,Green Key Technologies ,2
+294,Chicago,Groupon,2
+295,Chicago,Grubhub,2
+296,Chicago,Guaranteed Rate,2
+297,Chicago,Hyatt Corporate Office,2
+298,Chicago,IBM,2
+299,Chicago,IFG Companies,2
+300,Chicago,Invenergy,2
+301,Chicago,Kforce,2
+302,Chicago,M1 Holdings,2
+303,Chicago,Mars,2
+304,Chicago,Maven Wave Partners,2
+305,Chicago,McDonald's Corporate,2
+306,Chicago,McKinsey & Company,2
+307,Chicago,Morningstar,2
+308,Chicago,NORC at the University of Chicago,2
+309,Chicago,Northwestern University,2
+310,New York,Agoda,2
+311,New York,AlphaSense,2
+312,New York,The Trade Desk,2
+313,New York,Patreon,2
+314,New York,Kettle,2
+315,New York,KeyBank,2
+316,New York,Kforce,2
+317,New York,Konrad,2
+318,New York,Lorven Technologies Inc,2
+319,New York,McCann Worldgroup,2
+320,New York,Mount Sinai Health System,2
+321,New York,Multimedia Solutions,2
+322,New York,National Football League,2
+323,New York,NewtonX,2
+324,New York,No Limit Technology,2
+325,New York,Noom US,2
+326,New York,OkCupid,2
+327,New York,"PTC Therapeutics, Inc.",2
+328,New York,PreciseSource,2
+329,New York,Aptus Health,2
+330,New York,Quartet Health,2
+331,New York,RXR Construction Services LLC,2
+332,New York,Rose Digital,2
+333,New York,SADA,2
+334,New York,Saks Fifth Avenue,2
+335,New York,Salesforce,2
+336,New York,Sidewalk Labs,2
+337,New York,Sionic,2
+338,New York,Squarespace,2
+339,New York,Synechron,2
+340,New York,TEEMA,2
+341,New York,Talent Inc.,2
+342,New York,Talkspace,2
+343,New York,The Knot Worldwide,2
+344,New York,J.P. Morgan,2
+345,New York,Internal Revenue Service,2
+346,New York,Intelligent Business Platforms LLC,2
+347,New York,ION Group,2
+348,New York,"Attorney General, Office of the",2
+349,New York,BD,2
+350,New York,BayBridgeDigital,2
+351,New York,Biz2Credit Inc,2
+352,New York,Blend360,2
+353,New York,Boehringer Ingelheim,2
+354,New York,Bombas,2
+355,New York,BrainPOP,2
+356,New York,Buoy Health,2
+357,New York,CIA,2
+358,New York,CUNY (City University of New York),2
+359,New York,CVS Health,2
+360,New York,Capital One - US,2
+361,New York,Citadel Securities,2
+362,New York,Colgate-Palmolive,2
+363,New York,Crossix Solutions,2
+364,New York,Dataiku,2
+365,New York,Dataminr,2
+366,New York,Deloitte,2
+367,New York,Diamond Foundry,2
+368,New York,DoubleVerify,2
+369,New York,Eleventh Hour,2
+370,New York,Elsevier,2
+371,New York,ExecuPharm FSP,2
+372,New York,First American Financial Corporation,2
+373,New York,Forbes Media,2
+374,New York,Goldman Sachs,2
+375,New York,Goodway Group,2
+376,New York,ION,2
+377,San Francisco,Streamlit,2
+378,Chicago,#TeamGoHealth,2
+379,Washington,Spatial Front,2
+380,Washington,Excella Consulting,2
+381,Washington,Karsun Solutions LLC,2
+382,Washington,Job Juncture,2
+383,Washington,The Henry M. Jackson Foundation,2
+384,San Francisco,Xoom,2
+385,Washington,Applied Information Sciences,2
+386,Washington,Applied Memetics LLC,2
+387,San Francisco,Whisper.ai,2
+388,San Francisco,Weights & Biases,2
+389,San Francisco,Walmart,2
+390,San Francisco,WW International,2
+391,Washington,Expression Networks,2
+392,Washington,US Other Agencies and Independent Organizations,2
+393,Washington,Intelligent Automation,2
+394,Washington,Institute for Defense Analyses,2
+395,Washington,Avalonbay Communities,2
+396,Washington,Frederick National Laboratories,2
+397,Washington,Tripoint Solutions,2
+398,Washington,Trusted Concepts,2
+399,Washington,Fulcrum Vets,2
+400,Washington,GEICO,2
+401,Washington,US Department of Commerce,2
+402,Washington,Avantus Federal,2
+403,Washington,Elder Research Inc,2
+404,Washington,Edelman,2
+405,Washington,NCI Information Systems Inc.,2
+406,Washington,ESAC Inc,2
+407,Washington,Ad Hoc Company Website,2
+408,Washington,Cvent,2
+409,Washington,Advanced Bioscience Laboratories,2
+410,Washington,SRC,2
+411,Washington,DMI,2
+412,Washington,Dexis Consulting Group,2
+413,Washington,"Dobbs Defense Solutions, LLC.",2
+414,Washington,Reveal Global Consulting LLC,2
+415,Washington,CompQsoft,2
+416,Washington,22nd Century Technologies,2
+417,Washington,ECS Federal LLC,2
+418,Washington,"ECS Federal, LLC",2
+419,Washington,EPAM Systems,2
+420,Washington,RELX,2
+421,San Francisco,ixlayer,2
+422,San Francisco,iSpace Inc.,2
+423,Washington,Cognowiz Solutions,2
+424,Washington,"Metron, Inc.",2
+425,San Francisco,iRhythm,2
+426,Washington,MissionSide,2
+427,Washington,"Profile Placement Services, LLC",2
+428,Washington,"Aveshka, Inc.",2
+429,Washington,Acumen Solutions,2
+430,Washington,CEDENT,2
+431,Washington,Nolij Consulting,2
+432,Washington,Whiteboard Federal,2
+433,Washington,Navy Federal Credit Union,2
+434,Washington,"OneSource IT, Inc.",2
+435,San Francisco,TrussWorks,2
+436,Washington,NetImpact Strategies,2
+437,Washington,CKA LLC,2
+438,San Francisco,Trace Data,2
+439,San Francisco,"TuSimple, Inc.",2
+440,Washington,Omni Federal,2
+441,Washington,Howard University,2
+442,Washington,iTech AG,2
+443,Washington,Grafik,2
+444,Washington,OneGlobe LLC,2
+445,Washington,USC,2
+446,Washington,HRUCKUS,2
+447,Washington,Id.me,2
+448,Washington,GRANT THORNTON,2
+449,Washington,NT Concepts,2
+450,San Francisco,Udemy,2
+451,San Francisco,Twitch,2
+452,New York,Blackstone,1
+453,Indianapolis,Liberty Healthcare Corporation,1
+454,Indianapolis,Moser Consulting,1
+455,Washington,Marathon TS,1
+456,Washington,Nestle USA,1
+457,Washington,Marys Center For Maternal and Child Care,1
+458,Indianapolis,Myers and Stauffer,1
+459,New York,Athreya Inc,1
+460,New York,Apple,1
+461,Washington,Mirlogic Solutions Corporation,1
+462,Washington,Mission Essential,1
+463,New York,Alibaba,1
+464,Washington,"Mobomo, LLC",1
+465,Washington,Middle Seat,1
+466,New York,Attentive,1
+467,Indianapolis,Loxo Oncology,1
+468,Washington,MetiStream,1
+469,New York,B&H Photo Video,1
+470,Washington,Medical Science & Computing,1
+471,Washington,"New Light Technologies, Inc.",1
+472,Washington,MedStar Washington Hospital Center,1
+473,Washington,Mount Indie,1
+474,Washington,Next Century,1
+475,Washington,NorthHill Technology,1
+476,Indianapolis,Lilt,1
+477,Indianapolis,Medxcel Facilities Management,1
+478,New York,Better.com,1
+479,New York,Bionic Solution,1
+480,New York,Bizzabo,1
+481,Indianapolis,MISO,1
+482,Washington,McKinsey & Company,1
+483,Indianapolis,St. Vincent Health,1
+484,Indianapolis,Northview Christian Life Church Inc,1
+485,Indianapolis,United Way of Central Indiana,1
+486,Indianapolis,"The Jane Pauley Community Health Center, Inc",1
+487,Washington,National Science Foundation,1
+488,New York,BlockFi,1
+489,Indianapolis,Pinnacle Partners,1
+490,Indianapolis,Tata Consultancy Services (North America),1
+491,Indianapolis,TEEMA,1
+492,Indianapolis,TCS,1
+493,Washington,National Geospatial-Intelligence Agency,1
+494,Indianapolis,Polysciences Inc,1
+495,Indianapolis,Studio Science,1
+496,Indianapolis,Strategic Employment,1
+497,Washington,National Association of Manufacturers,1
+498,Indianapolis,Stantec,1
+499,Washington,NVIDIA,1
+500,Indianapolis,Simon Property Group,1
+501,Indianapolis,Site Strategics,1
+502,Indianapolis,Stanley Black & Decker,1
+503,Indianapolis,TransLoc Inc.,1
+504,Indianapolis,"PONDURANCE, LLC",1
+505,Indianapolis,NuOrbit Media,1
+506,Washington,"Navstar, Inc.",1
+507,Washington,NORC at the University of Chicago,1
+508,New York,Admera Health,1
+509,Indianapolis,"St. Vincent, IN",1
+510,New York,Ademeni,1
+511,Indianapolis,Onebridge,1
+512,New York,ActiveViam,1
+513,New York,ADP,1
+514,New York,7Summits,1
+515,New York,7Park Data,1
+516,Washington,NRECA,1
+517,Indianapolis,Wheaton Van Lines,1
+518,Indianapolis,Ossium Health,1
+519,Indianapolis,Outside Source,1
+520,Indianapolis,Virtusa,1
+521,Indianapolis,Versiti,1
+522,Indianapolis,Varsity Tutors,1
+523,Indianapolis,"Oxford Financial Group, Ltd.",1
+524,Indianapolis,Tech-Connect,1
+525,San Francisco,Synapse Financial Technologies Inc,1
+526,Washington,ManTech International Corporation,1
+527,New York,DataCamp,1
+528,New York,FanDuel,1
+529,Washington,"IMMUNOMIC THERAPEUTICS, INC.",1
+530,New York,FOJP,1
+531,Washington,INCATech,1
+532,New York,Etsy,1
+533,New York,Envision LLC,1
+534,New York,EnergyHub,1
+535,Washington,Improvix Technologies,1
+536,New York,ElectrifAI,1
+537,New York,EasyKnock,1
+538,New York,ERGO Group,1
+539,New York,Dow Jones,1
+540,Washington,Infinitive Inc,1
+541,New York,Doran Jones,1
+542,New York,DoorDash,1
+543,New York,Digital Pulp,1
+544,Washington,Infostride,1
+545,New York,Designstyles,1
+546,Washington,Inova Health System,1
+547,New York,Deep Labs,1
+548,New York,Decode_M,1
+549,New York,FesariusTherapeutics Inc.,1
+550,New York,FinTech Studios,1
+551,New York,Finra,1
+552,Washington,Huxley,1
+553,New York,Huxley,1
+554,New York,Hudson's Bay Company,1
+555,New York,Hinge,1
+556,New York,Happify Health,1
+557,Washington,Hanover Research,1
+558,Washington,Henry M Jackson Foundation For The Advan,1
+559,Washington,"Historical Society of Washington, D.C.",1
+560,Washington,Human Resources Research Organization,1
+561,New York,Goldbelly,1
+562,New York,GenLed Brands,1
+563,Washington,IDT Biologika,1
+564,New York,GameChanger,1
+565,New York,Fund For Public Health In New York Inc,1
+566,New York,Freed Maxick,1
+567,New York,Foursquare,1
+568,New York,Ford Foundation,1
+569,Washington,I 360,1
+570,New York,FocusKPI Inc.,1
+571,New York,Fitch Ratings,1
+572,New York,Fiserv,1
+573,New York,Datadog,1
+574,New York,DailyPay Inc,1
+575,Washington,ManTech,1
+576,New York,Daily Harvest,1
+577,New York,Cash App,1
+578,Washington,L&E Meridian,1
+579,Washington,LMI,1
+580,New York,Capco,1
+581,New York,Cadre,1
+582,Washington,LOCKHEED MARTIN CORPORATION,1
+583,Washington,LexisNexis Risk Solutions,1
+584,Washington,Lidl US,1
+585,New York,CFA Institute,1
+586,Indianapolis,Legacy Supply Chain,1
+587,New York,Buxton,1
+588,Washington,Lockheed Martin,1
+589,Washington,MEDSTAR HEALTH,1
+590,New York,Braze,1
+591,New York,"Braven, Inc",1
+592,Washington,MGM Resorts International,1
+593,Washington,MOSAIC Technologies Group,1
+594,New York,Boxed,1
+595,New York,Booz Allen Hamilton Inc.,1
+596,New York,Bonobos,1
+597,Washington,MSAG,1
+598,New York,Cedar,1
+599,New York,Cervello Inc,1
+600,Washington,"Koniag, Inc.",1
+601,New York,Conductor,1
+602,New York,DVG Interactive,1
+603,New York,DTCC,1
+604,New York,DSV Solutions LLC,1
+605,Washington,Intelliware Systems,1
+606,New York,Credibly,1
+607,Washington,International Foundation for Electoral Systems (IFES),1
+608,New York,Creative Circle,1
+609,New York,Co–Star,1
+610,New York,Cooley,1
+611,New York,Conde Nast,1
+612,Washington,"Kingfisher Systems, Inc.",1
+613,Washington,Jacobs,1
+614,Washington,Johns Hopkins University,1
+615,New York,Comcast,1
+616,Washington,Kingfisher Systems,1
+617,New York,Cohen Veterans Bioscience,1
+618,New York,Codecademy,1
+619,New York,Coalition for Queens,1
+620,New York,Clubhouse Software,1
+621,New York,Clear Point,1
+622,Indianapolis,Lessonly,1
+623,Indianapolis,Eurofins Central Laboratory,1
+624,Indianapolis,KiZAN Technologies,1
+625,Chicago,Harris & Harris,1
+626,Chicago,Jump Trading,1
+627,Chicago,"JPMorgan Chase Bank, N.A.",1
+628,Chicago,International Financial Group (IFG),1
+629,Chicago,Internal Revenue Service,1
+630,Chicago,Integral Ad Science,1
+631,Chicago,IMC Financial Markets,1
+632,Washington,The Knot Worldwide,1
+633,Washington,The Modern Classrooms Project,1
+634,Washington,The Washington Post,1
+635,Chicago,HopHR,1
+636,Chicago,HappiLabs,1
+637,Chicago,Kenshoo,1
+638,Chicago,HERE Technologies,1
+639,Washington,TheIncLab,1
+640,Washington,Thomson Reuters,1
+641,Chicago,GrubHub,1
+642,Washington,"ThreatConnect, Inc.",1
+643,Chicago,Griffith Foods,1
+644,Washington,TransVoyant,1
+645,Chicago,"Great Lakes Services, LLC",1
+646,Washington,Trident Systems Inc,1
+647,Washington,Trideum Corporation,1
+648,Chicago,Kelton,1
+649,Chicago,KeyBank,1
+650,Chicago,GL LED LLC,1
+651,Washington,Systems Plus,1
+652,Chicago,OppLoans,1
+653,Washington,Sprezzatura Management Consulting,1
+654,Chicago,OSF Healthcare,1
+655,Washington,Storyblocks,1
+656,Chicago,Nordstrom,1
+657,Washington,Strategic Analytix,1
+658,Chicago,National-Louis University,1
+659,Washington,Subject Matter,1
+660,Washington,Super Systems Inc,1
+661,Chicago,Motorola Solutions,1
+662,Chicago,Morning Consult,1
+663,Washington,The American Society of Nephrology,1
+664,Chicago,Mintel,1
+665,Washington,"TCG, Inc.",1
+666,Washington,TENICA and Associates LLC,1
+667,Washington,"Tantus Technologies, Inc.",1
+668,Washington,TechFlow,1
+669,Chicago,MT Global US INC.,1
+670,Washington,Tecolote Research,1
+671,Chicago,M1 Finance,1
+672,Chicago,Label Insight,1
+673,Chicago,Kraft Heinz Company,1
+674,Chicago,Gas Technology Institute,1
+675,Chicago,Fetch Rewards,1
+676,Indianapolis,Kairos Technologies,1
+677,Washington,Xator Corporation,1
+678,Washington,"Visionist, Inc.",1
+679,Chicago,Big Bright International,1
+680,Washington,Visual Connections,1
+681,Chicago,Bains Consulting LLC,1
+682,Washington,World Bank,1
+683,Washington,World Resources Institute,1
+684,Washington,XOR Security,1
+685,Chicago,Analog Devices,1
+686,Chicago,Amount,1
+687,Chicago,American Marketing Association,1
+688,Chicago,Amazon,1
+689,Chicago,CIBC US,1
+690,Chicago,Allston Trading,1
+691,Chicago,Alliant Credit Union,1
+692,Chicago,AllianceChicago,1
+693,Chicago,Alight,1
+694,Chicago,Advocate Aurora Health,1
+695,Chicago,Accenture,1
+696,Washington,inventium.io LLC,1
+697,Chicago,ASRC Federal Holding Company,1
+698,Chicago,ARYZTA,1
+699,Chicago,84.51°,1
+700,Chicago,CIBC,1
+701,Chicago,CNA,1
+702,Chicago,Federal Reserve Bank of Chicago,1
+703,Chicago,Collaborative Solutions,1
+704,Chicago,FNA,1
+705,Washington,Twitter Inc,1
+706,Washington,US Department of the Navy,1
+707,Chicago,EPMPixels,1
+708,Chicago,Dyson,1
+709,Chicago,DRW,1
+710,Chicago,Crowe,1
+711,Chicago,CreditNinja,1
+712,Chicago,"Conch Technologies, Inc",1
+713,Chicago,Colsh Consultants,1
+714,Chicago,CoinFlip,1
+715,Washington,Varen Technologies,1
+716,Washington,UnitedHealth Group,1
+717,Washington,University of Maryland,1
+718,Washington,University of Maryland Capital Region Health,1
+719,Chicago,Chicago Public Schools,1
+720,Chicago,Centro,1
+721,Washington,VMware,1
+722,Washington,Valex LLC,1
+723,Washington,Vanda Pharmaceuticals,1
+724,Chicago,Capax Global LLC,1
+725,Chicago,CVS Health,1
+726,Washington,Sparks Group,1
+727,Washington,Sierra Nevada Corporation,1
+728,Chicago,"PhysIQ, Inc.",1
+729,Washington,"Panum Group, LLC",1
+730,Indianapolis,Creative Circle ,1
+731,Indianapolis,Cox Automotive,1
+732,Washington,POLITICO,1
+733,Indianapolis,Corteva Agriscience,1
+734,Indianapolis,"Conch Technologies, Inc",1
+735,Indianapolis,Community Health Network (Indiana),1
+736,Indianapolis,Cardinal Health,1
+737,Indianapolis,"CTI Clinical Trial Services, Inc",1
+738,Indianapolis,Bekins,1
+739,Washington,PPD,1
+740,Indianapolis,Avtech solutions,1
+741,Indianapolis,DHL,1
+742,Indianapolis,Ascension,1
+743,Indianapolis,Ark Engineering Services,1
+744,Indianapolis,Anthem Health Plans of Virginia,1
+745,Washington,Paradyme Management,1
+746,Indianapolis,Alter Domus,1
+747,Indianapolis,Allegan General Hospital,1
+748,Indianapolis,Advanced Agrilytics,1
+749,Indianapolis,ASSA ABLOY,1
+750,Chicago,softsnippets,1
+751,Chicago,"nexus IT group, Inc.",1
+752,Washington,Outreach Process Partners,1
+753,Indianapolis,DHL Supply Chain,1
+754,Chicago,Polaris7,1
+755,Indianapolis,HHC,1
+756,Indianapolis,KSM Consulting,1
+757,Washington,Northrop Grumman,1
+758,Indianapolis,Jobvite,1
+759,Indianapolis,InvenTech Info,1
+760,Washington,NuWave Solutions,1
+761,Indianapolis,Infotree Service Inc,1
+762,Indianapolis,Indygo,1
+763,Indianapolis,IndyGo,1
+764,Washington,"OPPORTUNITY@WORK, INC.",1
+765,Indianapolis,High Alpha,1
+766,Indianapolis,Gilead Sciences,1
+767,Indianapolis,DHL | Supply Chain,1
+768,Indianapolis,Genesys,1
+769,Indianapolis,Franciscan Health,1
+770,Indianapolis,Federal Data Systems,1
+771,New York,IDEO,1
+772,Indianapolis,Eskenazi Health,1
+773,Indianapolis,Eli Lilly and Company,1
+774,Washington,Optimal Solutions Group,1
+775,Washington,"Orbis, Inc.",1
+776,Indianapolis,DWA Healthcare Communications Group,1
+777,Indianapolis,DMI,1
+778,Chicago,"fairlife, LLC",1
+779,Washington,Parenthetic LLC,1
+780,Washington,Parsons Corporation,1
+781,Washington,SNAP Inc,1
+782,Chicago,TalentDash,1
+783,Washington,Results for Development,1
+784,Chicago,"Sunrise Futures, LLC",1
+785,Chicago,Strong Analytics,1
+786,Chicago,Strive Consulting,1
+787,Washington,Rhombus,1
+788,Washington,"Ridgeline International, Inc.",1
+789,Washington,Riverside Research,1
+790,Washington,Royce Geospatial,1
+791,Chicago,Selby Jennings,1
+792,Chicago,Saggezza,1
+793,Washington,Piper Companies,1
+794,Chicago,SEI,1
+795,Chicago,SADA,1
+796,Chicago,Rush University Medical Center,1
+797,Washington,"SRC, Inc.",1
+798,Chicago,Revantage Corporate Services,1
+799,Chicago,"Regis Technologies, Inc.",1
+800,Chicago,Rally Health,1
+801,Chicago,Publicis Groupe,1
+802,Chicago,Productive Edge,1
+803,Chicago,Premier Research Group Limited,1
+804,Chicago,Tech-Connect,1
+805,Washington,Radiant Digital,1
+806,Washington,RIVA Solutions,1
+807,Chicago,The CORE Group,1
+808,Washington,Pivotal Software,1
+809,Chicago,ZS Associates,1
+810,Chicago,Wolverine Trading,1
+811,Chicago,Wind River,1
+812,Chicago,William Blair,1
+813,Chicago,Wi-Tronix,1
+814,Washington,Praescient Analytics,1
+815,Washington,Primer Ai,1
+816,Chicago,"Vizient, Inc.",1
+817,Chicago,Virta Health,1
+818,Washington,Publicis Sapient,1
+819,Washington,PwC,1
+820,Chicago,UnitedHealth Group,1
+821,Chicago,United Airlines Inc.,1
+822,Washington,QOMPLX,1
+823,Washington,QVine,1
+824,Chicago,US Cellular,1
+825,Washington,Quantifind,1
+826,Washington,Quantum Improvements Consulting,1
+827,Washington,Quorum,1
+828,Washington,REGENXBIO,1
+829,Washington,Graphicacy,1
+830,New York,Joint Academy,1
+831,New York,IFG Companies,1
+832,San Francisco,Front App,1
+833,San Francisco,HashiCorp,1
+834,San Francisco,Granular,1
+835,San Francisco,"Grammarly, Inc.",1
+836,Washington,Ad Hoc Team,1
+837,San Francisco,GoodRx,1
+838,San Francisco,Gilead Sciences,1
+839,San Francisco,Geli,1
+840,Washington,"Agile Defense, Inc.",1
+841,Washington,"Akima, LLC",1
+842,San Francisco,Fuze,1
+843,San Francisco,Freenome Holdings,1
+844,San Francisco,Hire Level Search Group,1
+845,San Francisco,Freenome,1
+846,San Francisco,Forward,1
+847,San Francisco,Fortex,1
+848,San Francisco,Formation,1
+849,San Francisco,Foresite Labs,1
+850,Washington,American Chemical Society,1
+851,San Francisco,Flatiron Health,1
+852,San Francisco,First Republic Bank,1
+853,Washington,American Geophysical Union,1
+854,San Francisco,Firewood Marketing,1
+855,Washington,Acuity INC,1
+856,Washington,Ace-stack LLC,1
+857,Washington,Grant Thornton,1
+858,San Francisco,Jobot,1
+859,San Francisco,Liftoff,1
+860,San Francisco,LeewayHertz,1
+861,San Francisco,Kunai Consulting,1
+862,San Francisco,Kinship,1
+863,San Francisco,Kelly Mitchell Group,1
+864,San Francisco,Karius,1
+865,San Francisco,projekt202,1
+866,San Francisco,Juniper Square,1
+867,San Francisco,June,1
+868,San Francisco,signature consultants,1
+869,San Francisco,Italic,1
+870,San Francisco,Hive (CA),1
+871,San Francisco,Invisible Technologies,1
+872,San Francisco,Intrinsic Imaging,1
+873,San Francisco,Internal Revenue Service,1
+874,San Francisco,IntelliPro Group Inc.,1
+875,San Francisco,Integra Service Connect,1
+876,Washington,7 Eagle Group,1
+877,Washington,AINS,1
+878,San Francisco,"InforTalents, Inc",1
+879,San Francisco,Impossible Foods,1
+880,Washington,Accolades Consulting,1
+881,San Francisco,Finrise,1
+882,San Francisco,Federal Reserve Bank of San Francisco,1
+883,San Francisco,Fastly,1
+884,San Francisco,Chan Zuckerberg Biohub,1
+885,Washington,Avantus,1
+886,San Francisco,Client of Wicresoft North America,1
+887,San Francisco,CitiusTech,1
+888,San Francisco,Cisco Systems,1
+889,San Francisco,CircleUp,1
+890,San Francisco,Circle Pharma,1
+891,San Francisco,Chime,1
+892,Washington,Axle Informatics,1
+893,San Francisco,Change.org,1
+894,San Francisco,Chan Zuckerberg Initiative,1
+895,Washington,Azimuth Corporation,1
+896,Washington,American Speech-Language-Hearing Association (ASHA),1
+897,Washington,B4CORP,1
+898,San Francisco,CareDx,1
+899,San Francisco,Capital One - US,1
+900,Washington,BAE Systems USA,1
+901,San Francisco,Canventa Life Sciences,1
+902,Washington,BOWA,1
+903,Washington,BRMi,1
+904,San Francisco,Bristol-Myers Squibb,1
+905,San Francisco,Brilliant,1
+906,Washington,Barbaricum,1
+907,San Francisco,Cypress HCM,1
+908,San Francisco,Data Bridge Consultants,1
+909,San Francisco,DataRobot,1
+910,San Francisco,Databricks,1
+911,Washington,American Wind Energy Association,1
+912,Washington,"Amyx, Inc.",1
+913,San Francisco,Extractable,1
+914,San Francisco,Evernote,1
+915,San Francisco,Everlaw,1
+916,San Francisco,Everlane,1
+917,Washington,Analytica,1
+918,Washington,"Apogee Research, LLC",1
+919,Washington,"AppGuard, Inc.",1
+920,San Francisco,Electronic Arts,1
+921,San Francisco,Eaze,1
+922,San Francisco,Earnest,1
+923,San Francisco,Early Warning Services,1
+924,Washington,"Aptima, Inc",1
+925,San Francisco,Dishcraft Robotics,1
+926,San Francisco,Dignity Health,1
+927,Washington,Aquent,1
+928,Washington,"Assured Information Security, Inc. (AIS)",1
+929,Washington,Ava Consulting,1
+930,San Francisco,Deep Labs,1
+931,Washington,Avalere Health,1
+932,San Francisco,Lonza,1
+933,San Francisco,MINDBODY,1
+934,San Francisco,MarinHealth Medical Center,1
+935,San Francisco,Roofstock,1
+936,San Francisco,Shipt,1
+937,San Francisco,Senti Biosciences,1
+938,San Francisco,Segment,1
+939,San Francisco,Seagen,1
+940,San Francisco,Turo,1
+941,San Francisco,Twilio,1
+942,San Francisco,SageBeans RPO,1
+943,San Francisco,SS&C Advent,1
+944,San Francisco,SPODIO,1
+945,San Francisco,Rubicon,1
+946,San Francisco,"Rodan and Fields, LLC",1
+947,San Francisco,Punchcut,1
+948,San Francisco,Roche,1
+949,San Francisco,Rippling,1
+950,San Francisco,Unity Technologies,1
+951,San Francisco,Returnly,1
+952,San Francisco,Retool,1
+953,San Francisco,Redshift,1
+954,San Francisco,Redfin,1
+955,San Francisco,Reddit,1
+956,San Francisco,Recurly,1
+957,San Francisco,ReadMe,1
+958,San Francisco,Shogun,1
+959,San Francisco,Showwcase,1
+960,San Francisco,"Side, Inc.",1
+961,San Francisco,Trovetechs Inc,1
+962,San Francisco,Stripe,1
+963,San Francisco,Synthego,1
+964,San Francisco,TeaLeaf Technology,1
+965,San Francisco,States Title,1
+966,San Francisco,SquareTrade,1
+967,San Francisco,The Game Group,1
+968,San Francisco,Spring Discovery,1
+969,San Francisco,The Trade Desk,1
+970,San Francisco,Thermo Fisher Scientific,1
+971,San Francisco,Spectra Infosystems,1
+972,San Francisco,Tides,1
+973,San Francisco,Tile,1
+974,San Francisco,Softvision - North America,1
+975,San Francisco,Torani,1
+976,San Francisco,Smule,1
+977,San Francisco,TransReach,1
+978,San Francisco,Slalom LLC.,1
+979,San Francisco,TripActions,1
+980,San Francisco,Triplebyte,1
+981,San Francisco,SiriusXM ,1
+982,San Francisco,SiriusXM,1
+983,San Francisco,University of California Berkeley,1
+984,San Francisco,"Public Health Foundation Enterprises, In",1
+985,San Francisco,Mawi DNA Technologies,1
+986,San Francisco,NCIRE - The Veterans Health Research Institute,1
+987,San Francisco,Noblr,1
+988,San Francisco,Nitro,1
+989,San Francisco,Yummly,1
+990,San Francisco,Niantic,1
+991,San Francisco,Zymergen,1
+992,San Francisco,eBay,1
+993,San Francisco,NextDeavor Services,1
+994,San Francisco,enexusglobal,1
+995,San Francisco,frog,1
+996,San Francisco,NTROPIC,1
+997,San Francisco,Mursion,1
+998,San Francisco,PubMatic,1
+999,San Francisco,Movoto,1
+1000,San Francisco,Mixpanel,1
+1001,San Francisco,Mission Lane,1
+1002,San Francisco,Miles,1
+1003,San Francisco,Metromile,1
+1004,San Francisco,Metabiota,1
+1005,San Francisco,Mercury,1
+1006,San Francisco,Meraki,1
+1007,San Francisco,Medium,1
+1008,San Francisco,Media Matters Worldwide,1
+1009,San Francisco,Woodruff Sawyer,1
+1010,San Francisco,Wind River,1
+1011,San Francisco,NoshList,1
+1012,San Francisco,OPPORTUNITY FUND NORTHERN CALIFORNIA,1
+1013,San Francisco,Primer Ai,1
+1014,San Francisco,Potrero Medical Inc.,1
+1015,San Francisco,UpCodes,1
+1016,San Francisco,Postdot Technologies,1
+1017,San Francisco,Updater,1
+1018,San Francisco,Plenty,1
+1019,San Francisco,Plaid,1
+1020,San Francisco,Pivotal,1
+1021,San Francisco,Pivot Bio,1
+1022,San Francisco,"Upstart Network, Inc.",1
+1023,San Francisco,UserTesting,1
+1024,San Francisco,Phantom AI,1
+1025,San Francisco,PayJoy,1
+1026,San Francisco,VIEWS,1
+1027,San Francisco,Particle,1
+1028,San Francisco,Pantheon,1
+1029,San Francisco,Veracyte,1
+1030,San Francisco,PACT Pharma,1
+1031,San Francisco,Ving Technologies,1
+1032,San Francisco,Orbital Sidekick,1
+1033,San Francisco,Whipsaw Inc.,1
+1034,San Francisco,Brex,1
+1035,Washington,"Berkeley Research Group, LLC",1
+1036,San Francisco,Blend Labs,1
+1037,New York,Onward Search,1
+1038,New York,Planned Parenthood Federation of America (PPFA),1
+1039,New York,PepsiCo,1
+1040,Washington,"Electronic Consulting Services, Inc.",1
+1041,Washington,Enovational,1
+1042,Washington,Enterprise Knowledge LLC,1
+1043,New York,PDT Partners,1
+1044,New York,Ordergroove,1
+1045,New York,Orchard,1
+1046,New York,Oracle,1
+1047,New York,Open Society Foundation,1
+1048,Washington,"Enterprise Resource Performance, Inc. (ERPi)",1
+1049,Washington,FourthWall Media,1
+1050,New York,Ogilvy & Mather,1
+1051,New York,Octane,1
+1052,New York,Nova Credit,1
+1053,New York,NorthOne,1
+1054,Washington,Evidera,1
+1055,New York,Noom Inc.,1
+1056,Washington,Excel Technologies,1
+1057,Washington,Excyl Inc.,1
+1058,Washington,FireEye,1
+1059,New York,NetCom Learning,1
+1060,Washington,Echelon Business Services,1
+1061,New York,Publicis Sapient,1
+1062,New York,PulsePoint,1
+1063,Washington,"ERT, Inc.",1
+1064,New York,Source Enterprises,1
+1065,New York,Skillit Recruiting,1
+1066,New York,Shindig,1
+1067,New York,Sensor Tower,1
+1068,New York,SeatGeek,1
+1069,New York,Samsung Research America,1
+1070,New York,Sagence,1
+1071,Washington,"ENSCO, Inc.",1
+1072,New York,Rockstar Games,1
+1073,New York,Rockefeller University,1
+1074,New York,Reddit,1
+1075,New York,Red River,1
+1076,New York,Realm,1
+1077,New York,Raytheon Technologies Corporate,1
+1078,New York,Rapidsoft Technologies,1
+1079,New York,RXR Realty,1
+1080,Washington,ERPI,1
+1081,New York,RMA of NY,1
+1082,New York,RISIRISA,1
+1083,Washington,ERPi,1
+1084,New York,Quest Diagnostics,1
+1085,New York,Nautilus Labs,1
+1086,New York,Namely,1
+1087,New York,Square,1
+1088,New York,"J Harlan Group, LLC",1
+1089,New York,Kelly,1
+1090,New York,KKI Capital,1
+1091,New York,Jose Merciline,1
+1092,San Francisco,Sumo Logic,1
+1093,New York,JetBlue Airways Corporation,1
+1094,New York,Jefferies,1
+1095,Washington,GetUpside,1
+1096,New York,JDRF International,1
+1097,New York,J.S. Held,1
+1098,Washington,GovStrive LLC,1
+1099,New York,Ironpaper,1
+1100,New York,Naka Technologies,1
+1101,New York,InviteReferrals,1
+1102,New York,Invesco,1
+1103,Washington,Govini,1
+1104,New York,Integral Ad Science,1
+1105,New York,IntePros,1
+1106,New York,"Infinity Consulting Solutions, Inc.",1
+1107,New York,Industrious,1
+1108,New York,"IT Resource Solutions.net, Inc.",1
+1109,New York,IQVIA,1
+1110,Washington,"Graham Technologies, LLC",1
+1111,New York,KesarWeb,1
+1112,Washington,George Washington University,1
+1113,New York,Key Lime Interactive,1
+1114,Washington,General Motors,1
+1115,Washington,Freddie Mac,1
+1116,New York,NDWA Labs,1
+1117,New York,Musifai,1
+1118,New York,MongoDB,1
+1119,New York,Meredith Corporation,1
+1120,New York,"Mercedes-Benz USA, LLC",1
+1121,New York,Mendix,1
+1122,New York,McKinsey & Company,1
+1123,New York,MaxisIT Inc,1
+1124,Washington,GSK,1
+1125,New York,Macy's,1
+1126,New York,Macquarie Group,1
+1127,New York,MYN North America,1
+1128,Washington,Gartner,1
+1129,New York,LinkedIn,1
+1130,New York,LiftForward,1
+1131,New York,Lennar,1
+1132,New York,L&T Infotech,1
+1133,Washington,General Dynamics,1
+1134,New York,Known,1
+1135,Washington,"General Dynamics Mission Systems, Inc",1
+1136,Washington,D-Tech,1
+1137,New York,Sterling National Bank,1
+1138,San Francisco,Big Health (CA),1
+1139,New York,pulseData,1
+1140,San Francisco,Airtable,1
+1141,Washington,"CALIBRE Systems, Inc.",1
+1142,San Francisco,Aible,1
+1143,San Francisco,Afresh Technologies,1
+1144,Washington,CAQH,1
+1145,Washington,CARFAX,1
+1146,San Francisco,Ab Studio Inc.,1
+1147,San Francisco,AVA ROAD,1
+1148,San Francisco,2rbConsulting,1
+1149,San Francisco,100x Group,1
+1150,New York,kubikware,1
+1151,New York,Wix,1
+1152,New York,h2o.ai,1
+1153,Washington,CNA,1
+1154,New York,Zoetis US,1
+1155,Washington,CS2,1
+1156,New York,Zocdoc,1
+1157,New York,"Zenda, LLC",1
+1158,Washington,Cancer Support Community,1
+1159,Washington,Cavan Solutions,1
+1160,New York,XL Catlin,1
+1161,New York,Wynden Stark,1
+1162,San Francisco,Alibaba,1
+1163,San Francisco,Allstate,1
+1164,San Francisco,"Alto Neuroscience, Inc",1
+1165,San Francisco,Alveo Technologies,1
+1166,San Francisco,Big Fish Games,1
+1167,San Francisco,Berkeley Lights,1
+1168,Washington,"Best Value Technology, Inc.",1
+1169,San Francisco,Bayer,1
+1170,San Francisco,BOLD,1
+1171,San Francisco,Avila Trading,1
+1172,San Francisco,Avani Technology Solutions,1
+1173,San Francisco,Automattic,1
+1174,San Francisco,Atlassian,1
+1175,Washington,Bizzell Group,1
+1176,Washington,BlueLabs Analytics,1
+1177,Washington,By Light HQ,1
+1178,Washington,By Light Professional IT Services LLC,1
+1179,San Francisco,"Aravo Solutions, Inc.",1
+1180,San Francisco,Aquent,1
+1181,San Francisco,App Annie,1
+1182,San Francisco,Apellis,1
+1183,San Francisco,Another Source,1
+1184,Washington,C3.ai,1
+1185,San Francisco,Amobee,1
+1186,Washington,CACI,1
+1187,New York,Women's World Banking,1
+1188,New York,White Ops,1
+1189,New York,SundaySky,1
+1190,New York,Teza Technologies,1
+1191,Washington,Civis Analytics,1
+1192,Washington,Clarity Campaign Labs,1
+1193,New York,TheGuarantors,1
+1194,Washington,ClearEdge,1
+1195,Washington,Cognitio,1
+1196,New York,The New York Times,1
+1197,New York,The NPD Group,1
+1198,New York,The Mom Project,1
+1199,New York,The Estée Lauder Companies,1
+1200,New York,The Charles NYC,1
+1201,New York,Ten Spot,1
+1202,New York,Wheels Up Partners LLC,1
+1203,New York,TeePublic,1
+1204,Washington,Comcast,1
+1205,New York,Teachable,1
+1206,Washington,Compass,1
+1207,Washington,Computercraft,1
+1208,New York,Taboola,1
+1209,New York,TRANZACT,1
+1210,Washington,Contingent Network Services,1
+1211,Washington,ControlCase,1
+1212,New York,Symphony Talent,1
+1213,New York,TransRe,1
+1214,Washington,Children's National Research Institute,1
+1215,New York,Twitter,1
+1216,New York,Twitter Inc,1
+1217,Washington,Cella,1
+1218,New York,Walmart,1
+1219,Washington,Center for Applied Linguistics,1
+1220,New York,Vyaire Medical,1
+1221,New York,"Visual Lease, LLC",1
+1222,New York,Virtu Financial,1
+1223,Washington,Ceridian,1
+1224,Washington,Champions Oncology,1
+1225,New York,Velocity Search Group,1
+1226,New York,Vector Media,1
+1227,Washington,Chenega Corporation,1
+1228,New York,VMware,1
+1229,Washington,Chenega MIOS,1
+1230,New York,Updater,1
+1231,New York,Unqork,1
+1232,New York,University of Delaware,1
+1233,New York,Unilever,1
+1234,New York,UX Hires,1
+1235,New York,UBS,1
+1236,Washington,Child Trends,1
+1237,Washington,Children's National Hospital,1
+1238,San Francisco,Artisan Talent,1
