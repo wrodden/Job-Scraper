@@ -1,1389 +1,2763 @@
-,City,Employers,Role,Jobs
-0,San Francisco,Facebook,UI/UX Researcher,24
-1,Indianapolis,Lilly UK,Data Scientist,15
-2,New York,Facebook,UI/UX Researcher,15
-3,Washington,Capital One,UI/UX Researcher,12
-4,Washington,Leidos,Data Scientist,12
-5,New York,Facebook,Data Scientist,12
-6,Washington,MITRE,Data Scientist,12
-7,San Francisco,Google,UI/UX Researcher,11
-8,New York,Spotify,UI/UX Researcher,10
-9,Chicago,GoHealth,Data Scientist,10
-10,San Francisco,Thermo Fisher - America,Data Scientist,10
-11,San Francisco,Adobe,UI/UX Researcher,9
-12,Chicago,Epsilon,Data Scientist,8
-13,San Francisco,Wish,Data Scientist,8
-14,Washington,Leidos,UI/UX Researcher,8
-15,Washington,Novetta,Data Scientist,8
-16,San Francisco,Facebook,Data Scientist,7
-17,San Francisco,Salesforce,UI/UX Researcher,7
-18,Indianapolis,Salesforce,Data Scientist,7
-19,New York,Capital One,UI/UX Researcher,7
-20,Indianapolis,Eli Lilly,Data Scientist,7
-21,Indianapolis,Eli Lilly and Company,Data Scientist,6
-22,Chicago,Salesforce,Data Scientist,6
-23,Washington,IBM,UI/UX Researcher,6
-24,Indianapolis,Covance,Data Scientist,6
-25,New York,Compass,UI/UX Researcher,6
-26,Washington,Marriott,UI/UX Researcher,6
-27,Chicago,Chowbus,Data Scientist,6
-28,Washington,AstraZeneca,Data Scientist,6
-29,New York,Google,UI/UX Researcher,6
-30,Washington,Booz Allen Hamilton Inc.,Data Scientist,6
-31,New York,IBM,UI/UX Researcher,6
-32,San Francisco,Arsenal Biosciences,Data Scientist,5
-33,San Francisco,Faire,Data Scientist,5
-34,Chicago,Allstate Insurance Company,Data Scientist,5
-35,San Francisco,Chime,UI/UX Researcher,5
-36,Indianapolis,Salesforce,UI/UX Researcher,5
-37,Chicago,Civis Analytics,Data Scientist,5
-38,Indianapolis,Milliman,Data Scientist,5
-39,New York,Dotdash,UI/UX Researcher,5
-40,New York,New Jersey Institute of Technology,UI/UX Researcher,5
-41,San Francisco,PicnicHealth,Data Scientist,5
-42,San Francisco,IDEO,UI/UX Researcher,4
-43,San Francisco,Lyft,UI/UX Researcher,4
-44,San Francisco,Pinterest,Data Scientist,4
-45,San Francisco,Airbnb,UI/UX Researcher,4
-46,New York,Plymouth Rock Assurance,Data Scientist,4
-47,San Francisco,Amazon,Data Scientist,4
-48,Washington,steampunk,Data Scientist,4
-49,New York,Point72,Data Scientist,4
-50,San Francisco,DocuSign,UI/UX Researcher,4
-51,Washington,General Dynamics Information Technology,Data Scientist,4
-52,San Francisco,Stitch Fix,Data Scientist,4
-53,Chicago,Mars,Data Scientist,4
-54,San Francisco,Twitter,UI/UX Researcher,4
-55,Washington,stanleyreid,UI/UX Researcher,4
-56,Indianapolis,"St. Vincent, IN",Data Scientist,4
-57,Indianapolis,Indiana University,Data Scientist,4
-58,Washington,IMSG/NOAA,Data Scientist,4
-59,Washington,General Dynamics Information Technology,UI/UX Researcher,4
-60,Washington,SAIC,UI/UX Researcher,4
-61,Washington,Facebook,UI/UX Researcher,4
-62,New York,Bloomberg,Data Scientist,4
-63,New York,Creative Circle ,UI/UX Researcher,4
-64,New York,"Two Sigma Investments, LLC.",Data Scientist,4
-65,Washington,Evidera,Data Scientist,4
-66,New York,Aquent,UI/UX Researcher,4
-67,Indianapolis,B2S Life Sciences LLC,Data Scientist,4
-68,Washington,"Latitude, Inc.",Data Scientist,4
-69,Washington,"Latitude, Inc.",UI/UX Researcher,4
-70,Chicago,Aon,Data Scientist,4
-71,San Francisco,RingCentral,UI/UX Researcher,3
-72,Chicago,Myticas Consulting,Data Scientist,3
-73,Washington,GEICO,Data Scientist,3
-74,Washington,"Karsun Solutions, LLC",UI/UX Researcher,3
-75,San Francisco,Grand Rounds,UI/UX Researcher,3
-76,Chicago,Koch Engineered Solutions,Data Scientist,3
-77,San Francisco,Redshift,UI/UX Researcher,3
-78,San Francisco,Internal Revenue Service,Data Scientist,3
-79,San Francisco,Freedom Financial Network,Data Scientist,3
-80,New York,Braze,UI/UX Researcher,3
-81,Washington,Next Century,UI/UX Researcher,3
-82,Chicago,M1 Finance,Data Scientist,3
-83,San Francisco,Roblox,Data Scientist,3
-84,Washington,DataRobot,Data Scientist,3
-85,New York,Amazon,Data Scientist,3
-86,Chicago,Publicis Groupe,Data Scientist,3
-87,San Francisco,Splunk,Data Scientist,3
-88,New York,Huxley,Data Scientist,3
-89,Washington,"ECS Federal, LLC",UI/UX Researcher,3
-90,San Francisco,Dropbox,UI/UX Researcher,3
-91,San Francisco,Gap Inc.,Data Scientist,3
-92,San Francisco,Lyft,Data Scientist,3
-93,Chicago,SADA,Data Scientist,3
-94,Washington,"Metron, Inc.",UI/UX Researcher,3
-95,Chicago,Wavicle Data Solutions LLC,Data Scientist,3
-96,Chicago,Rally Health,Data Scientist,3
-97,San Francisco,Gap Inc.,UI/UX Researcher,3
-98,San Francisco,Exelixis,Data Scientist,3
-99,Chicago,Tempus Labs,Data Scientist,3
-100,Washington,ICF,UI/UX Researcher,3
-101,San Francisco,Capital One,UI/UX Researcher,3
-102,Washington,Google,UI/UX Researcher,3
-103,Washington,Central Intelligence Agency,Data Scientist,3
-104,Chicago,Grubhub,Data Scientist,3
-105,San Francisco,Aquent,UI/UX Researcher,3
-106,Chicago,Chicago Public Schools,Data Scientist,3
-107,New York,Ogilvy & Mather,UI/UX Researcher,3
-108,San Francisco,University of California San Francisco,Data Scientist,3
-109,San Francisco,Amyris,Data Scientist,3
-110,New York,KeyBank,UI/UX Researcher,3
-111,New York,Known,Data Scientist,3
-112,Washington,Accenture,UI/UX Researcher,3
-113,Washington,Accenture,Data Scientist,3
-114,New York,The Joanne Weaver Group,UI/UX Researcher,3
-115,Washington,Analytica,Data Scientist,3
-116,New York,Verizon,UI/UX Researcher,3
-117,San Francisco,h2o.ai,Data Scientist,3
-118,Indianapolis,"MiraVista Diagnostics, LLC",Data Scientist,3
-119,New York,VMLY&R,UI/UX Researcher,3
-120,Washington,Capital One,Data Scientist,3
-121,Washington,Turner,UI/UX Researcher,3
-122,Chicago,CVS Health,Data Scientist,3
-123,New York,The Rockefeller University,UI/UX Researcher,3
-124,New York,Twitter,UI/UX Researcher,3
-125,New York,NYU Langone Health,UI/UX Researcher,3
-126,San Francisco,Autodesk,UI/UX Researcher,3
-127,Washington,Booz Allen Hamilton,UI/UX Researcher,3
-128,San Francisco,C3.ai,UI/UX Researcher,3
-129,San Francisco,Blue Shield of California,UI/UX Researcher,3
-130,New York,Integral Ad Science,UI/UX Researcher,3
-131,Chicago,bswift,Data Scientist,3
-132,New York,Salesforce,UI/UX Researcher,3
-133,New York,IBM,Data Scientist,3
-134,San Francisco,Blue Owl,Data Scientist,3
-135,Washington,Perspecta,Data Scientist,3
-136,New York,Peloton Interactive,UI/UX Researcher,3
-137,San Francisco,Twitch,Data Scientist,3
-138,Chicago,"nexus IT group, Inc.",Data Scientist,3
-139,Washington,Comcast,UI/UX Researcher,3
-140,San Francisco,Twitter,Data Scientist,3
-141,New York,Averity,Data Scientist,2
-142,Washington,American Society of Clinical Oncology,UI/UX Researcher,2
-143,New York,BrainStation,Data Scientist,2
-144,Washington,Autolus Ltd,Data Scientist,2
-145,New York,BrainStation,UI/UX Researcher,2
-146,Washington,"ADNET Systems, Inc.",Data Scientist,2
-147,Indianapolis,Delta Faucet Company,UI/UX Researcher,2
-148,Indianapolis,Liberty Healthcare Corporation,Data Scientist,2
-149,New York,BNY Mellon,UI/UX Researcher,2
-150,New York,BD,Data Scientist,2
-151,San Francisco,Punchcut,UI/UX Researcher,2
-152,Washington,Accelera Solutions,UI/UX Researcher,2
-153,San Francisco,Plaid,Data Scientist,2
-154,New York,Bluecore,Data Scientist,2
-155,New York,Bloomberg,UI/UX Researcher,2
-156,Washington,Ad Hoc Company Website,UI/UX Researcher,2
-157,Indianapolis,InvenTech Info,Data Scientist,2
-158,Indianapolis,Internal Revenue Service,Data Scientist,2
-159,Washington,Audi,Data Scientist,2
-160,Washington,Atlas Research,UI/UX Researcher,2
-161,New York,Blend360,UI/UX Researcher,2
-162,Washington,Aquent,UI/UX Researcher,2
-163,Washington,Amazon,Data Scientist,2
-164,New York,Apple,Data Scientist,2
-165,San Francisco,Nuna,Data Scientist,2
-166,Indianapolis,Masco,UI/UX Researcher,2
-167,San Francisco,SiriusXM,UI/UX Researcher,2
-168,Indianapolis,Purdue Polytechnic High School of Indianapolis Inc,Data Scientist,2
-169,San Francisco,Snowflake,UI/UX Researcher,2
-170,Indianapolis,Q2 Solutions,Data Scientist,2
-171,San Francisco,Splunk,UI/UX Researcher,2
-172,San Francisco,Square,Data Scientist,2
-173,San Francisco,Square,UI/UX Researcher,2
-174,San Francisco,UCSF Medical Center,UI/UX Researcher,2
-175,Indianapolis,Theoris,Data Scientist,2
-176,San Francisco,UCSF Medical Center,Data Scientist,2
-177,San Francisco,Synapse Financial Technologies Inc,UI/UX Researcher,2
-178,San Francisco,TEEMA,Data Scientist,2
-179,San Francisco,Thermo Fisher Scientific,Data Scientist,2
-180,Indianapolis,SpringML,Data Scientist,2
-181,Indianapolis,Simon Property Group,Data Scientist,2
-182,San Francisco,Turo,Data Scientist,2
-183,San Francisco,"SmartNews, Inc.",Data Scientist,2
-184,San Francisco,University of California San Francisco,UI/UX Researcher,2
-185,San Francisco,Robert Half Corporate Internal,UI/UX Researcher,2
-186,New York,Aetna,Data Scientist,2
-187,Indianapolis,Medxcel Facilities Management,Data Scientist,2
-188,Indianapolis,MiraVista Diagnostics,Data Scientist,2
-189,San Francisco,Sage Intacct,Data Scientist,2
-190,New York,Amazon,UI/UX Researcher,2
-191,San Francisco,"TuSimple, Inc.",UI/UX Researcher,2
-192,Indianapolis,Northview Christian Life Church Inc,Data Scientist,2
-193,San Francisco,Xoom,Data Scientist,2
-194,San Francisco,Samsung Research America,UI/UX Researcher,2
-195,Indianapolis,"Oxford Financial Group, Ltd.",Data Scientist,2
-196,San Francisco,Wells Fargo,UI/UX Researcher,2
-197,San Francisco,Scale AI,Data Scientist,2
-198,San Francisco,Walmart,UI/UX Researcher,2
-199,San Francisco,Shipt,Data Scientist,2
-200,Indianapolis,PayPal,Data Scientist,2
-201,San Francisco,Verana Health,Data Scientist,2
-202,San Francisco,eBay,UI/UX Researcher,2
-203,Washington,steampunk,UI/UX Researcher,2
-204,San Francisco,NorthOne,UI/UX Researcher,2
-205,New York,Two95 International Inc.,Data Scientist,2
-206,New York,UX Hires,UI/UX Researcher,2
-207,New York,Mobikasa,UI/UX Researcher,2
-208,New York,VTS,UI/UX Researcher,2
-209,New York,Vedainfo Inc,Data Scientist,2
-210,New York,Vimeo,Data Scientist,2
-211,New York,Memorial Sloan-Kettering Cancer Center,Data Scientist,2
-212,New York,McCann Worldgroup,Data Scientist,2
-213,New York,LiftForward,UI/UX Researcher,2
-214,New York,LexisNexis Risk Solutions,Data Scientist,2
-215,New York,"imre, LLC.",UI/UX Researcher,2
-216,San Francisco,Ab Studio Inc.,Data Scientist,2
-217,New York,Konrad,UI/UX Researcher,2
-218,San Francisco,Activision Publishing,Data Scientist,2
-219,New York,Kin + Carta,UI/UX Researcher,2
-220,New York,Jane Street,Data Scientist,2
-221,San Francisco,App Annie,Data Scientist,2
-222,San Francisco,Atlassian,Data Scientist,2
-223,New York,J.P. Morgan,UI/UX Researcher,2
-224,San Francisco,Bayer,Data Scientist,2
-225,New York,Integral Ad Science,Data Scientist,2
-226,New York,ITechStack,Data Scientist,2
-227,New York,IQVIA,UI/UX Researcher,2
-228,New York,ION Group,UI/UX Researcher,2
-229,New York,INTURN,UI/UX Researcher,2
-230,San Francisco,C3.ai,Data Scientist,2
-231,New York,UBS,Data Scientist,2
-232,New York,Musifai,UI/UX Researcher,2
-233,San Francisco,Nomis Solutions,UI/UX Researcher,2
-234,New York,Tropikia Group,Data Scientist,2
-235,New York,Publicis Groupe,UI/UX Researcher,2
-236,New York,RXR Construction Services LLC,Data Scientist,2
-237,New York,Raytheon Technologies Corporate,Data Scientist,2
-238,New York,Red River,Data Scientist,2
-239,New York,Peloton,UI/UX Researcher,2
-240,New York,Rockstar Games,Data Scientist,2
-241,New York,"PTC Therapeutics, Inc.",Data Scientist,2
-242,New York,Samsung Research America,Data Scientist,2
-243,New York,Samsung Research America,UI/UX Researcher,2
-244,New York,Oscar Health,UI/UX Researcher,2
-245,New York,ShopKeep,Data Scientist,2
-246,New York,Sidewalk Labs,UI/UX Researcher,2
-247,New York,Simons Foundation,Data Scientist,2
-248,New York,Spotify,Data Scientist,2
-249,New York,Spring Health,Data Scientist,2
-250,New York,TRANZACT,Data Scientist,2
-251,New York,Noom US,Data Scientist,2
-252,New York,New York University,UI/UX Researcher,2
-253,New York,New York University,Data Scientist,2
-254,New York,Ten Spot,UI/UX Researcher,2
-255,New York,New School,UI/UX Researcher,2
-256,New York,The CARIAN Group,Data Scientist,2
-257,New York,NetEffect Solutions,UI/UX Researcher,2
-258,New York,Naka Technologies,Data Scientist,2
-259,New York,NBCUniversal,UI/UX Researcher,2
-260,New York,IBISWorld,UI/UX Researcher,2
-261,San Francisco,Capital One,Data Scientist,2
-262,New York,HarperCollins Publishers,Data Scientist,2
-263,San Francisco,Change.org,UI/UX Researcher,2
-264,San Francisco,Grammarly,Data Scientist,2
-265,New York,Digital Pulp,UI/UX Researcher,2
-266,New York,Dataminr,UI/UX Researcher,2
-267,New York,DataCamp,Data Scientist,2
-268,San Francisco,Hired Recruiters,Data Scientist,2
-269,San Francisco,Insight Global,UI/UX Researcher,2
-270,New York,Cox Automotive,UI/UX Researcher,2
-271,New York,ConcertAI,Data Scientist,2
-272,New York,CompuForce,Data Scientist,2
-273,San Francisco,Lawrence Berkeley National Laboratory,Data Scientist,2
-274,San Francisco,Lawrence Berkeley National Laboratory,UI/UX Researcher,2
-275,San Francisco,Levi Strauss,Data Scientist,2
-276,San Francisco,LexisNexis Legal & Professional,Data Scientist,2
-277,New York,Colgate-Palmolive,Data Scientist,2
-278,New York,Cohen Veterans Bioscience,Data Scientist,2
-279,New York,Coalition for Queens,Data Scientist,2
-280,San Francisco,Meraki,UI/UX Researcher,2
-281,New York,Caserta,Data Scientist,2
-282,San Francisco,Natera,Data Scientist,2
-283,San Francisco,Nektar Therapeutics,Data Scientist,2
-284,New York,CVS Health,Data Scientist,2
-285,San Francisco,Nextdoor,Data Scientist,2
-286,New York,CKM Advisors,UI/UX Researcher,2
-287,San Francisco,Ngm Biopharmaceuticals,Data Scientist,2
-288,San Francisco,NinthDecimal,Data Scientist,2
-289,Washington,"Aveshka, Inc.",UI/UX Researcher,2
-290,San Francisco,Glu Mobile,Data Scientist,2
-291,New York,Dow Jones,UI/UX Researcher,2
-292,San Francisco,Databricks,UI/UX Researcher,2
-293,San Francisco,Charles River Laboratories,Data Scientist,2
-294,San Francisco,CipherTrace,Data Scientist,2
-295,New York,Grubhub,Data Scientist,2
-296,San Francisco,Cisco Systems,UI/UX Researcher,2
-297,New York,GroupM Data & Technology,Data Scientist,2
-298,San Francisco,Collective Health,Data Scientist,2
-299,San Francisco,CommonSpirit Health National Offices,Data Scientist,2
-300,New York,Glossier,UI/UX Researcher,2
-301,San Francisco,CyberCoders,Data Scientist,2
-302,New York,Genesis Research,Data Scientist,2
-303,San Francisco,DataSource.ai,Data Scientist,2
-304,San Francisco,Delta Dental,UI/UX Researcher,2
-305,San Francisco,Front App,UI/UX Researcher,2
-306,New York,Forbes Media,Data Scientist,2
-307,San Francisco,DocuSign,Data Scientist,2
-308,San Francisco,DoorDash,Data Scientist,2
-309,San Francisco,DoorDash,UI/UX Researcher,2
-310,San Francisco,Emendata,Data Scientist,2
-311,New York,Etsy,UI/UX Researcher,2
-312,San Francisco,Epic Games,UI/UX Researcher,2
-313,San Francisco,Extractable,UI/UX Researcher,2
-314,San Francisco,Fitbit,UI/UX Researcher,2
-315,San Francisco,Forge,UI/UX Researcher,2
-316,San Francisco,Forward,UI/UX Researcher,2
-317,Washington,Avantus,UI/UX Researcher,2
-318,New York,Quartet Health,Data Scientist,2
-319,Chicago,Optiver US,Data Scientist,2
-320,Chicago,Farmers Insurance,Data Scientist,2
-321,Chicago,Early Warning Services,Data Scientist,2
-322,Washington,Excel Technologies,UI/UX Researcher,2
-323,Washington,Expression Networks,Data Scientist,2
-324,Chicago,EquiTrust Life Insurance Company,Data Scientist,2
-325,Chicago,"United States Drug Testing Laboratories, Inc. (USDTL)",Data Scientist,2
-326,Chicago,Unicom Technologies INC,Data Scientist,2
-327,Chicago,TransUnion,Data Scientist,2
-328,Chicago,Facebook,Data Scientist,2
-329,Washington,SRC,UI/UX Researcher,2
-330,Washington,Enovational,UI/UX Researcher,2
-331,Chicago,Toyota Research Institute,Data Scientist,2
-332,Washington,GEICO,UI/UX Researcher,2
-333,Chicago,The University of Chicago,Data Scientist,2
-334,Chicago,Gas Technology Institute,Data Scientist,2
-335,Chicago,Ginkgo LLC,Data Scientist,2
-336,Chicago,Great Wolf Lodge,Data Scientist,2
-337,Chicago,Tempus,Data Scientist,2
-338,Chicago,TIAA,Data Scientist,2
-339,Washington,"Enterprise Resource Performance, Inc. (ERPi)",UI/UX Researcher,2
-340,Washington,Elder Research Inc,Data Scientist,2
-341,Washington,Grafik,UI/UX Researcher,2
-342,Washington,The Motley Fool,Data Scientist,2
-343,Chicago,CNA,Data Scientist,2
-344,Chicago,CNA Insurance,Data Scientist,2
-345,Washington,"Credence Management Solutions, LLC",Data Scientist,2
-346,Washington,Cvent,UI/UX Researcher,2
-347,Washington,Tripoint Solutions,UI/UX Researcher,2
-348,Chicago,Capax Global,Data Scientist,2
-349,Chicago,Centro,Data Scientist,2
-350,Washington,"DataSync Technologies, Inc",Data Scientist,2
-351,Washington,Deloitte,Data Scientist,2
-352,Chicago,WALGREENS,Data Scientist,2
-353,Washington,Deloitte,UI/UX Researcher,2
-354,Washington,ECS Federal LLC,Data Scientist,2
-355,Chicago,CreditNinja,Data Scientist,2
-356,Washington,Strategic Analytix,Data Scientist,2
-357,Chicago,DocuSign,Data Scientist,2
-358,Washington,EPAM Systems,UI/UX Researcher,2
-359,Chicago,Wavicle Data Solutions,Data Scientist,2
-360,Washington,"ERT, Inc.",Data Scientist,2
-361,Washington,Quantifind,Data Scientist,2
-362,Chicago,"Sunrise Futures, LLC",Data Scientist,2
-363,Washington,Two Six Labs,UI/UX Researcher,2
-364,Chicago,McDonald's Corporation,Data Scientist,2
-365,Washington,"OPPORTUNITY@WORK, INC.",UI/UX Researcher,2
-366,Washington,Nolij Consulting,Data Scientist,2
-367,Washington,L&E Meridian,UI/UX Researcher,2
-368,Chicago,Maven Wave Partners,Data Scientist,2
-369,Washington,LMI,Data Scientist,2
-370,Chicago,Nuveen,Data Scientist,2
-371,Washington,Lockheed Martin,UI/UX Researcher,2
-372,Washington,MOSAIC Technologies Group,Data Scientist,2
-373,Washington,NVIDIA,Data Scientist,2
-374,Washington,Job Juncture,UI/UX Researcher,2
-375,Washington,NT Concepts,Data Scientist,2
-376,Chicago,McKinsey & Company,Data Scientist,2
-377,Washington,NCI Information Systems Inc.,UI/UX Researcher,2
-378,Washington,Maxar Technologies,Data Scientist,2
-379,Washington,McKinsey & Company,Data Scientist,2
-380,Washington,MissionSide,UI/UX Researcher,2
-381,Washington,Mission Essential,Data Scientist,2
-382,Washington,Mirlogic Solutions Corporation,UI/UX Researcher,2
-383,Washington,Johns Hopkins Applied Physics Laboratory (APL),Data Scientist,2
-384,Chicago,Kforce,Data Scientist,2
-385,Chicago,SpotHero,Data Scientist,2
-386,Washington,Id.me,Data Scientist,2
-387,Washington,Howard University,Data Scientist,2
-388,Chicago,Shure Incorporated,Data Scientist,2
-389,Washington,Precigen,Data Scientist,2
-390,Washington,Praxis Engineering,Data Scientist,2
-391,Chicago,IBM,Data Scientist,2
-392,Chicago,IFG Companies,Data Scientist,2
-393,Washington,IBM,Data Scientist,2
-394,Washington,IDT Biologika,Data Scientist,2
-395,Chicago,QuantumBlack,Data Scientist,2
-396,Washington,Optimal Solutions Group,Data Scientist,2
-397,Washington,Paradyme Management Inc.,UI/UX Researcher,2
-398,Chicago,Internal Revenue Service,Data Scientist,2
-399,Chicago,JBT,Data Scientist,2
-400,Chicago,"JPMorgan Chase Bank, N.A.",Data Scientist,2
-401,Washington,Intelligent Automation,Data Scientist,2
-402,Washington,IvoryCloud,UI/UX Researcher,2
-403,Washington,"Orbis, Inc.",UI/UX Researcher,2
-404,Chicago,Kelton,Data Scientist,2
-405,Washington,Creative Circle ,UI/UX Researcher,2
-406,Washington,"Metron, Inc.",Data Scientist,2
-407,Chicago,Wyzant,Data Scientist,2
-408,Washington,inventium.io LLC,UI/UX Researcher,2
-409,Washington,Cedent Consulting,Data Scientist,2
-410,Indianapolis,Crowe,Data Scientist,2
-411,Washington,Clarifai,UI/UX Researcher,2
-412,Indianapolis,"CTI Clinical Trial Services, Inc",Data Scientist,2
-413,Washington,CALIBRE Systems,UI/UX Researcher,2
-414,Washington,CACI International,UI/UX Researcher,2
-415,Washington,CACI,Data Scientist,2
-416,Washington,UnitedHealth Group,UI/UX Researcher,2
-417,Chicago,American Cancer Society,Data Scientist,2
-418,Washington,"Central Business Solutions, Inc",UI/UX Researcher,2
-419,Washington,VLP Therapeutics,Data Scientist,2
-420,Washington,World Resources Institute,UI/UX Researcher,2
-421,Chicago,Ascension,Data Scientist,2
-422,Washington,Weber Shandwick,UI/UX Researcher,2
-423,Washington,Cherokee Nation Businesses,UI/UX Researcher,2
-424,Indianapolis,Corteva Agriscience,Data Scientist,2
-425,Washington,"Bravo Consulting Group, LLC",UI/UX Researcher,2
-426,Washington,Barbaricum,UI/UX Researcher,2
-427,Washington,US Other Agencies and Independent Organizations,UI/UX Researcher,2
-428,Washington,BOWA,UI/UX Researcher,2
-429,Washington,BAE Systems,UI/UX Researcher,2
-430,Washington,Convirgence Consulting,Data Scientist,2
-431,Washington,ControlCase,UI/UX Researcher,2
-432,Washington,Contingent Network Services,UI/UX Researcher,2
-433,Chicago,Zoro Tools,Data Scientist,2
-434,Chicago,Ann & Robert H. Lurie Children’s Hospital of Chicago,Data Scientist,2
-435,Washington,Azimuth Corporation,UI/UX Researcher,2
-436,Indianapolis,DHL Supply Chain,Data Scientist,2
-437,Washington,"CollabraLink Technlogies, a Federal Contractor",UI/UX Researcher,2
-438,Indianapolis,Bekins,Data Scientist,2
-439,Washington,Cognowiz Solutions,Data Scientist,2
-440,Washington,BAE Systems,Data Scientist,2
-441,Washington,Chenega MIOS,Data Scientist,2
-442,Indianapolis,Bloodcenter of Wisconsin,Data Scientist,2
-443,Chicago,ZS Associates,Data Scientist,2
-444,Washington,BAE Systems USA,UI/UX Researcher,2
-445,Chicago,"J Harlan Group, LLC",Data Scientist,1
-446,New York,Hopper,Data Scientist,1
-447,Chicago,HopHR,Data Scientist,1
-448,Chicago,Humana,Data Scientist,1
-449,New York,Hudson's Bay Company (HBC),UI/UX Researcher,1
-450,New York,Patreon,Data Scientist,1
-451,New York,"Pasona N A, Inc.",Data Scientist,1
-452,New York,PA Consulting,Data Scientist,1
-453,New York,Hyperscience,UI/UX Researcher,1
-454,New York,Palantir Technologies,UI/UX Researcher,1
-455,New York,PDT Partners,Data Scientist,1
-456,New York,Internal Revenue Service,Data Scientist,1
-457,Chicago,Allstate,Data Scientist,1
-458,Chicago,Illinois Health Plan,Data Scientist,1
-459,Chicago,Intellectt INC,Data Scientist,1
-460,Chicago,AlphaWorks Trading,Data Scientist,1
-461,Chicago,Hyatt,Data Scientist,1
-462,New York,ION,UI/UX Researcher,1
-463,Chicago,Amount,Data Scientist,1
-464,New York,IDEO,UI/UX Researcher,1
-465,Chicago,HappiLabs,Data Scientist,1
-466,New York,InvenTech Info,Data Scientist,1
-467,Chicago,Innovista LLC,Data Scientist,1
-468,Chicago,Analog Devices,Data Scientist,1
-469,New York,IDT,Data Scientist,1
-470,New York,IFG Companies,Data Scientist,1
-471,New York,Healthcare Risk Advisors,Data Scientist,1
-472,Chicago,Integral Ad Science,Data Scientist,1
-473,New York,GroupM Data & Technology,UI/UX Researcher,1
-474,Chicago,KPMG,Data Scientist,1
-475,New York,Founders Factory,UI/UX Researcher,1
-476,Chicago,ASAP Solutions,Data Scientist,1
-477,Chicago,ARYZTA,Data Scientist,1
-478,New York,Point72 - Market Intelligence,Data Scientist,1
-479,Chicago,McDonald's Corporate,Data Scientist,1
-480,New York,GENEWIZ,Data Scientist,1
-481,New York,Prognos,Data Scientist,1
-482,New York,Fund For Public Health In New York Inc,Data Scientist,1
-483,New York,Propel,Data Scientist,1
-484,New York,Ford Foundation,UI/UX Researcher,1
-485,Chicago,Alliant Credit Union,Data Scientist,1
-486,Chicago,84.51°,Data Scientist,1
-487,Chicago,Medical Home Network,Data Scientist,1
-488,New York,Food52,UI/UX Researcher,1
-489,New York,Fiserv,UI/UX Researcher,1
-490,Chicago,Mintel,Data Scientist,1
-491,New York,First American Financial Corporation,Data Scientist,1
-492,New York,FinTech Studios,UI/UX Researcher,1
-493,New York,QuaEra,Data Scientist,1
-494,New York,GENEWIZ,UI/UX Researcher,1
-495,New York,GenLed Brands,Data Scientist,1
-496,Chicago,Maven Advisors,Data Scientist,1
-497,Chicago,M1 Holdings,Data Scientist,1
-498,New York,Harnham,Data Scientist,1
-499,Chicago,KeyBank,Data Scientist,1
-500,Chicago,Accenture,Data Scientist,1
-501,New York,PepsiCo,Data Scientist,1
-502,New York,Petal,Data Scientist,1
-503,Chicago,Hamdard Center for Health and Human Services,Data Scientist,1
-504,Chicago,Kraft Heinz Company,Data Scientist,1
-505,New York,Green Key Resources,UI/UX Researcher,1
-506,New York,Gotham Greens,Data Scientist,1
-507,Chicago,LaBine and Associates,Data Scientist,1
-508,New York,Google,Data Scientist,1
-509,New York,Goodway Group,Data Scientist,1
-510,Chicago,"AVTECH SOLUTIONS, Inc",Data Scientist,1
-511,Chicago,Label Insight,Data Scientist,1
-512,New York,Goldman Sachs,Data Scientist,1
-513,New York,Goldbelly,Data Scientist,1
-514,Chicago,Lumen,Data Scientist,1
-515,New York,InviteReferrals,UI/UX Researcher,1
-516,New York,JW Player,UI/UX Researcher,1
-517,Chicago,HR Pundits,Data Scientist,1
-518,Chicago,Dyson,Data Scientist,1
-519,Chicago,"Conch Technologies, Inc",Data Scientist,1
-520,New York,NewtonX,Data Scientist,1
-521,Chicago,Crowe,Data Scientist,1
-522,Chicago,DRW,Data Scientist,1
-523,New York,Method,UI/UX Researcher,1
-524,New York,Noom Inc.,Data Scientist,1
-525,New York,Meredith Corporation,UI/UX Researcher,1
-526,Chicago,"Braven, Inc",Data Scientist,1
-527,New York,Memorial Sloan-Kettering Cancer Center,UI/UX Researcher,1
-528,New York,Noom US,UI/UX Researcher,1
-529,Chicago,HERE Technologies,Data Scientist,1
-530,Chicago,EPMPixels,Data Scientist,1
-531,New York,Match Group,UI/UX Researcher,1
-532,New York,Match Group,Data Scientist,1
-533,New York,Mailchimp,UI/UX Researcher,1
-534,New York,Nordstrom,Data Scientist,1
-535,New York,Macy's Technology,UI/UX Researcher,1
-536,New York,NorthOne,UI/UX Researcher,1
-537,New York,Nova Credit,Data Scientist,1
-538,New York,Macy's,UI/UX Researcher,1
-539,New York,MongoDB,UI/UX Researcher,1
-540,Chicago,Comtech Global Inc,Data Scientist,1
-541,New York,Moody's,Data Scientist,1
-542,Chicago,"ComputerAid, Inc",Data Scientist,1
-543,Chicago,"CTI Clinical Trial Services, Inc",Data Scientist,1
-544,New York,NetCom Learning,UI/UX Researcher,1
-545,New York,Nautilus Labs,Data Scientist,1
-546,New York,National Football League,Data Scientist,1
-547,New York,Narrativ,Data Scientist,1
-548,Chicago,Chicago Fire FC,Data Scientist,1
-549,New York,NYSTEC,Data Scientist,1
-550,New York,NYC Data Science Academy,Data Scientist,1
-551,Chicago,Chicago Transit Authority,Data Scientist,1
-552,Chicago,CIBC US,Data Scientist,1
-553,New York,New York Blood Center,UI/UX Researcher,1
-554,Chicago,Citadel,Data Scientist,1
-555,New York,Multimedia Solutions,UI/UX Researcher,1
-556,Chicago,Cognizant Technology Solutions,Data Scientist,1
-557,New York,New York Times,UI/UX Researcher,1
-558,New York,Moody's Corporation,Data Scientist,1
-559,Chicago,CGN Global,Data Scientist,1
-560,Chicago,CoinFlip,Data Scientist,1
-561,Chicago,Colsh Consultants,Data Scientist,1
-562,New York,Novartis,UI/UX Researcher,1
-563,New York,Macquarie Group,Data Scientist,1
-564,New York,MYN North America,Data Scientist,1
-565,Chicago,"Freeosk, Inc.",Data Scientist,1
-566,New York,Kettle,UI/UX Researcher,1
-567,New York,Onward Search,Data Scientist,1
-568,New York,Jose Merciline,UI/UX Researcher,1
-569,Chicago,Galaxy Tek Hires,Data Scientist,1
-570,New York,JetBlue Airways Corporation,Data Scientist,1
-571,New York,Onward Search,UI/UX Researcher,1
-572,New York,"Jefferies & Company, Inc.",Data Scientist,1
-573,New York,Jefferies,Data Scientist,1
-574,New York,Optimove,Data Scientist,1
-575,New York,Orchard,UI/UX Researcher,1
-576,Chicago,Goodway Group,Data Scientist,1
-577,Chicago,Arrow Designs,Data Scientist,1
-578,Chicago,Green Key Technologies ,Data Scientist,1
-579,New York,Ordergroove,Data Scientist,1
-580,Chicago,Apex Systems,Data Scientist,1
-581,New York,"JPMorgan Chase Bank, N.A.",UI/UX Researcher,1
-582,New York,Oscar Health,Data Scientist,1
-583,New York,"JPMorgan Chase Bank, N.A.",Data Scientist,1
-584,New York,JDRF International,Data Scientist,1
-585,New York,Key Lime Interactive,UI/UX Researcher,1
-586,Chicago,Fetch Rewards,Data Scientist,1
-587,New York,FOJP,Data Scientist,1
-588,New York,One Drop,Data Scientist,1
-589,New York,Lyft,Data Scientist,1
-590,New York,Lorven Technologies Inc,Data Scientist,1
-591,New York,LinkedIn,UI/UX Researcher,1
-592,New York,LexisNexis Risk Solutions,UI/UX Researcher,1
-593,New York,Ogilvy,UI/UX Researcher,1
-594,Chicago,Environmental Law and Policy Center,Data Scientist,1
-595,New York,"Lewis Tree Service, Inc.",Data Scientist,1
-596,Chicago,Big Bright International,Data Scientist,1
-597,Chicago,Berkley,Data Scientist,1
-598,New York,Langan Engineering and Environmental Services,Data Scientist,1
-599,New York,L&T Infotech,Data Scientist,1
-600,New York,"Kroll Bond Rating Agency, LLC",Data Scientist,1
-601,Chicago,FAMILY INSTITUTE,Data Scientist,1
-602,Chicago,FNA,Data Scientist,1
-603,New York,OkCupid,Data Scientist,1
-604,New York,Koneksa Health,Data Scientist,1
-605,New York,OkCupid,UI/UX Researcher,1
-606,New York,Koch Engineered Solutions,Data Scientist,1
-607,Chicago,Federal Reserve Bank of Chicago,Data Scientist,1
-608,New York,MEMX,Data Scientist,1
-609,Indianapolis,DWA Healthcare Communications Group,UI/UX Researcher,1
-610,Chicago,Momentum Staffing Group,Data Scientist,1
-611,Indianapolis,"The Jane Pauley Community Health Center, Inc",Data Scientist,1
-612,Indianapolis,Wheaton Van Lines,Data Scientist,1
-613,Chicago,West Monroe Partners,Data Scientist,1
-614,Indianapolis,Virtusa,Data Scientist,1
-615,Chicago,Wi-Tronix,Data Scientist,1
-616,Indianapolis,Versiti,Data Scientist,1
-617,Indianapolis,Varsity Tutors,Data Scientist,1
-618,Indianapolis,United Way of Central Indiana,UI/UX Researcher,1
-619,Indianapolis,Turner & Townsend,Data Scientist,1
-620,Indianapolis,TransLoc Inc.,UI/UX Researcher,1
-621,Chicago,William Blair & Company,Data Scientist,1
-622,Indianapolis,The Science & Magic Corporation of America,Data Scientist,1
-623,Chicago,Wind River,Data Scientist,1
-624,New York,Etsy,Data Scientist,1
-625,Chicago,Wolverine Trading,Data Scientist,1
-626,Indianapolis,Tech-Connect,Data Scientist,1
-627,Indianapolis,TCS,Data Scientist,1
-628,Indianapolis,Studio Science,UI/UX Researcher,1
-629,New York,Quest Diagnostics,UI/UX Researcher,1
-630,Indianapolis,Sterling-DeVille,Data Scientist,1
-631,Indianapolis,Stantec,Data Scientist,1
-632,Indianapolis,Stanley Black & Decker,Data Scientist,1
-633,Indianapolis,St. Vincent Health,Data Scientist,1
-634,Chicago,dunnhumby,Data Scientist,1
-635,Indianapolis,,UI/UX Researcher,1
-636,New York,10x Genomics,Data Scientist,1
-637,New York,1stopbedrooms,UI/UX Researcher,1
-638,New York,7Park Data,Data Scientist,1
-639,New York,7Summits,UI/UX Researcher,1
-640,New York,Applause,UI/UX Researcher,1
-641,New York,Apex Systems,UI/UX Researcher,1
-642,New York,Apex Systems,Data Scientist,1
-643,New York,Anheuser-Busch,Data Scientist,1
-644,New York,Amplify,Data Scientist,1
-645,New York,American Exchange Group,UI/UX Researcher,1
-646,New York,Amazon.com Services LLC,Data Scientist,1
-647,Chicago,Valkyrie Trading,Data Scientist,1
-648,Chicago,Vibes,Data Scientist,1
-649,New York,AlphaSense,UI/UX Researcher,1
-650,New York,Alpha Beta Investments,Data Scientist,1
-651,New York,Align,UI/UX Researcher,1
-652,New York,Alibaba,UI/UX Researcher,1
-653,New York,Akur8,Data Scientist,1
-654,New York,Advantage Resourcing,UI/UX Researcher,1
-655,New York,Advance Local,Data Scientist,1
-656,New York,Advan Research Corporation,Data Scientist,1
-657,New York,Ademeni,Data Scientist,1
-658,Chicago,Wells' Dairy,Data Scientist,1
-659,New York,ActionIQ,Data Scientist,1
-660,New York,Acquco,Data Scientist,1
-661,New York,Abnormal Security,Data Scientist,1
-662,New York,ADP,Data Scientist,1
-663,Indianapolis,120Water,UI/UX Researcher,1
-664,Indianapolis,"Regenstrief Institute, Inc.",UI/UX Researcher,1
-665,Indianapolis,ASSA ABLOY,UI/UX Researcher,1
-666,Indianapolis,Loxo Oncology,Data Scientist,1
-667,Indianapolis,Lilt,Data Scientist,1
-668,Indianapolis,Cardinal Health,Data Scientist,1
-669,Indianapolis,Lessonly,UI/UX Researcher,1
-670,Indianapolis,Kairos Technologies,Data Scientist,1
-671,Indianapolis,Community Health Network,Data Scientist,1
-672,Indianapolis,KAR Auction Services,UI/UX Researcher,1
-673,Indianapolis,Jobvite,Data Scientist,1
-674,Indianapolis,"Conch Technologies, Inc",Data Scientist,1
-675,Indianapolis,Infotree Service Inc,Data Scientist,1
-676,Indianapolis,Indygo,Data Scientist,1
-677,Indianapolis,Indiana University,UI/UX Researcher,1
-678,Indianapolis,Cox Automotive,UI/UX Researcher,1
-679,Indianapolis,IU Health North Hospital,Data Scientist,1
-680,Indianapolis,Creative Circle,UI/UX Researcher,1
-681,Indianapolis,High Alpha,UI/UX Researcher,1
-682,Indianapolis,HHC,Data Scientist,1
-683,Indianapolis,Creative Circle ,UI/UX Researcher,1
-684,Indianapolis,Genesys,UI/UX Researcher,1
-685,Indianapolis,FEDDATA,Data Scientist,1
-686,Indianapolis,Eskenazi Health,Data Scientist,1
-687,Indianapolis,EmployIndy,UI/UX Researcher,1
-688,Indianapolis,DHL,Data Scientist,1
-689,Indianapolis,Deloitte,Data Scientist,1
-690,Indianapolis,Brooksource,Data Scientist,1
-691,Indianapolis,Beckman Coulter Life Sciences,UI/UX Researcher,1
-692,Indianapolis,"Polysciences, Inc",Data Scientist,1
-693,Indianapolis,Beckman Coulter Life Sciences,Data Scientist,1
-694,Indianapolis,Ad Hoc Team,UI/UX Researcher,1
-695,Indianapolis,Advanced Agrilytics,Data Scientist,1
-696,Indianapolis,Platinum Group,UI/UX Researcher,1
-697,Indianapolis,Platinum Group,Data Scientist,1
-698,Indianapolis,Pinnacle Partners,UI/UX Researcher,1
-699,Indianapolis,Pinnacle Partners,Data Scientist,1
-700,Indianapolis,PayPal,UI/UX Researcher,1
-701,Indianapolis,Allegan General Hospital,Data Scientist,1
-702,Indianapolis,"PONDURANCE, LLC",Data Scientist,1
-703,Indianapolis,POLARIS Laboratories,Data Scientist,1
-704,Indianapolis,Alter Domus,UI/UX Researcher,1
-705,Indianapolis,Anthem,Data Scientist,1
-706,Indianapolis,Outside Source,UI/UX Researcher,1
-707,Indianapolis,Anthem,UI/UX Researcher,1
-708,Indianapolis,Ossium Health,Data Scientist,1
-709,Indianapolis,NuOrbit Media,UI/UX Researcher,1
-710,Indianapolis,Anthem Health Plans of Virginia,Data Scientist,1
-711,Indianapolis,Navient,Data Scientist,1
-712,Indianapolis,Ark Engineering Services,Data Scientist,1
-713,Indianapolis,Myers and Stauffer,Data Scientist,1
-714,Indianapolis,MuleSoft,UI/UX Researcher,1
-715,Indianapolis,Moser Consulting,Data Scientist,1
-716,Indianapolis,Ascension,Data Scientist,1
-717,Chicago,VIVA USA,Data Scientist,1
-718,Chicago,University of Illinois at Chicago,Data Scientist,1
-719,New York,Aptus Health,Data Scientist,1
-720,New York,Dataiku,Data Scientist,1
-721,Indianapolis,DHL | Supply Chain,Data Scientist,1
-722,Chicago,PK,Data Scientist,1
-723,New York,Daily Harvest,UI/UX Researcher,1
-724,Chicago,PPD,Data Scientist,1
-725,New York,DVG Interactive,UI/UX Researcher,1
-726,Chicago,Pareto Intelligence,Data Scientist,1
-727,New York,Current,UI/UX Researcher,1
-728,New York,Credibly,Data Scientist,1
-729,New York,CreativeDrive,Data Scientist,1
-730,New York,Creative Circle,UI/UX Researcher,1
-731,New York,Co–Star,Data Scientist,1
-732,Chicago,PeopleReady,Data Scientist,1
-733,New York,Cooley,Data Scientist,1
-734,New York,Contingent Network Services,UI/UX Researcher,1
-735,New York,Contingent Network Services,Data Scientist,1
-736,New York,Conductor,Data Scientist,1
-737,New York,Conde Nast,Data Scientist,1
-738,Chicago,Pluralsight,Data Scientist,1
-739,Chicago,Predictive Sales AI,Data Scientist,1
-740,Chicago,Premier Research Group Limited,Data Scientist,1
-741,Chicago,Productive Edge,Data Scientist,1
-742,Chicago,Qlarant,Data Scientist,1
-743,New York,Compass,Data Scientist,1
-744,New York,Datadog,Data Scientist,1
-745,Chicago,OppLoans,Data Scientist,1
-746,New York,Comcast,UI/UX Researcher,1
-747,New York,Deep Labs,Data Scientist,1
-748,New York,EnergyHub,Data Scientist,1
-749,New York,Elsevier,UI/UX Researcher,1
-750,Chicago,Morning Consult,Data Scientist,1
-751,Chicago,Morningstar,Data Scientist,1
-752,Chicago,NORC at the University of Chicago,Data Scientist,1
-753,New York,Elasticiti,Data Scientist,1
-754,New York,Edward Daniels Group,Data Scientist,1
-755,New York,EasyKnock,UI/UX Researcher,1
-756,Chicago,National Louis University,Data Scientist,1
-757,New York,ERGO Group,Data Scientist,1
-758,New York,"EDP World, Inc.",UI/UX Researcher,1
-759,New York,Dun & Bradstreet,Data Scientist,1
-760,Chicago,Nielsen,Data Scientist,1
-761,Chicago,Nordstrom,Data Scientist,1
-762,Chicago,Norwegian American Hospital,Data Scientist,1
-763,Chicago,Numerator,Data Scientist,1
-764,Chicago,OSF Healthcare,Data Scientist,1
-765,New York,DoorDash,Data Scientist,1
-766,New York,Digital Remedy,Data Scientist,1
-767,Chicago,Old Mission Capital,Data Scientist,1
-768,Chicago,Old World Industries,Data Scientist,1
-769,Chicago,OmniForce Solutions,Data Scientist,1
-770,New York,Designstyles,UI/UX Researcher,1
-771,New York,Comet.ml,Data Scientist,1
-772,New York,Columbia University,Data Scientist,1
-773,Chicago,Univar,Data Scientist,1
-774,Chicago,Tech-Connect,Data Scientist,1
-775,New York,BrainPOP,Data Scientist,1
-776,New York,Booz Allen Hamilton,Data Scientist,1
-777,New York,Bombas,UI/UX Researcher,1
-778,New York,Bombas,Data Scientist,1
-779,New York,Boehringer Ingelheim,UI/UX Researcher,1
-780,Chicago,TheMathCompany,Data Scientist,1
-781,Chicago,Thermo Fisher Scientific,Data Scientist,1
-782,New York,Block Institute,Data Scientist,1
-783,New York,Blackstone,UI/UX Researcher,1
-784,Chicago,ThinkMarkets - North America,Data Scientist,1
-785,New York,BlackRock,UI/UX Researcher,1
-786,Chicago,Tower Research Capital LLC,Data Scientist,1
-787,New York,Bizzabo,UI/UX Researcher,1
-788,New York,Biz2Credit Inc,Data Scientist,1
-789,New York,Better.com,UI/UX Researcher,1
-790,New York,Bernard Nickels & Associates,Data Scientist,1
-791,New York,Benjamin Moore,UI/UX Researcher,1
-792,New York,BayBridgeDigital,UI/UX Researcher,1
-793,Chicago,Two95 International Inc.,Data Scientist,1
-794,Chicago,US Foods,Data Scientist,1
-795,New York,Athreya Inc,UI/UX Researcher,1
-796,New York,Asembia,Data Scientist,1
-797,New York,Artisan Talent,UI/UX Researcher,1
-798,Chicago,The Climate Corporation,Data Scientist,1
-799,New York,Buoy Health,Data Scientist,1
-800,Chicago,SEI,Data Scientist,1
-801,Chicago,Syngenta,Data Scientist,1
-802,Chicago,"SPINS, LLC",Data Scientist,1
-803,New York,Cognizant Technology Solutions,Data Scientist,1
-804,New York,Clubhouse Software,UI/UX Researcher,1
-805,New York,Clovity,UI/UX Researcher,1
-806,New York,Clear Point,UI/UX Researcher,1
-807,New York,Citi,Data Scientist,1
-808,New York,Citadel Securities,Data Scientist,1
-809,New York,Cervello Inc,UI/UX Researcher,1
-810,New York,Cedar Inc,UI/UX Researcher,1
-811,New York,Cedar,UI/UX Researcher,1
-812,New York,Cecelia Health,UI/UX Researcher,1
-813,New York,Catholic Health Services of Long Island,Data Scientist,1
-814,New York,Cash App,UI/UX Researcher,1
-815,Chicago,Selby Jennings,Data Scientist,1
-816,Chicago,ServiceNow,Data Scientist,1
-817,Chicago,Softvision - North America,Data Scientist,1
-818,Chicago,"Stampede Meat, Inc.",Data Scientist,1
-819,Chicago,Strong Analytics,Data Scientist,1
-820,New York,CKM Advisors,Data Scientist,1
-821,New York,CIA,UI/UX Researcher,1
-822,New York,CIA,Data Scientist,1
-823,New York,CFA Institute,UI/UX Researcher,1
-824,New York,Buxton,Data Scientist,1
-825,Indianapolis,Strategic Employment,UI/UX Researcher,1
-826,San Francisco,Apellis,Data Scientist,1
-827,New York,RB,Data Scientist,1
-828,Washington,Children's National Research Institute,UI/UX Researcher,1
-829,Washington,Cella,UI/UX Researcher,1
-830,Washington,Central Intelligence Agency,UI/UX Researcher,1
-831,Washington,Champions Oncology,UI/UX Researcher,1
-832,Washington,Chenega Corporation,Data Scientist,1
-833,Washington,Child Trends,UI/UX Researcher,1
-834,Washington,Children's National Hospital,UI/UX Researcher,1
-835,Washington,Circinus LLC,Data Scientist,1
-836,Washington,Cavan Solutions,UI/UX Researcher,1
-837,Washington,Clarity Campaign Labs,Data Scientist,1
-838,Washington,ClearEdge,Data Scientist,1
-839,Washington,Cognitio,Data Scientist,1
-840,Washington,Cognowiz LLC,Data Scientist,1
-841,Washington,Compass,UI/UX Researcher,1
-842,Washington,Computercraft,Data Scientist,1
-843,Washington,Celerity,UI/UX Researcher,1
-844,Washington,Capital One - US,Data Scientist,1
-845,San Francisco,Stripe,Data Scientist,1
-846,Washington,By Light HQ,Data Scientist,1
-847,Washington,Battelle,UI/UX Researcher,1
-848,Washington,"Best Value Technology, Inc.",Data Scientist,1
-849,Washington,Bizzell Group,UI/UX Researcher,1
-850,Washington,Blue Water Media,UI/UX Researcher,1
-851,Washington,BlueLabs Analytics,Data Scientist,1
-852,Washington,Booz Allen Hamilton,Data Scientist,1
-853,Washington,By Light Professional IT Services LLC,Data Scientist,1
-854,Washington,CNEWS,UI/UX Researcher,1
-855,Washington,C3.ai,Data Scientist,1
-856,Washington,CAQH,Data Scientist,1
-857,Washington,CARFAX,UI/UX Researcher,1
-858,Washington,CEDENT,Data Scientist,1
-859,Washington,"CGI Group, Inc.",Data Scientist,1
-860,Washington,CNA,Data Scientist,1
-861,Washington,Corporate Health Resources,Data Scientist,1
-862,Washington,Coverent,Data Scientist,1
-863,Washington,D-Tech,UI/UX Researcher,1
-864,Washington,George Washington University,UI/UX Researcher,1
-865,Washington,Fusion Technology-LLC,UI/UX Researcher,1
-866,Washington,"GBTI Solutions, Inc.",Data Scientist,1
-867,Washington,"GBTI Solutions, Inc.",UI/UX Researcher,1
-868,Washington,Gannett,Data Scientist,1
-869,Washington,General Motors,UI/UX Researcher,1
-870,Washington,George Mason University,UI/UX Researcher,1
-871,Washington,Georgetown University,Data Scientist,1
-872,Washington,DataLab USA,Data Scientist,1
-873,Washington,GetUpside,UI/UX Researcher,1
-874,Washington,GiveCampus,UI/UX Researcher,1
-875,Washington,Government Accountability Office,Data Scientist,1
-876,Washington,Govini,Data Scientist,1
-877,Washington,Great-Circle Technologies,Data Scientist,1
-878,Washington,Hanover Research,UI/UX Researcher,1
-879,Washington,Full Visibility,Data Scientist,1
-880,Washington,Frederick National Laboratories,UI/UX Researcher,1
-881,Washington,Freddie Mac,UI/UX Researcher,1
-882,Washington,FourthWall Media,Data Scientist,1
-883,Washington,Facebook,Data Scientist,1
-884,Washington,Expression Networks,UI/UX Researcher,1
-885,Washington,Excella Consulting,UI/UX Researcher,1
-886,Washington,Evidera,UI/UX Researcher,1
-887,Washington,Enterprise Knowledge,UI/UX Researcher,1
-888,Washington,Echelon Business Services,UI/UX Researcher,1
-889,Washington,ESAC Inc,UI/UX Researcher,1
-890,Washington,ERPi,UI/UX Researcher,1
-891,Washington,ERPI,UI/UX Researcher,1
-892,Washington,"ENSCO, Inc.",Data Scientist,1
-893,Washington,Dexis Consulting Group,Data Scientist,1
-894,Washington,DatamanUSA,UI/UX Researcher,1
-895,Washington,DataRobot,UI/UX Researcher,1
-896,Washington,BTS Software Solutions,Data Scientist,1
-897,Washington,B-Line Medical,UI/UX Researcher,1
-898,Washington,Axle Informatics,Data Scientist,1
-899,San Francisco,Veracyte,UI/UX Researcher,1
-900,San Francisco,Udemy,Data Scientist,1
-901,San Francisco,Unity Technologies,UI/UX Researcher,1
-902,San Francisco,"Upstart Network, Inc.",Data Scientist,1
-903,San Francisco,UserTesting,UI/UX Researcher,1
-904,San Francisco,VIEWS,Data Scientist,1
-905,San Francisco,Varo Money,UI/UX Researcher,1
-906,San Francisco,Ving Technologies,UI/UX Researcher,1
-907,San Francisco,Zymergen,UI/UX Researcher,1
-908,San Francisco,WAVELY,UI/UX Researcher,1
-909,San Francisco,Weights & Biases,UI/UX Researcher,1
-910,San Francisco,Whisper.ai,Data Scientist,1
-911,San Francisco,Wind River,Data Scientist,1
-912,San Francisco,Wish,UI/UX Researcher,1
-913,San Francisco,YouLand,UI/UX Researcher,1
-914,San Francisco,US Bank,UI/UX Researcher,1
-915,San Francisco,UJET,UI/UX Researcher,1
-916,San Francisco,Trovetechs Inc,Data Scientist,1
-917,San Francisco,Triplebyte,Data Scientist,1
-918,San Francisco,TransReach,Data Scientist,1
-919,San Francisco,Trace Data,Data Scientist,1
-920,San Francisco,Torani,Data Scientist,1
-921,San Francisco,Tile,UI/UX Researcher,1
-922,San Francisco,Tides,Data Scientist,1
-923,San Francisco,Thumbtack,UI/UX Researcher,1
-924,San Francisco,The Trade Desk,UI/UX Researcher,1
-925,San Francisco,TenantFolio,UI/UX Researcher,1
-926,San Francisco,TeaLeaf Technology,UI/UX Researcher,1
-927,San Francisco,Tapjoy,Data Scientist,1
-928,San Francisco,THE YES,UI/UX Researcher,1
-929,San Francisco,SurveyMonkey,UI/UX Researcher,1
-930,San Francisco,SurveyMonkey,Data Scientist,1
-931,San Francisco,Yummly,Data Scientist,1
-932,San Francisco,eBay Inc.,UI/UX Researcher,1
-933,Washington,Axiologic Solutions,Data Scientist,1
-934,Washington,Aptive,Data Scientist,1
-935,Washington,Amazon,UI/UX Researcher,1
-936,Washington,American Chemical Society,UI/UX Researcher,1
-937,Washington,American Geophysical Union,Data Scientist,1
-938,Washington,American Red Cross,UI/UX Researcher,1
-939,Washington,AmerisourceBergen,UI/UX Researcher,1
-940,Washington,"Amyx, Inc.",Data Scientist,1
-941,Washington,Arcellx,Data Scientist,1
-942,San Francisco,iRhythm,UI/UX Researcher,1
-943,Washington,"Assured Information Security, Inc. (AIS)",Data Scientist,1
-944,Washington,Atlas Research,Data Scientist,1
-945,Washington,Ava Consulting,UI/UX Researcher,1
-946,Washington,Avalonbay Communities,Data Scientist,1
-947,Washington,Avantus,Data Scientist,1
-948,Washington,"Aveshka, Inc.",Data Scientist,1
-949,Washington,"Allyon, Inc.",UI/UX Researcher,1
-950,Washington,Airlines Reporting Corporation,Data Scientist,1
-951,Washington,"Agile Defense, Inc.",UI/UX Researcher,1
-952,Washington,Ageatia Technology Consultancy Services,UI/UX Researcher,1
-953,Washington,Ad Hoc Team,UI/UX Researcher,1
-954,Washington,Acumen Solutions,UI/UX Researcher,1
-955,Washington,Acuity INC,UI/UX Researcher,1
-956,Washington,Absolute Business Solutions Corp,Data Scientist,1
-957,Washington,ASET Partners,Data Scientist,1
-958,Washington,AEM Corporation,Data Scientist,1
-959,Washington,ACS Group,UI/UX Researcher,1
-960,Washington,22nd Century Technologies,Data Scientist,1
-961,San Francisco,zb.io,UI/UX Researcher,1
-962,San Francisco,thredUP,UI/UX Researcher,1
-963,San Francisco,projekt202,UI/UX Researcher,1
-964,San Francisco,ixlayer,UI/UX Researcher,1
-965,San Francisco,iSpace Inc.,Data Scientist,1
-966,Washington,Henry M Jackson Foundation For The Advan,UI/UX Researcher,1
-967,Washington,Highlight Technologies,UI/UX Researcher,1
-968,Washington,Hire Velocity,Data Scientist,1
-969,Washington,Spinvi,Data Scientist,1
-970,Washington,Skylight,UI/UX Researcher,1
-971,Washington,Snagajob,Data Scientist,1
-972,Washington,SoSACorp,Data Scientist,1
-973,Washington,Solutions Through Innovative Technologies Inc,UI/UX Researcher,1
-974,Washington,Somatus,Data Scientist,1
-975,Washington,SphereOI Studios,Data Scientist,1
-976,Washington,Storyblocks,UI/UX Researcher,1
-977,Washington,The Henry M. Jackson Foundation,UI/UX Researcher,1
-978,Washington,"Strategic Education, Inc.",UI/UX Researcher,1
-979,Washington,Super Systems Inc,Data Scientist,1
-980,Washington,Swain Techs,Data Scientist,1
-981,Washington,Synergy BIS,UI/UX Researcher,1
-982,Washington,"Technology, Automation, and Management, Inc.",Data Scientist,1
-983,Washington,Tecolote Research,Data Scientist,1
-984,Washington,"Significance, Inc.",Data Scientist,1
-985,Washington,Sierra Nevada Corporation,Data Scientist,1
-986,Washington,Scientific Research Corporation,UI/UX Researcher,1
-987,Washington,Scientific Research Corporation,Data Scientist,1
-988,Washington,Salesforce,UI/UX Researcher,1
-989,Washington,SMI Client,UI/UX Researcher,1
-990,Washington,SAIC,Data Scientist,1
-991,Washington,Ridgeline International,UI/UX Researcher,1
-992,Washington,Rhombus Power,Data Scientist,1
-993,Washington,Reveal Global Consulting LLC,Data Scientist,1
-994,Washington,Results for Development,UI/UX Researcher,1
-995,Washington,Redhorse Corporation,Data Scientist,1
-996,Washington,Red Alpha LLC,UI/UX Researcher,1
-997,Washington,RIVA Solutions,Data Scientist,1
-998,Washington,RELX,Data Scientist,1
-999,Washington,REGENXBIO,Data Scientist,1
-1000,Washington,QVine,Data Scientist,1
-1001,Washington,The American Society of Nephrology,Data Scientist,1
-1002,Washington,The Home Depot,UI/UX Researcher,1
-1003,Washington,QOMPLX,Data Scientist,1
-1004,Washington,VivusTech,Data Scientist,1
-1005,Washington,Vanda Pharmaceuticals,Data Scientist,1
-1006,Washington,Varen Technologies,Data Scientist,1
-1007,Washington,Varen Technologies,UI/UX Researcher,1
-1008,Washington,Vectorworks,UI/UX Researcher,1
-1009,Washington,"Visionist, Inc.",Data Scientist,1
-1010,Washington,Visual Connections,Data Scientist,1
-1011,Washington,Volkswagen Group of America,UI/UX Researcher,1
-1012,Washington,The Knot Worldwide,Data Scientist,1
-1013,Washington,WESTAT,UI/UX Researcher,1
-1014,Washington,World Bank,Data Scientist,1
-1015,Washington,XOR Security,Data Scientist,1
-1016,Washington,Xator Corporation,Data Scientist,1
-1017,Washington,Xiartech,Data Scientist,1
-1018,Washington,Zel Technologies,Data Scientist,1
-1019,Washington,"Valted Seq, Inc.",Data Scientist,1
-1020,Washington,Valex LLC,UI/UX Researcher,1
-1021,Washington,VIDIZMO LLC,UI/UX Researcher,1
-1022,Washington,University of Southern California,UI/UX Researcher,1
-1023,Washington,University of Maryland Capital Region Health,UI/UX Researcher,1
-1024,Washington,USC,UI/UX Researcher,1
-1025,Washington,US Other Agencies and Independent Organizations,Data Scientist,1
-1026,Washington,US Legislative Branch,Data Scientist,1
-1027,Washington,Twitter Inc,UI/UX Researcher,1
-1028,Washington,Turner Broadcasting,UI/UX Researcher,1
-1029,Washington,Tripoint Solutions,Data Scientist,1
-1030,Washington,Trident Systems Inc,Data Scientist,1
-1031,Washington,TransVoyant,Data Scientist,1
-1032,Washington,"ThreatConnect, Inc.",UI/UX Researcher,1
-1033,Washington,Thomson Reuters,Data Scientist,1
-1034,Washington,The Washington Post,UI/UX Researcher,1
-1035,Washington,The Motley Fool,UI/UX Researcher,1
-1036,Washington,QUICK SERVICES LLC,Data Scientist,1
-1037,Washington,Publicis Sapient,UI/UX Researcher,1
-1038,Washington,Huntington Ingalls Industries Inc.,UI/UX Researcher,1
-1039,Washington,LOCKHEED MARTIN CORPORATION,UI/UX Researcher,1
-1040,Washington,Johns Hopkins University Applied Physics Laboratory,UI/UX Researcher,1
-1041,Washington,KPMG,UI/UX Researcher,1
-1042,Washington,Kearns & West,UI/UX Researcher,1
-1043,Washington,Kensho,Data Scientist,1
-1044,Washington,Kingfisher Systems,Data Scientist,1
-1045,Washington,Knowesis Inc.,Data Scientist,1
-1046,Washington,Lidl US,Data Scientist,1
-1047,Washington,Medical Science & Computing,UI/UX Researcher,1
-1048,Washington,MEDSTAR HEALTH,UI/UX Researcher,1
-1049,Washington,MSAG,Data Scientist,1
-1050,Washington,ManTech,Data Scientist,1
-1051,Washington,Marathon TS,Data Scientist,1
-1052,Washington,"Marriott International, Inc",Data Scientist,1
-1053,Washington,Marys Center For Maternal and Child Care,Data Scientist,1
-1054,Washington,Johns Hopkins University,UI/UX Researcher,1
-1055,Washington,Johns Hopkins Applied Physics Laboratory (APL),UI/UX Researcher,1
-1056,Washington,Jacobs,Data Scientist,1
-1057,Washington,Internal Revenue Service,Data Scientist,1
-1058,Washington,Inter-American Development Bank,Data Scientist,1
-1059,Washington,IntelliWare Systems,UI/UX Researcher,1
-1060,Washington,Institute for Defense Analyses,UI/UX Researcher,1
-1061,Washington,Institute for Defense Analyses,Data Scientist,1
-1062,Washington,Insomniac Design,UI/UX Researcher,1
-1063,Washington,Industry Dive,UI/UX Researcher,1
-1064,Washington,Improvix Technologies,Data Scientist,1
-1065,Washington,Id.me,UI/UX Researcher,1
-1066,Washington,ITResonance,Data Scientist,1
-1067,Washington,IOMAXIS,UI/UX Researcher,1
-1068,Washington,IBR (Imagine Believe Realize),Data Scientist,1
-1069,Washington,I 360,Data Scientist,1
-1070,Washington,Huxley,Data Scientist,1
-1071,Washington,MedStar Washington Hospital Center,UI/UX Researcher,1
-1072,Washington,MetiStream,Data Scientist,1
-1073,Washington,Prominent Edge LLC,UI/UX Researcher,1
-1074,Washington,Par Government Systems Corporation,Data Scientist,1
-1075,Washington,OraApps Inc,UI/UX Researcher,1
-1076,Washington,Orbital Insight,Data Scientist,1
-1077,Washington,Orcid,UI/UX Researcher,1
-1078,Washington,Ordway Labs,UI/UX Researcher,1
-1079,Washington,Outreach Process Partners,UI/UX Researcher,1
-1080,Washington,Palantir Technologies,UI/UX Researcher,1
-1081,Washington,PayPal,UI/UX Researcher,1
-1082,Washington,"Metronome, LLC",Data Scientist,1
-1083,Washington,Peraton,Data Scientist,1
-1084,Washington,Peraton,UI/UX Researcher,1
-1085,Washington,Perspecta,UI/UX Researcher,1
-1086,Washington,Pivotal Software,Data Scientist,1
-1087,Washington,Praescient Analytics,Data Scientist,1
-1088,Washington,"Profile Placement Services, LLC",UI/UX Researcher,1
-1089,Washington,OneGlobe LLC,Data Scientist,1
-1090,Washington,Omni Federal,UI/UX Researcher,1
-1091,Washington,"OPSPro, LLC",Data Scientist,1
-1092,Washington,NuWave Solutions,Data Scientist,1
-1093,Washington,Novavax,Data Scientist,1
-1094,Washington,NewDay USA,Data Scientist,1
-1095,Washington,"New Light Technologies, Inc.",Data Scientist,1
-1096,Washington,NetImpact Strategies,UI/UX Researcher,1
-1097,Washington,NetImpact Strategies,Data Scientist,1
-1098,Washington,Nestle USA,Data Scientist,1
-1099,Washington,"Navstar, Inc.",UI/UX Researcher,1
-1100,Washington,National Security Agency,Data Scientist,1
-1101,Washington,National Science Foundation,UI/UX Researcher,1
-1102,Washington,National Association of Manufacturers,UI/UX Researcher,1
-1103,Washington,NRECA,Data Scientist,1
-1104,Washington,NORC at the University of Chicago,UI/UX Researcher,1
-1105,Washington,Mount Indie,Data Scientist,1
-1106,San Francisco,Sumo Logic,UI/UX Researcher,1
-1107,San Francisco,Streamlit,Data Scientist,1
-1108,New York,RBC,Data Scientist,1
-1109,San Francisco,Apex Systems,UI/UX Researcher,1
-1110,San Francisco,Allstate,UI/UX Researcher,1
-1111,San Francisco,"Alto Neuroscience, Inc",Data Scientist,1
-1112,San Francisco,Alveo Technologies,Data Scientist,1
-1113,San Francisco,Amazon,UI/UX Researcher,1
-1114,San Francisco,Amgen,Data Scientist,1
-1115,San Francisco,Amobee,Data Scientist,1
-1116,San Francisco,Arrow Digital,Data Scientist,1
-1117,San Francisco,Airtable,UI/UX Researcher,1
-1118,San Francisco,Asana,Data Scientist,1
-1119,San Francisco,Ascent Services Group,UI/UX Researcher,1
-1120,San Francisco,Aspatore Ventures,UI/UX Researcher,1
-1121,San Francisco,Avani Technology Solutions,Data Scientist,1
-1122,San Francisco,Avila Trading,Data Scientist,1
-1123,San Francisco,BEPC Inc,UI/UX Researcher,1
-1124,San Francisco,Alibaba,UI/UX Researcher,1
-1125,San Francisco,Airtable,Data Scientist,1
-1126,San Francisco,States Title,Data Scientist,1
-1127,New York,Zoetis,Data Scientist,1
-1128,New York,Xylem,Data Scientist,1
-1129,New York,Yext,Data Scientist,1
-1130,New York,YiYiEnglish,UI/UX Researcher,1
-1131,New York,ZS Associates,UI/UX Researcher,1
-1132,New York,"Zenda, LLC",UI/UX Researcher,1
-1133,New York,Zocdoc,UI/UX Researcher,1
-1134,New York,frog,UI/UX Researcher,1
-1135,San Francisco,Aible,Data Scientist,1
-1136,New York,h2o.ai,Data Scientist,1
-1137,San Francisco,22nd Century Technologies,Data Scientist,1
-1138,San Francisco,6sense,Data Scientist,1
-1139,San Francisco,"AAA Northern California, Nevada & Utah",Data Scientist,1
-1140,San Francisco,Activision Blizzard,Data Scientist,1
-1141,San Francisco,Adobe,Data Scientist,1
-1142,San Francisco,BICP,Data Scientist,1
-1143,San Francisco,BOLD,UI/UX Researcher,1
-1144,San Francisco,Benchling,UI/UX Researcher,1
-1145,San Francisco,Coinbase,Data Scientist,1
-1146,San Francisco,Circle Pharma,UI/UX Researcher,1
-1147,San Francisco,CircleUp,Data Scientist,1
-1148,San Francisco,Citrine Informatics,Data Scientist,1
-1149,San Francisco,Cloudbeds,UI/UX Researcher,1
-1150,San Francisco,Coalition,UI/UX Researcher,1
-1151,San Francisco,Coalition Inc.,UI/UX Researcher,1
-1152,San Francisco,Coinbase,UI/UX Researcher,1
-1153,San Francisco,Berkeley Lights,UI/UX Researcher,1
-1154,San Francisco,Connor Group,Data Scientist,1
-1155,San Francisco,Creative Circle,UI/UX Researcher,1
-1156,San Francisco,Creative Circle ,UI/UX Researcher,1
-1157,San Francisco,Cypress HCM,UI/UX Researcher,1
-1158,San Francisco,Data Bridge Consultants,UI/UX Researcher,1
-1159,San Francisco,DataRobot,Data Scientist,1
-1160,San Francisco,Charles Schwab,UI/UX Researcher,1
-1161,San Francisco,Chan Zuckerberg Initiative,UI/UX Researcher,1
-1162,San Francisco,Chan Zuckerberg Initiative,Data Scientist,1
-1163,San Francisco,Chan Zuckerberg Biohub,Data Scientist,1
-1164,San Francisco,Carpenter/Robbins Commercial Real Estate,UI/UX Researcher,1
-1165,San Francisco,CareDx,Data Scientist,1
-1166,San Francisco,Carbon Health Technologies,UI/UX Researcher,1
-1167,San Francisco,Canventa Life Sciences,Data Scientist,1
-1168,San Francisco,CanMedLabs,Data Scientist,1
-1169,San Francisco,CIA,UI/UX Researcher,1
-1170,San Francisco,CIA,Data Scientist,1
-1171,San Francisco,Brilliant,UI/UX Researcher,1
-1172,San Francisco,Bok Modern,UI/UX Researcher,1
-1173,San Francisco,Blend Labs,UI/UX Researcher,1
-1174,San Francisco,BigCommerce,Data Scientist,1
-1175,San Francisco,Big Health (CA),UI/UX Researcher,1
-1176,San Francisco,Big Fish Games,UI/UX Researcher,1
-1177,New York,Xero,UI/UX Researcher,1
-1178,New York,Wynden Stark,Data Scientist,1
-1179,New York,Wunderkind,UI/UX Researcher,1
-1180,New York,Sony Electronics,Data Scientist,1
-1181,New York,Sharecare Inc.,Data Scientist,1
-1182,New York,Sia Partners,Data Scientist,1
-1183,New York,Signature Consultants,UI/UX Researcher,1
-1184,New York,Sionic,Data Scientist,1
-1185,New York,Snap,Data Scientist,1
-1186,New York,Snappy,UI/UX Researcher,1
-1187,New York,Source Enterprises,Data Scientist,1
-1188,New York,TEC Systems Inc,UI/UX Researcher,1
-1189,New York,Sphinix Solutions,Data Scientist,1
-1190,New York,Spin Master Ltd,UI/UX Researcher,1
-1191,New York,Square,UI/UX Researcher,1
-1192,New York,Squarespace,UI/UX Researcher,1
-1193,New York,Sterling National Bank,UI/UX Researcher,1
-1194,New York,SundaySky,Data Scientist,1
-1195,New York,Shareablee,Data Scientist,1
-1196,New York,Sapphire Digital,Data Scientist,1
-1197,New York,Saks Fifth Avenue,Data Scientist,1
-1198,New York,SailPoint Technologies,UI/UX Researcher,1
-1199,New York,Sagence,Data Scientist,1
-1200,New York,SADA,Data Scientist,1
-1201,New York,Rhythm Energy,Data Scientist,1
-1202,New York,Rhino New York,UI/UX Researcher,1
-1203,New York,Revlon,Data Scientist,1
-1204,New York,Reddit,Data Scientist,1
-1205,New York,Reaktor,UI/UX Researcher,1
-1206,New York,Raytheon Technologies Corporate,UI/UX Researcher,1
-1207,New York,Rapidosoft Technologies,UI/UX Researcher,1
-1208,New York,Ralph Lauren,UI/UX Researcher,1
-1209,New York,RXR Realty,Data Scientist,1
-1210,New York,RTX,UI/UX Researcher,1
-1211,New York,RISIRISA,Data Scientist,1
-1212,New York,Synechron,Data Scientist,1
-1213,New York,"TPR Education, LLC",UI/UX Researcher,1
-1214,New York,Women's World Banking,UI/UX Researcher,1
-1215,New York,Updater,UI/UX Researcher,1
-1216,New York,Triplebyte,Data Scientist,1
-1217,New York,TuneCore,UI/UX Researcher,1
-1218,New York,Twitter,Data Scientist,1
-1219,New York,Two Sigma,Data Scientist,1
-1220,New York,US Bank,UI/UX Researcher,1
-1221,New York,Unicom Technologies INC,Data Scientist,1
-1222,New York,Viacom,Data Scientist,1
-1223,New York,Taboola,Data Scientist,1
-1224,New York,Virtu Financial,Data Scientist,1
-1225,New York,Vyaire Medical,Data Scientist,1
-1226,New York,Walmart,Data Scientist,1
-1227,New York,Weber Shandwick,UI/UX Researcher,1
-1228,New York,Wheels Up Partners LLC,Data Scientist,1
-1229,New York,White Ops,Data Scientist,1
-1230,New York,TransRe,Data Scientist,1
-1231,New York,Thrive Global,UI/UX Researcher,1
-1232,New York,Thomson Reuters,UI/UX Researcher,1
-1233,New York,Thermo Fisher Scientific,UI/UX Researcher,1
-1234,New York,The Trade Desk,UI/UX Researcher,1
-1235,New York,The Rockridge Group,UI/UX Researcher,1
-1236,New York,The Org,Data Scientist,1
-1237,New York,The New York Times,Data Scientist,1
-1238,New York,The NPD Group,UI/UX Researcher,1
-1239,New York,The Knot Worldwide,UI/UX Researcher,1
-1240,New York,Teza Technologies,UI/UX Researcher,1
-1241,New York,TeePublic,Data Scientist,1
-1242,New York,Teachers Pay Teachers,UI/UX Researcher,1
-1243,New York,Teachers Pay Teachers,Data Scientist,1
-1244,New York,Tapad,Data Scientist,1
-1245,New York,Talkspace,Data Scientist,1
-1246,New York,Talent Inc.,Data Scientist,1
-1247,San Francisco,Datatron Technologies,Data Scientist,1
-1248,San Francisco,Datatron Technologies,UI/UX Researcher,1
-1249,San Francisco,Deep Labs,Data Scientist,1
-1250,San Francisco,Postmates,Data Scientist,1
-1251,San Francisco,PepsiCo,Data Scientist,1
-1252,San Francisco,Phlint,UI/UX Researcher,1
-1253,San Francisco,PicnicHealth,UI/UX Researcher,1
-1254,San Francisco,Plenty,Data Scientist,1
-1255,San Francisco,Plexuss,Data Scientist,1
-1256,San Francisco,Postdot Technologies,UI/UX Researcher,1
-1257,San Francisco,Potrero Medical Inc.,Data Scientist,1
-1258,San Francisco,Reddit,UI/UX Researcher,1
-1259,San Francisco,Primer Ai,Data Scientist,1
-1260,San Francisco,PubMatic,Data Scientist,1
-1261,San Francisco,Punchh,UI/UX Researcher,1
-1262,San Francisco,Quizlet,UI/UX Researcher,1
-1263,San Francisco,Randstad US,UI/UX Researcher,1
-1264,San Francisco,ReadMe,UI/UX Researcher,1
-1265,San Francisco,Penumbra,UI/UX Researcher,1
-1266,San Francisco,PayPal,Data Scientist,1
-1267,San Francisco,PayJoy,UI/UX Researcher,1
-1268,San Francisco,Patreon,UI/UX Researcher,1
-1269,San Francisco,Padlet,UI/UX Researcher,1
-1270,San Francisco,PPD,Data Scientist,1
-1271,San Francisco,PACT Pharma,Data Scientist,1
-1272,San Francisco,Oxygen,Data Scientist,1
-1273,San Francisco,Orbital Sidekick,Data Scientist,1
-1274,San Francisco,Opendoor,Data Scientist,1
-1275,San Francisco,On Board Experiential Marketing,UI/UX Researcher,1
-1276,San Francisco,OPPORTUNITY FUND NORTHERN CALIFORNIA,Data Scientist,1
-1277,San Francisco,NoshList,UI/UX Researcher,1
-1278,San Francisco,NorthOne,Data Scientist,1
-1279,San Francisco,Noblr,Data Scientist,1
-1280,San Francisco,Noah,Data Scientist,1
-1281,San Francisco,Niantic,UI/UX Researcher,1
-1282,San Francisco,Reddit,Data Scientist,1
-1283,San Francisco,Retool,Data Scientist,1
-1284,San Francisco,Nextdoor,UI/UX Researcher,1
-1285,San Francisco,Softvision,Data Scientist,1
-1286,San Francisco,Sitecore,UI/UX Researcher,1
-1287,San Francisco,Slalom LLC.,Data Scientist,1
-1288,San Francisco,"SmartNews, Inc.",UI/UX Researcher,1
-1289,San Francisco,Snap,Data Scientist,1
-1290,San Francisco,Snowflake,Data Scientist,1
-1291,San Francisco,SoFi,Data Scientist,1
-1292,San Francisco,Softvision - North America,Data Scientist,1
-1293,San Francisco,Returnly,UI/UX Researcher,1
-1294,San Francisco,Sony PlayStation,UI/UX Researcher,1
-1295,San Francisco,Spectra Infosystems,Data Scientist,1
-1296,San Francisco,Spin,Data Scientist,1
-1297,San Francisco,Spotify,Data Scientist,1
-1298,San Francisco,SquareTrade,Data Scientist,1
-1299,San Francisco,Standard Chartered,Data Scientist,1
-1300,San Francisco,Sisu Data,UI/UX Researcher,1
-1301,San Francisco,Silicon Valley Bank,UI/UX Researcher,1
-1302,San Francisco,"Side, Inc.",Data Scientist,1
-1303,San Francisco,Shogun,Data Scientist,1
-1304,San Francisco,Shaper Tools,UI/UX Researcher,1
-1305,San Francisco,Senti Biosciences,Data Scientist,1
-1306,San Francisco,Segment,Data Scientist,1
-1307,San Francisco,Scale AI,UI/UX Researcher,1
-1308,San Francisco,Sauce Labs,UI/UX Researcher,1
-1309,San Francisco,Salesforce,Data Scientist,1
-1310,San Francisco,SRG,Data Scientist,1
-1311,San Francisco,SPODIO,UI/UX Researcher,1
-1312,San Francisco,Rumble Entertainment,UI/UX Researcher,1
-1313,San Francisco,Rubicon,Data Scientist,1
-1314,San Francisco,"Rodan and Fields, LLC",Data Scientist,1
-1315,San Francisco,Roche,UI/UX Researcher,1
-1316,San Francisco,Roblox,UI/UX Researcher,1
-1317,San Francisco,Ngm Biopharmaceuticals,UI/UX Researcher,1
-1318,San Francisco,NextDeavor Services,UI/UX Researcher,1
-1319,San Francisco,Dell Technologies,UI/UX Researcher,1
-1320,San Francisco,Gusto,Data Scientist,1
-1321,San Francisco,Flexton,Data Scientist,1
-1322,San Francisco,Fuze,UI/UX Researcher,1
-1323,San Francisco,Geli,Data Scientist,1
-1324,San Francisco,Getty Images,UI/UX Researcher,1
-1325,San Francisco,Google,Data Scientist,1
-1326,San Francisco,Grammarly,UI/UX Researcher,1
-1327,San Francisco,"HKS, Inc.",UI/UX Researcher,1
-1328,San Francisco,Instagram,UI/UX Researcher,1
-1329,San Francisco,Harnham US,Data Scientist,1
-1330,San Francisco,HashiCorp,UI/UX Researcher,1
-1331,San Francisco,Heluna Health,UI/UX Researcher,1
-1332,San Francisco,Hinge Health,UI/UX Researcher,1
-1333,San Francisco,Hive (CA),Data Scientist,1
-1334,San Francisco,Idean,UI/UX Researcher,1
-1335,San Francisco,Flexport,UI/UX Researcher,1
-1336,San Francisco,Flexport,Data Scientist,1
-1337,San Francisco,Finrise,Data Scientist,1
-1338,San Francisco,Fanatics,Data Scientist,1
-1339,San Francisco,Faire,UI/UX Researcher,1
-1340,San Francisco,Evernote,Data Scientist,1
-1341,San Francisco,Everlaw,UI/UX Researcher,1
-1342,San Francisco,Everlane,Data Scientist,1
-1343,San Francisco,Epic,UI/UX Researcher,1
-1344,San Francisco,Engagio,UI/UX Researcher,1
-1345,San Francisco,Eluvio,UI/UX Researcher,1
-1346,San Francisco,Electronic Arts,Data Scientist,1
-1347,San Francisco,Eaze,Data Scientist,1
-1348,San Francisco,Early Warning Services,UI/UX Researcher,1
-1349,San Francisco,Drizly,Data Scientist,1
-1350,San Francisco,Driven Brands / 1-800 Radiator & A/C,Data Scientist,1
-1351,San Francisco,Doctor On Demand,UI/UX Researcher,1
-1352,San Francisco,Instacart,Data Scientist,1
-1353,San Francisco,IntelliPro Group Inc.,UI/UX Researcher,1
-1354,San Francisco,Nerdify,UI/UX Researcher,1
-1355,San Francisco,Miles,Data Scientist,1
-1356,San Francisco,MasterClass,UI/UX Researcher,1
-1357,San Francisco,Mawi DNA Technologies,Data Scientist,1
-1358,San Francisco,Media Matters Worldwide,Data Scientist,1
-1359,San Francisco,Medium,Data Scientist,1
-1360,San Francisco,Metromile,UI/UX Researcher,1
-1361,San Francisco,Microsoft,Data Scientist,1
-1362,San Francisco,Miles,UI/UX Researcher,1
-1363,San Francisco,Intrinsic Imaging,UI/UX Researcher,1
-1364,San Francisco,Minted,UI/UX Researcher,1
-1365,San Francisco,Mixpanel,UI/UX Researcher,1
-1366,San Francisco,Movoto,UI/UX Researcher,1
-1367,San Francisco,Mozilla Corporation,UI/UX Researcher,1
-1368,San Francisco,MuleSoft,Data Scientist,1
-1369,San Francisco,Myriad Genetics Inc.,UI/UX Researcher,1
-1370,San Francisco,MarinHealth Medical Center,Data Scientist,1
-1371,San Francisco,Lore Ventures,Data Scientist,1
-1372,San Francisco,Loom,Data Scientist,1
-1373,San Francisco,Lonza,Data Scientist,1
-1374,San Francisco,Logic20/20,Data Scientist,1
-1375,San Francisco,Lively,UI/UX Researcher,1
-1376,San Francisco,Kunai Consulting,UI/UX Researcher,1
-1377,San Francisco,Komodo Health,UI/UX Researcher,1
-1378,San Francisco,Kiva.org,UI/UX Researcher,1
-1379,San Francisco,Kite,UI/UX Researcher,1
-1380,San Francisco,Kinship,Data Scientist,1
-1381,San Francisco,Kforce,Data Scientist,1
-1382,San Francisco,Karius,Data Scientist,1
-1383,San Francisco,Kaiser Permanente,Data Scientist,1
-1384,San Francisco,Juniper Square,UI/UX Researcher,1
-1385,San Francisco,June,UI/UX Researcher,1
-1386,San Francisco,Joby Aviation,Data Scientist,1
-1387,Chicago,1871 Member Companies,Data Scientist,1
+City,Employers,Role,Jobs
+San Francisco,Facebook,UI/UX Researcher,24
+Seattle,Facebook,VR Engineering,20
+Los Angeles,Riot Games,Game Design,16
+Indianapolis,Lilly UK,Data Scientist,15
+New York,Facebook,UI/UX Researcher,15
+Los Angeles,Electronic Arts,Game Design,14
+Los Angeles,Golden Hippo,Digital Marketing,14
+Indianapolis,Salesforce,Digital Marketing,13
+New York,Creative Circle ,Game Design,13
+Washington,Capital One,UI/UX Researcher,12
+Washington,Leidos,Data Scientist,12
+New York,Facebook,Data Scientist,12
+Washington,MITRE,Data Scientist,12
+New York,People Can Fly,Game Design,12
+San Francisco,Google,UI/UX Researcher,11
+New York,Spotify,UI/UX Researcher,10
+Chicago,GoHealth,Data Scientist,10
+San Francisco,Thermo Fisher - America,Data Scientist,10
+San Francisco,Facebook,Digital Marketing,10
+San Francisco,Adobe,UI/UX Researcher,9
+San Francisco,Unity Technologies,VR Engineering,9
+Los Angeles,Creative Circle,Game Design,9
+Los Angeles,Sony PlayStation,Game Design,9
+Chicago,Epsilon,Data Scientist,8
+San Francisco,Wish,Data Scientist,8
+Washington,Leidos,UI/UX Researcher,8
+Washington,Novetta,Data Scientist,8
+Indianapolis,Pearson,Digital Marketing,8
+New York,Peloton Interactive,Game Design,8
+Los Angeles,Fashion Nova - Careers,Game Design,8
+New York,Direct Agents,Digital Marketing,8
+San Francisco,"SLEDGEHAMMER GAMES, INC.",Game Design,8
+San Francisco,Facebook,Data Scientist,7
+San Francisco,Salesforce,UI/UX Researcher,7
+Indianapolis,Salesforce,Data Scientist,7
+New York,Capital One,UI/UX Researcher,7
+Indianapolis,Eli Lilly,Data Scientist,7
+Los Angeles,Within,Game Design,7
+San Francisco,Aquent,Digital Marketing,7
+Indianapolis,Eli Lilly and Company,Data Scientist,6
+Chicago,Salesforce,Data Scientist,6
+Washington,IBM,UI/UX Researcher,6
+Indianapolis,Covance,Data Scientist,6
+New York,Compass,UI/UX Researcher,6
+Washington,Marriott,UI/UX Researcher,6
+Chicago,Chowbus,Data Scientist,6
+Washington,AstraZeneca,Data Scientist,6
+New York,Google,UI/UX Researcher,6
+Washington,Booz Allen Hamilton Inc.,Data Scientist,6
+New York,IBM,UI/UX Researcher,6
+Orlando,Unity Technologies,VR Engineering,6
+Indianapolis,Gannett,Digital Marketing,6
+San Francisco,"Operating Company SLEDGEHAMMER GAMES, INC.",Game Design,6
+San Francisco,Arsenal Biosciences,Data Scientist,5
+San Francisco,Faire,Data Scientist,5
+Chicago,Allstate Insurance Company,Data Scientist,5
+San Francisco,Chime,UI/UX Researcher,5
+Indianapolis,Salesforce,UI/UX Researcher,5
+Chicago,Civis Analytics,Data Scientist,5
+Indianapolis,Milliman,Data Scientist,5
+New York,Dotdash,UI/UX Researcher,5
+New York,New Jersey Institute of Technology,UI/UX Researcher,5
+San Francisco,PicnicHealth,Data Scientist,5
+Los Angeles,Thermo Fisher Scientific,Digital Marketing,5
+Los Angeles,Respawn Entertainment,Game Design,5
+Los Angeles,Hexany Audio,Game Design,5
+New York,New School,Game Design,5
+Los Angeles,Cashmere Agency,Digital Marketing,5
+San Francisco,Adobe,Digital Marketing,5
+New York,CNEWS,Game Design,5
+San Francisco,Amyris,Digital Marketing,5
+San Francisco,Punchh,Digital Marketing,5
+New York,Facebook,VR Engineering,5
+Los Angeles,Wpromote,Digital Marketing,5
+Chicago,FASTSIGNS 601,Game Design,5
+San Francisco,IDEO,UI/UX Researcher,4
+San Francisco,Lyft,UI/UX Researcher,4
+San Francisco,Pinterest,Data Scientist,4
+San Francisco,Airbnb,UI/UX Researcher,4
+New York,Plymouth Rock Assurance,Data Scientist,4
+San Francisco,Amazon,Data Scientist,4
+Washington,steampunk,Data Scientist,4
+New York,Point72,Data Scientist,4
+San Francisco,DocuSign,UI/UX Researcher,4
+Washington,General Dynamics Information Technology,Data Scientist,4
+San Francisco,Stitch Fix,Data Scientist,4
+Chicago,Mars,Data Scientist,4
+San Francisco,Twitter,UI/UX Researcher,4
+Washington,stanleyreid,UI/UX Researcher,4
+Indianapolis,"St. Vincent, IN",Data Scientist,4
+Indianapolis,Indiana University,Data Scientist,4
+Washington,IMSG/NOAA,Data Scientist,4
+Washington,General Dynamics Information Technology,UI/UX Researcher,4
+Washington,SAIC,UI/UX Researcher,4
+Washington,Facebook,UI/UX Researcher,4
+New York,Bloomberg,Data Scientist,4
+New York,Creative Circle ,UI/UX Researcher,4
+New York,"Two Sigma Investments, LLC.",Data Scientist,4
+Washington,Evidera,Data Scientist,4
+New York,Aquent,UI/UX Researcher,4
+Indianapolis,B2S Life Sciences LLC,Data Scientist,4
+Washington,"Latitude, Inc.",Data Scientist,4
+Washington,"Latitude, Inc.",UI/UX Researcher,4
+Chicago,Aon,Data Scientist,4
+New York,Artisan Talent,Digital Marketing,4
+San Francisco,LEWIS Global Communications,Digital Marketing,4
+San Francisco,Curology,Game Design,4
+Los Angeles,Facebook,Digital Marketing,4
+New York,Core,VR Engineering,4
+New York,Creative Circle ,Digital Marketing,4
+New York,Saks Fifth Avenue,Digital Marketing,4
+Indianapolis,"PONDURANCE, LLC",Digital Marketing,4
+San Francisco,Kepler Group,Digital Marketing,4
+Los Angeles,Survios,Game Design,4
+New York,Gemini,Game Design,4
+San Francisco,Salesforce,Digital Marketing,4
+Los Angeles,"Operating Company INFINITY WARD, INC.",Game Design,4
+Los Angeles,Buck Mason,Digital Marketing,4
+New York,Heartbeat,Game Design,4
+New York,Kepler Group,Digital Marketing,4
+Los Angeles,Creative Circle ,Game Design,4
+San Francisco,Thermo Fisher Scientific,Digital Marketing,4
+Los Angeles,Ring,Digital Marketing,4
+San Francisco,Penumbra,VR Engineering,4
+Los Angeles,TechStyle Fashion Group,Game Design,4
+New York,CLEAR,Game Design,4
+San Francisco,Ubisoft,Game Design,4
+New York,Aquent,Digital Marketing,4
+Los Angeles,Survios,VR Engineering,4
+San Francisco,RingCentral,UI/UX Researcher,3
+Chicago,Myticas Consulting,Data Scientist,3
+Washington,GEICO,Data Scientist,3
+Washington,"Karsun Solutions, LLC",UI/UX Researcher,3
+San Francisco,Grand Rounds,UI/UX Researcher,3
+Chicago,Koch Engineered Solutions,Data Scientist,3
+San Francisco,Redshift,UI/UX Researcher,3
+San Francisco,Internal Revenue Service,Data Scientist,3
+San Francisco,Freedom Financial Network,Data Scientist,3
+New York,Braze,UI/UX Researcher,3
+Washington,Next Century,UI/UX Researcher,3
+Chicago,M1 Finance,Data Scientist,3
+San Francisco,Roblox,Data Scientist,3
+Washington,DataRobot,Data Scientist,3
+New York,Amazon,Data Scientist,3
+Chicago,Publicis Groupe,Data Scientist,3
+San Francisco,Splunk,Data Scientist,3
+New York,Huxley,Data Scientist,3
+Washington,"ECS Federal, LLC",UI/UX Researcher,3
+San Francisco,Dropbox,UI/UX Researcher,3
+San Francisco,Gap Inc.,Data Scientist,3
+San Francisco,Lyft,Data Scientist,3
+Chicago,SADA,Data Scientist,3
+Washington,"Metron, Inc.",UI/UX Researcher,3
+Chicago,Wavicle Data Solutions LLC,Data Scientist,3
+Chicago,Rally Health,Data Scientist,3
+San Francisco,Gap Inc.,UI/UX Researcher,3
+San Francisco,Exelixis,Data Scientist,3
+Chicago,Tempus Labs,Data Scientist,3
+Washington,ICF,UI/UX Researcher,3
+San Francisco,Capital One,UI/UX Researcher,3
+Washington,Google,UI/UX Researcher,3
+Washington,Central Intelligence Agency,Data Scientist,3
+Chicago,Grubhub,Data Scientist,3
+San Francisco,Aquent,UI/UX Researcher,3
+Chicago,Chicago Public Schools,Data Scientist,3
+New York,Ogilvy & Mather,UI/UX Researcher,3
+San Francisco,University of California San Francisco,Data Scientist,3
+San Francisco,Amyris,Data Scientist,3
+New York,KeyBank,UI/UX Researcher,3
+New York,Known,Data Scientist,3
+Washington,Accenture,UI/UX Researcher,3
+Washington,Accenture,Data Scientist,3
+New York,The Joanne Weaver Group,UI/UX Researcher,3
+Washington,Analytica,Data Scientist,3
+New York,Verizon,UI/UX Researcher,3
+San Francisco,h2o.ai,Data Scientist,3
+Indianapolis,"MiraVista Diagnostics, LLC",Data Scientist,3
+New York,VMLY&R,UI/UX Researcher,3
+Washington,Capital One,Data Scientist,3
+Washington,Turner,UI/UX Researcher,3
+Chicago,CVS Health,Data Scientist,3
+New York,The Rockefeller University,UI/UX Researcher,3
+New York,Twitter,UI/UX Researcher,3
+New York,NYU Langone Health,UI/UX Researcher,3
+San Francisco,Autodesk,UI/UX Researcher,3
+Washington,Booz Allen Hamilton,UI/UX Researcher,3
+San Francisco,C3.ai,UI/UX Researcher,3
+San Francisco,Blue Shield of California,UI/UX Researcher,3
+New York,Integral Ad Science,UI/UX Researcher,3
+Chicago,bswift,Data Scientist,3
+New York,Salesforce,UI/UX Researcher,3
+New York,IBM,Data Scientist,3
+San Francisco,Blue Owl,Data Scientist,3
+Washington,Perspecta,Data Scientist,3
+New York,Peloton Interactive,UI/UX Researcher,3
+San Francisco,Twitch,Data Scientist,3
+Chicago,"nexus IT group, Inc.",Data Scientist,3
+Washington,Comcast,UI/UX Researcher,3
+San Francisco,Twitter,Data Scientist,3
+New York,SimilarWeb,Digital Marketing,3
+San Francisco,Niantic,Game Design,3
+New York,WhoWhatWhy,Game Design,3
+Los Angeles,Centerfield Media,Digital Marketing,3
+San Francisco,Udacity,VR Engineering,3
+Los Angeles,Insomniac Games,Game Design,3
+San Francisco,Zynga,Game Design,3
+New York,Oxford University Press,Digital Marketing,3
+Los Angeles,Kobe Digital,Digital Marketing,3
+San Francisco,Athleta,Game Design,3
+San Francisco,Vital,Digital Marketing,3
+Indianapolis,Wade Creative Network,Digital Marketing,3
+Los Angeles,Zynga,Game Design,3
+New York,Spin Master Ltd,Game Design,3
+Los Angeles,"INFINITY WARD, INC.",Game Design,3
+Los Angeles,"Yacht Club Games, LLC",Game Design,3
+Los Angeles,MuteSix,Digital Marketing,3
+Los Angeles,Core Digital Media,Digital Marketing,3
+New York,Thunderfoot,Digital Marketing,3
+San Francisco,Carbon Health,VR Engineering,3
+San Francisco,Atomic,Digital Marketing,3
+Los Angeles,Facebook,VR Engineering,3
+Los Angeles,Creative Circle ,Digital Marketing,3
+San Francisco,V3 Talent Partners Inc.,VR Engineering,3
+Los Angeles,CyberCoders,Digital Marketing,3
+Chicago,1871 Member Companies,Game Design,3
+Los Angeles,CyberCoders,VR Engineering,3
+Los Angeles,DFO Global Performance Commerce Limited,Digital Marketing,3
+Los Angeles,Activision Blizzard,Game Design,3
+Indianapolis,Deloitte,Digital Marketing,3
+San Francisco,Firebrand Communications,Digital Marketing,3
+Los Angeles,Torrid,Digital Marketing,3
+Los Angeles,A Subsidiary of Sony Corporation of America,Game Design,3
+Los Angeles,Sigue Corp,Digital Marketing,3
+Los Angeles,TapBlaze,Game Design,3
+San Francisco,Epic Games,Game Design,3
+New York,Croud,Digital Marketing,3
+Los Angeles,Dr. SkinFeed,Game Design,3
+New York,CLEAR - Corporate,Game Design,3
+New York,Rockstar Games,Game Design,3
+Los Angeles,TikTok,Digital Marketing,3
+Indianapolis,Resulticks,Digital Marketing,3
+Chicago,Iron Galaxy Studios,Game Design,3
+New York,Confidential,Digital Marketing,3
+Indianapolis,Roche,Digital Marketing,3
+San Francisco,Jam City,Game Design,3
+San Francisco,3Q Digital,Digital Marketing,3
+San Francisco,"SimX, Inc.",VR Engineering,3
+New York,8Bit,Game Design,3
+San Francisco,Movoto,Digital Marketing,3
+Chicago,FASTSIGNS #601,Game Design,3
+San Francisco,Facebook,VR Engineering,3
+Los Angeles,GreenPark Sports,Game Design,3
+New York,Epsilon,Digital Marketing,3
+Los Angeles,Aquent,Digital Marketing,3
+New York,Arkadium,Game Design,3
+New York,Averity,Data Scientist,2
+Washington,American Society of Clinical Oncology,UI/UX Researcher,2
+New York,BrainStation,Data Scientist,2
+Washington,Autolus Ltd,Data Scientist,2
+New York,BrainStation,UI/UX Researcher,2
+Washington,"ADNET Systems, Inc.",Data Scientist,2
+Indianapolis,Delta Faucet Company,UI/UX Researcher,2
+Indianapolis,Liberty Healthcare Corporation,Data Scientist,2
+New York,BNY Mellon,UI/UX Researcher,2
+New York,BD,Data Scientist,2
+San Francisco,Punchcut,UI/UX Researcher,2
+Washington,Accelera Solutions,UI/UX Researcher,2
+San Francisco,Plaid,Data Scientist,2
+New York,Bluecore,Data Scientist,2
+New York,Bloomberg,UI/UX Researcher,2
+Washington,Ad Hoc Company Website,UI/UX Researcher,2
+Indianapolis,InvenTech Info,Data Scientist,2
+Indianapolis,Internal Revenue Service,Data Scientist,2
+Washington,Audi,Data Scientist,2
+Washington,Atlas Research,UI/UX Researcher,2
+New York,Blend360,UI/UX Researcher,2
+Washington,Aquent,UI/UX Researcher,2
+Washington,Amazon,Data Scientist,2
+New York,Apple,Data Scientist,2
+San Francisco,Nuna,Data Scientist,2
+Indianapolis,Masco,UI/UX Researcher,2
+San Francisco,SiriusXM,UI/UX Researcher,2
+Indianapolis,Purdue Polytechnic High School of Indianapolis Inc,Data Scientist,2
+San Francisco,Snowflake,UI/UX Researcher,2
+Indianapolis,Q2 Solutions,Data Scientist,2
+San Francisco,Splunk,UI/UX Researcher,2
+San Francisco,Square,Data Scientist,2
+San Francisco,Square,UI/UX Researcher,2
+San Francisco,UCSF Medical Center,UI/UX Researcher,2
+Indianapolis,Theoris,Data Scientist,2
+San Francisco,UCSF Medical Center,Data Scientist,2
+San Francisco,Synapse Financial Technologies Inc,UI/UX Researcher,2
+San Francisco,TEEMA,Data Scientist,2
+San Francisco,Thermo Fisher Scientific,Data Scientist,2
+Indianapolis,SpringML,Data Scientist,2
+Indianapolis,Simon Property Group,Data Scientist,2
+San Francisco,Turo,Data Scientist,2
+San Francisco,"SmartNews, Inc.",Data Scientist,2
+San Francisco,University of California San Francisco,UI/UX Researcher,2
+San Francisco,Robert Half Corporate Internal,UI/UX Researcher,2
+New York,Aetna,Data Scientist,2
+Indianapolis,Medxcel Facilities Management,Data Scientist,2
+Indianapolis,MiraVista Diagnostics,Data Scientist,2
+San Francisco,Sage Intacct,Data Scientist,2
+New York,Amazon,UI/UX Researcher,2
+San Francisco,"TuSimple, Inc.",UI/UX Researcher,2
+Indianapolis,Northview Christian Life Church Inc,Data Scientist,2
+San Francisco,Xoom,Data Scientist,2
+San Francisco,Samsung Research America,UI/UX Researcher,2
+Indianapolis,"Oxford Financial Group, Ltd.",Data Scientist,2
+San Francisco,Wells Fargo,UI/UX Researcher,2
+San Francisco,Scale AI,Data Scientist,2
+San Francisco,Walmart,UI/UX Researcher,2
+San Francisco,Shipt,Data Scientist,2
+Indianapolis,PayPal,Data Scientist,2
+San Francisco,Verana Health,Data Scientist,2
+San Francisco,eBay,UI/UX Researcher,2
+Washington,steampunk,UI/UX Researcher,2
+San Francisco,NorthOne,UI/UX Researcher,2
+New York,Two95 International Inc.,Data Scientist,2
+New York,UX Hires,UI/UX Researcher,2
+New York,Mobikasa,UI/UX Researcher,2
+New York,VTS,UI/UX Researcher,2
+New York,Vedainfo Inc,Data Scientist,2
+New York,Vimeo,Data Scientist,2
+New York,Memorial Sloan-Kettering Cancer Center,Data Scientist,2
+New York,McCann Worldgroup,Data Scientist,2
+New York,LiftForward,UI/UX Researcher,2
+New York,LexisNexis Risk Solutions,Data Scientist,2
+New York,"imre, LLC.",UI/UX Researcher,2
+San Francisco,Ab Studio Inc.,Data Scientist,2
+New York,Konrad,UI/UX Researcher,2
+San Francisco,Activision Publishing,Data Scientist,2
+New York,Kin + Carta,UI/UX Researcher,2
+New York,Jane Street,Data Scientist,2
+San Francisco,App Annie,Data Scientist,2
+San Francisco,Atlassian,Data Scientist,2
+New York,J.P. Morgan,UI/UX Researcher,2
+San Francisco,Bayer,Data Scientist,2
+New York,Integral Ad Science,Data Scientist,2
+New York,ITechStack,Data Scientist,2
+New York,IQVIA,UI/UX Researcher,2
+New York,ION Group,UI/UX Researcher,2
+New York,INTURN,UI/UX Researcher,2
+San Francisco,C3.ai,Data Scientist,2
+New York,UBS,Data Scientist,2
+New York,Musifai,UI/UX Researcher,2
+San Francisco,Nomis Solutions,UI/UX Researcher,2
+New York,Tropikia Group,Data Scientist,2
+New York,Publicis Groupe,UI/UX Researcher,2
+New York,RXR Construction Services LLC,Data Scientist,2
+New York,Raytheon Technologies Corporate,Data Scientist,2
+New York,Red River,Data Scientist,2
+New York,Peloton,UI/UX Researcher,2
+New York,Rockstar Games,Data Scientist,2
+New York,"PTC Therapeutics, Inc.",Data Scientist,2
+New York,Samsung Research America,Data Scientist,2
+New York,Samsung Research America,UI/UX Researcher,2
+New York,Oscar Health,UI/UX Researcher,2
+New York,ShopKeep,Data Scientist,2
+New York,Sidewalk Labs,UI/UX Researcher,2
+New York,Simons Foundation,Data Scientist,2
+New York,Spotify,Data Scientist,2
+New York,Spring Health,Data Scientist,2
+New York,TRANZACT,Data Scientist,2
+New York,Noom US,Data Scientist,2
+New York,New York University,UI/UX Researcher,2
+New York,New York University,Data Scientist,2
+New York,Ten Spot,UI/UX Researcher,2
+New York,New School,UI/UX Researcher,2
+New York,The CARIAN Group,Data Scientist,2
+New York,NetEffect Solutions,UI/UX Researcher,2
+New York,Naka Technologies,Data Scientist,2
+New York,NBCUniversal,UI/UX Researcher,2
+New York,IBISWorld,UI/UX Researcher,2
+San Francisco,Capital One,Data Scientist,2
+New York,HarperCollins Publishers,Data Scientist,2
+San Francisco,Change.org,UI/UX Researcher,2
+San Francisco,Grammarly,Data Scientist,2
+New York,Digital Pulp,UI/UX Researcher,2
+New York,Dataminr,UI/UX Researcher,2
+New York,DataCamp,Data Scientist,2
+San Francisco,Hired Recruiters,Data Scientist,2
+San Francisco,Insight Global,UI/UX Researcher,2
+New York,Cox Automotive,UI/UX Researcher,2
+New York,ConcertAI,Data Scientist,2
+New York,CompuForce,Data Scientist,2
+San Francisco,Lawrence Berkeley National Laboratory,Data Scientist,2
+San Francisco,Lawrence Berkeley National Laboratory,UI/UX Researcher,2
+San Francisco,Levi Strauss,Data Scientist,2
+San Francisco,LexisNexis Legal & Professional,Data Scientist,2
+New York,Colgate-Palmolive,Data Scientist,2
+New York,Cohen Veterans Bioscience,Data Scientist,2
+New York,Coalition for Queens,Data Scientist,2
+San Francisco,Meraki,UI/UX Researcher,2
+New York,Caserta,Data Scientist,2
+San Francisco,Natera,Data Scientist,2
+San Francisco,Nektar Therapeutics,Data Scientist,2
+New York,CVS Health,Data Scientist,2
+San Francisco,Nextdoor,Data Scientist,2
+New York,CKM Advisors,UI/UX Researcher,2
+San Francisco,Ngm Biopharmaceuticals,Data Scientist,2
+San Francisco,NinthDecimal,Data Scientist,2
+Washington,"Aveshka, Inc.",UI/UX Researcher,2
+San Francisco,Glu Mobile,Data Scientist,2
+New York,Dow Jones,UI/UX Researcher,2
+San Francisco,Databricks,UI/UX Researcher,2
+San Francisco,Charles River Laboratories,Data Scientist,2
+San Francisco,CipherTrace,Data Scientist,2
+New York,Grubhub,Data Scientist,2
+San Francisco,Cisco Systems,UI/UX Researcher,2
+New York,GroupM Data & Technology,Data Scientist,2
+San Francisco,Collective Health,Data Scientist,2
+San Francisco,CommonSpirit Health National Offices,Data Scientist,2
+New York,Glossier,UI/UX Researcher,2
+San Francisco,CyberCoders,Data Scientist,2
+New York,Genesis Research,Data Scientist,2
+San Francisco,DataSource.ai,Data Scientist,2
+San Francisco,Delta Dental,UI/UX Researcher,2
+San Francisco,Front App,UI/UX Researcher,2
+New York,Forbes Media,Data Scientist,2
+San Francisco,DocuSign,Data Scientist,2
+San Francisco,DoorDash,Data Scientist,2
+San Francisco,DoorDash,UI/UX Researcher,2
+San Francisco,Emendata,Data Scientist,2
+New York,Etsy,UI/UX Researcher,2
+San Francisco,Epic Games,UI/UX Researcher,2
+San Francisco,Extractable,UI/UX Researcher,2
+San Francisco,Fitbit,UI/UX Researcher,2
+San Francisco,Forge,UI/UX Researcher,2
+San Francisco,Forward,UI/UX Researcher,2
+Washington,Avantus,UI/UX Researcher,2
+New York,Quartet Health,Data Scientist,2
+Chicago,Optiver US,Data Scientist,2
+Chicago,Farmers Insurance,Data Scientist,2
+Chicago,Early Warning Services,Data Scientist,2
+Washington,Excel Technologies,UI/UX Researcher,2
+Washington,Expression Networks,Data Scientist,2
+Chicago,EquiTrust Life Insurance Company,Data Scientist,2
+Chicago,"United States Drug Testing Laboratories, Inc. (USDTL)",Data Scientist,2
+Chicago,Unicom Technologies INC,Data Scientist,2
+Chicago,TransUnion,Data Scientist,2
+Chicago,Facebook,Data Scientist,2
+Washington,SRC,UI/UX Researcher,2
+Washington,Enovational,UI/UX Researcher,2
+Chicago,Toyota Research Institute,Data Scientist,2
+Washington,GEICO,UI/UX Researcher,2
+Chicago,The University of Chicago,Data Scientist,2
+Chicago,Gas Technology Institute,Data Scientist,2
+Chicago,Ginkgo LLC,Data Scientist,2
+Chicago,Great Wolf Lodge,Data Scientist,2
+Chicago,Tempus,Data Scientist,2
+Chicago,TIAA,Data Scientist,2
+Washington,"Enterprise Resource Performance, Inc. (ERPi)",UI/UX Researcher,2
+Washington,Elder Research Inc,Data Scientist,2
+Washington,Grafik,UI/UX Researcher,2
+Washington,The Motley Fool,Data Scientist,2
+Chicago,CNA,Data Scientist,2
+Chicago,CNA Insurance,Data Scientist,2
+Washington,"Credence Management Solutions, LLC",Data Scientist,2
+Washington,Cvent,UI/UX Researcher,2
+Washington,Tripoint Solutions,UI/UX Researcher,2
+Chicago,Capax Global,Data Scientist,2
+Chicago,Centro,Data Scientist,2
+Washington,"DataSync Technologies, Inc",Data Scientist,2
+Washington,Deloitte,Data Scientist,2
+Chicago,WALGREENS,Data Scientist,2
+Washington,Deloitte,UI/UX Researcher,2
+Washington,ECS Federal LLC,Data Scientist,2
+Chicago,CreditNinja,Data Scientist,2
+Washington,Strategic Analytix,Data Scientist,2
+Chicago,DocuSign,Data Scientist,2
+Washington,EPAM Systems,UI/UX Researcher,2
+Chicago,Wavicle Data Solutions,Data Scientist,2
+Washington,"ERT, Inc.",Data Scientist,2
+Washington,Quantifind,Data Scientist,2
+Chicago,"Sunrise Futures, LLC",Data Scientist,2
+Washington,Two Six Labs,UI/UX Researcher,2
+Chicago,McDonald's Corporation,Data Scientist,2
+Washington,"OPPORTUNITY@WORK, INC.",UI/UX Researcher,2
+Washington,Nolij Consulting,Data Scientist,2
+Washington,L&E Meridian,UI/UX Researcher,2
+Chicago,Maven Wave Partners,Data Scientist,2
+Washington,LMI,Data Scientist,2
+Chicago,Nuveen,Data Scientist,2
+Washington,Lockheed Martin,UI/UX Researcher,2
+Washington,MOSAIC Technologies Group,Data Scientist,2
+Washington,NVIDIA,Data Scientist,2
+Washington,Job Juncture,UI/UX Researcher,2
+Washington,NT Concepts,Data Scientist,2
+Chicago,McKinsey & Company,Data Scientist,2
+Washington,NCI Information Systems Inc.,UI/UX Researcher,2
+Washington,Maxar Technologies,Data Scientist,2
+Washington,McKinsey & Company,Data Scientist,2
+Washington,MissionSide,UI/UX Researcher,2
+Washington,Mission Essential,Data Scientist,2
+Washington,Mirlogic Solutions Corporation,UI/UX Researcher,2
+Washington,Johns Hopkins Applied Physics Laboratory (APL),Data Scientist,2
+Chicago,Kforce,Data Scientist,2
+Chicago,SpotHero,Data Scientist,2
+Washington,Id.me,Data Scientist,2
+Washington,Howard University,Data Scientist,2
+Chicago,Shure Incorporated,Data Scientist,2
+Washington,Precigen,Data Scientist,2
+Washington,Praxis Engineering,Data Scientist,2
+Chicago,IBM,Data Scientist,2
+Chicago,IFG Companies,Data Scientist,2
+Washington,IBM,Data Scientist,2
+Washington,IDT Biologika,Data Scientist,2
+Chicago,QuantumBlack,Data Scientist,2
+Washington,Optimal Solutions Group,Data Scientist,2
+Washington,Paradyme Management Inc.,UI/UX Researcher,2
+Chicago,Internal Revenue Service,Data Scientist,2
+Chicago,JBT,Data Scientist,2
+Chicago,"JPMorgan Chase Bank, N.A.",Data Scientist,2
+Washington,Intelligent Automation,Data Scientist,2
+Washington,IvoryCloud,UI/UX Researcher,2
+Washington,"Orbis, Inc.",UI/UX Researcher,2
+Chicago,Kelton,Data Scientist,2
+Washington,Creative Circle ,UI/UX Researcher,2
+Washington,"Metron, Inc.",Data Scientist,2
+Chicago,Wyzant,Data Scientist,2
+Washington,inventium.io LLC,UI/UX Researcher,2
+Washington,Cedent Consulting,Data Scientist,2
+Indianapolis,Crowe,Data Scientist,2
+Washington,Clarifai,UI/UX Researcher,2
+Indianapolis,"CTI Clinical Trial Services, Inc",Data Scientist,2
+Washington,CALIBRE Systems,UI/UX Researcher,2
+Washington,CACI International,UI/UX Researcher,2
+Washington,CACI,Data Scientist,2
+Washington,UnitedHealth Group,UI/UX Researcher,2
+Chicago,American Cancer Society,Data Scientist,2
+Washington,"Central Business Solutions, Inc",UI/UX Researcher,2
+Washington,VLP Therapeutics,Data Scientist,2
+Washington,World Resources Institute,UI/UX Researcher,2
+Chicago,Ascension,Data Scientist,2
+Washington,Weber Shandwick,UI/UX Researcher,2
+Washington,Cherokee Nation Businesses,UI/UX Researcher,2
+Indianapolis,Corteva Agriscience,Data Scientist,2
+Washington,"Bravo Consulting Group, LLC",UI/UX Researcher,2
+Washington,Barbaricum,UI/UX Researcher,2
+Washington,US Other Agencies and Independent Organizations,UI/UX Researcher,2
+Washington,BOWA,UI/UX Researcher,2
+Washington,BAE Systems,UI/UX Researcher,2
+Washington,Convirgence Consulting,Data Scientist,2
+Washington,ControlCase,UI/UX Researcher,2
+Washington,Contingent Network Services,UI/UX Researcher,2
+Chicago,Zoro Tools,Data Scientist,2
+Chicago,Ann & Robert H. Lurie Children’s Hospital of Chicago,Data Scientist,2
+Washington,Azimuth Corporation,UI/UX Researcher,2
+Indianapolis,DHL Supply Chain,Data Scientist,2
+Washington,"CollabraLink Technlogies, a Federal Contractor",UI/UX Researcher,2
+Indianapolis,Bekins,Data Scientist,2
+Washington,Cognowiz Solutions,Data Scientist,2
+Washington,BAE Systems,Data Scientist,2
+Washington,Chenega MIOS,Data Scientist,2
+Indianapolis,Bloodcenter of Wisconsin,Data Scientist,2
+Chicago,ZS Associates,Data Scientist,2
+Washington,BAE Systems USA,UI/UX Researcher,2
+Los Angeles,FAM Brands,Game Design,2
+New York,Steven Madden,Game Design,2
+New York,Shareworks by Morgan Stanley,Digital Marketing,2
+New York,Shake-N-Go Fashion,Game Design,2
+Los Angeles,Expert Brand,Digital Marketing,2
+Los Angeles,First Capitol Consulting,Digital Marketing,2
+Los Angeles,FindKeep.Love,Digital Marketing,2
+New York,Simulmedia,Game Design,2
+New York,Spotify,Game Design,2
+New York,Select Group,Digital Marketing,2
+Los Angeles,Everytable,Game Design,2
+New York,Spatial,VR Engineering,2
+Los Angeles,Fisker Inc,Game Design,2
+New York,SlideGenius,Game Design,2
+New York,Conductor,Digital Marketing,2
+New York,The Kasper Group,Game Design,2
+New York,The Marketing Arm,Digital Marketing,2
+Los Angeles,Amazon,VR Engineering,2
+San Francisco,A+ In Home Tutors,Digital Marketing,2
+San Francisco,Adyen,Digital Marketing,2
+San Francisco,Amazon,Digital Marketing,2
+Los Angeles,Acceleration Partners,Digital Marketing,2
+Los Angeles,AV Squad,Game Design,2
+Los Angeles,AT&T,Digital Marketing,2
+Los Angeles,AMBER STUDIO,Game Design,2
+San Francisco,Automattic,Digital Marketing,2
+San Francisco,BNP Paribas,Digital Marketing,2
+Los Angeles,3blackdot,Game Design,2
+San Francisco,Benchling,VR Engineering,2
+San Francisco,Blue Owl,Digital Marketing,2
+San Francisco,Brilliant,Game Design,2
+San Francisco,Brondell,Digital Marketing,2
+San Francisco,CIA,Game Design,2
+San Francisco,CSG Consultants,Digital Marketing,2
+San Francisco,500 Startups,Digital Marketing,2
+Los Angeles,"American Metal Technologies, LLC",Game Design,2
+Orlando,"WILL Technology, Inc.",VR Engineering,2
+Los Angeles,Brafton,Digital Marketing,2
+Los Angeles,Confidential,Game Design,2
+New York,TrueChoice Solutions,Game Design,2
+Los Angeles,Cloud Imperium Games,Game Design,2
+Los Angeles,Channel Bakers,Game Design,2
+New York,Varemar,Digital Marketing,2
+New York,Village Print ,Game Design,2
+New York,WE Communications,Digital Marketing,2
+New York,William Hill US,Game Design,2
+Los Angeles,"BEN Group, Inc",Digital Marketing,2
+New York,Work & Co,Game Design,2
+Los Angeles,Belkin,Digital Marketing,2
+Los Angeles,Beauty Industry,Game Design,2
+New York,ZT Systems,VR Engineering,2
+Los Angeles,Beauty Creations,Game Design,2
+New York,Zero-In,Game Design,2
+Los Angeles,Beachbody,Digital Marketing,2
+New York,Riverside Medical Group,Digital Marketing,2
+New York,Michael Kors,Game Design,2
+New York,Quadpay,Game Design,2
+New York,Dun & Bradstreet,Digital Marketing,2
+Seattle,Unity Technologies,VR Engineering,2
+New York,Confidential,Game Design,2
+New York,Constellation,Game Design,2
+Los Angeles,Sports Research Corporation,Game Design,2
+Los Angeles,Slicedbread.agency,Digital Marketing,2
+New York,Daggerwing Health,Game Design,2
+Los Angeles,Self Publishing School,Digital Marketing,2
+Los Angeles,Scale Media,Digital Marketing,2
+New York,Dirty Denim NYC,Game Design,2
+New York,Dreamwear Inc.,Game Design,2
+Los Angeles,SBE Restaurant Group LLC,Digital Marketing,2
+Los Angeles,Phonexa,Digital Marketing,2
+New York,Enchante Accessories,Game Design,2
+Los Angeles,RevLocal,Digital Marketing,2
+New York,Extensis Group,Digital Marketing,2
+New York,FASTSIGNS #321801,Game Design,2
+New York,Facebook,Digital Marketing,2
+New York,FanDuel,Game Design,2
+Los Angeles,Reformation,Game Design,2
+New York,Fiddler Crab Games,Game Design,2
+New York,Fora Financial LLC,Digital Marketing,2
+New York,Gainor,Digital Marketing,2
+New York,Coda Staffing,Digital Marketing,2
+New York,Center for Court Innovation,Game Design,2
+New York,Celonis,Digital Marketing,2
+New York,Brandwatch,Digital Marketing,2
+Los Angeles,Windstream Communications,Digital Marketing,2
+Los Angeles,rue21,Game Design,2
+New York,1HUDDLE,Game Design,2
+New York,1stdibs.com,Game Design,2
+Los Angeles,WEBTOON Entertainment,Game Design,2
+New York,3Q Digital,Digital Marketing,2
+New York,A/B Partners,Digital Marketing,2
+Los Angeles,Versus Systems,Game Design,2
+Los Angeles,Vegamour,Digital Marketing,2
+Los Angeles,Turn Me Up,Game Design,2
+Los Angeles,"TuSimple, Inc.",VR Engineering,2
+Los Angeles,Trusaic,Digital Marketing,2
+New York,Am Digital Group,Digital Marketing,2
+New York,"Amazon Web Services, Inc.",Digital Marketing,2
+New York,"American Metal Technologies, LLC",Game Design,2
+Los Angeles,The Virtual Reality Company,VR Engineering,2
+New York,Axiom,Digital Marketing,2
+New York,BARK,Game Design,2
+Los Angeles,The Rogue Initiative,Game Design,2
+New York,Berkeley Point Capital Holdings,Game Design,2
+Los Angeles,TechStyle,Game Design,2
+Los Angeles,Pivot CMO,Digital Marketing,2
+New York,Glassview Media,Game Design,2
+New York,Publicis Groupe,Game Design,2
+New York,Nice-Pak-Products,Digital Marketing,2
+Los Angeles,Laundry Service,Digital Marketing,2
+Los Angeles,LA Vapor,Game Design,2
+Los Angeles,LA Vapor,Digital Marketing,2
+New York,Mendix,Game Design,2
+San Francisco,Chime,Digital Marketing,2
+Los Angeles,Konami Digital Entertainment,Digital Marketing,2
+New York,Mosaic App,Digital Marketing,2
+Los Angeles,Jobot,VR Engineering,2
+New York,Multimedia Solutions,Digital Marketing,2
+Los Angeles,Irwin Naturals,Digital Marketing,2
+Los Angeles,IBM,Digital Marketing,2
+New York,Global Brands Group,Game Design,2
+Los Angeles,Hire Digital,Digital Marketing,2
+Los Angeles,Heavy Iron,Game Design,2
+Los Angeles,Heat Dance,Digital Marketing,2
+Los Angeles,Halo Aesthetics Bar,Digital Marketing,2
+New York,Parigi Group,Game Design,2
+New York,Persado,Digital Marketing,2
+New York,Phyto-C Skin Care,Digital Marketing,2
+Los Angeles,Growth Gurus,Digital Marketing,2
+New York,Prosek,Digital Marketing,2
+Los Angeles,Green Hasson Janks,Digital Marketing,2
+Los Angeles,"MBC Distribution, Inc.",Digital Marketing,2
+Los Angeles,"MBC Distribution, Inc.",Game Design,2
+Los Angeles,MT Global US INC.,Game Design,2
+Los Angeles,Magnopus,Game Design,2
+New York,Goodway Group,Digital Marketing,2
+New York,Group Nine Media,Game Design,2
+New York,HOTELS AT HOME,Game Design,2
+New York,Health & Wellness Partners,Digital Marketing,2
+Los Angeles,NxT Level,VR Engineering,2
+New York,Hill+Knowlton Strategies,Digital Marketing,2
+New York,Horizontal,Game Design,2
+New York,IHL GROUP,Game Design,2
+Los Angeles,"Netmarble US, Inc.",Game Design,2
+Los Angeles,NZXT,Game Design,2
+New York,Institute of Culinary Education (ICE),Digital Marketing,2
+New York,IronHold Capital,Game Design,2
+New York,JARAL FASHIONS,Game Design,2
+Los Angeles,Muslim American Society,Digital Marketing,2
+New York,Job Tank,Digital Marketing,2
+New York,JustinBradley,Game Design,2
+Los Angeles,Microsoft,Game Design,2
+New York,Kiss Products,Game Design,2
+New York,LEWIS,Digital Marketing,2
+Los Angeles,MediaMonks,Digital Marketing,2
+New York,Live Nation,Digital Marketing,2
+San Francisco,Carbon Health Technologies,VR Engineering,2
+Los Angeles,Coalition Technologies,Game Design,2
+Los Angeles,Within,Digital Marketing,2
+Indianapolis,LEAP,Digital Marketing,2
+San Francisco,Spin,VR Engineering,2
+San Francisco,Splunk,Digital Marketing,2
+San Francisco,IMVU,VR Engineering,2
+San Francisco,ILMxLAB,VR Engineering,2
+San Francisco,ILMxLAB,Game Design,2
+San Francisco,IDEO,Game Design,2
+San Francisco,Hire Level Search Group,Digital Marketing,2
+Indianapolis,Kaleidoscope,Game Design,2
+San Francisco,"HealthyPets, Inc.",Game Design,2
+Chicago,NextCapital,Game Design,2
+San Francisco,The Class Consulting Group,Digital Marketing,2
+San Francisco,SkillUp Coalition,Digital Marketing,2
+San Francisco,The Mom Project,Game Design,2
+San Francisco,The National Consensus,Digital Marketing,2
+San Francisco,The RealReal,Game Design,2
+San Francisco,Google,Digital Marketing,2
+San Francisco,Glu Mobile,Game Design,2
+San Francisco,Gap Inc.,Digital Marketing,2
+San Francisco,True Botanicals,Digital Marketing,2
+San Francisco,"TuSimple, Inc.",VR Engineering,2
+San Francisco,FindKeep.Love,Digital Marketing,2
+San Francisco,Udemy,Digital Marketing,2
+San Francisco,InFlux Partners,Digital Marketing,2
+San Francisco,Industrial Light & Magic,VR Engineering,2
+San Francisco,Unity Technologies,Digital Marketing,2
+Indianapolis,Cozymeal,Digital Marketing,2
+San Francisco,Persado,Digital Marketing,2
+Indianapolis,Brooks Automation,Digital Marketing,2
+San Francisco,Pocket Gems,Game Design,2
+San Francisco,"Primer, Inc",Digital Marketing,2
+Indianapolis,Carpenter Realtors,Digital Marketing,2
+San Francisco,Quizlet,Game Design,2
+Indianapolis,500 Festival,Digital Marketing,2
+San Francisco,MuleSoft,Digital Marketing,2
+Indianapolis,ConverSight.ai,Digital Marketing,2
+Chicago,Zynga,Game Design,2
+Indianapolis,Dealer Specialties,Digital Marketing,2
+Chicago,"Southern Graphic Systems, LLC",Game Design,2
+San Francisco,Rockset,Digital Marketing,2
+San Francisco,"Rodan and Fields, LLC",Digital Marketing,2
+San Francisco,Secfi,Digital Marketing,2
+San Francisco,LEWIS,Digital Marketing,2
+San Francisco,JustAnswer,Digital Marketing,2
+San Francisco,Iterable,Digital Marketing,2
+San Francisco,Simplilearn,Digital Marketing,2
+Indianapolis,Hire Digital,Digital Marketing,2
+Chicago,Spectrum Communications and Consulting,Game Design,2
+San Francisco,Insight,Digital Marketing,2
+Indianapolis,Raytheon Intelligence & Space,VR Engineering,2
+San Francisco,Hire Digital,Digital Marketing,2
+San Francisco,CyberCoders,Game Design,2
+San Francisco,Wish,Digital Marketing,2
+Indianapolis,S&F LLC,Digital Marketing,2
+San Francisco,Warner Bros. Entertainment Group,Game Design,2
+San Francisco,Walt Disney Company,VR Engineering,2
+Indianapolis,Site Strategics,Digital Marketing,2
+San Francisco,Collective Inc,Digital Marketing,2
+San Francisco,Curated,Digital Marketing,2
+Seattle,Microsoft,VR Engineering,2
+San Francisco,Crystal Dynamics,Game Design,2
+San Francisco,DocuSign,Digital Marketing,2
+Chicago,"J Harlan Group, LLC",Data Scientist,1
+New York,Hopper,Data Scientist,1
+Chicago,HopHR,Data Scientist,1
+Chicago,Humana,Data Scientist,1
+New York,Hudson's Bay Company (HBC),UI/UX Researcher,1
+New York,Patreon,Data Scientist,1
+New York,"Pasona N A, Inc.",Data Scientist,1
+New York,PA Consulting,Data Scientist,1
+New York,Hyperscience,UI/UX Researcher,1
+New York,Palantir Technologies,UI/UX Researcher,1
+New York,PDT Partners,Data Scientist,1
+New York,Internal Revenue Service,Data Scientist,1
+Chicago,Allstate,Data Scientist,1
+Chicago,Illinois Health Plan,Data Scientist,1
+Chicago,Intellectt INC,Data Scientist,1
+Chicago,AlphaWorks Trading,Data Scientist,1
+Chicago,Hyatt,Data Scientist,1
+New York,ION,UI/UX Researcher,1
+Chicago,Amount,Data Scientist,1
+New York,IDEO,UI/UX Researcher,1
+Chicago,HappiLabs,Data Scientist,1
+New York,InvenTech Info,Data Scientist,1
+Chicago,Innovista LLC,Data Scientist,1
+Chicago,Analog Devices,Data Scientist,1
+New York,IDT,Data Scientist,1
+New York,IFG Companies,Data Scientist,1
+New York,Healthcare Risk Advisors,Data Scientist,1
+Chicago,Integral Ad Science,Data Scientist,1
+New York,GroupM Data & Technology,UI/UX Researcher,1
+Chicago,KPMG,Data Scientist,1
+New York,Founders Factory,UI/UX Researcher,1
+Chicago,ASAP Solutions,Data Scientist,1
+Chicago,ARYZTA,Data Scientist,1
+New York,Point72 - Market Intelligence,Data Scientist,1
+Chicago,McDonald's Corporate,Data Scientist,1
+New York,GENEWIZ,Data Scientist,1
+New York,Prognos,Data Scientist,1
+New York,Fund For Public Health In New York Inc,Data Scientist,1
+New York,Propel,Data Scientist,1
+New York,Ford Foundation,UI/UX Researcher,1
+Chicago,Alliant Credit Union,Data Scientist,1
+Chicago,84.51°,Data Scientist,1
+Chicago,Medical Home Network,Data Scientist,1
+New York,Food52,UI/UX Researcher,1
+New York,Fiserv,UI/UX Researcher,1
+Chicago,Mintel,Data Scientist,1
+New York,First American Financial Corporation,Data Scientist,1
+New York,FinTech Studios,UI/UX Researcher,1
+New York,QuaEra,Data Scientist,1
+New York,GENEWIZ,UI/UX Researcher,1
+New York,GenLed Brands,Data Scientist,1
+Chicago,Maven Advisors,Data Scientist,1
+Chicago,M1 Holdings,Data Scientist,1
+New York,Harnham,Data Scientist,1
+Chicago,KeyBank,Data Scientist,1
+Chicago,Accenture,Data Scientist,1
+New York,PepsiCo,Data Scientist,1
+New York,Petal,Data Scientist,1
+Chicago,Hamdard Center for Health and Human Services,Data Scientist,1
+Chicago,Kraft Heinz Company,Data Scientist,1
+New York,Green Key Resources,UI/UX Researcher,1
+New York,Gotham Greens,Data Scientist,1
+Chicago,LaBine and Associates,Data Scientist,1
+New York,Google,Data Scientist,1
+New York,Goodway Group,Data Scientist,1
+Chicago,"AVTECH SOLUTIONS, Inc",Data Scientist,1
+Chicago,Label Insight,Data Scientist,1
+New York,Goldman Sachs,Data Scientist,1
+New York,Goldbelly,Data Scientist,1
+Chicago,Lumen,Data Scientist,1
+New York,InviteReferrals,UI/UX Researcher,1
+New York,JW Player,UI/UX Researcher,1
+Chicago,HR Pundits,Data Scientist,1
+Chicago,Dyson,Data Scientist,1
+Chicago,"Conch Technologies, Inc",Data Scientist,1
+New York,NewtonX,Data Scientist,1
+Chicago,Crowe,Data Scientist,1
+Chicago,DRW,Data Scientist,1
+New York,Method,UI/UX Researcher,1
+New York,Noom Inc.,Data Scientist,1
+New York,Meredith Corporation,UI/UX Researcher,1
+Chicago,"Braven, Inc",Data Scientist,1
+New York,Memorial Sloan-Kettering Cancer Center,UI/UX Researcher,1
+New York,Noom US,UI/UX Researcher,1
+Chicago,HERE Technologies,Data Scientist,1
+Chicago,EPMPixels,Data Scientist,1
+New York,Match Group,UI/UX Researcher,1
+New York,Match Group,Data Scientist,1
+New York,Mailchimp,UI/UX Researcher,1
+New York,Nordstrom,Data Scientist,1
+New York,Macy's Technology,UI/UX Researcher,1
+New York,NorthOne,UI/UX Researcher,1
+New York,Nova Credit,Data Scientist,1
+New York,Macy's,UI/UX Researcher,1
+New York,MongoDB,UI/UX Researcher,1
+Chicago,Comtech Global Inc,Data Scientist,1
+New York,Moody's,Data Scientist,1
+Chicago,"ComputerAid, Inc",Data Scientist,1
+Chicago,"CTI Clinical Trial Services, Inc",Data Scientist,1
+New York,NetCom Learning,UI/UX Researcher,1
+New York,Nautilus Labs,Data Scientist,1
+New York,National Football League,Data Scientist,1
+New York,Narrativ,Data Scientist,1
+Chicago,Chicago Fire FC,Data Scientist,1
+New York,NYSTEC,Data Scientist,1
+New York,NYC Data Science Academy,Data Scientist,1
+Chicago,Chicago Transit Authority,Data Scientist,1
+Chicago,CIBC US,Data Scientist,1
+New York,New York Blood Center,UI/UX Researcher,1
+Chicago,Citadel,Data Scientist,1
+New York,Multimedia Solutions,UI/UX Researcher,1
+Chicago,Cognizant Technology Solutions,Data Scientist,1
+New York,New York Times,UI/UX Researcher,1
+New York,Moody's Corporation,Data Scientist,1
+Chicago,CGN Global,Data Scientist,1
+Chicago,CoinFlip,Data Scientist,1
+Chicago,Colsh Consultants,Data Scientist,1
+New York,Novartis,UI/UX Researcher,1
+New York,Macquarie Group,Data Scientist,1
+New York,MYN North America,Data Scientist,1
+Chicago,"Freeosk, Inc.",Data Scientist,1
+New York,Kettle,UI/UX Researcher,1
+New York,Onward Search,Data Scientist,1
+New York,Jose Merciline,UI/UX Researcher,1
+Chicago,Galaxy Tek Hires,Data Scientist,1
+New York,JetBlue Airways Corporation,Data Scientist,1
+New York,Onward Search,UI/UX Researcher,1
+New York,"Jefferies & Company, Inc.",Data Scientist,1
+New York,Jefferies,Data Scientist,1
+New York,Optimove,Data Scientist,1
+New York,Orchard,UI/UX Researcher,1
+Chicago,Goodway Group,Data Scientist,1
+Chicago,Arrow Designs,Data Scientist,1
+Chicago,Green Key Technologies ,Data Scientist,1
+New York,Ordergroove,Data Scientist,1
+Chicago,Apex Systems,Data Scientist,1
+New York,"JPMorgan Chase Bank, N.A.",UI/UX Researcher,1
+New York,Oscar Health,Data Scientist,1
+New York,"JPMorgan Chase Bank, N.A.",Data Scientist,1
+New York,JDRF International,Data Scientist,1
+New York,Key Lime Interactive,UI/UX Researcher,1
+Chicago,Fetch Rewards,Data Scientist,1
+New York,FOJP,Data Scientist,1
+New York,One Drop,Data Scientist,1
+New York,Lyft,Data Scientist,1
+New York,Lorven Technologies Inc,Data Scientist,1
+New York,LinkedIn,UI/UX Researcher,1
+New York,LexisNexis Risk Solutions,UI/UX Researcher,1
+New York,Ogilvy,UI/UX Researcher,1
+Chicago,Environmental Law and Policy Center,Data Scientist,1
+New York,"Lewis Tree Service, Inc.",Data Scientist,1
+Chicago,Big Bright International,Data Scientist,1
+Chicago,Berkley,Data Scientist,1
+New York,Langan Engineering and Environmental Services,Data Scientist,1
+New York,L&T Infotech,Data Scientist,1
+New York,"Kroll Bond Rating Agency, LLC",Data Scientist,1
+Chicago,FAMILY INSTITUTE,Data Scientist,1
+Chicago,FNA,Data Scientist,1
+New York,OkCupid,Data Scientist,1
+New York,Koneksa Health,Data Scientist,1
+New York,OkCupid,UI/UX Researcher,1
+New York,Koch Engineered Solutions,Data Scientist,1
+Chicago,Federal Reserve Bank of Chicago,Data Scientist,1
+New York,MEMX,Data Scientist,1
+Indianapolis,DWA Healthcare Communications Group,UI/UX Researcher,1
+Chicago,Momentum Staffing Group,Data Scientist,1
+Indianapolis,"The Jane Pauley Community Health Center, Inc",Data Scientist,1
+Indianapolis,Wheaton Van Lines,Data Scientist,1
+Chicago,West Monroe Partners,Data Scientist,1
+Indianapolis,Virtusa,Data Scientist,1
+Chicago,Wi-Tronix,Data Scientist,1
+Indianapolis,Versiti,Data Scientist,1
+Indianapolis,Varsity Tutors,Data Scientist,1
+Indianapolis,United Way of Central Indiana,UI/UX Researcher,1
+Indianapolis,Turner & Townsend,Data Scientist,1
+Indianapolis,TransLoc Inc.,UI/UX Researcher,1
+Chicago,William Blair & Company,Data Scientist,1
+Indianapolis,The Science & Magic Corporation of America,Data Scientist,1
+Chicago,Wind River,Data Scientist,1
+New York,Etsy,Data Scientist,1
+Chicago,Wolverine Trading,Data Scientist,1
+Indianapolis,Tech-Connect,Data Scientist,1
+Indianapolis,TCS,Data Scientist,1
+Indianapolis,Studio Science,UI/UX Researcher,1
+New York,Quest Diagnostics,UI/UX Researcher,1
+Indianapolis,Sterling-DeVille,Data Scientist,1
+Indianapolis,Stantec,Data Scientist,1
+Indianapolis,Stanley Black & Decker,Data Scientist,1
+Indianapolis,St. Vincent Health,Data Scientist,1
+Chicago,dunnhumby,Data Scientist,1
+Indianapolis,,UI/UX Researcher,1
+New York,10x Genomics,Data Scientist,1
+New York,1stopbedrooms,UI/UX Researcher,1
+New York,7Park Data,Data Scientist,1
+New York,7Summits,UI/UX Researcher,1
+New York,Applause,UI/UX Researcher,1
+New York,Apex Systems,UI/UX Researcher,1
+New York,Apex Systems,Data Scientist,1
+New York,Anheuser-Busch,Data Scientist,1
+New York,Amplify,Data Scientist,1
+New York,American Exchange Group,UI/UX Researcher,1
+New York,Amazon.com Services LLC,Data Scientist,1
+Chicago,Valkyrie Trading,Data Scientist,1
+Chicago,Vibes,Data Scientist,1
+New York,AlphaSense,UI/UX Researcher,1
+New York,Alpha Beta Investments,Data Scientist,1
+New York,Align,UI/UX Researcher,1
+New York,Alibaba,UI/UX Researcher,1
+New York,Akur8,Data Scientist,1
+New York,Advantage Resourcing,UI/UX Researcher,1
+New York,Advance Local,Data Scientist,1
+New York,Advan Research Corporation,Data Scientist,1
+New York,Ademeni,Data Scientist,1
+Chicago,Wells' Dairy,Data Scientist,1
+New York,ActionIQ,Data Scientist,1
+New York,Acquco,Data Scientist,1
+New York,Abnormal Security,Data Scientist,1
+New York,ADP,Data Scientist,1
+Indianapolis,120Water,UI/UX Researcher,1
+Indianapolis,"Regenstrief Institute, Inc.",UI/UX Researcher,1
+Indianapolis,ASSA ABLOY,UI/UX Researcher,1
+Indianapolis,Loxo Oncology,Data Scientist,1
+Indianapolis,Lilt,Data Scientist,1
+Indianapolis,Cardinal Health,Data Scientist,1
+Indianapolis,Lessonly,UI/UX Researcher,1
+Indianapolis,Kairos Technologies,Data Scientist,1
+Indianapolis,Community Health Network,Data Scientist,1
+Indianapolis,KAR Auction Services,UI/UX Researcher,1
+Indianapolis,Jobvite,Data Scientist,1
+Indianapolis,"Conch Technologies, Inc",Data Scientist,1
+Indianapolis,Infotree Service Inc,Data Scientist,1
+Indianapolis,Indygo,Data Scientist,1
+Indianapolis,Indiana University,UI/UX Researcher,1
+Indianapolis,Cox Automotive,UI/UX Researcher,1
+Indianapolis,IU Health North Hospital,Data Scientist,1
+Indianapolis,Creative Circle,UI/UX Researcher,1
+Indianapolis,High Alpha,UI/UX Researcher,1
+Indianapolis,HHC,Data Scientist,1
+Indianapolis,Creative Circle ,UI/UX Researcher,1
+Indianapolis,Genesys,UI/UX Researcher,1
+Indianapolis,FEDDATA,Data Scientist,1
+Indianapolis,Eskenazi Health,Data Scientist,1
+Indianapolis,EmployIndy,UI/UX Researcher,1
+Indianapolis,DHL,Data Scientist,1
+Indianapolis,Deloitte,Data Scientist,1
+Indianapolis,Brooksource,Data Scientist,1
+Indianapolis,Beckman Coulter Life Sciences,UI/UX Researcher,1
+Indianapolis,"Polysciences, Inc",Data Scientist,1
+Indianapolis,Beckman Coulter Life Sciences,Data Scientist,1
+Indianapolis,Ad Hoc Team,UI/UX Researcher,1
+Indianapolis,Advanced Agrilytics,Data Scientist,1
+Indianapolis,Platinum Group,UI/UX Researcher,1
+Indianapolis,Platinum Group,Data Scientist,1
+Indianapolis,Pinnacle Partners,UI/UX Researcher,1
+Indianapolis,Pinnacle Partners,Data Scientist,1
+Indianapolis,PayPal,UI/UX Researcher,1
+Indianapolis,Allegan General Hospital,Data Scientist,1
+Indianapolis,"PONDURANCE, LLC",Data Scientist,1
+Indianapolis,POLARIS Laboratories,Data Scientist,1
+Indianapolis,Alter Domus,UI/UX Researcher,1
+Indianapolis,Anthem,Data Scientist,1
+Indianapolis,Outside Source,UI/UX Researcher,1
+Indianapolis,Anthem,UI/UX Researcher,1
+Indianapolis,Ossium Health,Data Scientist,1
+Indianapolis,NuOrbit Media,UI/UX Researcher,1
+Indianapolis,Anthem Health Plans of Virginia,Data Scientist,1
+Indianapolis,Navient,Data Scientist,1
+Indianapolis,Ark Engineering Services,Data Scientist,1
+Indianapolis,Myers and Stauffer,Data Scientist,1
+Indianapolis,MuleSoft,UI/UX Researcher,1
+Indianapolis,Moser Consulting,Data Scientist,1
+Indianapolis,Ascension,Data Scientist,1
+Chicago,VIVA USA,Data Scientist,1
+Chicago,University of Illinois at Chicago,Data Scientist,1
+New York,Aptus Health,Data Scientist,1
+New York,Dataiku,Data Scientist,1
+Indianapolis,DHL | Supply Chain,Data Scientist,1
+Chicago,PK,Data Scientist,1
+New York,Daily Harvest,UI/UX Researcher,1
+Chicago,PPD,Data Scientist,1
+New York,DVG Interactive,UI/UX Researcher,1
+Chicago,Pareto Intelligence,Data Scientist,1
+New York,Current,UI/UX Researcher,1
+New York,Credibly,Data Scientist,1
+New York,CreativeDrive,Data Scientist,1
+New York,Creative Circle,UI/UX Researcher,1
+New York,Co–Star,Data Scientist,1
+Chicago,PeopleReady,Data Scientist,1
+New York,Cooley,Data Scientist,1
+New York,Contingent Network Services,UI/UX Researcher,1
+New York,Contingent Network Services,Data Scientist,1
+New York,Conductor,Data Scientist,1
+New York,Conde Nast,Data Scientist,1
+Chicago,Pluralsight,Data Scientist,1
+Chicago,Predictive Sales AI,Data Scientist,1
+Chicago,Premier Research Group Limited,Data Scientist,1
+Chicago,Productive Edge,Data Scientist,1
+Chicago,Qlarant,Data Scientist,1
+New York,Compass,Data Scientist,1
+New York,Datadog,Data Scientist,1
+Chicago,OppLoans,Data Scientist,1
+New York,Comcast,UI/UX Researcher,1
+New York,Deep Labs,Data Scientist,1
+New York,EnergyHub,Data Scientist,1
+New York,Elsevier,UI/UX Researcher,1
+Chicago,Morning Consult,Data Scientist,1
+Chicago,Morningstar,Data Scientist,1
+Chicago,NORC at the University of Chicago,Data Scientist,1
+New York,Elasticiti,Data Scientist,1
+New York,Edward Daniels Group,Data Scientist,1
+New York,EasyKnock,UI/UX Researcher,1
+Chicago,National Louis University,Data Scientist,1
+New York,ERGO Group,Data Scientist,1
+New York,"EDP World, Inc.",UI/UX Researcher,1
+New York,Dun & Bradstreet,Data Scientist,1
+Chicago,Nielsen,Data Scientist,1
+Chicago,Nordstrom,Data Scientist,1
+Chicago,Norwegian American Hospital,Data Scientist,1
+Chicago,Numerator,Data Scientist,1
+Chicago,OSF Healthcare,Data Scientist,1
+New York,DoorDash,Data Scientist,1
+New York,Digital Remedy,Data Scientist,1
+Chicago,Old Mission Capital,Data Scientist,1
+Chicago,Old World Industries,Data Scientist,1
+Chicago,OmniForce Solutions,Data Scientist,1
+New York,Designstyles,UI/UX Researcher,1
+New York,Comet.ml,Data Scientist,1
+New York,Columbia University,Data Scientist,1
+Chicago,Univar,Data Scientist,1
+Chicago,Tech-Connect,Data Scientist,1
+New York,BrainPOP,Data Scientist,1
+New York,Booz Allen Hamilton,Data Scientist,1
+New York,Bombas,UI/UX Researcher,1
+New York,Bombas,Data Scientist,1
+New York,Boehringer Ingelheim,UI/UX Researcher,1
+Chicago,TheMathCompany,Data Scientist,1
+Chicago,Thermo Fisher Scientific,Data Scientist,1
+New York,Block Institute,Data Scientist,1
+New York,Blackstone,UI/UX Researcher,1
+Chicago,ThinkMarkets - North America,Data Scientist,1
+New York,BlackRock,UI/UX Researcher,1
+Chicago,Tower Research Capital LLC,Data Scientist,1
+New York,Bizzabo,UI/UX Researcher,1
+New York,Biz2Credit Inc,Data Scientist,1
+New York,Better.com,UI/UX Researcher,1
+New York,Bernard Nickels & Associates,Data Scientist,1
+New York,Benjamin Moore,UI/UX Researcher,1
+New York,BayBridgeDigital,UI/UX Researcher,1
+Chicago,Two95 International Inc.,Data Scientist,1
+Chicago,US Foods,Data Scientist,1
+New York,Athreya Inc,UI/UX Researcher,1
+New York,Asembia,Data Scientist,1
+New York,Artisan Talent,UI/UX Researcher,1
+Chicago,The Climate Corporation,Data Scientist,1
+New York,Buoy Health,Data Scientist,1
+Chicago,SEI,Data Scientist,1
+Chicago,Syngenta,Data Scientist,1
+Chicago,"SPINS, LLC",Data Scientist,1
+New York,Cognizant Technology Solutions,Data Scientist,1
+New York,Clubhouse Software,UI/UX Researcher,1
+New York,Clovity,UI/UX Researcher,1
+New York,Clear Point,UI/UX Researcher,1
+New York,Citi,Data Scientist,1
+New York,Citadel Securities,Data Scientist,1
+New York,Cervello Inc,UI/UX Researcher,1
+New York,Cedar Inc,UI/UX Researcher,1
+New York,Cedar,UI/UX Researcher,1
+New York,Cecelia Health,UI/UX Researcher,1
+New York,Catholic Health Services of Long Island,Data Scientist,1
+New York,Cash App,UI/UX Researcher,1
+Chicago,Selby Jennings,Data Scientist,1
+Chicago,ServiceNow,Data Scientist,1
+Chicago,Softvision - North America,Data Scientist,1
+Chicago,"Stampede Meat, Inc.",Data Scientist,1
+Chicago,Strong Analytics,Data Scientist,1
+New York,CKM Advisors,Data Scientist,1
+New York,CIA,UI/UX Researcher,1
+New York,CIA,Data Scientist,1
+New York,CFA Institute,UI/UX Researcher,1
+New York,Buxton,Data Scientist,1
+Indianapolis,Strategic Employment,UI/UX Researcher,1
+San Francisco,Apellis,Data Scientist,1
+New York,RB,Data Scientist,1
+Washington,Children's National Research Institute,UI/UX Researcher,1
+Washington,Cella,UI/UX Researcher,1
+Washington,Central Intelligence Agency,UI/UX Researcher,1
+Washington,Champions Oncology,UI/UX Researcher,1
+Washington,Chenega Corporation,Data Scientist,1
+Washington,Child Trends,UI/UX Researcher,1
+Washington,Children's National Hospital,UI/UX Researcher,1
+Washington,Circinus LLC,Data Scientist,1
+Washington,Cavan Solutions,UI/UX Researcher,1
+Washington,Clarity Campaign Labs,Data Scientist,1
+Washington,ClearEdge,Data Scientist,1
+Washington,Cognitio,Data Scientist,1
+Washington,Cognowiz LLC,Data Scientist,1
+Washington,Compass,UI/UX Researcher,1
+Washington,Computercraft,Data Scientist,1
+Washington,Celerity,UI/UX Researcher,1
+Washington,Capital One - US,Data Scientist,1
+San Francisco,Stripe,Data Scientist,1
+Washington,By Light HQ,Data Scientist,1
+Washington,Battelle,UI/UX Researcher,1
+Washington,"Best Value Technology, Inc.",Data Scientist,1
+Washington,Bizzell Group,UI/UX Researcher,1
+Washington,Blue Water Media,UI/UX Researcher,1
+Washington,BlueLabs Analytics,Data Scientist,1
+Washington,Booz Allen Hamilton,Data Scientist,1
+Washington,By Light Professional IT Services LLC,Data Scientist,1
+Washington,CNEWS,UI/UX Researcher,1
+Washington,C3.ai,Data Scientist,1
+Washington,CAQH,Data Scientist,1
+Washington,CARFAX,UI/UX Researcher,1
+Washington,CEDENT,Data Scientist,1
+Washington,"CGI Group, Inc.",Data Scientist,1
+Washington,CNA,Data Scientist,1
+Washington,Corporate Health Resources,Data Scientist,1
+Washington,Coverent,Data Scientist,1
+Washington,D-Tech,UI/UX Researcher,1
+Washington,George Washington University,UI/UX Researcher,1
+Washington,Fusion Technology-LLC,UI/UX Researcher,1
+Washington,"GBTI Solutions, Inc.",Data Scientist,1
+Washington,"GBTI Solutions, Inc.",UI/UX Researcher,1
+Washington,Gannett,Data Scientist,1
+Washington,General Motors,UI/UX Researcher,1
+Washington,George Mason University,UI/UX Researcher,1
+Washington,Georgetown University,Data Scientist,1
+Washington,DataLab USA,Data Scientist,1
+Washington,GetUpside,UI/UX Researcher,1
+Washington,GiveCampus,UI/UX Researcher,1
+Washington,Government Accountability Office,Data Scientist,1
+Washington,Govini,Data Scientist,1
+Washington,Great-Circle Technologies,Data Scientist,1
+Washington,Hanover Research,UI/UX Researcher,1
+Washington,Full Visibility,Data Scientist,1
+Washington,Frederick National Laboratories,UI/UX Researcher,1
+Washington,Freddie Mac,UI/UX Researcher,1
+Washington,FourthWall Media,Data Scientist,1
+Washington,Facebook,Data Scientist,1
+Washington,Expression Networks,UI/UX Researcher,1
+Washington,Excella Consulting,UI/UX Researcher,1
+Washington,Evidera,UI/UX Researcher,1
+Washington,Enterprise Knowledge,UI/UX Researcher,1
+Washington,Echelon Business Services,UI/UX Researcher,1
+Washington,ESAC Inc,UI/UX Researcher,1
+Washington,ERPi,UI/UX Researcher,1
+Washington,ERPI,UI/UX Researcher,1
+Washington,"ENSCO, Inc.",Data Scientist,1
+Washington,Dexis Consulting Group,Data Scientist,1
+Washington,DatamanUSA,UI/UX Researcher,1
+Washington,DataRobot,UI/UX Researcher,1
+Washington,BTS Software Solutions,Data Scientist,1
+Washington,B-Line Medical,UI/UX Researcher,1
+Washington,Axle Informatics,Data Scientist,1
+San Francisco,Veracyte,UI/UX Researcher,1
+San Francisco,Udemy,Data Scientist,1
+San Francisco,Unity Technologies,UI/UX Researcher,1
+San Francisco,"Upstart Network, Inc.",Data Scientist,1
+San Francisco,UserTesting,UI/UX Researcher,1
+San Francisco,VIEWS,Data Scientist,1
+San Francisco,Varo Money,UI/UX Researcher,1
+San Francisco,Ving Technologies,UI/UX Researcher,1
+San Francisco,Zymergen,UI/UX Researcher,1
+San Francisco,WAVELY,UI/UX Researcher,1
+San Francisco,Weights & Biases,UI/UX Researcher,1
+San Francisco,Whisper.ai,Data Scientist,1
+San Francisco,Wind River,Data Scientist,1
+San Francisco,Wish,UI/UX Researcher,1
+San Francisco,YouLand,UI/UX Researcher,1
+San Francisco,US Bank,UI/UX Researcher,1
+San Francisco,UJET,UI/UX Researcher,1
+San Francisco,Trovetechs Inc,Data Scientist,1
+San Francisco,Triplebyte,Data Scientist,1
+San Francisco,TransReach,Data Scientist,1
+San Francisco,Trace Data,Data Scientist,1
+San Francisco,Torani,Data Scientist,1
+San Francisco,Tile,UI/UX Researcher,1
+San Francisco,Tides,Data Scientist,1
+San Francisco,Thumbtack,UI/UX Researcher,1
+San Francisco,The Trade Desk,UI/UX Researcher,1
+San Francisco,TenantFolio,UI/UX Researcher,1
+San Francisco,TeaLeaf Technology,UI/UX Researcher,1
+San Francisco,Tapjoy,Data Scientist,1
+San Francisco,THE YES,UI/UX Researcher,1
+San Francisco,SurveyMonkey,UI/UX Researcher,1
+San Francisco,SurveyMonkey,Data Scientist,1
+San Francisco,Yummly,Data Scientist,1
+San Francisco,eBay Inc.,UI/UX Researcher,1
+Washington,Axiologic Solutions,Data Scientist,1
+Washington,Aptive,Data Scientist,1
+Washington,Amazon,UI/UX Researcher,1
+Washington,American Chemical Society,UI/UX Researcher,1
+Washington,American Geophysical Union,Data Scientist,1
+Washington,American Red Cross,UI/UX Researcher,1
+Washington,AmerisourceBergen,UI/UX Researcher,1
+Washington,"Amyx, Inc.",Data Scientist,1
+Washington,Arcellx,Data Scientist,1
+San Francisco,iRhythm,UI/UX Researcher,1
+Washington,"Assured Information Security, Inc. (AIS)",Data Scientist,1
+Washington,Atlas Research,Data Scientist,1
+Washington,Ava Consulting,UI/UX Researcher,1
+Washington,Avalonbay Communities,Data Scientist,1
+Washington,Avantus,Data Scientist,1
+Washington,"Aveshka, Inc.",Data Scientist,1
+Washington,"Allyon, Inc.",UI/UX Researcher,1
+Washington,Airlines Reporting Corporation,Data Scientist,1
+Washington,"Agile Defense, Inc.",UI/UX Researcher,1
+Washington,Ageatia Technology Consultancy Services,UI/UX Researcher,1
+Washington,Ad Hoc Team,UI/UX Researcher,1
+Washington,Acumen Solutions,UI/UX Researcher,1
+Washington,Acuity INC,UI/UX Researcher,1
+Washington,Absolute Business Solutions Corp,Data Scientist,1
+Washington,ASET Partners,Data Scientist,1
+Washington,AEM Corporation,Data Scientist,1
+Washington,ACS Group,UI/UX Researcher,1
+Washington,22nd Century Technologies,Data Scientist,1
+San Francisco,zb.io,UI/UX Researcher,1
+San Francisco,thredUP,UI/UX Researcher,1
+San Francisco,projekt202,UI/UX Researcher,1
+San Francisco,ixlayer,UI/UX Researcher,1
+San Francisco,iSpace Inc.,Data Scientist,1
+Washington,Henry M Jackson Foundation For The Advan,UI/UX Researcher,1
+Washington,Highlight Technologies,UI/UX Researcher,1
+Washington,Hire Velocity,Data Scientist,1
+Washington,Spinvi,Data Scientist,1
+Washington,Skylight,UI/UX Researcher,1
+Washington,Snagajob,Data Scientist,1
+Washington,SoSACorp,Data Scientist,1
+Washington,Solutions Through Innovative Technologies Inc,UI/UX Researcher,1
+Washington,Somatus,Data Scientist,1
+Washington,SphereOI Studios,Data Scientist,1
+Washington,Storyblocks,UI/UX Researcher,1
+Washington,The Henry M. Jackson Foundation,UI/UX Researcher,1
+Washington,"Strategic Education, Inc.",UI/UX Researcher,1
+Washington,Super Systems Inc,Data Scientist,1
+Washington,Swain Techs,Data Scientist,1
+Washington,Synergy BIS,UI/UX Researcher,1
+Washington,"Technology, Automation, and Management, Inc.",Data Scientist,1
+Washington,Tecolote Research,Data Scientist,1
+Washington,"Significance, Inc.",Data Scientist,1
+Washington,Sierra Nevada Corporation,Data Scientist,1
+Washington,Scientific Research Corporation,UI/UX Researcher,1
+Washington,Scientific Research Corporation,Data Scientist,1
+Washington,Salesforce,UI/UX Researcher,1
+Washington,SMI Client,UI/UX Researcher,1
+Washington,SAIC,Data Scientist,1
+Washington,Ridgeline International,UI/UX Researcher,1
+Washington,Rhombus Power,Data Scientist,1
+Washington,Reveal Global Consulting LLC,Data Scientist,1
+Washington,Results for Development,UI/UX Researcher,1
+Washington,Redhorse Corporation,Data Scientist,1
+Washington,Red Alpha LLC,UI/UX Researcher,1
+Washington,RIVA Solutions,Data Scientist,1
+Washington,RELX,Data Scientist,1
+Washington,REGENXBIO,Data Scientist,1
+Washington,QVine,Data Scientist,1
+Washington,The American Society of Nephrology,Data Scientist,1
+Washington,The Home Depot,UI/UX Researcher,1
+Washington,QOMPLX,Data Scientist,1
+Washington,VivusTech,Data Scientist,1
+Washington,Vanda Pharmaceuticals,Data Scientist,1
+Washington,Varen Technologies,Data Scientist,1
+Washington,Varen Technologies,UI/UX Researcher,1
+Washington,Vectorworks,UI/UX Researcher,1
+Washington,"Visionist, Inc.",Data Scientist,1
+Washington,Visual Connections,Data Scientist,1
+Washington,Volkswagen Group of America,UI/UX Researcher,1
+Washington,The Knot Worldwide,Data Scientist,1
+Washington,WESTAT,UI/UX Researcher,1
+Washington,World Bank,Data Scientist,1
+Washington,XOR Security,Data Scientist,1
+Washington,Xator Corporation,Data Scientist,1
+Washington,Xiartech,Data Scientist,1
+Washington,Zel Technologies,Data Scientist,1
+Washington,"Valted Seq, Inc.",Data Scientist,1
+Washington,Valex LLC,UI/UX Researcher,1
+Washington,VIDIZMO LLC,UI/UX Researcher,1
+Washington,University of Southern California,UI/UX Researcher,1
+Washington,University of Maryland Capital Region Health,UI/UX Researcher,1
+Washington,USC,UI/UX Researcher,1
+Washington,US Other Agencies and Independent Organizations,Data Scientist,1
+Washington,US Legislative Branch,Data Scientist,1
+Washington,Twitter Inc,UI/UX Researcher,1
+Washington,Turner Broadcasting,UI/UX Researcher,1
+Washington,Tripoint Solutions,Data Scientist,1
+Washington,Trident Systems Inc,Data Scientist,1
+Washington,TransVoyant,Data Scientist,1
+Washington,"ThreatConnect, Inc.",UI/UX Researcher,1
+Washington,Thomson Reuters,Data Scientist,1
+Washington,The Washington Post,UI/UX Researcher,1
+Washington,The Motley Fool,UI/UX Researcher,1
+Washington,QUICK SERVICES LLC,Data Scientist,1
+Washington,Publicis Sapient,UI/UX Researcher,1
+Washington,Huntington Ingalls Industries Inc.,UI/UX Researcher,1
+Washington,LOCKHEED MARTIN CORPORATION,UI/UX Researcher,1
+Washington,Johns Hopkins University Applied Physics Laboratory,UI/UX Researcher,1
+Washington,KPMG,UI/UX Researcher,1
+Washington,Kearns & West,UI/UX Researcher,1
+Washington,Kensho,Data Scientist,1
+Washington,Kingfisher Systems,Data Scientist,1
+Washington,Knowesis Inc.,Data Scientist,1
+Washington,Lidl US,Data Scientist,1
+Washington,Medical Science & Computing,UI/UX Researcher,1
+Washington,MEDSTAR HEALTH,UI/UX Researcher,1
+Washington,MSAG,Data Scientist,1
+Washington,ManTech,Data Scientist,1
+Washington,Marathon TS,Data Scientist,1
+Washington,"Marriott International, Inc",Data Scientist,1
+Washington,Marys Center For Maternal and Child Care,Data Scientist,1
+Washington,Johns Hopkins University,UI/UX Researcher,1
+Washington,Johns Hopkins Applied Physics Laboratory (APL),UI/UX Researcher,1
+Washington,Jacobs,Data Scientist,1
+Washington,Internal Revenue Service,Data Scientist,1
+Washington,Inter-American Development Bank,Data Scientist,1
+Washington,IntelliWare Systems,UI/UX Researcher,1
+Washington,Institute for Defense Analyses,UI/UX Researcher,1
+Washington,Institute for Defense Analyses,Data Scientist,1
+Washington,Insomniac Design,UI/UX Researcher,1
+Washington,Industry Dive,UI/UX Researcher,1
+Washington,Improvix Technologies,Data Scientist,1
+Washington,Id.me,UI/UX Researcher,1
+Washington,ITResonance,Data Scientist,1
+Washington,IOMAXIS,UI/UX Researcher,1
+Washington,IBR (Imagine Believe Realize),Data Scientist,1
+Washington,I 360,Data Scientist,1
+Washington,Huxley,Data Scientist,1
+Washington,MedStar Washington Hospital Center,UI/UX Researcher,1
+Washington,MetiStream,Data Scientist,1
+Washington,Prominent Edge LLC,UI/UX Researcher,1
+Washington,Par Government Systems Corporation,Data Scientist,1
+Washington,OraApps Inc,UI/UX Researcher,1
+Washington,Orbital Insight,Data Scientist,1
+Washington,Orcid,UI/UX Researcher,1
+Washington,Ordway Labs,UI/UX Researcher,1
+Washington,Outreach Process Partners,UI/UX Researcher,1
+Washington,Palantir Technologies,UI/UX Researcher,1
+Washington,PayPal,UI/UX Researcher,1
+Washington,"Metronome, LLC",Data Scientist,1
+Washington,Peraton,Data Scientist,1
+Washington,Peraton,UI/UX Researcher,1
+Washington,Perspecta,UI/UX Researcher,1
+Washington,Pivotal Software,Data Scientist,1
+Washington,Praescient Analytics,Data Scientist,1
+Washington,"Profile Placement Services, LLC",UI/UX Researcher,1
+Washington,OneGlobe LLC,Data Scientist,1
+Washington,Omni Federal,UI/UX Researcher,1
+Washington,"OPSPro, LLC",Data Scientist,1
+Washington,NuWave Solutions,Data Scientist,1
+Washington,Novavax,Data Scientist,1
+Washington,NewDay USA,Data Scientist,1
+Washington,"New Light Technologies, Inc.",Data Scientist,1
+Washington,NetImpact Strategies,UI/UX Researcher,1
+Washington,NetImpact Strategies,Data Scientist,1
+Washington,Nestle USA,Data Scientist,1
+Washington,"Navstar, Inc.",UI/UX Researcher,1
+Washington,National Security Agency,Data Scientist,1
+Washington,National Science Foundation,UI/UX Researcher,1
+Washington,National Association of Manufacturers,UI/UX Researcher,1
+Washington,NRECA,Data Scientist,1
+Washington,NORC at the University of Chicago,UI/UX Researcher,1
+Washington,Mount Indie,Data Scientist,1
+San Francisco,Sumo Logic,UI/UX Researcher,1
+San Francisco,Streamlit,Data Scientist,1
+New York,RBC,Data Scientist,1
+San Francisco,Apex Systems,UI/UX Researcher,1
+San Francisco,Allstate,UI/UX Researcher,1
+San Francisco,"Alto Neuroscience, Inc",Data Scientist,1
+San Francisco,Alveo Technologies,Data Scientist,1
+San Francisco,Amazon,UI/UX Researcher,1
+San Francisco,Amgen,Data Scientist,1
+San Francisco,Amobee,Data Scientist,1
+San Francisco,Arrow Digital,Data Scientist,1
+San Francisco,Airtable,UI/UX Researcher,1
+San Francisco,Asana,Data Scientist,1
+San Francisco,Ascent Services Group,UI/UX Researcher,1
+San Francisco,Aspatore Ventures,UI/UX Researcher,1
+San Francisco,Avani Technology Solutions,Data Scientist,1
+San Francisco,Avila Trading,Data Scientist,1
+San Francisco,BEPC Inc,UI/UX Researcher,1
+San Francisco,Alibaba,UI/UX Researcher,1
+San Francisco,Airtable,Data Scientist,1
+San Francisco,States Title,Data Scientist,1
+New York,Zoetis,Data Scientist,1
+New York,Xylem,Data Scientist,1
+New York,Yext,Data Scientist,1
+New York,YiYiEnglish,UI/UX Researcher,1
+New York,ZS Associates,UI/UX Researcher,1
+New York,"Zenda, LLC",UI/UX Researcher,1
+New York,Zocdoc,UI/UX Researcher,1
+New York,frog,UI/UX Researcher,1
+San Francisco,Aible,Data Scientist,1
+New York,h2o.ai,Data Scientist,1
+San Francisco,22nd Century Technologies,Data Scientist,1
+San Francisco,6sense,Data Scientist,1
+San Francisco,"AAA Northern California, Nevada & Utah",Data Scientist,1
+San Francisco,Activision Blizzard,Data Scientist,1
+San Francisco,Adobe,Data Scientist,1
+San Francisco,BICP,Data Scientist,1
+San Francisco,BOLD,UI/UX Researcher,1
+San Francisco,Benchling,UI/UX Researcher,1
+San Francisco,Coinbase,Data Scientist,1
+San Francisco,Circle Pharma,UI/UX Researcher,1
+San Francisco,CircleUp,Data Scientist,1
+San Francisco,Citrine Informatics,Data Scientist,1
+San Francisco,Cloudbeds,UI/UX Researcher,1
+San Francisco,Coalition,UI/UX Researcher,1
+San Francisco,Coalition Inc.,UI/UX Researcher,1
+San Francisco,Coinbase,UI/UX Researcher,1
+San Francisco,Berkeley Lights,UI/UX Researcher,1
+San Francisco,Connor Group,Data Scientist,1
+San Francisco,Creative Circle,UI/UX Researcher,1
+San Francisco,Creative Circle ,UI/UX Researcher,1
+San Francisco,Cypress HCM,UI/UX Researcher,1
+San Francisco,Data Bridge Consultants,UI/UX Researcher,1
+San Francisco,DataRobot,Data Scientist,1
+San Francisco,Charles Schwab,UI/UX Researcher,1
+San Francisco,Chan Zuckerberg Initiative,UI/UX Researcher,1
+San Francisco,Chan Zuckerberg Initiative,Data Scientist,1
+San Francisco,Chan Zuckerberg Biohub,Data Scientist,1
+San Francisco,Carpenter/Robbins Commercial Real Estate,UI/UX Researcher,1
+San Francisco,CareDx,Data Scientist,1
+San Francisco,Carbon Health Technologies,UI/UX Researcher,1
+San Francisco,Canventa Life Sciences,Data Scientist,1
+San Francisco,CanMedLabs,Data Scientist,1
+San Francisco,CIA,UI/UX Researcher,1
+San Francisco,CIA,Data Scientist,1
+San Francisco,Brilliant,UI/UX Researcher,1
+San Francisco,Bok Modern,UI/UX Researcher,1
+San Francisco,Blend Labs,UI/UX Researcher,1
+San Francisco,BigCommerce,Data Scientist,1
+San Francisco,Big Health (CA),UI/UX Researcher,1
+San Francisco,Big Fish Games,UI/UX Researcher,1
+New York,Xero,UI/UX Researcher,1
+New York,Wynden Stark,Data Scientist,1
+New York,Wunderkind,UI/UX Researcher,1
+New York,Sony Electronics,Data Scientist,1
+New York,Sharecare Inc.,Data Scientist,1
+New York,Sia Partners,Data Scientist,1
+New York,Signature Consultants,UI/UX Researcher,1
+New York,Sionic,Data Scientist,1
+New York,Snap,Data Scientist,1
+New York,Snappy,UI/UX Researcher,1
+New York,Source Enterprises,Data Scientist,1
+New York,TEC Systems Inc,UI/UX Researcher,1
+New York,Sphinix Solutions,Data Scientist,1
+New York,Spin Master Ltd,UI/UX Researcher,1
+New York,Square,UI/UX Researcher,1
+New York,Squarespace,UI/UX Researcher,1
+New York,Sterling National Bank,UI/UX Researcher,1
+New York,SundaySky,Data Scientist,1
+New York,Shareablee,Data Scientist,1
+New York,Sapphire Digital,Data Scientist,1
+New York,Saks Fifth Avenue,Data Scientist,1
+New York,SailPoint Technologies,UI/UX Researcher,1
+New York,Sagence,Data Scientist,1
+New York,SADA,Data Scientist,1
+New York,Rhythm Energy,Data Scientist,1
+New York,Rhino New York,UI/UX Researcher,1
+New York,Revlon,Data Scientist,1
+New York,Reddit,Data Scientist,1
+New York,Reaktor,UI/UX Researcher,1
+New York,Raytheon Technologies Corporate,UI/UX Researcher,1
+New York,Rapidosoft Technologies,UI/UX Researcher,1
+New York,Ralph Lauren,UI/UX Researcher,1
+New York,RXR Realty,Data Scientist,1
+New York,RTX,UI/UX Researcher,1
+New York,RISIRISA,Data Scientist,1
+New York,Synechron,Data Scientist,1
+New York,"TPR Education, LLC",UI/UX Researcher,1
+New York,Women's World Banking,UI/UX Researcher,1
+New York,Updater,UI/UX Researcher,1
+New York,Triplebyte,Data Scientist,1
+New York,TuneCore,UI/UX Researcher,1
+New York,Twitter,Data Scientist,1
+New York,Two Sigma,Data Scientist,1
+New York,US Bank,UI/UX Researcher,1
+New York,Unicom Technologies INC,Data Scientist,1
+New York,Viacom,Data Scientist,1
+New York,Taboola,Data Scientist,1
+New York,Virtu Financial,Data Scientist,1
+New York,Vyaire Medical,Data Scientist,1
+New York,Walmart,Data Scientist,1
+New York,Weber Shandwick,UI/UX Researcher,1
+New York,Wheels Up Partners LLC,Data Scientist,1
+New York,White Ops,Data Scientist,1
+New York,TransRe,Data Scientist,1
+New York,Thrive Global,UI/UX Researcher,1
+New York,Thomson Reuters,UI/UX Researcher,1
+New York,Thermo Fisher Scientific,UI/UX Researcher,1
+New York,The Trade Desk,UI/UX Researcher,1
+New York,The Rockridge Group,UI/UX Researcher,1
+New York,The Org,Data Scientist,1
+New York,The New York Times,Data Scientist,1
+New York,The NPD Group,UI/UX Researcher,1
+New York,The Knot Worldwide,UI/UX Researcher,1
+New York,Teza Technologies,UI/UX Researcher,1
+New York,TeePublic,Data Scientist,1
+New York,Teachers Pay Teachers,UI/UX Researcher,1
+New York,Teachers Pay Teachers,Data Scientist,1
+New York,Tapad,Data Scientist,1
+New York,Talkspace,Data Scientist,1
+New York,Talent Inc.,Data Scientist,1
+San Francisco,Datatron Technologies,Data Scientist,1
+San Francisco,Datatron Technologies,UI/UX Researcher,1
+San Francisco,Deep Labs,Data Scientist,1
+San Francisco,Postmates,Data Scientist,1
+San Francisco,PepsiCo,Data Scientist,1
+San Francisco,Phlint,UI/UX Researcher,1
+San Francisco,PicnicHealth,UI/UX Researcher,1
+San Francisco,Plenty,Data Scientist,1
+San Francisco,Plexuss,Data Scientist,1
+San Francisco,Postdot Technologies,UI/UX Researcher,1
+San Francisco,Potrero Medical Inc.,Data Scientist,1
+San Francisco,Reddit,UI/UX Researcher,1
+San Francisco,Primer Ai,Data Scientist,1
+San Francisco,PubMatic,Data Scientist,1
+San Francisco,Punchh,UI/UX Researcher,1
+San Francisco,Quizlet,UI/UX Researcher,1
+San Francisco,Randstad US,UI/UX Researcher,1
+San Francisco,ReadMe,UI/UX Researcher,1
+San Francisco,Penumbra,UI/UX Researcher,1
+San Francisco,PayPal,Data Scientist,1
+San Francisco,PayJoy,UI/UX Researcher,1
+San Francisco,Patreon,UI/UX Researcher,1
+San Francisco,Padlet,UI/UX Researcher,1
+San Francisco,PPD,Data Scientist,1
+San Francisco,PACT Pharma,Data Scientist,1
+San Francisco,Oxygen,Data Scientist,1
+San Francisco,Orbital Sidekick,Data Scientist,1
+San Francisco,Opendoor,Data Scientist,1
+San Francisco,On Board Experiential Marketing,UI/UX Researcher,1
+San Francisco,OPPORTUNITY FUND NORTHERN CALIFORNIA,Data Scientist,1
+San Francisco,NoshList,UI/UX Researcher,1
+San Francisco,NorthOne,Data Scientist,1
+San Francisco,Noblr,Data Scientist,1
+San Francisco,Noah,Data Scientist,1
+San Francisco,Niantic,UI/UX Researcher,1
+San Francisco,Reddit,Data Scientist,1
+San Francisco,Retool,Data Scientist,1
+San Francisco,Nextdoor,UI/UX Researcher,1
+San Francisco,Softvision,Data Scientist,1
+San Francisco,Sitecore,UI/UX Researcher,1
+San Francisco,Slalom LLC.,Data Scientist,1
+San Francisco,"SmartNews, Inc.",UI/UX Researcher,1
+San Francisco,Snap,Data Scientist,1
+San Francisco,Snowflake,Data Scientist,1
+San Francisco,SoFi,Data Scientist,1
+San Francisco,Softvision - North America,Data Scientist,1
+San Francisco,Returnly,UI/UX Researcher,1
+San Francisco,Sony PlayStation,UI/UX Researcher,1
+San Francisco,Spectra Infosystems,Data Scientist,1
+San Francisco,Spin,Data Scientist,1
+San Francisco,Spotify,Data Scientist,1
+San Francisco,SquareTrade,Data Scientist,1
+San Francisco,Standard Chartered,Data Scientist,1
+San Francisco,Sisu Data,UI/UX Researcher,1
+San Francisco,Silicon Valley Bank,UI/UX Researcher,1
+San Francisco,"Side, Inc.",Data Scientist,1
+San Francisco,Shogun,Data Scientist,1
+San Francisco,Shaper Tools,UI/UX Researcher,1
+San Francisco,Senti Biosciences,Data Scientist,1
+San Francisco,Segment,Data Scientist,1
+San Francisco,Scale AI,UI/UX Researcher,1
+San Francisco,Sauce Labs,UI/UX Researcher,1
+San Francisco,Salesforce,Data Scientist,1
+San Francisco,SRG,Data Scientist,1
+San Francisco,SPODIO,UI/UX Researcher,1
+San Francisco,Rumble Entertainment,UI/UX Researcher,1
+San Francisco,Rubicon,Data Scientist,1
+San Francisco,"Rodan and Fields, LLC",Data Scientist,1
+San Francisco,Roche,UI/UX Researcher,1
+San Francisco,Roblox,UI/UX Researcher,1
+San Francisco,Ngm Biopharmaceuticals,UI/UX Researcher,1
+San Francisco,NextDeavor Services,UI/UX Researcher,1
+San Francisco,Dell Technologies,UI/UX Researcher,1
+San Francisco,Gusto,Data Scientist,1
+San Francisco,Flexton,Data Scientist,1
+San Francisco,Fuze,UI/UX Researcher,1
+San Francisco,Geli,Data Scientist,1
+San Francisco,Getty Images,UI/UX Researcher,1
+San Francisco,Google,Data Scientist,1
+San Francisco,Grammarly,UI/UX Researcher,1
+San Francisco,"HKS, Inc.",UI/UX Researcher,1
+San Francisco,Instagram,UI/UX Researcher,1
+San Francisco,Harnham US,Data Scientist,1
+San Francisco,HashiCorp,UI/UX Researcher,1
+San Francisco,Heluna Health,UI/UX Researcher,1
+San Francisco,Hinge Health,UI/UX Researcher,1
+San Francisco,Hive (CA),Data Scientist,1
+San Francisco,Idean,UI/UX Researcher,1
+San Francisco,Flexport,UI/UX Researcher,1
+San Francisco,Flexport,Data Scientist,1
+San Francisco,Finrise,Data Scientist,1
+San Francisco,Fanatics,Data Scientist,1
+San Francisco,Faire,UI/UX Researcher,1
+San Francisco,Evernote,Data Scientist,1
+San Francisco,Everlaw,UI/UX Researcher,1
+San Francisco,Everlane,Data Scientist,1
+San Francisco,Epic,UI/UX Researcher,1
+San Francisco,Engagio,UI/UX Researcher,1
+San Francisco,Eluvio,UI/UX Researcher,1
+San Francisco,Electronic Arts,Data Scientist,1
+San Francisco,Eaze,Data Scientist,1
+San Francisco,Early Warning Services,UI/UX Researcher,1
+San Francisco,Drizly,Data Scientist,1
+San Francisco,Driven Brands / 1-800 Radiator & A/C,Data Scientist,1
+San Francisco,Doctor On Demand,UI/UX Researcher,1
+San Francisco,Instacart,Data Scientist,1
+San Francisco,IntelliPro Group Inc.,UI/UX Researcher,1
+San Francisco,Nerdify,UI/UX Researcher,1
+San Francisco,Miles,Data Scientist,1
+San Francisco,MasterClass,UI/UX Researcher,1
+San Francisco,Mawi DNA Technologies,Data Scientist,1
+San Francisco,Media Matters Worldwide,Data Scientist,1
+San Francisco,Medium,Data Scientist,1
+San Francisco,Metromile,UI/UX Researcher,1
+San Francisco,Microsoft,Data Scientist,1
+San Francisco,Miles,UI/UX Researcher,1
+San Francisco,Intrinsic Imaging,UI/UX Researcher,1
+San Francisco,Minted,UI/UX Researcher,1
+San Francisco,Mixpanel,UI/UX Researcher,1
+San Francisco,Movoto,UI/UX Researcher,1
+San Francisco,Mozilla Corporation,UI/UX Researcher,1
+San Francisco,MuleSoft,Data Scientist,1
+San Francisco,Myriad Genetics Inc.,UI/UX Researcher,1
+San Francisco,MarinHealth Medical Center,Data Scientist,1
+San Francisco,Lore Ventures,Data Scientist,1
+San Francisco,Loom,Data Scientist,1
+San Francisco,Lonza,Data Scientist,1
+San Francisco,Logic20/20,Data Scientist,1
+San Francisco,Lively,UI/UX Researcher,1
+San Francisco,Kunai Consulting,UI/UX Researcher,1
+San Francisco,Komodo Health,UI/UX Researcher,1
+San Francisco,Kiva.org,UI/UX Researcher,1
+San Francisco,Kite,UI/UX Researcher,1
+San Francisco,Kinship,Data Scientist,1
+San Francisco,Kforce,Data Scientist,1
+San Francisco,Karius,Data Scientist,1
+San Francisco,Kaiser Permanente,Data Scientist,1
+San Francisco,Juniper Square,UI/UX Researcher,1
+San Francisco,June,UI/UX Researcher,1
+San Francisco,Joby Aviation,Data Scientist,1
+Chicago,1871 Member Companies,Data Scientist,1
+Los Angeles,Verndale,Digital Marketing,1
+Chicago,Backstop Solutions,Game Design,1
+Los Angeles,Respawn Entertainment,VR Engineering,1
+Los Angeles,Picture Head LLC,Game Design,1
+Los Angeles,Restaurant Brands International,Digital Marketing,1
+Chicago,TheoremReach,Game Design,1
+Chicago,Trinity Christian College,Game Design,1
+Los Angeles,Pearl Abyss America,Game Design,1
+Chicago,Turf,Game Design,1
+Chicago,Turner Broadcasting,Game Design,1
+Los Angeles,Pearl Abyss America,Digital Marketing,1
+Chicago,U.S. Army,Game Design,1
+Los Angeles,Papa & Barkley,Digital Marketing,1
+Los Angeles,PUBG,Game Design,1
+Chicago,Wargaming,Game Design,1
+Los Angeles,Outlook Resources,Game Design,1
+Los Angeles,Oracle,VR Engineering,1
+Chicago,Warner Bros. Entertainment Group,Game Design,1
+Los Angeles,OSEA,Digital Marketing,1
+Chicago,WaterSaver Faucet,Game Design,1
+Chicago,S&S Activewear,Game Design,1
+Los Angeles,OODDA INC.,Digital Marketing,1
+Los Angeles,ONEHOPE,Game Design,1
+Chicago,BCD Travel,Game Design,1
+Chicago,SBT Agency,Game Design,1
+Chicago,Cambridge Educational Services,Game Design,1
+Chicago,The UPS Store,Game Design,1
+Los Angeles,Relocity,Digital Marketing,1
+Los Angeles,VapeDynamics,Digital Marketing,1
+Chicago,SlideGenius,Game Design,1
+Los Angeles,ViacomCBS,Game Design,1
+Los Angeles,"Valor Communication, Inc.",Game Design,1
+Los Angeles,Viasat,Digital Marketing,1
+Los Angeles,REX,Game Design,1
+Los Angeles,Pure Imagination Studios,Game Design,1
+Los Angeles,Volcus,Digital Marketing,1
+Chicago,Beacon Hill Staffing Group,Game Design,1
+Los Angeles,Promotion LA,Digital Marketing,1
+Los Angeles,Promenade,Digital Marketing,1
+Chicago,TUPSS# 7052,Game Design,1
+Los Angeles,PrettyLitter,Digital Marketing,1
+Los Angeles,"Volcus (SoundBot, PicassoTiles)",Digital Marketing,1
+Los Angeles,Premier Lacrosse League,Digital Marketing,1
+Los Angeles,Plynius Inc.,Game Design,1
+Los Angeles,OK International,Digital Marketing,1
+Los Angeles,PlayQ,Game Design,1
+Chicago,SRAM,Game Design,1
+Los Angeles,Planet Escape Room,Game Design,1
+Chicago,"Digital Diagnostics, Inc.",Game Design,1
+Los Angeles,"ODK Media, Inc.",Digital Marketing,1
+Chicago,Webhelp IT,Game Design,1
+Indianapolis,Approval Payment Solutions,Digital Marketing,1
+Los Angeles,Murad,Digital Marketing,1
+Indianapolis,All Inclusive Marketing,Digital Marketing,1
+Los Angeles,Movoto,Digital Marketing,1
+Los Angeles,WhoWhatWhy,Game Design,1
+Los Angeles,Moitie Cosmetics LLC,Game Design,1
+Indianapolis,Anytime Fitness,Digital Marketing,1
+Chicago,Abt,Game Design,1
+Los Angeles,Misunderstood Genius,Game Design,1
+Indianapolis,Apex Systems,VR Engineering,1
+Chicago,555 International,Game Design,1
+Los Angeles,MediaMonks,Game Design,1
+Indianapolis,Apttus,Digital Marketing,1
+Chicago,Robinson Hill,Game Design,1
+Los Angeles,MedMen,Digital Marketing,1
+Los Angeles,McDermott Will & Emery,Digital Marketing,1
+Los Angeles,Mattel,Digital Marketing,1
+Los Angeles,Marvin Engineering Comp,Game Design,1
+Los Angeles,Marmol Radziner,Game Design,1
+Los Angeles,Marcus & Millichap,Game Design,1
+Indianapolis,Artisan Talent,Digital Marketing,1
+Los Angeles,Wishare Media Group,Digital Marketing,1
+Los Angeles,Magic Leap - Multiple Locations,VR Engineering,1
+Los Angeles,Mad Decent Records,Digital Marketing,1
+Indianapolis,Badger Daylighting,Digital Marketing,1
+Indianapolis,Adzuna,Digital Marketing,1
+Indianapolis,AUDIENCEX,Digital Marketing,1
+Los Angeles,NBCUniversal,Game Design,1
+Los Angeles,NEXT Trucking,Digital Marketing,1
+Chicago,Weigel Broadcasting Co.,Game Design,1
+Chicago,Aquent,Game Design,1
+Los Angeles,NuORDER,Digital Marketing,1
+Chicago,Ameristar Casino Hotel East Chicago,Game Design,1
+Chicago,Wheels,Game Design,1
+Los Angeles,Noxsolutions.com,Game Design,1
+Los Angeles,Nox Solutions,Game Design,1
+Los Angeles,Northridge Dental Group,Digital Marketing,1
+Los Angeles,Nordstrom,Game Design,1
+Chicago,"American Metal Technologies, LLC",Game Design,1
+Los Angeles,Nine Zeros Entertainment,Digital Marketing,1
+Chicago,WhoWhatWhy,Game Design,1
+Los Angeles,NewMark Merrill Companies,Digital Marketing,1
+Los Angeles,New Level Resources,Digital Marketing,1
+Los Angeles,Walker Advertising,Digital Marketing,1
+Chicago,Advantage Solutions,Game Design,1
+Chicago,aeris,Game Design,1
+Los Angeles,Warner Content & Enterprise Technology,VR Engineering,1
+Chicago,social sweethearts GmbH,Game Design,1
+Los Angeles,NVE Experience Agency,Game Design,1
+Los Angeles,NVE Experience Agency,Digital Marketing,1
+Chicago,Accel Entertainment,Game Design,1
+Los Angeles,Warner Music Group,Digital Marketing,1
+Chicago,Rule One Proteins,Game Design,1
+Chicago,Rightpoint,Game Design,1
+Los Angeles,VINCEBRACY Network,Game Design,1
+Los Angeles,Team Rubicon,Game Design,1
+Los Angeles,Tastemade,Digital Marketing,1
+Chicago,Ignite Mental Health,Game Design,1
+Los Angeles,TapBlaze,Digital Marketing,1
+Chicago,Dealer e Process,Game Design,1
+Los Angeles,"Talley, Inc.",Digital Marketing,1
+Los Angeles,TS Apparel,Game Design,1
+Los Angeles,TOMS ,Digital Marketing,1
+Los Angeles,THE Celebration Media,Digital Marketing,1
+Chicago,Internap Network Services,Game Design,1
+Los Angeles,TDmonthly,Game Design,1
+Los Angeles,T-1 Lighting Inc.,Game Design,1
+Los Angeles,Syneos Health Commercial Solutions,Digital Marketing,1
+Chicago,John Ronan Architects,Game Design,1
+Chicago,Level Ex,Game Design,1
+Chicago,Loughran & Co,Game Design,1
+Chicago,M1 Finance,Game Design,1
+Chicago,Cubii,Game Design,1
+Los Angeles,Sun West Mortgage,Game Design,1
+Los Angeles,Style Melody Fashion,Game Design,1
+Los Angeles,StudioBinder,Game Design,1
+Chicago,ClearCut Analytics,Game Design,1
+Los Angeles,Studio71,Digital Marketing,1
+Chicago,M1 Holdings,Game Design,1
+Chicago,Herrera Environmental,Game Design,1
+Los Angeles,Team Tyler Burns Basketball Fan Page,Digital Marketing,1
+Chicago,Rivers Casino (Illinois),Game Design,1
+Chicago,Hays Companies,Game Design,1
+Chicago,FASTSIGNS #2169,Game Design,1
+Los Angeles,Thomas,Digital Marketing,1
+Chicago,"FTD Companies, Inc",Game Design,1
+Los Angeles,Thinkingbox,Game Design,1
+Chicago,Fetch Rewards,Game Design,1
+Los Angeles,Therabody,Game Design,1
+Los Angeles,The World's Largest Social Network,Digital Marketing,1
+Chicago,Geometry Global,Game Design,1
+Chicago,GoHealth,Game Design,1
+Chicago,Deloitte,Game Design,1
+Los Angeles,Tinuiti - 2,Digital Marketing,1
+Los Angeles,The Switch,Digital Marketing,1
+Los Angeles,The Suarez Team,Digital Marketing,1
+Los Angeles,Tispr,Digital Marketing,1
+Los Angeles,The National Consensus,Digital Marketing,1
+Los Angeles,The Hire Talent,Digital Marketing,1
+Chicago,Goldman Sachs,Game Design,1
+Los Angeles,The Control Group,Digital Marketing,1
+Los Angeles,The Collected Group,Game Design,1
+Los Angeles,The Aerospace Corporation,Game Design,1
+Los Angeles,Terra Choices,Game Design,1
+Los Angeles,Tencent,Game Design,1
+Chicago,Hallcon,Game Design,1
+Los Angeles,StartEngine,Game Design,1
+Los Angeles,StartEngine,Digital Marketing,1
+Los Angeles,Squanch Games Inc,Game Design,1
+Los Angeles,Spyder Auto,Game Design,1
+Chicago,One Hope United,Game Design,1
+Los Angeles,ServiceTitan,Digital Marketing,1
+Los Angeles,Untapped Life,Digital Marketing,1
+Chicago,Optomi LLC,Game Design,1
+Chicago,"Penn National Gaming, Inc.",Game Design,1
+Chicago,PluroTech,Game Design,1
+Los Angeles,San Miguel Medical Group,Game Design,1
+Chicago,PulseTV,Game Design,1
+Los Angeles,SafePort Cannabis Dispensary,Game Design,1
+Los Angeles,Sabrina & Joan,Digital Marketing,1
+Chicago,RKON,Game Design,1
+Chicago,Red Circle,Game Design,1
+Los Angeles,SQ Medical Supplies Inc.,Game Design,1
+Los Angeles,SKIN GYM,Game Design,1
+Los Angeles,Upfluence,Digital Marketing,1
+Los Angeles,SERVPRO of Walnut,Digital Marketing,1
+Los Angeles,SBH Fashion,Game Design,1
+Los Angeles,V R Della Infotech Inc,Game Design,1
+Los Angeles,Rsgactive,Game Design,1
+Los Angeles,Rsgactive,Digital Marketing,1
+Los Angeles,Robert Half,Game Design,1
+Los Angeles,Tic Toc Games,Game Design,1
+Los Angeles,Robert Half,Digital Marketing,1
+Los Angeles,SimplePractice,Digital Marketing,1
+Los Angeles,MOBILESTYLES,Digital Marketing,1
+Chicago,Now Foods,Game Design,1
+Los Angeles,Turner Broadcasting,VR Engineering,1
+Los Angeles,"SprintRay, Inc.",Digital Marketing,1
+Chicago,MATC Group Inc,Game Design,1
+Chicago,Majestic Star,Game Design,1
+Chicago,Chicago Sport LLC,Game Design,1
+Los Angeles,Spotify,Digital Marketing,1
+Chicago,Chicago Creative Group,Game Design,1
+Los Angeles,Spokeo,Digital Marketing,1
+Chicago,Mendix,Game Design,1
+Los Angeles,Special Occasion Dresses,Digital Marketing,1
+Chicago,Midwest Goods Inc.,Game Design,1
+Los Angeles,Unbroken Studios,Game Design,1
+Los Angeles,Sinclair Broadcast Group,Game Design,1
+Chicago,Modev,Game Design,1
+Los Angeles,Social Lighthouse,Digital Marketing,1
+Los Angeles,SoFi Stadium and Hollywood Park,Game Design,1
+Chicago,NetherRealm,Game Design,1
+Los Angeles,SoFi Stadium and Hollywood Park,Digital Marketing,1
+Los Angeles,Smartly.io,Digital Marketing,1
+Los Angeles,SmartAction,Game Design,1
+Los Angeles,Unisan,Digital Marketing,1
+Los Angeles,Sincro,Digital Marketing,1
+Los Angeles,"United Pacific Industries, INC.",Digital Marketing,1
+Los Angeles,MP Clothing Inc.,Game Design,1
+Indianapolis,TrendyMinds,Digital Marketing,1
+Los Angeles,MGM Studios,Game Design,1
+Indianapolis,Base Camp Country,Digital Marketing,1
+Los Angeles,Black Hawk Entertainment,Digital Marketing,1
+Indianapolis,Michigan CAT,Digital Marketing,1
+Indianapolis,Milliman,Digital Marketing,1
+Los Angeles,Belly Bandit,Game Design,1
+Los Angeles,Belly Bandit,Digital Marketing,1
+Indianapolis,Milliman,Game Design,1
+Indianapolis,Mister Quik Home Services,Digital Marketing,1
+Indianapolis,MuleSoft,Game Design,1
+Indianapolis,NVR,Digital Marketing,1
+Indianapolis,Nyla Denae Enterprises,Digital Marketing,1
+Indianapolis,Orbis,Digital Marketing,1
+Indianapolis,Orbis Education,Digital Marketing,1
+Los Angeles,Baby2Baby,Digital Marketing,1
+Los Angeles,BCI Acrylic,Digital Marketing,1
+Los Angeles,AvantStay,Game Design,1
+Los Angeles,AvantStay,Digital Marketing,1
+Los Angeles,Athgo,Digital Marketing,1
+Los Angeles,Ardmore Home Design Inc,Game Design,1
+Los Angeles,Ardmore Home Design,Game Design,1
+Indianapolis,PNC Financial Services Group,Digital Marketing,1
+Los Angeles,Apption Labs,Game Design,1
+Los Angeles,AppliedVR,VR Engineering,1
+Los Angeles,"Applied Minds, LLC",Game Design,1
+Los Angeles,Anastasia Beverly Hills,Game Design,1
+Los Angeles,Analog Devices,VR Engineering,1
+Los Angeles,Amgen,Digital Marketing,1
+Indianapolis,POLARIS Laboratories,Digital Marketing,1
+Los Angeles,Boston Scientific Corporation,Digital Marketing,1
+Los Angeles,Brainrider,Digital Marketing,1
+Los Angeles,"Breakdown Services, Ltd.",Game Design,1
+Los Angeles,City Beauty,Digital Marketing,1
+Indianapolis,Keller Williams Indianapolis Metro North,Digital Marketing,1
+Los Angeles,Cozymeal,Digital Marketing,1
+Los Angeles,Couples Learn,Digital Marketing,1
+Indianapolis,Kenzie Academy,Digital Marketing,1
+Los Angeles,Connexity,Digital Marketing,1
+Indianapolis,Koorsen Fire & Security,Digital Marketing,1
+Los Angeles,Comcast Spectacor Gaming,Game Design,1
+Los Angeles,Comcast Spectacor,Game Design,1
+Los Angeles,CohnReznick,Digital Marketing,1
+Indianapolis,Legends,Digital Marketing,1
+Indianapolis,Lessonly,Digital Marketing,1
+Los Angeles,"City Cosmetics, Inc.",Game Design,1
+Los Angeles,Citirex,Digital Marketing,1
+Indianapolis,Methodist Sports Medicine,Digital Marketing,1
+Los Angeles,Chateau Music,Digital Marketing,1
+Indianapolis,Lev,Digital Marketing,1
+Indianapolis,"MacAllister Machinery Co., Inc.",Digital Marketing,1
+Los Angeles,Certified Employment Group,Game Design,1
+Los Angeles,Centerfield Media,Game Design,1
+Indianapolis,Masco,Digital Marketing,1
+Los Angeles,Carvana,Game Design,1
+Los Angeles,Carbonated Games,Game Design,1
+Los Angeles,Caravana Furniture,Digital Marketing,1
+Indianapolis,MediaFuel Agency,Digital Marketing,1
+Los Angeles,"CLI Studios, Inc.",Game Design,1
+Los Angeles,CBS,Digital Marketing,1
+Indianapolis,Phalen Leadership Academies,Digital Marketing,1
+Indianapolis,RTX,VR Engineering,1
+Los Angeles,Amazon.com Services LLC,Digital Marketing,1
+Indianapolis,emarsys,Digital Marketing,1
+Indianapolis,Spot Inc,Digital Marketing,1
+Indianapolis,Stanley Black & Decker,Digital Marketing,1
+Los Angeles,24 Seven,Digital Marketing,1
+Los Angeles,2.7 August Apparel Inc.,Game Design,1
+Los Angeles,1000heads,Game Design,1
+Indianapolis,Stewart & Stewart Attorneys,Digital Marketing,1
+Los Angeles,(W)right On Communications,Digital Marketing,1
+Indianapolis,ubl international,Digital Marketing,1
+Indianapolis,The Novo Group,Digital Marketing,1
+Indianapolis,myCOI,Digital Marketing,1
+Indianapolis,enVista,Game Design,1
+Indianapolis,enVista,Digital Marketing,1
+Indianapolis,dormakaba,Digital Marketing,1
+Los Angeles,AESOP Corporate,Digital Marketing,1
+Indianapolis,Western & Southern Life,Digital Marketing,1
+Indianapolis,The Science & Magic Corporation of America,Digital Marketing,1
+Indianapolis,The UPS Store 4266,Game Design,1
+Indianapolis,The Web Guys,Digital Marketing,1
+Indianapolis,Vivial,Digital Marketing,1
+Indianapolis,Thompson Thrift,Digital Marketing,1
+Indianapolis,Venture Logistics,Digital Marketing,1
+Indianapolis,UpNest,Digital Marketing,1
+Indianapolis,"Tipping Point Solutions, Inc.",VR Engineering,1
+Indianapolis,TransLoc Inc.,Digital Marketing,1
+Indianapolis,USAC Racing - United States Auto Club,Digital Marketing,1
+Indianapolis,US Inspect,Digital Marketing,1
+Indianapolis,SlideGenius,Game Design,1
+Los Angeles,AMGtime,Digital Marketing,1
+Indianapolis,"Radial, Inc.",Digital Marketing,1
+Los Angeles,Age of Learning,Digital Marketing,1
+Indianapolis,Radio One,Digital Marketing,1
+Indianapolis,"RelyCircle, Inc.",Digital Marketing,1
+Los Angeles,Amazon,Game Design,1
+Los Angeles,Allstate Floral Inc.,Game Design,1
+Los Angeles,Alliage Inc.,Digital Marketing,1
+Los Angeles,Alley Group,Digital Marketing,1
+Indianapolis,RevLocal,Digital Marketing,1
+Los Angeles,Albert (CA),Digital Marketing,1
+Indianapolis,Rogo (RogoAg.com),Digital Marketing,1
+Los Angeles,Akupara Games,Game Design,1
+Los Angeles,Airstrafe Interactive,Game Design,1
+Los Angeles,Age of Learning,Game Design,1
+Los Angeles,Advertise Purple,Digital Marketing,1
+Indianapolis,"SilverTech, Inc.",Digital Marketing,1
+Los Angeles,Advantage Gold,Digital Marketing,1
+Los Angeles,AdMedia.,Digital Marketing,1
+Los Angeles,Ad.net,Digital Marketing,1
+Los Angeles,Activision Publishing,Game Design,1
+Los Angeles,Activision Publishing,Digital Marketing,1
+Indianapolis,Routeware Inc,Digital Marketing,1
+Indianapolis,Ryan Homes,Digital Marketing,1
+Los Angeles,Active LAMP,Game Design,1
+Indianapolis,Salesforce,Game Design,1
+Los Angeles,Acadaca,Digital Marketing,1
+Los Angeles,Absolute Web Services,Digital Marketing,1
+Indianapolis,Shift Digital,Digital Marketing,1
+Los Angeles,Creative Circle,Digital Marketing,1
+Indianapolis,KSM Consulting,Digital Marketing,1
+Los Angeles,Creator Deck,Digital Marketing,1
+Los Angeles,HG Plus Consulting Inc.,Digital Marketing,1
+Indianapolis,Collective Alternative,Digital Marketing,1
+Los Angeles,IHARA,Game Design,1
+Los Angeles,Hyperloop Transportation Technologies,Game Design,1
+Los Angeles,Honey,Digital Marketing,1
+Indianapolis,Crown Bioscience,Digital Marketing,1
+Indianapolis,Culligan Ultrapure,Digital Marketing,1
+Indianapolis,"Dawar Consulting, Inc.",Digital Marketing,1
+Los Angeles,"Happiest Baby, Inc.",Game Design,1
+Los Angeles,HYDE Group,Digital Marketing,1
+Indianapolis,Delta Faucet Company,Digital Marketing,1
+Los Angeles,"HRC Fertility Management, LLC",Game Design,1
+Indianapolis,Demaree Crossing,Digital Marketing,1
+Los Angeles,HBO Max,Digital Marketing,1
+Los Angeles,ISC Resources,Game Design,1
+Indianapolis,DiscountFilters.com,Digital Marketing,1
+Indianapolis,Dominion Dealer Specialties,Digital Marketing,1
+Los Angeles,HAUS,Game Design,1
+Indianapolis,Dominion VUE / DMS,Digital Marketing,1
+Indianapolis,Early Learning Indiana,Digital Marketing,1
+Los Angeles,Growth Rocket,Digital Marketing,1
+Indianapolis,Endress+Hauser,Digital Marketing,1
+Indianapolis,Flat Out Dealership Group,Digital Marketing,1
+Indianapolis,Formstack,Digital Marketing,1
+Indianapolis,Found Search Marketing,Digital Marketing,1
+Los Angeles,Golin,Game Design,1
+Indianapolis,Found Search Marketing,Game Design,1
+Indianapolis,Co-alliance Master,Digital Marketing,1
+Los Angeles,Ignite Mental Health,Game Design,1
+Los Angeles,Gensler,Game Design,1
+Indianapolis,Breakout Operating,Game Design,1
+Indianapolis,"Beacon Hill Staffing Group, LLC",Game Design,1
+Los Angeles,LiveGlam,Digital Marketing,1
+Los Angeles,Linwoods Auction,Game Design,1
+Los Angeles,"Leon Kolaski, Inc.",Digital Marketing,1
+Los Angeles,LegalZoom,Digital Marketing,1
+Los Angeles,Left Field Labs,Game Design,1
+Indianapolis,Becht Pride Cleaning Services,Digital Marketing,1
+Los Angeles,"LA Vapor, Inc",Digital Marketing,1
+Indianapolis,Beckman Coulter Life Sciences,Digital Marketing,1
+Indianapolis,BrainWorks,Digital Marketing,1
+Los Angeles,L.O.,Digital Marketing,1
+Los Angeles,Kosas,Digital Marketing,1
+Indianapolis,Buckingham,Digital Marketing,1
+Los Angeles,Ignited,Digital Marketing,1
+Indianapolis,UFC Gym,Digital Marketing,1
+Indianapolis,CECO Environmental,Digital Marketing,1
+Los Angeles,Kharon,Game Design,1
+Los Angeles,Kara Beauty,Game Design,1
+Los Angeles,Kaloud Inc,Game Design,1
+Indianapolis,CGI Communications,Digital Marketing,1
+Los Angeles,J2 Cloud Services,Digital Marketing,1
+Indianapolis,CertaSite,Digital Marketing,1
+Indianapolis,Champ Builder,Digital Marketing,1
+Los Angeles,Intelecox Inc,Digital Marketing,1
+Indianapolis,Co-Alliance,Digital Marketing,1
+Los Angeles,Indie Printing,Game Design,1
+Indianapolis,Genewiz,Digital Marketing,1
+Indianapolis,George E. Booth,Digital Marketing,1
+Los Angeles,CyberCoders,Game Design,1
+Indianapolis,Indiana University,Digital Marketing,1
+Indianapolis,Ignite Mental Health,Game Design,1
+Los Angeles,Escape Academy Game,Game Design,1
+Los Angeles,"Epson America, Inc",Game Design,1
+Los Angeles,Epson America,Game Design,1
+Los Angeles,Envista Holdings,Digital Marketing,1
+Los Angeles,Entro USA,Game Design,1
+Los Angeles,Emerage Digital,Digital Marketing,1
+Los Angeles,Embodied,Game Design,1
+Los Angeles,Emanate Health,Digital Marketing,1
+Indianapolis,Indiana Conference of United Methodist Church,Game Design,1
+Los Angeles,Electronic Arts,VR Engineering,1
+Indianapolis,Indiana Economic Development Corporation,Digital Marketing,1
+Los Angeles,Edmunds.com,Digital Marketing,1
+Los Angeles,"Etech Hi, Inc.",Game Design,1
+Los Angeles,EV Connect,Digital Marketing,1
+Los Angeles,"Dynamic Placement Services, LLC",Digital Marketing,1
+Los Angeles,Dr. SkinFeed,Digital Marketing,1
+Los Angeles,Dr U Hair and Skin Clinic,Digital Marketing,1
+Los Angeles,DoubleVerify,Digital Marketing,1
+Los Angeles,DoYouPC,Game Design,1
+Los Angeles,Digital Niche Agency - DNA,Digital Marketing,1
+Los Angeles,Digital Media Management,Digital Marketing,1
+Los Angeles,Digital First Media,Digital Marketing,1
+Los Angeles,Digital Delane,Digital Marketing,1
+Indianapolis,Indianapolis,Game Design,1
+Indianapolis,Indianapolis Museum of Art d.b.a. Newfields,Digital Marketing,1
+Los Angeles,Estrella Media,Game Design,1
+Indianapolis,Hylant,Digital Marketing,1
+Los Angeles,Gannett,Digital Marketing,1
+Indianapolis,Hasbro,Game Design,1
+Los Angeles,GUESS?. INC.,Digital Marketing,1
+Los Angeles,GOAT Group,Game Design,1
+Los Angeles,GAMEVIL COM2US USA,Game Design,1
+Los Angeles,Furniture of America,Digital Marketing,1
+Los Angeles,FullDeck,Digital Marketing,1
+Los Angeles,Freedom Forever,Game Design,1
+Los Angeles,Formula Design,Game Design,1
+Los Angeles,Forest Lawn Memorial-Park Association,Digital Marketing,1
+Los Angeles,Flower Shop Agency,Game Design,1
+Indianapolis,Graphic Solutions Network,Digital Marketing,1
+Los Angeles,First Professional Services,Digital Marketing,1
+Indianapolis,GreenLight LLC,Game Design,1
+Los Angeles,Firestone Walker Brewing Company,Digital Marketing,1
+Los Angeles,Evolvinc,Digital Marketing,1
+Los Angeles,Feals,Game Design,1
+Los Angeles,Faye Business Systems Group,Digital Marketing,1
+Indianapolis,Hearst Media Services,Digital Marketing,1
+Indianapolis,Heartland Dental,Digital Marketing,1
+Los Angeles,FIGS,Game Design,1
+Indianapolis,Heartland F P G,Game Design,1
+Indianapolis,Highgarden Real Estate,Digital Marketing,1
+Los Angeles,Exploding Kittens,Game Design,1
+Indianapolis,Hopebridge,Digital Marketing,1
+Los Angeles,Exploding Kittens,Digital Marketing,1
+Los Angeles,Evolving World Marketing,Digital Marketing,1
+Indianapolis,"Hopebridge, LLC",Digital Marketing,1
+Los Angeles,Kobe Digital,Game Design,1
+Seattle,Valve Corporation,VR Engineering,1
+Los Angeles,Wolters Kluwer,Digital Marketing,1
+San Francisco,Discord,Game Design,1
+San Francisco,Clockwise Escape Rooms,Game Design,1
+San Francisco,Cloudflare,Digital Marketing,1
+San Francisco,Company Confidential,VR Engineering,1
+San Francisco,Constellation Brands,Digital Marketing,1
+San Francisco,Copilot,VR Engineering,1
+San Francisco,Crawford Group,Digital Marketing,1
+San Francisco,Crawford Group,Game Design,1
+San Francisco,Crazy Maple Studio,Game Design,1
+San Francisco,Creative Circle ,Game Design,1
+San Francisco,Creator Deck,Digital Marketing,1
+San Francisco,Crunchyroll,Digital Marketing,1
+San Francisco,Dacast,Digital Marketing,1
+San Francisco,Dan Klores Communications,Digital Marketing,1
+San Francisco,Darktrace,Digital Marketing,1
+San Francisco,Databricks,Digital Marketing,1
+San Francisco,Cisco Systems,VR Engineering,1
+San Francisco,Checkr,Digital Marketing,1
+San Francisco,CharityWars.org,Game Design,1
+San Francisco,Braze,Digital Marketing,1
+San Francisco,Bank of the West,Digital Marketing,1
+San Francisco,Beezy,Game Design,1
+San Francisco,Bi-Rite Market ,Game Design,1
+San Francisco,Big Fish Games,Game Design,1
+San Francisco,Blueboard,Digital Marketing,1
+San Francisco,Bolt,Digital Marketing,1
+San Francisco,BrightTALK,Digital Marketing,1
+San Francisco,Cella,Game Design,1
+San Francisco,Brightwheel,Digital Marketing,1
+San Francisco,Brilliant,Digital Marketing,1
+San Francisco,ByteDance,Digital Marketing,1
+San Francisco,C3.ai,Digital Marketing,1
+San Francisco,Caffeine,Game Design,1
+San Francisco,California Closets,Digital Marketing,1
+San Francisco,DeepMotion,VR Engineering,1
+San Francisco,"Dolby Laboratories, Inc.",Digital Marketing,1
+San Francisco,Heartwood,Game Design,1
+San Francisco,"Dolby Laboratories, Inc.",Game Design,1
+San Francisco,Forio,Game Design,1
+San Francisco,Forward,Digital Marketing,1
+San Francisco,Forward,Game Design,1
+San Francisco,G4S,Digital Marketing,1
+San Francisco,Gap,Game Design,1
+San Francisco,Genus AI,Digital Marketing,1
+San Francisco,Gobble,Game Design,1
+San Francisco,Golin,Digital Marketing,1
+San Francisco,Got It,Digital Marketing,1
+San Francisco,Grammarly,Digital Marketing,1
+San Francisco,Granular,Digital Marketing,1
+San Francisco,Groove.co,Digital Marketing,1
+San Francisco,Guild Education,Digital Marketing,1
+San Francisco,H&L Partners,Digital Marketing,1
+San Francisco,HOVER,Digital Marketing,1
+San Francisco,Flow Cannabis Co.,Game Design,1
+San Francisco,Fisher Investments,Digital Marketing,1
+San Francisco,First Republic Bank,Digital Marketing,1
+San Francisco,Exponent,Game Design,1
+San Francisco,DoorDash,Digital Marketing,1
+San Francisco,Dreyer's Grand Ice Cream,Digital Marketing,1
+San Francisco,EVIL EYE PICTURES,Game Design,1
+San Francisco,Environmental Defense,Digital Marketing,1
+San Francisco,Epic Games,Digital Marketing,1
+San Francisco,Exclusive PR Solutions | Exclusiveprs.com,Digital Marketing,1
+San Francisco,Extractable,Digital Marketing,1
+San Francisco,Fine Arts Museums of San Francisco,Game Design,1
+San Francisco,FLYR,VR Engineering,1
+San Francisco,Facebook,Game Design,1
+San Francisco,Fanatics,Digital Marketing,1
+San Francisco,FeedbackWhiz,Digital Marketing,1
+San Francisco,Fellow,Digital Marketing,1
+San Francisco,FinancialForce,Digital Marketing,1
+San Francisco,Bamboo,Game Design,1
+San Francisco,BackerKit,Digital Marketing,1
+San Francisco,BESTofLEGACY,Game Design,1
+San Francisco,Aviso,Game Design,1
+New York,Watt Bikes Inc.,Digital Marketing,1
+New York,WeWork,Game Design,1
+New York,Well Woven Inc.,Digital Marketing,1
+New York,William Morris,Game Design,1
+New York,Williams Lea,Game Design,1
+New York,World Wide Technology,VR Engineering,1
+New York,ZT Group ZT Systems,VR Engineering,1
+New York,Zeno Group,Digital Marketing,1
+New York,eShopWorld,Digital Marketing,1
+New York,"iSpot.tv, Inc.",Digital Marketing,1
+New York,"imre, LLC.",Game Design,1
+New York,influence group,Digital Marketing,1
+New York,mindbodygreen,Game Design,1
+New York,peoplecanfly,Game Design,1
+New York,rag & bone,Game Design,1
+New York,Walmart,Game Design,1
+New York,Wait What,Digital Marketing,1
+New York,W2O,Digital Marketing,1
+New York,VaynerX,Game Design,1
+New York,Two Bulls,Game Design,1
+New York,UNOde50,Digital Marketing,1
+New York,Uhuru Design,Game Design,1
+New York,UrbanDaddy,Digital Marketing,1
+New York,VPAL MUSIC,Digital Marketing,1
+New York,Valiant Scribe Literary Journal,Digital Marketing,1
+New York,Vee International inc.,Digital Marketing,1
+New York,Vox Media,Game Design,1
+New York,Vettery,Game Design,1
+New York,Viacom,Game Design,1
+New York,ViacomCBS,Digital Marketing,1
+New York,ViacomCBS,Game Design,1
+New York,VideoAmp,Digital Marketing,1
+New York,"Visual Lease, LLC",Digital Marketing,1
+Orlando,Circadence Corporation,VR Engineering,1
+Orlando,Design Interactive,VR Engineering,1
+Orlando,Jobot,VR Engineering,1
+San Francisco,Apparent,Digital Marketing,1
+San Francisco,Algolia,Digital Marketing,1
+San Francisco,Allstate,Game Design,1
+San Francisco,Allstate Insurance Company,Game Design,1
+San Francisco,Alpha Inc.,Game Design,1
+San Francisco,Alter Global,Digital Marketing,1
+San Francisco,Amgen,Digital Marketing,1
+San Francisco,Ariat International,Game Design,1
+San Francisco,Alaniz Marketing,Digital Marketing,1
+San Francisco,Ascendant Studios,Game Design,1
+San Francisco,Assured Relocation,Digital Marketing,1
+San Francisco,Augmedix Inc.,Digital Marketing,1
+San Francisco,Aurora,Game Design,1
+San Francisco,AutoCamp,Digital Marketing,1
+San Francisco,Autodesk,Digital Marketing,1
+San Francisco,Alaniz Marketing,Game Design,1
+San Francisco,Aktana,Digital Marketing,1
+Orlando,Mass Virtual,VR Engineering,1
+San Francisco,2K,Game Design,1
+Orlando,"Mass Virtual, Inc.",VR Engineering,1
+Orlando,Mimic Technologies,VR Engineering,1
+Orlando,Oxley Enterprises Inc,VR Engineering,1
+Orlando,"Quantified Design Solutions, LLC",VR Engineering,1
+Orlando,"Tipping Point Solutions, Inc.",VR Engineering,1
+San Francisco,#twiceasnice Recruiting,Digital Marketing,1
+San Francisco,80Twenty,Digital Marketing,1
+San Francisco,Airtable,Digital Marketing,1
+San Francisco,AC Transit,Digital Marketing,1
+San Francisco,AMBER STUDIO,Game Design,1
+San Francisco,Abio Properties,Digital Marketing,1
+San Francisco,Academia.edu,Game Design,1
+San Francisco,Adobe,VR Engineering,1
+San Francisco,Aha!,Digital Marketing,1
+San Francisco,HR Options,Game Design,1
+San Francisco,Hint Inc.,Game Design,1
+Los Angeles,Wonderstorm,Game Design,1
+San Francisco,TikTok,Digital Marketing,1
+San Francisco,Stitch Fix,Game Design,1
+San Francisco,Striking Distance Studios,Game Design,1
+San Francisco,Stripe,Digital Marketing,1
+San Francisco,Student Medicover,Digital Marketing,1
+San Francisco,Super Lucky Casino,Digital Marketing,1
+San Francisco,Super Lucky Casino,Game Design,1
+San Francisco,"Take-Two Interactive Software, Inc.",Game Design,1
+San Francisco,Talend,Digital Marketing,1
+San Francisco,Tari Labs,Game Design,1
+San Francisco,The AI Education Project,Game Design,1
+San Francisco,The Commonwealth Club of California,Game Design,1
+San Francisco,The Mom Project,Digital Marketing,1
+San Francisco,The Renee White Team,Digital Marketing,1
+San Francisco,The UPS Store,Game Design,1
+San Francisco,ThirdLove,Digital Marketing,1
+San Francisco,States Title,Game Design,1
+San Francisco,Spiral Scout,Digital Marketing,1
+San Francisco,Spin Electric Scooters,VR Engineering,1
+San Francisco,SimilarWeb,Digital Marketing,1
+San Francisco,Salesforce,Game Design,1
+San Francisco,Samasource,Digital Marketing,1
+San Francisco,San Francisco Art Institute,Digital Marketing,1
+San Francisco,San Francisco SPCA,Digital Marketing,1
+San Francisco,Sankari Studios,Game Design,1
+San Francisco,"Sense Talent Labs, Inc.",Digital Marketing,1
+San Francisco,Singular,Digital Marketing,1
+San Francisco,Spear Marketing Group,Game Design,1
+San Francisco,SiriusXM,Digital Marketing,1
+San Francisco,Smartly.io,Digital Marketing,1
+San Francisco,Social Concepts,Game Design,1
+San Francisco,Sony PlayStation,Digital Marketing,1
+San Francisco,Sony PlayStation,Game Design,1
+San Francisco,Sparks,Game Design,1
+San Francisco,Tides,Digital Marketing,1
+San Francisco,Tile,Digital Marketing,1
+San Francisco,Hotwire - US,Digital Marketing,1
+San Francisco,Tophatter,Digital Marketing,1
+San Francisco,Whip-It!,Game Design,1
+San Francisco,Whistle,Digital Marketing,1
+San Francisco,WhizSmart.com,Digital Marketing,1
+San Francisco,"Williams-Sonoma, Inc.",Digital Marketing,1
+San Francisco,Wisnik Career Enterprises,Digital Marketing,1
+San Francisco,Wpromote,Digital Marketing,1
+San Francisco,Wärtsilä,Digital Marketing,1
+San Francisco,YDesign Group LLC,Digital Marketing,1
+San Francisco,art.com,Game Design,1
+San Francisco,eHealth,Digital Marketing,1
+San Francisco,projekt202,Digital Marketing,1
+San Francisco,thredUP Inc,Digital Marketing,1
+Seattle,BIGBOX VR,VR Engineering,1
+Seattle,Jobot,VR Engineering,1
+Seattle,Providence Health & Services,VR Engineering,1
+San Francisco,Western & Southern Life,Digital Marketing,1
+San Francisco,Walt Disney Company,Game Design,1
+San Francisco,WB Games San Francisco,Game Design,1
+San Francisco,Ubiquity6,Game Design,1
+San Francisco,Touch of Modern,Game Design,1
+San Francisco,Turner Broadcasting,Game Design,1
+San Francisco,Twitch,Digital Marketing,1
+San Francisco,Twitter,Game Design,1
+San Francisco,Two95 International Inc.,Digital Marketing,1
+San Francisco,UCSF Medical Center,Digital Marketing,1
+San Francisco,Upgrade,Digital Marketing,1
+San Francisco,Volkswagen Group of America,VR Engineering,1
+San Francisco,"Upstart Network, Inc.",Game Design,1
+San Francisco,VP Interiors,Digital Marketing,1
+San Francisco,Vicarious,Digital Marketing,1
+San Francisco,Virtual Dinning Concepts,Digital Marketing,1
+San Francisco,Vivino,Digital Marketing,1
+San Francisco,Vivino,Game Design,1
+San Francisco,SaaStr,Digital Marketing,1
+San Francisco,Ryptic Room Escape,Game Design,1
+San Francisco,Rumble Entertainment,Game Design,1
+San Francisco,Rothy's,Game Design,1
+San Francisco,LegalMatch,Digital Marketing,1
+San Francisco,LendingHome,Digital Marketing,1
+San Francisco,LendingTree,Digital Marketing,1
+San Francisco,Leyton,Digital Marketing,1
+San Francisco,Linqia,Digital Marketing,1
+San Francisco,Lumosity,Game Design,1
+San Francisco,MBASchooled,Digital Marketing,1
+San Francisco,Marine Layer,Game Design,1
+San Francisco,Marmol Radziner,Game Design,1
+San Francisco,Marqeta,Digital Marketing,1
+San Francisco,Matrix Resources,Digital Marketing,1
+San Francisco,MediaMonks,Digital Marketing,1
+San Francisco,Meltwater Americas,Digital Marketing,1
+San Francisco,Memphis Meats,Game Design,1
+San Francisco,Meraki,VR Engineering,1
+San Francisco,LaunchDarkly,Digital Marketing,1
+San Francisco,LQ Digital,Digital Marketing,1
+San Francisco,Kforce,Digital Marketing,1
+San Francisco,Industrial Light & Magic,Game Design,1
+San Francisco,Humble Bundle,Game Design,1
+San Francisco,"INDEPENDENT TELEVISION SERVICE, INC",Digital Marketing,1
+San Francisco,INTERSTICE architects,Game Design,1
+San Francisco,"IZEA, Inc",Digital Marketing,1
+San Francisco,IdeaMachine Studio,Game Design,1
+San Francisco,Impulse Gear,VR Engineering,1
+San Francisco,Instacart,Digital Marketing,1
+San Francisco,"Kendo, a division of LVMH",Digital Marketing,1
+San Francisco,Instagram,VR Engineering,1
+San Francisco,IntelliPro Group Inc.,VR Engineering,1
+San Francisco,Intuit,Digital Marketing,1
+San Francisco,John McNeil Studio,Digital Marketing,1
+San Francisco,"Just, Inc",Digital Marketing,1
+San Francisco,Kaiser Family Foundation,Digital Marketing,1
+San Francisco,"Method Products, PBC",Game Design,1
+San Francisco,Meyer Corporation,Digital Marketing,1
+San Francisco,MightyHive,Digital Marketing,1
+San Francisco,Quay Sunglasses,Digital Marketing,1
+San Francisco,Platejoy,Game Design,1
+San Francisco,Pluto7,Digital Marketing,1
+San Francisco,Premier Nutrition,Digital Marketing,1
+San Francisco,Publicis Groupe,Game Design,1
+San Francisco,Pure Storage,VR Engineering,1
+San Francisco,"QuanticMind, Inc.",Digital Marketing,1
+San Francisco,REACH Technologies,Game Design,1
+San Francisco,Penumbra US,Digital Marketing,1
+San Francisco,Rational,Digital Marketing,1
+San Francisco,Raydiant,Digital Marketing,1
+San Francisco,Rescale,Digital Marketing,1
+San Francisco,Revolution Foods,Digital Marketing,1
+San Francisco,Roblox,Game Design,1
+San Francisco,Rothy's,Digital Marketing,1
+San Francisco,Plaid,Digital Marketing,1
+San Francisco,"Patagonia, Inc",Digital Marketing,1
+San Francisco,Mission Bio,Digital Marketing,1
+San Francisco,Nozomi Networks,Digital Marketing,1
+San Francisco,Mission North,Digital Marketing,1
+San Francisco,Mozilla Corporation,Game Design,1
+San Francisco,Mux,Digital Marketing,1
+San Francisco,Myovant Sciences,Digital Marketing,1
+San Francisco,Next Bee Corporation,Digital Marketing,1
+San Francisco,Nextdoor,Digital Marketing,1
+San Francisco,Nylas,Digital Marketing,1
+San Francisco,PUBG San Ramon,Game Design,1
+San Francisco,Oakland A's,Digital Marketing,1
+San Francisco,"Octagon, Inc",Digital Marketing,1
+San Francisco,Okta,Digital Marketing,1
+San Francisco,On Board Experiential Marketing,Game Design,1
+San Francisco,Oracle ,Digital Marketing,1
+San Francisco,"Outpatient, Inc",Digital Marketing,1
+New York,Twitter,Game Design,1
+New York,Truveris,Digital Marketing,1
+New York,Townley Inc.,Game Design,1
+New York,FASTSIGNS #153,Game Design,1
+New York,Direct Agents,Game Design,1
+New York,Donnelly Mechanical Corporation,Digital Marketing,1
+New York,Doral Health & Wellness,Digital Marketing,1
+New York,Dynarex Corporation,Digital Marketing,1
+New York,ELITE MEDIA,Game Design,1
+New York,EVINS Communications,Game Design,1
+New York,EXPRESS,Game Design,1
+New York,EZOPS,Digital Marketing,1
+New York,Ecosystem,Digital Marketing,1
+New York,Ellan Media,Game Design,1
+New York,EmPower Solar,Digital Marketing,1
+New York,Endeavor,Game Design,1
+New York,"Equinix Services, Inc.",Digital Marketing,1
+New York,EvolveMKD,Digital Marketing,1
+New York,Excel Sports Management,Game Design,1
+New York,Diligent Corporation,Digital Marketing,1
+New York,Deposit Solutions LLC,Digital Marketing,1
+New York,David Zwirner Gallery,Digital Marketing,1
+New York,Crossix Solutions,Digital Marketing,1
+New York,Constellation Brands,Digital Marketing,1
+New York,Content Square,Game Design,1
+New York,Contingent Network Services,Game Design,1
+New York,Core Home,Game Design,1
+New York,CreateMe,Game Design,1
+New York,Crisis Text Line,Digital Marketing,1
+New York,Crum & Forster Insurance,Digital Marketing,1
+New York,David Yurman,Digital Marketing,1
+New York,Crye Precision LLC,Game Design,1
+New York,Custom Lyfe LLC,Game Design,1
+New York,Cvetlo,Game Design,1
+New York,DERMELECT COSMECEUTICALS,Game Design,1
+New York,Daggerwing,Game Design,1
+New York,Datadog,Game Design,1
+New York,F. Schumacher & Co.,Game Design,1
+New York,FactSet,Game Design,1
+New York,Topfoxx,Digital Marketing,1
+New York,Fantas-Eyes Inc,Game Design,1
+New York,HHAeXchange,Digital Marketing,1
+New York,HLW,Game Design,1
+New York,HOTELS AT HOME,Digital Marketing,1
+New York,Harnham,Digital Marketing,1
+New York,Harris Computer ,Digital Marketing,1
+New York,Havas Worldwide,Game Design,1
+New York,Healthcare Training Institute,Digital Marketing,1
+New York,"Healthcasts Media, LLC",Digital Marketing,1
+New York,Hill Holliday,Digital Marketing,1
+New York,Hotel Management,Game Design,1
+New York,Hotwire Global,Digital Marketing,1
+New York,Housing Works,Digital Marketing,1
+New York,Hubneo VR Lab,Game Design,1
+New York,IBM,Digital Marketing,1
+New York,IV Interactive,Digital Marketing,1
+New York,Guardian Life Insurance Company,Digital Marketing,1
+New York,Green Key Resources,Game Design,1
+New York,Green Key Resources,Digital Marketing,1
+New York,FounderMade,Game Design,1
+New York,Fast Retailing,Digital Marketing,1
+New York,Ferrero,Digital Marketing,1
+New York,Fesco Distributors,Game Design,1
+New York,Fleishman-Hillard,Game Design,1
+New York,Flightpath,Digital Marketing,1
+New York,Forbes Media,Digital Marketing,1
+New York,Fox Corporation,Game Design,1
+New York,Global Industrial,Game Design,1
+New York,GENEWIZ,Digital Marketing,1
+New York,GQG Partners,Digital Marketing,1
+New York,Gamers Paradise,Game Design,1
+New York,GeistM,Digital Marketing,1
+New York,GenR Media,Game Design,1
+New York,Giorgio Armani Corporation,Digital Marketing,1
+New York,Compass Group USA,Digital Marketing,1
+New York,Commercial Printing Company - Jersey City,Digital Marketing,1
+New York,Colgate-Palmolive,Digital Marketing,1
+New York,CoinDesk,Game Design,1
+New York,Acertitude,Game Design,1
+New York,Acronym,Digital Marketing,1
+New York,Adecco,Game Design,1
+New York,Adorama,Game Design,1
+New York,"Adrianna Papell Group, LLC.",Game Design,1
+New York,Advanced Eye Care & Aesthetic Center,Game Design,1
+New York,Akamai,Digital Marketing,1
+New York,All-County Apparel,Game Design,1
+New York,AlphaGraphics Locations,Game Design,1
+New York,Amazing Escape Room Bloomfield,Game Design,1
+New York,Amobee,Digital Marketing,1
+New York,Analytic Recruiting,Digital Marketing,1
+New York,Applied Dynamic Solutions,Game Design,1
+New York,Aquent,Game Design,1
+New York,Armani Exchange,Digital Marketing,1
+New York,Abacus Business Computer,Digital Marketing,1
+New York,AYC NATURALS,Game Design,1
+New York,APS Marketing Group,Digital Marketing,1
+New York,260 Sample Sale,Digital Marketing,1
+Los Angeles,Wondros,Digital Marketing,1
+Los Angeles,XCLAIM,Digital Marketing,1
+Los Angeles,Zankou Chicken,Digital Marketing,1
+Los Angeles,Zeevo Group,Digital Marketing,1
+Los Angeles,iBUYPOWER,Digital Marketing,1
+Los Angeles,within,Game Design,1
+New York,A.P. Keaton,Game Design,1
+New York,AIG,Digital Marketing,1
+New York,A/B Partners,Game Design,1
+New York,ABC Carpet & Home,Game Design,1
+New York,ADM Productions,Game Design,1
+New York,ADP,Digital Marketing,1
+New York,AESOP Corporate,Digital Marketing,1
+New York,AFFINITY HEALTH PLAN,Digital Marketing,1
+New York,Artistic Tile,Game Design,1
+New York,Ascend Learning,Digital Marketing,1
+New York,Asset TV Inc,Digital Marketing,1
+New York,Cboe Global Markets,Digital Marketing,1
+New York,Broadridge,Digital Marketing,1
+New York,Brookfield Properties,Digital Marketing,1
+New York,Building Your Best,Game Design,1
+New York,CBS,Digital Marketing,1
+New York,CLEARGOALS,Digital Marketing,1
+New York,Catch&release,Digital Marketing,1
+New York,Cellebrite,Game Design,1
+New York,BrightTALK,Game Design,1
+New York,Centrical,Digital Marketing,1
+New York,City Harvest,Digital Marketing,1
+New York,Cloud4Wi,Digital Marketing,1
+New York,Coach,Digital Marketing,1
+New York,Coach,Game Design,1
+New York,Cognizant Technology Solutions,Digital Marketing,1
+New York,"Brighton Health Plan Solutions, LLC",Game Design,1
+New York,BrightTALK,Digital Marketing,1
+New York,At Will Media,Game Design,1
+New York,Bernard Nickels & Associates,Game Design,1
+New York,Avex,Digital Marketing,1
+New York,BGC Partners,Game Design,1
+New York,Baked by Melissa,Game Design,1
+New York,Bandujo,Game Design,1
+New York,Bayer,Digital Marketing,1
+New York,Benchmark Education Company,Game Design,1
+New York,Bespoke Post,Digital Marketing,1
+New York,Brainly,Digital Marketing,1
+New York,Bizzabo,Game Design,1
+New York,Blackstone,Digital Marketing,1
+New York,BlueSwitch,Digital Marketing,1
+New York,Bombas,Digital Marketing,1
+New York,Bonobos,Game Design,1
+New York,BrainPOP,Digital Marketing,1
+New York,Ignite Mental Health,Game Design,1
+New York,Infinity Laser Spa,Digital Marketing,1
+New York,Inmar,Digital Marketing,1
+New York,Prime Studio,Game Design,1
+New York,SG Americas Securities Holdings,Digital Marketing,1
+New York,SIMON Markets LLC,Digital Marketing,1
+New York,SNOWE,Digital Marketing,1
+New York,Saatchi & Saatchi,Digital Marketing,1
+New York,Safavieh LLC,Digital Marketing,1
+New York,Sakar International,Game Design,1
+New York,SaveAway®,Digital Marketing,1
+New York,Sentient Jet,Digital Marketing,1
+New York,Shindig,Digital Marketing,1
+New York,ShopBop,Digital Marketing,1
+New York,Sigue Corp,Digital Marketing,1
+New York,Sircle Media,Game Design,1
+New York,Skidmore Owings & Merrill,Game Design,1
+New York,Skillshare,Digital Marketing,1
+New York,Slate Studios,Digital Marketing,1
+New York,SBH Fashion,Game Design,1
+New York,Rokt,Digital Marketing,1
+New York,Rockstar Games,Digital Marketing,1
+New York,"Raycon, Inc.",Digital Marketing,1
+New York,Publicis Groupe,Digital Marketing,1
+New York,Pulse Advertising,Digital Marketing,1
+New York,Pure Storage,VR Engineering,1
+New York,Qubit.,Digital Marketing,1
+New York,Quest Diagnostics,Digital Marketing,1
+New York,Quten Research Institute,Digital Marketing,1
+New York,Real,Digital Marketing,1
+New York,Robin Hood Foundation,Game Design,1
+New York,Recognition Media & The Webby Awards,Digital Marketing,1
+New York,Reesby IT,Digital Marketing,1
+New York,Retensa,Game Design,1
+New York,Rexing Inc,Game Design,1
+New York,Rhoads Creative,Digital Marketing,1
+New York,Robert Half,Digital Marketing,1
+New York,Smartly,Game Design,1
+New York,Smartly.io,Digital Marketing,1
+New York,Sneeze It,Digital Marketing,1
+New York,Thermo Fisher Scientific,Digital Marketing,1
+New York,The Halal Guys,Digital Marketing,1
+New York,The Halal Guys,Game Design,1
+New York,The Knot Worldwide,Digital Marketing,1
+New York,The Mind Gym,Game Design,1
+New York,The Spark Group,Digital Marketing,1
+New York,The Spark Group,Game Design,1
+New York,Thinc Design,Game Design,1
+New York,The Children's Place,Game Design,1
+New York,ThomasArts,Digital Marketing,1
+New York,Tiffany & Co.,Digital Marketing,1
+New York,TikTok,Digital Marketing,1
+New York,Tilebar/Soho Studio,Digital Marketing,1
+New York,Times Square Alliance,Digital Marketing,1
+New York,Tinuiti,Digital Marketing,1
+New York,The Execu|Search Group,Digital Marketing,1
+New York,"The Action Network, Inc.",Game Design,1
+New York,Snow Joe,Digital Marketing,1
+New York,SquarePeg,Digital Marketing,1
+New York,Snow Joe,Game Design,1
+New York,Something Digital,Digital Marketing,1
+New York,SoulCycle HQ,Game Design,1
+New York,Source Enterprises,Game Design,1
+New York,Spin Master Ltd,Digital Marketing,1
+New York,Spray Marketing LLC,Game Design,1
+New York,"Steve Madden, Ltd",Game Design,1
+New York,Teneo,Digital Marketing,1
+New York,Strategic Financial Solutions,Game Design,1
+New York,T-Mobile,Digital Marketing,1
+New York,TF Cornerstone,Digital Marketing,1
+New York,THE WELL,Digital Marketing,1
+New York,Tailored Management,Digital Marketing,1
+New York,Tapestry,Digital Marketing,1
+New York,Prudential,Digital Marketing,1
+New York,Preferred Hotels & Resorts,Digital Marketing,1
+New York,Institute of International Education,Digital Marketing,1
+New York,PlaceIQ,Digital Marketing,1
+New York,Live Nation Entertainment,Digital Marketing,1
+New York,Lively (NY),Digital Marketing,1
+New York,Loeb.nyc,Digital Marketing,1
+New York,"Loop Media, Inc.",Game Design,1
+New York,M&J Engineering,Game Design,1
+New York,"MARY ANN LIEBERT, INC., publishers",Digital Marketing,1
+New York,MLB.com,VR Engineering,1
+New York,MSG,Game Design,1
+New York,Macmillan,Digital Marketing,1
+New York,"Macrolevel, Inc.",Game Design,1
+New York,Maesa,Game Design,1
+New York,Magic Spoon,Game Design,1
+New York,Manic Animatics,Game Design,1
+New York,Marc Jacobs,Game Design,1
+New York,Marina Maher Communications,Digital Marketing,1
+New York,Live Love Polish,Game Design,1
+New York,Litify,Digital Marketing,1
+New York,Likeable,Digital Marketing,1
+New York,Jobot,Digital Marketing,1
+New York,Iona College,Game Design,1
+New York,JUICE,Digital Marketing,1
+New York,Jackson Lewis,Game Design,1
+New York,Jane Street,Game Design,1
+New York,Jewelmark,Game Design,1
+New York,Jewish National Fund,Game Design,1
+New York,Jumohealth,Game Design,1
+New York,Lifeworks Technology Group LLC,Game Design,1
+New York,Kids Stop,Game Design,1
+New York,Kiss Products,Digital Marketing,1
+New York,Kovsky Logix,Game Design,1
+New York,LEWIS Global Communications,Digital Marketing,1
+New York,Laundry Service,Digital Marketing,1
+New York,Lenovo,VR Engineering,1
+New York,Masterworks.io,Game Design,1
+New York,McDermott Will & Emery,Digital Marketing,1
+New York,McKinsey & Company,Digital Marketing,1
+New York,Omnicom Health Group,Game Design,1
+New York,NowThis,Game Design,1
+New York,NuORDER,Digital Marketing,1
+New York,"Nutritional Designs, Inc",Game Design,1
+New York,ON THE MARK COMMUNICATIONS,Game Design,1
+New York,Octopus Energy,Digital Marketing,1
+New York,Octopus Interactive,VR Engineering,1
+New York,One Jeanswear Group,Game Design,1
+New York,Nexamp,Digital Marketing,1
+New York,"OneSky Flight, LLC",Digital Marketing,1
+New York,Oscar Health,Game Design,1
+New York,"Parabit Systems, Inc.",Game Design,1
+New York,Passfeed Inc,Digital Marketing,1
+New York,Path Interactive,Digital Marketing,1
+New York,PepsiCo,Digital Marketing,1
+New York,Nickelodeon Animation Studio,Game Design,1
+New York,New Roc FEC LLC,Game Design,1
+New York,Medidata Solutions,Digital Marketing,1
+New York,MongoDB,Digital Marketing,1
+New York,Mekanism,Digital Marketing,1
+New York,Mid-Large Asset Manager,Digital Marketing,1
+New York,MightyHive,Digital Marketing,1
+New York,Millennium Pet Group,Game Design,1
+New York,Momentum Solar,Game Design,1
+New York,Mondrian Labs,Digital Marketing,1
+New York,Motherly,Digital Marketing,1
+New York,New Empire Corp,Game Design,1
+New York,Movers Shakers,Digital Marketing,1
+New York,Myster,Digital Marketing,1
+New York,NECA - National Entertainment Collectibles Association,Game Design,1
+New York,NVIDIA,VR Engineering,1
+New York,Native Americans in Higher Education and Mentorship,Game Design,1
+New York,NetCom Learning,Digital Marketing,1
+Chicago,1-800-Flowers,Game Design,1
