@@ -1,0 +1,2550 @@
+,State,Role,Employer,Job Title,Salary Range: Maximum,Salary Range: Minimum,Company Rating
+0,WA,VR Engineering,Facebook,38,148500,89000,4.5
+1,CA,Data Scientist,GENENTECH,35,182000,115000,4.1
+2,NY,UI/UX Researcher,Facebook,27,156500,95000,4.5
+3,CA,Digital Marketing,Salesforce,24,153000,64000,4.4
+4,CA,Digital Marketing,Thermo Fisher Scientific,23,82000,43000,3.6
+5,CA,Digital Marketing,Facebook,19,139000,65000,4.5
+6,DC,Data Scientist,Leidos,19,134000,81000,3.7
+7,IN,Digital Marketing,Salesforce,18,132000,61000,4.4
+8,DC,Data Scientist,LMI,18,133500,80000,4.3
+9,CA,Digital Marketing,Golden Hippo,18,89000,46000,3.8
+10,CA,Digital Marketing,MightyHive,17,120000,78000,4.4
+11,CA,UI/UX Researcher,Facebook,17,179000,103000,4.5
+12,DC,Data Scientist,Perspecta,16,120000,72500,3.3
+13,DC,Data Scientist,Guidehouse,16,147000,91000,3.6
+14,CA,UI/UX Researcher,Roblox,16,267000,156000,4.5
+15,DC,UI/UX Researcher,Capital One,15,124000,73000,4
+16,DC,UI/UX Researcher,Leidos,15,134000,81000,3.7
+17,IN,Digital Marketing,Gannett,15,51000,24000,2.9
+18,CA,VR Engineering,Unity Technologies,15,211000,107000,4.6
+19,NY,UI/UX Researcher,New School,14,59000,29500,3.6
+20,CA,UI/UX Researcher,Parexel,14,138000,86500,3.3
+21,IL,Data Scientist,Varsity Tutors,14,56000,22000,4.2
+22,CA,Game Design,"SLEDGEHAMMER GAMES, INC.",14,89000,47000,3.5
+23,CA,Game Design,Riot Games,13,137000,70000,4.1
+24,WA,VR Engineering,Unity Technologies,13,215000,113000,4.6
+25,CA,UI/UX Researcher,Salesforce,13,188000,120000,4.4
+26,CA,UI/UX Researcher,Google,13,209000,116000,4.5
+27,CA,Data Scientist,Thermo Fisher - America,13,140000,79000,3.6
+28,IL,Data Scientist,GoHealth,13,120000,66000,3
+29,NY,UI/UX Researcher,New Jersey Institute of Technology,13,89000,42000,4.2
+30,DC,Data Scientist,Novetta,13,134000,80000,4.6
+31,IL,Data Scientist,ZS Associates,13,142000,79000,3.9
+32,CA,Data Scientist,Facebook,13,198000,126000,4.5
+33,CA,Game Design,Electronic Arts,13,104000,59000,3.9
+34,IL,Data Scientist,Northwestern Medicine,12,60000,42000,4
+35,MN,UI/UX Researcher,IBM,12,119000,61000,3.8
+36,CA,Data Scientist,UCSF Medical Center,12,108500,63500,4
+37,IL,Data Scientist,CVS Health,12,127000,76000,3
+38,IL,Data Scientist,The University of Chicago,12,60000,32000,4.2
+39,NY,Digital Marketing,Adobe,12,173500,72000,4.3
+40,IN,Data Scientist,Eli Lilly,12,83000,39000,4
+41,IN,Data Scientist,Eli Lilly and Company,12,148000,73000,4
+42,DC,Data Scientist,Deloitte,12,130000,75500,3.8
+43,NY,UI/UX Researcher,"JPMorgan Chase Bank, N.A.",11,151000,80000,4
+44,DC,Data Scientist,MITRE,11,132000,81000,3.5
+45,NY,Data Scientist,Facebook,11,168000,103000,4.5
+46,IL,Data Scientist,Jones Lang LaSalle,11,111000,62000,3
+47,CA,Digital Marketing,Adobe,11,216000,102000,4.3
+48,CA,Digital Marketing,Edelman,11,114000,79500,3.3
+49,DC,Data Scientist,AstraZeneca,10,130000,77000,4.1
+50,IL,Data Scientist,Publicis Groupe,10,208000,130000,3.6
+51,CA,Data Scientist,Roblox,10,187000,119000,4.5
+52,NY,UI/UX Researcher,Spotify,10,185000,109000,4
+53,CA,Digital Marketing,3Q Digital,10,159000,90000,3.8
+54,CA,Digital Marketing,Deloitte,10,136000,81000,3.8
+55,NY,Digital Marketing,Direct Agents,10,66000,40000,4.1
+56,CA,UI/UX Researcher,Silicon Valley Bank,10,159000,82000,3.6
+57,IL,Data Scientist,bswift,10,159000,101500,2.3
+58,IL,Data Scientist,Allstate,10,136500,86500,3.5
+59,DC,UI/UX Researcher,IBM,10,114000,63000,3.8
+60,IL,Data Scientist,Accenture,10,123000,68000,3.9
+61,CA,Game Design,"INFINITY WARD, INC.",10,132000,70000,3.3
+62,NY,UI/UX Researcher,Google,10,179000,108000,4.5
+63,CA,Game Design,Jam City,10,88000,46000,4
+64,CA,Data Scientist,Uber,10,174000,105000,4
+65,IL,Data Scientist,Epsilon,9,194000,107000,3.4
+66,CA,Data Scientist,Instacart,9,186000,107500,3.7
+67,IN,Digital Marketing,Pearson,9,71000,35000,3.4
+68,IL,Data Scientist,IBM,9,142500,75500,3.8
+69,CA,Digital Marketing,IntelliPro Group Inc.,9,74000,34000,4.2
+70,IL,Data Scientist,Aon,9,81000,46000,3.6
+71,CA,Data Scientist,Pinterest,9,208000,130500,3.9
+72,IL,Data Scientist,Capgemini,9,109000,58000,3.8
+73,CA,UI/UX Researcher,C3.ai,9,167000,104000,4.5
+74,NY,UI/UX Researcher,IBM,9,143000,70000,3.8
+75,NY,UI/UX Researcher,Brookhaven National Laboratory,9,106000,45000,4
+76,CA,UI/UX Researcher,DocuSign,9,196000,124000,4.7
+77,NY,Game Design,New School,9,57000,31000,3.6
+78,CA,Data Scientist,Square,9,213000,130000,4.1
+79,DC,Data Scientist,Booz Allen Hamilton Inc.,9,103000,60000,4
+80,CA,Digital Marketing,VMware,9,147000,78000,4.2
+81,IL,Data Scientist,West Monroe Partners,9,133000,81000,4.2
+82,IN,Data Scientist,Covance,9,75000,33000,3.8
+83,IL,Data Scientist,Tempus,8,79000,46000,3.3
+84,CA,Game Design,Respawn Entertainment,8,106000,67500,4.4
+85,CA,Data Scientist,University of California San Francisco,8,92000,52000,4.2
+86,CA,UI/UX Researcher,WW International,8,173000,107000,3.3
+87,CA,Digital Marketing,LQ Digital,8,109000,54000,2.8
+88,CA,Digital Marketing,Snap,8,108000,60000,3.9
+89,CA,UI/UX Researcher,Adobe,8,254000,156000,4.3
+90,NY,Digital Marketing,Hearts and Science,8,69000,39000,3.3
+91,CA,Digital Marketing,Google,8,157500,61500,4.5
+92,CA,Digital Marketing,HBO Max,8,96500,49000,4.35
+93,CA,Data Scientist,Exelixis,8,135500,72000,3.3
+94,CA,Data Scientist,Wish,8,223000,142000,3.4
+95,CA,Data Scientist,Salesforce,8,189000,106000,4.4
+96,CA,Game Design,Zynga,8,107000,49000,4.2
+97,CA,Digital Marketing,DocuSign,8,163000,97000,4.7
+98,DC,UI/UX Researcher,"Onyx Point, Inc.",8,91500,44500,4.6
+99,CA,UI/UX Researcher,Twitter,8,208500,132000,4.1
+100,NY,Game Design,Peloton Interactive,8,133000,66000,3.9
+101,DC,Data Scientist,DataRobot,8,141000,87000,3.6
+102,IL,Data Scientist,Tempus Labs,8,123000,72000,3.2
+103,CA,UI/UX Researcher,RingCentral,8,158000,97000,4.6
+104,MN,UI/UX Researcher,US Bank,7,96000,47000,3.6
+105,NY,UI/UX Researcher,Compass,7,159000,93000,3.9
+106,CA,Digital Marketing,Centerfield Media,7,80000,40000,3.5
+107,CA,Data Scientist,Stitch Fix,7,218000,136000,3.5
+108,CA,Digital Marketing,Amazon,7,131500,68500,3.9
+109,IL,Data Scientist,Uline,7,79000,65000,3.6
+110,CA,Digital Marketing,Wpromote,7,127000,71500,4.4
+111,CA,Digital Marketing,Atomic,7,102000,55000,3.8
+112,IL,Data Scientist,Argonne National Laboratory,7,108000,84000,4.5
+113,NY,UI/UX Researcher,Deloitte,7,126000,68000,3.8
+114,DC,Data Scientist,IBM,7,135000,83000,3.8
+115,CA,VR Engineering,Respawn Entertainment,7,166000,83000,4.4
+116,CA,Digital Marketing,"Kendo, a division of LVMH",7,104000,56000,2.9
+117,CA,VR Engineering,Electronic Arts,7,124000,62000,3.9
+118,CA,Game Design,Fashion Nova - Careers,7,60000,36000,3.3
+119,DC,Data Scientist,Praescient Analytics,7,145000,88000,3.2
+120,CA,Data Scientist,Twitter,7,224000,138000,4.1
+121,NY,UI/UX Researcher,VMLY&amp;R,7,134000,63000,3.8
+122,IN,Data Scientist,Salesforce,7,156500,81000,4.4
+123,MN,UI/UX Researcher,University of Minnesota,7,61000,28000,4.2
+124,NY,UI/UX Researcher,Capital One,7,106000,62000,4
+125,CA,Data Scientist,Splunk,7,195000,122500,4.1
+126,CA,UI/UX Researcher,Samsung Research America,7,160000,83000,3.7
+127,DC,Data Scientist,Facebook,7,154000,96000,4.5
+128,IL,Data Scientist,Deloitte,7,132000,71000,3.8
+129,CA,UI/UX Researcher,Autodesk,7,151500,88000,4.1
+130,CA,Game Design,Activision Publishing,7,112000,51000,3
+131,DC,Data Scientist,Capital One,7,161000,97000,4
+132,CA,Data Scientist,Lawrence Berkeley National Laboratory,7,145000,86000,4.2
+133,CA,Digital Marketing,Williams-Sonoma,6,58000,35000,2.8
+134,MN,UI/UX Researcher,U.S. Bank,6,99500,45000,3.6
+135,CA,UI/UX Researcher,HOVER,6,155000,97000,4.6
+136,DC,Data Scientist,Redhorse Corporation,6,122000,68000,3.6
+137,CA,Digital Marketing,LEWIS Global Communications,6,81000,39000,2.8
+138,CA,Digital Marketing,MuleSoft,6,128000,67000,4.4
+139,NY,UI/UX Researcher,Business Monitor International,6,105000,54000,2.2
+140,CA,Digital Marketing,Gap Inc.,6,125000,51000,3.6
+141,NY,Digital Marketing,Epsilon,6,179000,103500,3.4
+142,CA,Digital Marketing,GOAT Group,6,91000,46000,3.4
+143,CA,UI/UX Researcher,Uber,6,156000,83000,4
+144,DC,UI/UX Researcher,CNA Corporation,6,153000,77000,3.3
+145,NY,Digital Marketing,ViacomCBS,6,90000,45000,3.6
+146,CA,Game Design,Activision Blizzard,6,123000,58000,3.6
+147,DC,Data Scientist,CACI,6,129000,76000,3.8
+148,CA,Digital Marketing,FleishmanHillard,6,77500,32500,3.6
+149,CA,Game Design,Survios,6,105000,53000,4.5
+150,IL,Data Scientist,McDonald's Corporate,6,147000,91500,3.5
+151,NY,Game Design,CNEWS,6,202000,114000,4.1
+152,NY,Data Scientist,Point72,6,158000,126000,3.9
+153,CA,Digital Marketing,Universal Music Group,6,88000,41000,3.1
+154,NY,Digital Marketing,Deloitte,6,101500,52000,3.8
+155,DC,Data Scientist,Johns Hopkins Applied Physics Laboratory (APL),6,136000,79000,4.6
+156,CA,Game Design,Crystal Dynamics,6,97000,53000,3.5
+157,IL,Data Scientist,Advocate Aurora Health,6,115500,61500,3.8
+158,DC,Data Scientist,Mission Essential,6,118500,70000,3.7
+159,CA,Digital Marketing,Community Psychiatry,6,74500,37500,3
+160,IL,Game Design,FASTSIGNS 601,6,43000,33000,3.2
+161,CA,Digital Marketing,Cashmere Agency,6,75000,39500,3.1
+162,NY,Digital Marketing,"SHS, Incorporated",6,191000,153000,5
+163,CA,Data Scientist,Tapjoy,6,175000,102000,3.6
+164,IN,UI/UX Researcher,Salesforce,6,156000,95000,4.4
+165,CA,Data Scientist,Spin Electric Scooters,6,167000,106000,4
+166,CA,Data Scientist,Thermo Fisher Scientific,6,134000,81500,3.6
+167,NY,UI/UX Researcher,University of Delaware,6,58000,31000,4.4
+168,CA,UI/UX Researcher,Cisco Systems,6,218000,136000,4.2
+169,CA,VR Engineering,Facebook,6,147500,83000,4.5
+170,CA,UI/UX Researcher,Chime,6,170500,90000,4.9
+171,NY,Digital Marketing,iProspect,6,91000,46000,3.2
+172,DC,Data Scientist,General Dynamics Information Technology,6,114000,62500,3.6
+173,CA,Digital Marketing,Amyris,5,180000,98000,3.9
+174,IN,Data Scientist,Corteva Agriscience,5,118000,54000,3.8
+175,NY,Digital Marketing,Snap,5,117000,64000,3.9
+176,DC,UI/UX Researcher,CNA,5,132000,65000,3.3
+177,CA,Digital Marketing,Conductor,5,126000,56000,4.5
+178,CA,Game Design,Gensler,5,113000,54000,3.7
+179,CA,Digital Marketing,Core Digital Media,5,110000,56000,4
+180,DC,Data Scientist,BAE Systems,5,116000,70000,3.7
+181,CA,Digital Marketing,First Capitol Consulting,5,170500,91500,3
+182,NY,Digital Marketing,CBS Interactive,5,88000,44000,3.8
+183,DC,Data Scientist,Amazon,5,134000,83000,3.9
+184,NY,VR Engineering,ZT Systems,5,98000,76000,3.4
+185,DC,Data Scientist,General Dynamics,5,105000,63000,3.6
+186,IL,Data Scientist,Wyzant,5,189000,118000,3.4
+187,CA,Game Design,Cloud Imperium Games,5,95000,60000,3.3
+188,NY,VR Engineering,Facebook,5,149000,87000,4.5
+189,CA,Digital Marketing,ZS Associates,5,167000,80000,3.9
+190,DC,Data Scientist,SAIC,5,129000,79000,3.9
+191,DC,Data Scientist,"Electronic Consulting Services, Inc.",5,87000,51000,3.9
+192,DC,Data Scientist,Lockheed Martin,5,110000,66000,3.9
+193,DC,Data Scientist,The Knot Worldwide,5,115000,68000,3.9
+194,CA,UI/UX Researcher,University of California San Francisco,5,53000,31000,4.2
+195,WA,VR Engineering,Microsoft,5,141000,98000,4.3
+196,DC,Data Scientist,Dexis Consulting Group,5,133000,78000,3.6
+197,CA,Digital Marketing,ConsumerTrack,5,98000,44000,3.3
+198,DC,UI/UX Researcher,Johns Hopkins University Applied Physics Laboratory,5,156000,77000,4.6
+199,CA,UI/UX Researcher,DoorDash,5,134000,83000,4
+200,NY,Digital Marketing,NetCom Learning,5,68500,38500,4.1
+201,CA,Game Design,"Operating Company ACTIVISION PUBLISHING, INC",5,116000,56000,3
+202,IL,Data Scientist,Shure Incorporated,5,178000,113000,4.2
+203,NY,UI/UX Researcher,Macy's,5,63000,24000,3.3
+204,NY,Data Scientist,Bloomberg,5,204000,124000,4
+205,NY,UI/UX Researcher,Kaleidoscope,5,187000,92000,4.1
+206,NY,UI/UX Researcher,J.P. Morgan,5,261000,135000,4
+207,CA,Digital Marketing,QuinStreet,5,76000,41000,3.2
+208,CA,Data Scientist,"TuSimple, Inc.",5,165000,98000,3.7
+209,CA,UI/UX Researcher,Lawrence Berkeley National Laboratory,5,125000,78000,4.2
+210,CA,Data Scientist,Udemy,5,181000,115000,4.4
+211,CA,Digital Marketing,ServiceTitan,5,126000,53000,3.6
+212,CA,UI/UX Researcher,Capital One,5,121000,69000,4
+213,CA,Digital Marketing,Unity Technologies,5,126000,66000,4.6
+214,CA,Digital Marketing,Udemy,5,106000,54000,4.4
+215,NY,Digital Marketing,Ironpaper,5,60500,30500,3.4
+216,IL,Data Scientist,Civis Analytics,5,162000,90000,3.1
+217,CA,Digital Marketing,Smartly.io,5,99000,53000,4.5
+218,NY,Digital Marketing,Kepler Group,5,67000,37000,4.3
+219,CA,Digital Marketing,Splunk,5,142000,32000,4.1
+220,CA,Game Design,ViacomCBS,5,90000,47000,3.6
+221,IL,Data Scientist,Integral Ad Science,5,126000,102000,3.5
+222,NY,UI/UX Researcher,Samsung Research America,5,231000,120000,3.7
+223,IL,Data Scientist,Intelligent Medical Objects,5,147000,78000,3.4
+224,NY,Digital Marketing,Thermo Fisher Scientific,5,80000,40000,3.6
+225,NY,Digital Marketing,Facebook,5,136000,63000,4.5
+226,CA,Data Scientist,DoorDash,5,132000,82000,4
+227,IL,Data Scientist,Tiger Analytics,5,116000,64000,4.4
+228,CA,Digital Marketing,Old Navy,5,80000,43000,3.5
+229,CA,UI/UX Researcher,Oracle ,5,198000,105000,3.6
+230,CA,Digital Marketing,Accenture,5,149000,79000,3.9
+231,IL,Data Scientist,Kin + Carta,5,158000,99000,4
+232,CA,UI/UX Researcher,Rally Health,5,186000,116000,3.4
+233,CA,Digital Marketing,Sony PlayStation,4,69500,46000,3.7
+234,DC,Data Scientist,22nd Century Technologies,4,122000,78500,3.6
+235,NY,Digital Marketing,Internet Brands,4,61000,30000,3.3
+236,NY,Digital Marketing,Avani Technology Solutions,4,71000,35000,4.6
+237,CA,Digital Marketing,MotorTrend Group,4,98000,50000,2.7
+238,CA,Digital Marketing,Monoprice Inc.,4,76000,38000,2.8
+239,NY,Digital Marketing,"imre, LLC.",4,86000,49000,3.6
+240,CA,UI/UX Researcher,Airbnb,4,236500,130500,4.1
+241,NY,Digital Marketing,Salesforce,4,133000,63500,4.4
+242,CA,Digital Marketing,HOVER,4,97000,49000,4.6
+243,CA,Game Design,Sony PlayStation,4,119000,60500,3.7
+244,DC,Data Scientist,Battelle,4,203000,126000,3.5
+245,DC,Data Scientist,BAE Systems USA,4,119000,72000,3.7
+246,CA,Game Design,Super Lucky Casino,4,105500,81000,5
+247,CA,Game Design,TechStyle Fashion Group,4,86000,47500,3.4
+248,CA,Game Design,The Aerospace Corporation,4,107500,53500,3.9
+249,CA,Digital Marketing,Fleishman-Hillard,4,166000,84000,3.6
+250,CA,UI/UX Researcher,SoFi,4,176000,109000,3.3
+251,CA,Digital Marketing,MuteSix,4,79000,38000,4.4
+252,CA,Digital Marketing,New Relic,4,194500,105000,4.3
+253,NY,Digital Marketing,Saks Fifth Avenue,4,64000,38000,3.1
+254,CA,Game Design,Walt Disney Company,4,93000,47500,4.1
+255,NY,Digital Marketing,The Spark Group,4,44000,38000,4.6
+256,CA,Game Design,Warner Bros. Entertainment Group,4,117000,64000,4
+257,CA,Digital Marketing,University of California Berkeley,4,85000,44000,3.8
+258,NY,Digital Marketing,Cepheid,4,105000,54000,3.5
+259,CA,Digital Marketing,Linqia,4,71000,37500,4.2
+260,DC,Data Scientist,Booz Allen Hamilton,4,103500,57000,4
+261,CA,Digital Marketing,Viacom,4,90000,45000,3.6
+262,CA,Digital Marketing,Rentokil North America,4,82000,41000,4.1
+263,CA,Game Design,Mattel,4,87500,47500,3.7
+264,CA,Digital Marketing,Kepler Group,4,95500,47000,4.3
+265,CA,Digital Marketing,Kiosk,4,56000,27000,5
+266,CA,UI/UX Researcher,Zendesk,4,245500,155500,4.3
+267,CA,Digital Marketing,Viscira,4,104000,39000,2.8
+268,CA,UI/UX Researcher,Meraki,4,172000,106000,3.4
+269,CA,UI/UX Researcher,VMware,4,228500,143500,4.2
+270,NY,Digital Marketing,"Electrosonic, Inc.",4,117000,57000,4
+271,CA,Digital Marketing,Laserfiche,4,81000,41000,3.7
+272,CA,UI/UX Researcher,Wells Fargo,4,125000,62000,3.6
+273,CA,Digital Marketing,Internet Brands,4,156000,84000,3.3
+274,CA,UI/UX Researcher,Dropbox,4,143000,88000,4.1
+275,CA,VR Engineering,Survios,4,92000,72000,4.5
+276,NY,Digital Marketing,Crossix Solutions,4,60000,37000,3.25
+277,NY,Digital Marketing,Icreon Tech,4,106000,54000,4.4
+278,CA,UI/UX Researcher,Coinbase,4,196500,122500,3.9
+279,NY,Digital Marketing,IBM,4,129000,60000,3.8
+280,CA,VR Engineering,"TuSimple, Inc.",4,148000,73000,3.7
+281,CA,Digital Marketing,Mattel,4,97500,54000,3.7
+282,CA,Digital Marketing,Instacart,4,89500,46500,3.8
+283,CA,UI/UX Researcher,US Bank,4,123000,40000,3.6
+284,CA,UI/UX Researcher,Course Hero,4,138500,85000,4.9
+285,CA,UI/UX Researcher,UCSF Medical Center,4,50000,28500,4
+286,NY,Game Design,Arkadium,4,98000,74000,3.8
+287,FL,VR Engineering,Unity Technologies,4,178000,97000,4.6
+288,DC,UI/UX Researcher,University of Southern California,4,158000,88000,4.3
+289,DC,UI/UX Researcher,Volkswagen Group of America,4,164500,83500,3.7
+290,NY,UI/UX Researcher,KeyBank,4,122000,58000,3.5
+291,CA,Data Scientist,Tempus Labs,4,160500,104500,3.2
+292,CA,Data Scientist,Spin,4,220000,141000,4
+293,CA,Data Scientist,SoFi,4,139000,87000,3.3
+294,MN,UI/UX Researcher,Best Buy,4,81500,44000,3.9
+295,IL,Data Scientist,Beyond Finance,4,118500,64000,3.6
+296,CA,Data Scientist,Sage Intacct,4,289000,176000,4.8
+297,IL,Data Scientist,Capital One,4,145000,89000,4
+298,DC,UI/UX Researcher,SAIC,4,151000,74000,3.9
+299,CA,Data Scientist,"Williams-Sonoma, Inc.",4,115000,70000,2.8
+300,DC,Data Scientist,steampunk,4,156000,93000,4.1
+301,MN,UI/UX Researcher,UnitedHealth Group,4,136000,72000,3.4
+302,CA,Digital Marketing,Auto/Mate,4,101000,45000,4.3
+303,DC,UI/UX Researcher,Booz Allen Hamilton Inc.,4,156500,81500,4
+304,DC,UI/UX Researcher,CACI International,4,86000,36000,3.8
+305,NY,UI/UX Researcher,Contingent Network Services,4,92500,42000,3.1
+306,DC,UI/UX Researcher,Comcast,4,133000,70500,3.8
+307,DC,UI/UX Researcher,Facebook,4,171000,96000,4.5
+308,DC,UI/UX Researcher,General Dynamics Information Technology,4,75500,33000,3.6
+309,NY,UI/UX Researcher,Dotdash,4,70000,34000,4.2
+310,NY,Data Scientist,Aetna,4,232000,142500,3.45
+311,DC,UI/UX Researcher,Lockheed Martin,4,143000,69500,3.9
+312,DC,UI/UX Researcher,Redhorse Corporation,4,139000,68000,3.6
+313,NY,UI/UX Researcher,Fitch Ratings,4,163000,85000,3.7
+314,IL,Data Scientist,Caterpillar,4,127500,75500,3.9
+315,IN,UI/UX Researcher,Kaleidoscope,4,109000,53500,3.7
+316,NY,UI/UX Researcher,The New School,4,59000,32500,3.6
+317,CA,Data Scientist,First Republic Bank,4,146000,73000,3.9
+318,CA,Data Scientist,Faire,4,199000,127000,4.4
+319,IN,Digital Marketing,Deloitte,4,108500,64500,3.8
+320,CA,Data Scientist,Cruise,4,214000,129000,3.6
+321,IL,Data Scientist,WALGREENS,4,145000,88000,3.1
+322,CA,Data Scientist,Ancestry,4,261000,166000,3.1
+323,CA,Data Scientist,Accenture,4,140500,79500,3.9
+324,IL,Data Scientist,Old Mission Capital,4,169000,92000,4.7
+325,IL,Data Scientist,NORC at the University of Chicago,4,100000,57500,3
+326,IL,Data Scientist,MuleSoft,4,96000,53000,4.4
+327,CA,Data Scientist,Opendoor,4,245000,154500,3.8
+328,IL,Data Scientist,HCSC,4,145000,89000,3.7
+329,CA,Data Scientist,Natera,4,150000,94000,4
+330,CA,Data Scientist,Logic20/20,4,151500,92000,3.8
+331,IL,Data Scientist,JLL,4,85000,45500,3.8
+332,IL,Data Scientist,Maven Wave Partners,4,101000,56500,4.4
+333,IL,Data Scientist,"JPMorgan Chase Bank, N.A.",4,228500,140000,3.8
+334,CA,Data Scientist,Levi Strauss,4,144000,87500,3.9
+335,IL,Data Scientist,M1 Holdings,4,101500,55000,3.9
+336,DC,UI/UX Researcher,Accenture,4,122000,56000,3.9
+337,CA,Game Design,Athleta,4,98500,56000,4.1
+338,CA,Digital Marketing,Common Thread Collective,4,53000,35000,3.7
+339,DC,Data Scientist,Id.me,4,62000,33000,3.4
+340,CA,Digital Marketing,DoorDash,4,136000,37500,4
+341,NY,UI/UX Researcher,Bio-Reference Labs,4,115000,53000,2.7
+342,CA,Digital Marketing,"Electrosonic, Inc.",4,116500,57000,4
+343,DC,Data Scientist,Peraton,4,149000,81000,3.7
+344,DC,Data Scientist,"Metron, Inc.",4,122000,91000,3
+345,DC,Data Scientist,GEICO,4,143500,86500,3.4
+346,CA,Digital Marketing,Entercom Communications Corp.,4,76000,26000,3
+347,NY,Data Scientist,IBM,4,148000,90000,3.8
+348,CA,Digital Marketing,Benefit Cosmetics,4,87000,48000,3.2
+349,NY,Digital Marketing,3Q Digital,4,136000,77000,3.8
+350,CA,Digital Marketing,Bank of the West,4,121500,62500,3.2
+351,IL,Data Scientist,Koch Engineered Solutions,3,127000,76000,3.8
+352,NY,Digital Marketing,Klarna,3,115000,59000,3.6
+353,IL,Data Scientist,Echo Global Logistics,3,174000,96000,3.6
+354,CA,Game Design,Salesforce,3,188000,120000,4.4
+355,IL,Data Scientist,"FTD Companies, Inc",3,141000,73000,3
+356,DC,Data Scientist,Elder Research Inc,3,113000,63000,3.8
+357,NY,Digital Marketing,MongoDB,3,120000,62000,4.5
+358,IL,Data Scientist,McDonald's Corporation,3,125000,58000,3.5
+359,NY,Digital Marketing,Kettle,3,81000,45000,3.7
+360,DC,Data Scientist,AEM Corporation,3,122000,73000,4.3
+361,IL,Data Scientist,NorthShore University HealthSystem,3,111000,57000,3.6
+362,IL,Data Scientist,Northwestern Memorial Healthcare,3,112000,62000,4
+363,DC,Data Scientist,ERPI,3,101000,59000,3.6
+364,IL,Data Scientist,KPMG,3,147000,82000,3.9
+365,CA,Game Design,iconmobile GmbH,3,123000,65000,3.3
+366,NY,Digital Marketing,LEWIS Global Communications,3,66000,33000,2.8
+367,IL,Data Scientist,Hyatt,3,154000,96000,4.2
+368,IL,Data Scientist,Illinois Institute of Technology,3,77000,34000,4.2
+369,CA,VR Engineering,Udacity,3,169000,83000,3.6
+370,CA,Game Design,Ubisoft,3,99000,51000,3.9
+371,IL,Data Scientist,PNC Financial Services Group,3,62000,38000,3.6
+372,NY,Digital Marketing,Matrix Resources,3,82000,46000,4.3
+373,DC,Data Scientist,Henry M Jackson Foundation For The Advan,3,97000,57000,3.7
+374,IL,Data Scientist,Goodway Group,3,177000,101000,4.2
+375,DC,Data Scientist,Howard University,3,96000,53000,3.5
+376,DC,Data Scientist,Valiant Integrated Services,3,122000,74000,3
+377,NY,Digital Marketing,NYU Langone Health,3,143000,76000,4.1
+378,DC,Data Scientist,CLS Bank International,3,184000,112000,2.4
+379,IL,Data Scientist,WellNow Urgent Care,3,111000,59000,4.2
+380,IN,Data Scientist,SpringML,3,91000,78000,4.4
+381,NY,Digital Marketing,1000heads,3,69000,38000,3.3
+382,NY,Digital Marketing,Prosek,3,115000,74000,4
+383,IL,Data Scientist,"eFinancial, LLC",3,66000,36000,3.6
+384,IL,Game Design,Rightpoint,3,59000,33000,4
+385,CA,Game Design,CBS Interactive,3,120000,67000,3.8
+386,IN,Data Scientist,Indiana University,3,95000,52500,4.3
+387,IL,Game Design,SteelSeries,3,67000,57000,3
+388,IL,Game Design,Zynga,3,86000,37000,4.2
+389,CA,Game Design,Glu Mobile,3,87000,41000,3.5
+390,IL,Data Scientist,Underwriters Laboratories,3,224000,128000,3.7
+391,IN,Digital Marketing,Anytime Fitness,3,48000,20000,3.7
+392,DC,Data Scientist,Accenture,3,121000,72000,3.9
+393,NY,Data Scientist,Two Sigma,3,220000,115000,4.5
+394,IL,Data Scientist,Rally Health,3,204000,123000,3.4
+395,CA,UI/UX Researcher,Asana,3,175000,107000,4.9
+396,NY,Data Scientist,"Two Sigma Investments, LLC.",3,195000,117000,4.5
+397,NY,Digital Marketing,Net at Work,3,129000,67000,2.5
+398,IL,Data Scientist,"STENOGRAPH, LLC",3,105000,54000,2.9
+399,IL,Data Scientist,Salesforce,3,166000,86500,4.4
+400,CA,Game Design,Niantic,3,103000,53000,4
+401,IL,Data Scientist,U.S. Cellular,3,100000,57000,3.8
+402,IL,Data Scientist,"Sunrise Futures, LLC",3,173000,102000,3.5
+403,IL,Data Scientist,Syngenta,3,120000,67000,4
+404,CA,Game Design,Heavy Iron,3,82000,41000,4
+405,NY,Digital Marketing,PepsiCo,3,125000,67000,3.8
+406,IN,Digital Marketing,Back On My Feet,3,51000,27000,3.7
+407,IL,Data Scientist,"Conch Technologies, Inc",3,98000,51000,4.6
+408,DC,Data Scientist,Inovalon,3,85000,41000,2.8
+409,DC,Data Scientist,Sierra Nevada Corporation,3,155000,84000,3.6
+410,DC,UI/UX Researcher,"Karsun Solutions, LLC",3,148000,73000,3.5
+411,NY,Data Scientist,Amazon,3,132000,91000,3.9
+412,NY,Data Scientist,Known,3,158000,96000,3.7
+413,DC,UI/UX Researcher,Perspecta,3,72000,40000,3.3
+414,DC,UI/UX Researcher,Raytheon Intelligence &amp; Space,3,98000,45000,3.8
+415,CA,UI/UX Researcher,Patreon,3,178000,110000,3.2
+416,IL,Data Scientist,DRW,3,191000,98000,4
+417,DC,Data Scientist,National Security Agency,3,116000,70000,3.9
+418,MN,UI/UX Researcher,Trane Technologies,3,86000,45000,3.9
+419,DC,UI/UX Researcher,Spatial Front,3,93000,44000,3.9
+420,CA,UI/UX Researcher,Nomis Solutions,3,161000,83000,3.8
+421,MN,UI/UX Researcher,Target,3,111000,67000,3.6
+422,DC,UI/UX Researcher,The Henry M. Jackson Foundation,3,86000,47000,3.7
+423,NY,Digital Marketing,Extensis Group,3,80000,40000,4.8
+424,CA,VR Engineering,Apple,3,103000,58000,4.2
+425,CA,UI/UX Researcher,Lyft,3,131000,79000,3.8
+426,DC,Data Scientist,"Systems Planning and Analysis, Inc.",3,101000,60000,3.9
+427,DC,Data Scientist,TDI (Tetrad Digital Integrity),3,88000,48000,4.8
+428,DC,UI/UX Researcher,DXC,3,97000,50000,3.1
+429,NY,Digital Marketing,Cognizant Technology Solutions,3,85000,43000,3.7
+430,NY,Data Scientist,Genesis Research,3,135000,100000,4.6
+431,DC,Data Scientist,Whiteboard Federal,3,142000,87000,3.9
+432,NY,Digital Marketing,Conductor,3,132000,59000,4.5
+433,CA,UI/UX Researcher,University of California Berkeley,3,94000,53000,4.3
+434,CA,UI/UX Researcher,"TuSimple, Inc.",3,142000,71000,3.7
+435,DC,UI/UX Researcher,Acumen Solutions,3,117000,54000,4.6
+436,NY,Digital Marketing,Criteo,3,92000,50000,3.9
+437,CA,UI/UX Researcher,Sutter Health System,3,143000,74000,4
+438,CA,UI/UX Researcher,Square,3,225500,131500,4.1
+439,CA,UI/UX Researcher,Splunk,3,52000,34000,4.1
+440,DC,UI/UX Researcher,Atlas Research,3,50000,32000,3
+441,NY,Digital Marketing,City Harvest,3,65000,35000,3.8
+442,DC,Data Scientist,The Motley Fool,3,158000,84000,4.8
+443,DC,UI/UX Researcher,Central Intelligence Agency,3,130500,66000,4.1
+444,DC,Data Scientist,The E.W. Scripps Company,3,137000,83000,3.6
+445,CA,UI/UX Researcher,Snapdocs,3,64000,39000,4.8
+446,NY,Digital Marketing,Fleishman-Hillard,3,58000,32000,3.6
+447,CA,VR Engineering,Penumbra,3,90000,51000,3.4
+448,MN,UI/UX Researcher,Calabrio,3,121000,73000,3
+449,IL,Data Scientist,Avanade,3,102000,53000,3.9
+450,IL,Data Scientist,Avani Technology Solutions,3,71000,39000,4.6
+451,NY,Data Scientist,Peloton Interactive,3,114000,68000,3.9
+452,IL,Data Scientist,BDO,3,79000,38000,3.7
+453,NY,Data Scientist,PepsiCo,3,151000,89000,3.8
+454,IL,Data Scientist,Bristol Myers Squibb,3,96000,57000,4.1
+455,MN,UI/UX Researcher,22nd Century Technologies,3,106000,68000,3.6
+456,IL,Data Scientist,CNA Insurance,3,157000,93000,3.3
+457,DC,Data Scientist,Logistics Management Institute,3,135000,81000,4.3
+458,IL,Data Scientist,Capax Global,3,115000,97000,4.7
+459,CA,VR Engineering,Spin,3,168000,93000,4
+460,IL,Data Scientist,Chicago Public Schools,3,111000,65000,3.4
+461,DC,Data Scientist,Intelligent Automation,3,120000,60000,3.7
+462,IL,Data Scientist,Citadel,3,100000,81000,3.9
+463,CA,UI/UX Researcher,Bayer,3,149000,74000,4.1
+464,IL,Data Scientist,Crowe,3,102000,66000,3.8
+465,CA,UI/UX Researcher,Conduent,3,36000,24000,2.9
+466,MN,UI/UX Researcher,Sleep Number Corporation,3,132000,65000,3.2
+467,DC,UI/UX Researcher,USC,3,86000,49000,4.3
+468,NY,Digital Marketing,Good Tidings PHC,3,61000,34000,4.8
+469,NY,Digital Marketing,Group Nine Media,3,86000,43000,2.9
+470,NY,Digital Marketing,Guardian Life Insurance Company,3,89000,43000,3.6
+471,CA,UI/UX Researcher,"Five9, Inc.",3,161000,83000,4.8
+472,CA,UI/UX Researcher,Dwell,3,123000,61000,2.5
+473,DC,Data Scientist,Maxar Technologies,3,130000,79000,3.6
+474,CA,VR Engineering,IMVU,3,187500,104000,3.1
+475,IL,Data Scientist,22nd Century Technologies,3,88000,46000,3.6
+476,IL,Data Scientist,AVANADE,3,70000,35000,3.9
+477,IL,Data Scientist,Alight,3,78000,43000,3.1
+478,CA,Digital Marketing,Sierra Club,3,81000,41000,3.8
+479,CA,Digital Marketing,Fender,3,97000,49000,3.2
+480,NY,UI/UX Researcher,Dell Technologies,3,170000,101000,4.1
+481,NY,Game Design,Rockstar Games,3,72000,39000,4.2
+482,CA,Data Scientist,LexisNexis Legal &amp; Professional,3,133000,82000,3.9
+483,CA,Digital Marketing,Adyen,3,116000,60000,4.6
+484,CA,Digital Marketing,Firebrand Communications,3,75000,50000,5
+485,CA,Data Scientist,MSCI Inc.,3,120000,75000,3.7
+486,CA,Data Scientist,MarkMonitor,3,193000,121000,3.2
+487,NY,Game Design,Publicis Groupe,3,85000,47000,3.6
+488,CA,Digital Marketing,First Republic Bank,3,171000,86000,3.9
+489,NY,UI/UX Researcher,Dow Jones,3,117000,55000,3.7
+490,CA,Digital Marketing,Activision Blizzard,3,196000,106000,3.6
+491,CA,Digital Marketing,Exponent,3,126000,66000,3.4
+492,CA,Digital Marketing,Exela Technologies,3,71000,36000,2.6
+493,CA,Digital Marketing,Acceleration Partners,3,75000,40000,4.9
+494,CA,Digital Marketing,Databricks,3,158000,85000,4.7
+495,CA,Digital Marketing,Digital First Media,3,53000,27000,2.4
+496,NY,UI/UX Researcher,The Rockefeller University,3,81000,36000,4.3
+497,CA,Digital Marketing,Tealium,3,199000,89000,3
+498,CA,Digital Marketing,Ampush,3,89000,49000,3.7
+499,CA,Data Scientist,Gap Inc.,3,267000,171000,3.6
+500,CA,Digital Marketing,Sunny Health and Fitness,3,74000,37000,4.6
+501,CA,Digital Marketing,Amgen,3,179000,90000,3.9
+502,CA,Digital Marketing,Studio71,3,58000,34000,4.2
+503,NY,UI/UX Researcher,Cross Border Solutions,3,99000,45000,3
+504,CA,Digital Marketing,Spectrum,3,89000,40000,3.1
+505,NY,UI/UX Researcher,Teachers Pay Teachers,3,180000,130000,4.9
+506,CA,Digital Marketing,Sony Pictures Entertainment,3,219000,136000,3.9
+507,NY,Digital Marketing,Well Woven Inc.,3,62000,31000,3.8
+508,CA,Digital Marketing,Amazon.com Services LLC,3,96000,74000,3.9
+509,CA,Data Scientist,Hive (CA),3,143000,101000,3
+510,NY,Digital Marketing,Wolters Kluwer,3,102000,52000,3.3
+511,CA,Data Scientist,MuleSoft,3,211000,128000,4.4
+512,CA,Data Scientist,UnifyID,3,189000,114000,3.9
+513,CA,Data Scientist,Twitch,3,223000,142000,3.4
+514,CA,Digital Marketing,OnPrem Solutions Partners,3,101000,51000,4.3
+515,CA,Data Scientist,Turo,3,211000,120000,4.6
+516,NY,UI/UX Researcher,ION Group,3,146000,69000,2.4
+517,CA,Digital Marketing,Live Nation Entertainment,3,124000,64000,4
+518,NY,UI/UX Researcher,Multimedia Solutions,3,99000,70000,4.7
+519,NY,Game Design,HOTELS AT HOME,3,40000,22000,3
+520,CA,Data Scientist,Snap,3,251000,151000,3.9
+521,CA,Digital Marketing,Living Spaces,3,57000,32000,3.8
+522,NY,Game Design,FASTSIGNS #153,3,50000,28000,3.2
+523,CA,Data Scientist,Sony PlayStation,3,222500,134500,3.7
+524,NY,Game Design,Gemini,3,86000,44000,3.9
+525,CA,Digital Marketing,Meredith Corporation,3,93000,47000,3.3
+526,CA,Data Scientist,Susquehanna International Group,3,186000,100000,3.6
+527,CA,Digital Marketing,KeepTruckin,3,191000,104000,3.1
+528,CA,Data Scientist,Nektar Therapeutics,3,182000,94000,3.3
+529,NY,UI/UX Researcher,Girl Scouts of the USA,3,110000,45000,3.1
+530,CA,Data Scientist,New Relic,3,114000,63000,4.3
+531,CA,Data Scientist,Nextdoor,3,176000,112000,4.4
+532,NY,UI/UX Researcher,Etsy,3,147000,90000,3.7
+533,CA,Digital Marketing,RSM US LLP,3,157000,75000,4
+534,CA,Digital Marketing,RAPP,3,80000,45000,3.6
+535,CA,Data Scientist,Oracle ,3,167000,106000,3.6
+536,CA,Data Scientist,iknowvate technologies,3,126000,68000,3.2
+537,CA,Data Scientist,h2o.ai,3,268000,169000,4
+538,CA,Data Scientist,ZS Associates,3,186000,112000,3.9
+539,CA,Data Scientist,Pacific Gas and Electric,3,154000,91000,3.8
+540,CA,Digital Marketing,Iterable,3,133000,70000,4.7
+541,NY,UI/UX Researcher,Penguin Random House LLC,3,88000,39000,3.8
+542,CA,Data Scientist,Wyzant,3,228000,144000,3.4
+543,CA,Digital Marketing,The Boldt Company,3,76000,45000,3.2
+544,NY,UI/UX Researcher,Kin + Carta,3,102000,49000,4
+545,NY,UI/UX Researcher,CLEAR,3,77000,40000,3
+546,CA,Digital Marketing,Belkin,3,86000,43000,3.2
+547,NY,Digital Marketing,ShopBop,3,63000,34000,3.9
+548,CA,Digital Marketing,CBS Interactive,3,86000,43000,3.8
+549,CA,Digital Marketing,Computer Courage,3,121000,63000,4.8
+550,CA,Data Scientist,Cloudbigdata Technologies,3,108000,56000,4.7
+551,CA,Digital Marketing,BNP Paribas,3,157000,83000,3.6
+552,CA,Data Scientist,App Annie,3,152000,88000,3.8
+553,CA,Digital Marketing,Constellation Brands,3,106000,54000,3.5
+554,CA,Digital Marketing,Blue Shield of California,3,152000,81000,4.3
+555,NY,UI/UX Researcher,BlackRock,3,146000,70000,4
+556,CA,Data Scientist,Amyris,3,115000,54000,3.9
+557,CA,Data Scientist,Chime,3,192000,119000,4.9
+558,CA,Digital Marketing,CRH,3,170000,99000,2.9
+559,CA,Digital Marketing,Wilson Sonsini Goodrich &amp; Rosati,3,138000,66000,3.7
+560,NY,UI/UX Researcher,BTI Solutions,3,96000,44000,2.3
+561,CA,Digital Marketing,Wavemaker,3,230000,147000,3.5
+562,CA,Data Scientist,C3.ai,3,178000,112000,4.5
+563,NY,UI/UX Researcher,BNY Mellon,3,95000,35000,3.3
+564,WA,VR Engineering,Amazon,3,103000,84000,3.9
+565,CA,Digital Marketing,Walker Advertising,3,79000,39000,3.6
+566,CA,Data Scientist,"Automotive Training Institute, Inc.",3,169000,108000,3.8
+567,CA,Digital Marketing,WX,3,184000,100000,3.6
+568,CA,Data Scientist,Atlassian,3,184000,117000,4.6
+569,CA,Digital Marketing,Volta Charging,3,145000,33000,4.1
+570,CA,Digital Marketing,"Williams-Sonoma, Inc.",3,55000,27500,2.75
+571,NY,UI/UX Researcher,VTS,3,83000,43000,4.5
+572,CA,Digital Marketing,The Pill Club,3,121000,69000,2.5
+573,CA,Digital Marketing,Autism Speaks,3,97000,46000,2.7
+574,CA,Digital Marketing,Bytedance,3,86000,45000,3.9
+575,NY,Game Design,Two Bulls,3,119000,53000,4.4
+576,CA,Data Scientist,2K,3,138000,81000,3.6
+577,CA,Data Scientist,Eaze,3,160000,100000,3.8
+578,CA,Data Scientist,Agenus,3,82000,45000,3.3
+579,CA,Digital Marketing,Crunchyroll,3,73000,37000,3.4
+580,NY,UI/UX Researcher,Bloomberg,3,113000,53000,4
+581,NY,UI/UX Researcher,Verizon,3,159000,81000,3.9
+582,CA,Digital Marketing,Autodesk,3,110000,57000,4.1
+583,CA,Data Scientist,Xoriant Corporation,2,142000,75000,3.8
+584,DC,Data Scientist,RELX Group,2,110000,62000,3.7
+585,DC,UI/UX Researcher,Publicis Sapient,2,124500,69000,3.5
+586,CA,Digital Marketing,2K,2,98000,45000,3.6
+587,DC,UI/UX Researcher,Outreach Process Partners,2,77000,50000,4.5
+588,DC,Data Scientist,REI Systems,2,110000,65000,4.2
+589,CA,Data Scientist,Vida Health,2,103000,59000,3.3
+590,DC,UI/UX Researcher,UnitedHealth Group,2,143000,72000,3.4
+591,CA,Data Scientist,TuSimple,2,114000,61000,3.7
+592,CA,Data Scientist,Tubi,2,208000,126000,4.3
+593,CA,Data Scientist,Twist Bioscience,2,127500,70500,4
+594,DC,Data Scientist,Royce Geospatial,2,127000,95000,5
+595,CA,Data Scientist,Unity Technologies,2,129000,64000,4.6
+596,DC,UI/UX Researcher,TechFlow,2,107000,52000,3.8
+597,FL,VR Engineering,Circadence Corporation,2,110000,42000,2.4
+598,CA,Data Scientist,Varo Bank,2,155000,85000,4
+599,DC,Data Scientist,Red Arch Solutions,2,226000,139000,4.5
+600,CA,Digital Marketing,Brafton,2,75000,43000,3.6
+601,DC,UI/UX Researcher,Next Century,2,106000,51000,4.9
+602,DC,UI/UX Researcher,Contingent Network Services,2,88000,49000,3.1
+603,CA,Digital Marketing,AmeriCorps,2,45000,24000,3.6
+604,CA,Digital Marketing,Automation Anywhere,2,133000,70000,2.9
+605,DC,UI/UX Researcher,22nd Century Technologies,2,97000,66000,3.6
+606,CA,Digital Marketing,AvantStay,2,86000,44000,4.6
+607,DC,UI/UX Researcher,Deloitte,2,87000,44500,3.8
+608,DC,UI/UX Researcher,EPAM Systems,2,97500,58500,4.05
+609,DC,UI/UX Researcher,Enovational,2,100000,55000,3.4
+610,DC,UI/UX Researcher,Compass,2,144500,71500,3.9
+611,DC,UI/UX Researcher,Chenega MIOS,2,169500,61000,4.4
+612,DC,UI/UX Researcher,BAE Systems USA,2,104000,43000,3.7
+613,DC,UI/UX Researcher,B-Line Medical,2,99000,47000,4
+614,DC,UI/UX Researcher,Avantus Federal,2,102000,47000,4.5
+615,DC,UI/UX Researcher,Battelle,2,162000,75000,3.5
+616,CA,Digital Marketing,Athgo,2,68000,43000,5
+617,DC,UI/UX Researcher,Applied Information Sciences,2,115000,55000,4.45
+618,DC,UI/UX Researcher,Beacon Roofing Supply,2,120000,58000,2.8
+619,DC,UI/UX Researcher,American Society of Clinical Oncology,2,91000,48000,3.7
+620,DC,UI/UX Researcher,CNEWS,2,173500,100500,4.1
+621,DC,UI/UX Researcher,Chenega Corporation,2,146500,56000,2.8
+622,DC,Data Scientist,Wyzant,2,188000,118000,3.4
+623,DC,UI/UX Researcher,Evidera,2,118500,68000,3.8
+624,DC,UI/UX Researcher,ICF,2,111500,62000,3.4
+625,CA,Digital Marketing,Acadaca,2,52000,31000,3.7
+626,DC,UI/UX Researcher,BAE Systems,2,89000,37000,3.7
+627,CA,Digital Marketing,Blavity,2,81000,41000,2.8
+628,WA,VR Engineering,VMware,2,184000,111000,4.2
+629,CA,Digital Marketing,AIG,2,96000,49000,3.5
+630,DC,UI/UX Researcher,Marriott,2,158000,79500,4.1
+631,DC,UI/UX Researcher,MedStar Washington Hospital Center,2,79000,33000,3.3
+632,DC,UI/UX Researcher,"ISYS Technologies, Inc.",2,125000,61000,3.7
+633,DC,Data Scientist,Visa Inc.,2,139000,87000,3.9
+634,DC,UI/UX Researcher,Huntington Ingalls Industries Inc.,2,142000,79000,3.5
+635,DC,UI/UX Researcher,FireEye,2,127000,70500,3.3
+636,DC,Data Scientist,VW Credit,2,134000,83000,2.9
+637,CA,Digital Marketing,Beekeeper,2,79000,48000,4.7
+638,CA,Digital Marketing,Age of Learning,2,82000,41000,3.1
+639,DC,UI/UX Researcher,Google,2,172000,73000,4.5
+640,DC,Data Scientist,"The Center For Organizational Excellence, Inc.",2,101000,57000,4.2
+641,DC,Data Scientist,Teledyne Brown Engineering,2,111000,65000,3.2
+642,DC,UI/UX Researcher,Guidehouse,2,175500,90500,3.6
+643,CA,Game Design,Age of Learning,2,115500,59000,3.1
+644,IL,Data Scientist,Saggezza,2,133000,71500,4.1
+645,CA,Data Scientist,Earnest,2,171000,92000,4
+646,CA,Data Scientist,Dropbox,2,174000,97500,4.1
+647,CA,Data Scientist,DocuSign,2,163000,102000,4.7
+648,CA,Data Scientist,Dignity Health System Office,2,159000,100000,3.65
+649,CA,Data Scientist,Denali Therapeutics,2,126000,60500,3.5
+650,CA,Data Scientist,Databricks,2,325500,103500,4.65
+651,IL,Data Scientist,Sunshine Health,2,92000,52000,3.1
+652,IL,Data Scientist,TTX Company,2,77000,43000,3.3
+653,CA,Data Scientist,Fivetran,2,137500,75000,4.6
+654,IL,Data Scientist,Teladoc Health,2,167000,84000,4
+655,CA,Data Scientist,CrunchBase,2,237000,143000,4.2
+656,IL,Data Scientist,The Climate Corporation,2,186000,115000,3.2
+657,CA,Data Scientist,"Conch Technologies, Inc",2,132000,71000,4.6
+658,CA,Data Scientist,Collective Health,2,176000,107000,3.2
+659,CA,Data Scientist,Everlane,2,144500,88000,3.7
+660,IL,Data Scientist,ARYZTA,2,121000,72000,3
+661,IL,Data Scientist,PPD,2,70500,37000,3.9
+662,IL,Data Scientist,New Relic,2,143500,76500,4.3
+663,IL,Data Scientist,Nielsen,2,91000,48000,3.7
+664,CA,Data Scientist,Granular,2,175500,90500,4.4
+665,IL,Data Scientist,Northern Trust Corp.,2,96000,46000,3.8
+666,CA,Data Scientist,Grammarly,2,168500,93500,5
+667,CA,Data Scientist,Glu Mobile,2,152000,91000,3.5
+668,IL,Data Scientist,Northwestern University,2,71500,41000,4.3
+669,CA,Data Scientist,Getty Images,2,110000,59000,3.5
+670,IL,Data Scientist,PK,2,113000,74000,3.7
+671,IL,Data Scientist,"PRIMUS Global Services, Inc",2,104000,55000,3.7
+672,IL,Data Scientist,Rush University Medical Center,2,94500,55500,3.9
+673,IL,Data Scientist,PayPal,2,131000,69000,4
+674,IL,Data Scientist,Perkinelmer,2,138000,92000,3.2
+675,IL,Data Scientist,PlaceIQ,2,246000,126000,3.4
+676,IL,Data Scientist,Publicis Sapient,2,163500,96000,3.5
+677,CA,Data Scientist,FortressIQ,2,181000,149000,3.7
+678,IL,Data Scientist,Redwood Logistics,2,188000,113000,3.9
+679,IL,Data Scientist,RiverPoint,2,65000,41000,3.4
+680,IL,Data Scientist,Tower Research Capital LLC,2,187000,92000,3.7
+681,IL,Data Scientist,Toyota Research Institute,2,211000,107000,3.5
+682,IL,Data Scientist,US Foods,2,156000,95000,3.4
+683,CA,Data Scientist,Big Fish Games,2,163500,101500,3
+684,CA,Data Scientist,Berkshire Hathaway Homestate Companies,2,149500,92000,3.3
+685,IL,Game Design,CBRE,2,61000,34500,3.8
+686,IL,Game Design,Chicago Sport LLC,2,41000,23000,4.2
+687,IL,Game Design,Goldman Sachs,2,89000,45000,4.1
+688,IL,Game Design,Iron Galaxy Studios,2,56000,28500,4.1
+689,IL,Game Design,Sinclair Broadcast Group,2,53500,28500,2.8
+690,IL,Game Design,"Southern Graphic Systems, LLC",2,65000,33000,2.5
+691,IL,Game Design,Spectrum Communications and Consulting,2,44500,25000,3.5
+692,CA,Data Scientist,Alation,2,107000,60000,4.8
+693,CA,Data Scientist,Airbnb,2,315000,193000,4.1
+694,IL,Game Design,Wargaming,2,81500,40000,4.2
+695,CA,Data Scientist,Activision Publishing,2,125000,74000,3
+696,IN,Data Scientist,Accenture,2,114000,75000,3.9
+697,IN,Data Scientist,American United Life Ins Co,2,104000,57500,3.2
+698,CA,Data Scientist,Boomi,2,151000,96000,4.1
+699,CA,Data Scientist,CIA,2,198500,120500,4.1
+700,IL,Data Scientist,XSELL Technologies,2,68000,38000,3.8
+701,CA,Data Scientist,Clarivate Analytics,2,181000,113000,3.6
+702,IL,Data Scientist,University of Illinois at Chicago,2,73000,37000,4.1
+703,CA,Data Scientist,CircleUp,2,298500,184000,4.5
+704,IL,Data Scientist,VillageMD,2,120000,75000,3.8
+705,IL,Data Scientist,Walgreens,2,138000,79000,3.1
+706,CA,Data Scientist,Change Healthcare,2,171000,103000,2.9
+707,IL,Data Scientist,Wi-Tronix,2,123000,70000,3.4
+708,IL,Data Scientist,Wintrust Financial,2,96000,55000,3.9
+709,IL,Data Scientist,Wintrust Financial Corporation,2,96000,55000,3.9
+710,IL,Data Scientist,Wolverine Trading,2,182000,113000,4.2
+711,CA,Data Scientist,Capital One - US,2,192000,110000,4
+712,CA,Data Scientist,Capgemini,2,114000,69000,3.8
+713,IL,Data Scientist,XR Trading LLC,2,177000,99000,3.2
+714,IL,Data Scientist,Motorola Solutions,2,169000,105000,3.6
+715,IL,Data Scientist,Chamberlain Group Inc,2,120000,68500,3.1
+716,CA,Data Scientist,SACC,2,101000,74000,3
+717,CA,Data Scientist,REX,2,194000,108000,4
+718,CA,Data Scientist,PubMatic,2,184000,115000,4.5
+719,CA,Data Scientist,Plaid,2,201000,127000,4.7
+720,CA,Data Scientist,Pivot Bio,2,139000,63000,4.1
+721,IL,Data Scientist,Cedent Consulting,2,103000,57000,3.3
+722,IL,Data Scientist,Centene,2,87500,51500,3.6
+723,IL,Data Scientist,Chapin Hall at the University of Chicago,2,116500,59500,3.4
+724,IL,Data Scientist,DocuSign,2,139000,79500,4.7
+725,CA,Data Scientist,Park Computer Systems Inc,2,143000,89000,3.9
+726,IL,Data Scientist,Coyote Logistics,2,98000,50000,3.5
+727,CA,Data Scientist,Pacific Gas And Electric Company,2,150500,88500,3.8
+728,IL,Data Scientist,"Darwill, Inc.",2,141500,82000,3.8
+729,IL,Data Scientist,CIBC US,2,154500,77000,3.8
+730,IL,Data Scientist,CIBC,2,155000,81000,3.3
+731,IL,Data Scientist,ASRC Federal Holding Company,2,115000,65500,3.4
+732,CA,Data Scientist,Sunrun,2,188000,120000,3.4
+733,IL,Data Scientist,Alliant Credit Union,2,87000,48000,3.4
+734,IL,Data Scientist,"Amazon Web Services, Inc.",2,125000,115000,3.9
+735,CA,Data Scientist,Snowflake,2,178500,106500,4.2
+736,IL,Data Scientist,Analog Devices,2,173000,108000,3.9
+737,IL,Data Scientist,Ann &amp; Robert H. Lurie Children's Hospital of Chicago,2,86000,49500,4.1
+738,IL,Data Scientist,Anthem,2,137000,82000,3.4
+739,CA,Data Scientist,Shutterfly,2,209000,130000,3.2
+740,CA,Data Scientist,Sendoso,2,229000,142000,4.6
+741,CA,Data Scientist,Seagen,2,223000,125500,4.1
+742,CA,Data Scientist,Oracle,2,167000,93000,3.6
+743,CA,Data Scientist,Oportun. Inc,2,176000,111000,4.2
+744,IL,Data Scientist,KeyBank,2,127000,69000,3.5
+745,CA,Data Scientist,Medium,2,199000,121000,3.75
+746,IL,Data Scientist,Interior Systems,2,83000,44000,2.6
+747,IL,Data Scientist,Internal Revenue Service,2,119000,71000,3.7
+748,IL,Data Scientist,Invenergy,2,132500,70500,3.9
+749,CA,Data Scientist,Levi Strauss &amp; Co.,2,233000,149000,3.9
+750,CA,Data Scientist,Lever,2,103000,65000,4.6
+751,CA,Data Scientist,Kaiser Permanente,2,137500,96500,4
+752,IL,Data Scientist,Elmhurst Memorial Healthcare,2,64000,40000,3.9
+753,CA,Data Scientist,JLL,2,108000,61000,3.8
+754,CA,Data Scientist,IntelliPro Group Inc.,2,110000,83000,4.2
+755,IL,Data Scientist,Kraft Heinz Company,2,132000,77500,3.4
+756,CA,Data Scientist,IQVIA,2,120000,78000,3.7
+757,IL,Data Scientist,Infutor Data Solutions LLC,2,115000,60000,4.5
+758,IL,Data Scientist,Forfeiture Support Associates,2,79000,43000,3
+759,IL,Data Scientist,GTI,2,133000,64000,3.1
+760,CA,Data Scientist,Niantic,2,240000,146000,4
+761,IL,Data Scientist,Grubhub,2,175500,104000,4.1
+762,IL,Data Scientist,Guaranteed Rate,2,84000,47000,3.7
+763,CA,Data Scientist,Mythic-AI,2,187000,111000,3.8
+764,IL,Data Scientist,Humana,2,150000,91000,3.9
+765,IL,Data Scientist,"IAA, Inc.",2,91000,47000,3.5
+766,DC,Data Scientist,Public Health Institute,2,105500,62500,3.7
+767,CA,Digital Marketing,SimilarWeb,2,211000,104000,4
+768,CA,Digital Marketing,Siemens,2,154000,70000,4.1
+769,CA,UI/UX Researcher,Chan Zuckerberg Initiative,2,260000,162000,3.7
+770,CA,Digital Marketing,Sephora,2,166000,95500,3.8
+771,CA,UI/UX Researcher,Collage.com,2,211000,133000,4.7
+772,CA,Digital Marketing,SPECTRUM,2,69000,30000,3.1
+773,CA,UI/UX Researcher,Delta Dental,2,130000,78000,3.8
+774,CA,Digital Marketing,Roku,2,171000,68000,3.8
+775,CA,Digital Marketing,"Rodan and Fields, LLC",2,110500,60500,2.4
+776,CA,Digital Marketing,SiriusXM,2,94000,43500,3.3
+777,CA,UI/UX Researcher,AbleTo,2,166000,101000,4.7
+778,CA,Digital Marketing,TA Digital,2,151000,60000,3.9
+779,CA,UI/UX Researcher,6sense,2,229000,120000,4.9
+780,CA,UI/UX Researcher,7Summits,2,221000,116000,3.5
+781,CA,UI/UX Researcher,Adaptive Biotechnologies,2,97000,46000,3.9
+782,CA,UI/UX Researcher,Bain &amp; Company Inc,2,243000,152000,4.6
+783,CA,Digital Marketing,Spirent Communications,2,62000,33000,3.8
+784,CA,UI/UX Researcher,Allstate,2,131000,79000,3.5
+785,CA,UI/UX Researcher,"Aravo Solutions, Inc.",2,213000,111000,4.3
+786,CA,UI/UX Researcher,Automattic,2,236000,151000,4.5
+787,DC,Data Scientist,Praxis Engineering,2,130000,109500,4.7
+788,CA,UI/UX Researcher,Meteor Development Group,2,130000,79000,4.9
+789,CA,UI/UX Researcher,Kiva.org,2,139000,85000,4.2
+790,CA,UI/UX Researcher,LinkedIn,2,208000,120500,4.3
+791,CA,UI/UX Researcher,Mixpanel,2,157000,97000,3.6
+792,CA,UI/UX Researcher,Intuit,2,182000,84000,4.3
+793,CA,UI/UX Researcher,MuleSoft,2,203000,126000,4.4
+794,CA,UI/UX Researcher,Myriad Genetics Inc.,2,202000,105000,4.1
+795,CA,Digital Marketing,Persado,2,232000,111000,3.9
+796,CA,UI/UX Researcher,"Netpace, Inc.",2,73000,33000,4
+797,CA,UI/UX Researcher,Informatica,2,203000,107000,4.1
+798,CA,UI/UX Researcher,Eaze,2,174000,107000,3.8
+799,CA,Digital Marketing,Rentokil Initial,2,80000,40000,4.1
+800,CA,UI/UX Researcher,Epic,2,152500,92500,4.9
+801,CA,UI/UX Researcher,Everlaw,2,162000,100000,4.7
+802,CA,Digital Marketing,Rescale,2,106000,54000,4.3
+803,CA,UI/UX Researcher,Forward,2,141500,128000,4.7
+804,CA,UI/UX Researcher,Front App,2,179000,112000,4.8
+805,CA,Digital Marketing,Providence Health &amp; Services,2,140000,68000,3.5
+806,CA,UI/UX Researcher,GENENTECH,2,111000,61500,4.1
+807,CA,UI/UX Researcher,Gap Inc.,2,126000,61000,3.6
+808,CA,Digital Marketing,Red Ventures,2,155500,92000,3.8
+809,CA,UI/UX Researcher,Harness,2,197000,103000,4.5
+810,CA,UI/UX Researcher,HashiCorp,2,220000,138000,4.1
+811,CA,Digital Marketing,Publicis Groupe,2,112000,59500,3.6
+812,CA,UI/UX Researcher,Humble Bundle,2,154000,94000,3.7
+813,CA,UI/UX Researcher,IDEO,2,140000,75000,4.2
+814,CA,Game Design,FAM Brands,2,44000,26000,2.9
+815,CA,Game Design,FASTSIGNS #2177,2,49000,37000,3.2
+816,CA,Digital Marketing,Wyzant,2,130000,68000,3.4
+817,CA,Game Design,Forward,2,141500,128000,4.7
+818,CA,Game Design,GAMEVIL COM2US USA,2,95000,45000,2.6
+819,CA,Digital Marketing,Warner Music Group,2,92000,47000,3.6
+820,CA,Game Design,Heavy Iron Studios,2,74500,37500,4
+821,CA,Game Design,Humble Bundle,2,154000,94000,3.7
+822,CA,Game Design,IPSY,2,61000,33500,3.5
+823,CA,Game Design,Insomniac Games,2,145000,77000,4.2
+824,CA,Digital Marketing,WCIRB,2,106000,54000,3.1
+825,CA,Game Design,Magnopus,2,165000,83000,4.3
+826,CA,Digital Marketing,eHealth,2,62000,33000,3.4
+827,CA,Game Design,WSS,2,45000,25000,3
+828,CA,Game Design,CBRE,2,82500,46500,3.8
+829,CA,Game Design,Applied Minds,2,69000,38000,2.9
+830,CA,Game Design,Acumen LLC,2,97500,66000,3.35
+831,CA,Game Design,Aurora,2,88000,49000,3.65
+832,CA,Game Design,BOEING,2,201000,113000,3.7
+833,CA,Game Design,Big Fish Games,2,117000,63000,3
+834,CA,Game Design,Carvana,2,177000,93000,3.5
+835,CA,Game Design,Eventbrite,2,182000,111000,3.9
+836,CA,Game Design,2K,2,146000,79000,3.6
+837,CA,Game Design,Epic Games,2,224000,142000,3.9
+838,CA,Game Design,Marcus &amp; Millichap,2,71500,40000,3.3
+839,CA,Game Design,Marmol Radziner,2,58500,34500,3.8
+840,CA,Game Design,Marvin Engineering Comp,2,59000,31000,3
+841,CA,Game Design,Skidmore Owings &amp; Merrill,2,117000,67500,3.4
+842,CA,Digital Marketing,Tides,2,112000,59000,3.6
+843,CA,Game Design,Sony Interactive Entertainment PlayStation,2,94500,48500,3.7
+844,CA,Digital Marketing,The RealReal,2,68000,37000,2.9
+845,CA,Digital Marketing,The Los Angeles Film School,2,77000,39000,3.6
+846,CA,Game Design,TechStyle,2,72000,41500,3.4
+847,CA,Game Design,Tencent,2,97000,58000,4.2
+848,CA,Digital Marketing,The Integer Group,2,160000,92000,2.9
+849,CA,Digital Marketing,Viasat,2,101000,51000,3.9
+850,IN,Data Scientist,Beckman Coulter Life Sciences,2,97000,11000,3.6
+851,CA,Digital Marketing,Terracare Associates,2,122000,63000,3.5
+852,CA,Game Design,WB Games,2,90500,49000,3.5
+853,CA,Game Design,WB Games San Francisco,2,147500,89500,3.5
+854,CA,Digital Marketing,TechStyle,2,56000,31000,3.4
+855,CA,Game Design,Roblox,2,196500,107000,4.5
+856,CA,Digital Marketing,VaynerMedia LLC,2,169000,93000,2.8
+857,CA,Digital Marketing,Varo Bank,2,104000,51000,4.1
+858,CA,Game Design,Old Navy,2,107500,64000,3.5
+859,CA,Game Design,On Board Experiential Marketing,2,96000,51000,3.7
+860,CA,Digital Marketing,"Upstart Network, Inc.",2,93000,47000,4.4
+861,CA,Digital Marketing,University of San Francisco,2,108000,64000,4.2
+862,CA,Digital Marketing,Twitter,2,118000,61000,4.1
+863,CA,Game Design,Pocket Gems,2,92000,48500,4.2
+864,CA,UI/UX Researcher,Ngm Biopharmaceuticals,2,183000,113000,3.5
+865,CA,Digital Marketing,"Pasona N A, Inc.",2,49500,22000,3.2
+866,CA,UI/UX Researcher,ON24,2,141000,72000,3.7
+867,DC,Data Scientist,Civis Analytics,2,167000,105000,3.1
+868,DC,Data Scientist,ClearEdge,2,127000,60000,4.1
+869,CA,Digital Marketing,Ednovate,2,74000,37000,4.4
+870,CA,Digital Marketing,Earnest,2,120000,63000,4
+871,DC,Data Scientist,"DRT Strategies, Inc.",2,69000,40000,3.3
+872,DC,Data Scientist,"ECS Federal, LLC",2,129500,74500,3.9
+873,DC,Data Scientist,Freddie Mac,2,168500,90000,4
+874,DC,Data Scientist,Central Intelligence Agency,2,147500,89500,4.1
+875,DC,Data Scientist,Cedent Consulting,2,140000,96000,3.3
+876,DC,Data Scientist,Boeing Intelligence &amp; Analytics,2,112000,61000,3.9
+877,DC,Data Scientist,"Applied Research Associates, Inc",2,149000,91000,3.8
+878,DC,Data Scientist,Attain,2,124000,74000,3.8
+879,DC,Data Scientist,BRMi,2,110000,65000,4.3
+880,CA,Digital Marketing,Finn Partners,2,139000,67000,3.9
+881,DC,Data Scientist,Brillient,2,85000,45000,3.8
+882,DC,Data Scientist,Buchanan &amp; Edwards,2,123000,73000,3.4
+883,DC,Data Scientist,CACI International,2,147000,90000,3.8
+884,CA,Digital Marketing,Epsilon,2,197000,103000,3.4
+885,DC,Data Scientist,CNA Corporation,2,130500,72000,3.3
+886,DC,Data Scientist,Cape Fox Government Services,2,78000,41500,3.3
+887,DC,Data Scientist,George Washington University,2,103000,56500,3.8
+888,DC,Data Scientist,Grant Thornton,2,130000,75000,3.8
+889,DC,Data Scientist,Mteq,2,119000,71000,2.6
+890,CA,Digital Marketing,California College of the Arts,2,56000,31000,3.6
+891,DC,Data Scientist,ManTech International Corporation,2,106500,63500,4.3
+892,DC,Data Scientist,"Marriott International, Inc",2,89000,49000,4.1
+893,CA,Digital Marketing,CIT Group,2,91000,54000,3.3
+894,DC,Data Scientist,"Metronome, LLC",2,211000,127000,3.4
+895,CA,Digital Marketing,C3.ai,2,171000,36000,4.5
+896,DC,Data Scientist,NT Concepts,2,120500,68000,3.8
+897,CA,Digital Marketing,Crown Bioscience,2,91500,34500,2.5
+898,DC,Data Scientist,Navy Federal Credit Union,2,143500,79000,3.9
+899,DC,Data Scientist,NetImpact Strategies,2,92500,52500,4.2
+900,DC,Data Scientist,Nolij Consulting,2,87000,51500,4.1
+901,DC,Data Scientist,NorthTide Group,2,153000,94000,2.8
+902,DC,Data Scientist,NuWave Solutions,2,137500,77500,4.5
+903,DC,Data Scientist,OneGlobe LLC,2,182500,105500,4.4
+904,CA,Digital Marketing,ByteDance,2,86000,45000,3.9
+905,DC,Data Scientist,Planned Systems International,2,117000,63500,4.3
+906,CA,Digital Marketing,Capital One,2,52000,26000,4
+907,DC,Data Scientist,Legato,2,106000,73000,4.9
+908,CA,Digital Marketing,Conviva,2,181000,113000,4
+909,DC,Data Scientist,Huntington Ingalls Industries Inc.,2,114000,64000,3.5
+910,CA,Digital Marketing,Conill,2,75000,41000,2.7
+911,DC,Data Scientist,IMSG/NOAA,2,90000,46000,3.7
+912,DC,Data Scientist,IT Resonance Inc,2,100000,58000,4.3
+913,DC,Data Scientist,ITA International,2,165000,102000,3.2
+914,CA,Digital Marketing,Collective Inc,2,108000,55000,4.8
+915,CA,Digital Marketing,CohnReznick,2,120000,61000,3.3
+916,DC,Data Scientist,Johns Hopkins University Applied Physics Laboratory,2,160000,100000,4.6
+917,DC,Data Scientist,KeyBank,2,136000,74000,3.5
+918,DC,Data Scientist,"Koniag, Inc.",2,108000,63000,3.4
+919,CA,Digital Marketing,Checkr,2,263000,166000,3.8
+920,DC,Data Scientist,Applied Information Sciences,2,105000,59000,4.4
+921,CA,Digital Marketing,Forward,2,106000,54000,4.7
+922,CA,UI/UX Researcher,Sonder,2,184500,116000,3.1
+923,CA,Digital Marketing,Micro Focus,2,79000,40000,3.3
+924,CA,UI/UX Researcher,Spotify,2,263000,144000,4
+925,CA,UI/UX Researcher,Stitch Fix,2,194500,123500,3.5
+926,CA,UI/UX Researcher,Teespring,2,195000,121000,4.6
+927,CA,Digital Marketing,Meltwater Americas,2,81000,41000,3.4
+928,CA,UI/UX Researcher,The Trade Desk,2,129500,78000,3.7
+929,CA,UI/UX Researcher,Thumbtack,2,156000,97500,3.6
+930,CA,Digital Marketing,Matrix Resources,2,99000,45000,4.3
+931,CA,Digital Marketing,Match Group,2,107000,60000,3.8
+932,CA,UI/UX Researcher,Unity Technologies,2,176500,96500,4.6
+933,CA,Digital Marketing,Lyra Health,2,72000,36000,4.3
+934,CA,UI/UX Researcher,"SLEDGEHAMMER GAMES, INC.",2,105000,50000,3.5
+935,CA,UI/UX Researcher,One Medical,2,135000,83000,3.5
+936,CA,UI/UX Researcher,Oracle,2,187000,102000,3.6
+937,CA,Digital Marketing,"Pacific Catch, Inc",2,57000,33000,4.2
+938,CA,UI/UX Researcher,Red Ventures,2,133000,80500,3.8
+939,CA,Digital Marketing,OMD,2,72500,38500,3.3
+940,CA,Digital Marketing,NFP Corp,2,120000,51000,3.6
+941,CA,Digital Marketing,Neustar,2,112500,80500,3.7
+942,CA,UI/UX Researcher,Sauce Labs,2,163000,100000,3.7
+943,CA,Digital Marketing,National Positions,2,59000,31000,3.8
+944,CA,Digital Marketing,NVE Experience Agency,2,85000,48000,4.1
+945,CA,UI/UX Researcher,Shippo,2,134000,82000,3.9
+946,CA,Digital Marketing,Lululemon,2,36000,20000,4.4
+947,CA,Digital Marketing,Girl Scouts Of Greater Los Angeles,2,110000,56000,3.1
+948,CA,Digital Marketing,Integral Ad Science,2,308000,132000,3.5
+949,CA,Digital Marketing,Informa,2,91500,46500,3.3
+950,CA,Digital Marketing,H&amp;L Partners,2,78000,43000,3.6
+951,CA,Digital Marketing,Goodway Group,2,153000,77000,4.2
+952,CA,VR Engineering,Walt Disney Company,2,153500,75500,4.1
+953,CA,Digital Marketing,GoodRx,2,167000,90000,4.6
+954,CA,UI/UX Researcher,Verkada,2,244000,127000,4
+955,DC,Data Scientist,"ADNET Systems, Inc.",2,117500,70000,4
+956,DC,Data Scientist,AE Strategies,2,116000,62000,4.8
+957,CA,Digital Marketing,Ghirardelli Chocolate,2,97000,44000,4
+958,DC,Data Scientist,AOC Solutions,2,92000,51000,3.8
+959,CA,Digital Marketing,Genesys,2,185000,104000,4.2
+960,DC,Data Scientist,ASRC Federal Holding Company,2,109000,64000,3.4
+961,DC,Data Scientist,Absolute Business Solutions Corp,2,145000,87000,3.1
+962,DC,Data Scientist,Akima Infrastructure Services,2,125000,74500,3
+963,CA,VR Engineering,Penumbra US,2,168000,85000,3.4
+964,CA,UI/UX Researcher,Walmart,2,226500,129500,3.3
+965,CA,UI/UX Researcher,Zymergen,2,74000,43000,3
+966,CA,UI/UX Researcher,Zynga,2,120000,63000,4.2
+967,CA,Digital Marketing,Kendo Holdings,2,204000,111000,2.9
+968,CA,UI/UX Researcher,iRhythm,2,208000,131000,3.5
+969,CA,VR Engineering,Amazon,2,159500,138000,3.9
+970,CA,Digital Marketing,"Juvo Plus, Inc.",2,60000,32000,3.1
+971,CA,Digital Marketing,JustAnswer,2,123000,66000,4.7
+972,CA,Digital Marketing,Jukin Media,2,136000,80000,4
+973,CA,Digital Marketing,Jones Lang LaSalle,2,178000,111000,3.4
+974,CA,Game Design,The UPS Store,2,47000,26000,3.5
+975,WA,VR Engineering,Valve Corporation,2,177500,91000,3.2
+976,NY,UI/UX Researcher,Publicis Groupe,2,106000,48000,3.6
+977,NY,Data Scientist,Zoetis,2,138000,80000,3.4
+978,NY,Data Scientist,Google,2,171000,102000,4.5
+979,NY,Digital Marketing,T-Mobile,2,100000,46500,4
+980,NY,Data Scientist,GroupM Data &amp; Technology,2,132000,76000,3.7
+981,NY,Digital Marketing,Goodway Group,2,150000,82000,4.2
+982,NY,Game Design,CLEAR,2,88000,46500,3
+983,NY,Digital Marketing,Dan Klores Communications,2,86000,54000,3.5
+984,NY,Game Design,Parigi Group,2,70000,56000,2
+985,NY,Digital Marketing,RSM US LLP,2,157000,74000,4
+986,NY,Digital Marketing,Gympass,2,85000,43000,3.2
+987,NY,UI/UX Researcher,SMBC Group,2,389000,205000,3.5
+988,NY,Digital Marketing,RMS Computer,2,89000,50000,3
+989,NY,Data Scientist,Grubhub,2,177000,107500,4.1
+990,NY,UI/UX Researcher,Salesforce,2,147000,77500,4.4
+991,NY,Game Design,Center for Court Innovation,2,60000,34000,3.7
+992,NY,Data Scientist,Citadel,2,121000,105000,3.9
+993,NY,UI/UX Researcher,RXR Realty,2,124000,58000,2.8
+994,NY,UI/UX Researcher,Flatiron Health,2,183000,108000,4
+995,MN,UI/UX Researcher,Open Systems Technologies Inc,2,96000,55500,3.55
+996,NY,UI/UX Researcher,Fiserv,2,129000,71000,3.2
+997,NY,UI/UX Researcher,Provenir Inc.,2,128000,60000,3.2
+998,NY,UI/UX Researcher,Adobe,2,211000,127000,4.3
+999,NY,UI/UX Researcher,Boomi,2,159000,100000,4.1
+1000,NY,Digital Marketing,Gainor,2,111000,57000,4.4
+1001,IN,Digital Marketing,Shift Digital,2,53000,29000,4
+1002,NY,UI/UX Researcher,Publicis Sapient,2,149500,90500,3.5
+1003,IN,Digital Marketing,Sharpen Technologies Inc.,2,82000,41000,4.2
+1004,NY,UI/UX Researcher,Quest Diagnostics,2,107000,49000,3.4
+1005,NY,Game Design,Rightpoint,2,69000,37000,4
+1006,NY,UI/UX Researcher,Samsung Electronics,2,223000,122000,3.7
+1007,NY,Digital Marketing,HarperCollins,2,85500,43000,3.7
+1008,NY,UI/UX Researcher,Samsung Electronics America,2,227000,125000,3
+1009,NY,Digital Marketing,Policygenius,2,99000,50000,4.4
+1010,NY,Digital Marketing,PlaceIQ,2,115000,61000,3.4
+1011,NY,Game Design,Nickelodeon Animation Studio,2,115500,49000,4.4
+1012,NY,UI/UX Researcher,EY,2,154000,89000,3.9
+1013,IN,Digital Marketing,Formstack,2,67000,33000,4.6
+1014,NY,UI/UX Researcher,Sterling National Bank,2,135000,74000,2.8
+1015,NY,UI/UX Researcher,TEC Systems Inc,2,125000,63000,3.4
+1016,NY,Digital Marketing,Philips,2,99000,50000,3.7
+1017,NY,Digital Marketing,Walt Disney Company,2,90000,45000,4.1
+1018,IN,Digital Marketing,Element Three,2,70000,32500,4.3
+1019,NY,UI/UX Researcher,Epitec,2,74000,33000,3.2
+1020,NY,Digital Marketing,Publicis Groupe,2,90000,50000,3.6
+1021,NY,Data Scientist,HarperCollins Publishers,2,133000,78000,3.6
+1022,NY,Data Scientist,CVS Health,2,140000,81000,3
+1023,IN,Digital Marketing,LEAP,2,43000,26000,3.9
+1024,NY,Data Scientist,Hopper,2,127500,73000,3.4
+1025,NY,Game Design,One Jeanswear Group,2,50000,45500,1.8
+1026,MN,UI/UX Researcher,Shutterfly,2,156000,86000,3.2
+1027,NY,Game Design,Centric Brands,2,76000,46000,2.9
+1028,NY,Digital Marketing,Healthfirst,2,97000,49000,3.1
+1029,NY,UI/UX Researcher,Digitas,2,208000,106000,3.5
+1030,NY,UI/UX Researcher,Hospital for Special Surgery,2,52000,33000,4.2
+1031,NY,Digital Marketing,Adorama,2,57000,28000,4.3
+1032,IN,UI/UX Researcher,Masco,2,52000,27000,3.9
+1033,MN,UI/UX Researcher,Collage.com,2,164000,96000,4.7
+1034,NY,Digital Marketing,Shutterstock,2,85000,49000,3.3
+1035,NY,Digital Marketing,Shindig,2,77000,38000,4.6
+1036,IN,UI/UX Researcher,Indiana University,2,64000,34000,4.25
+1037,NY,Digital Marketing,Electrolux,2,87000,44000,3.7
+1038,NY,Digital Marketing,Sharecare Inc,2,145000,80500,3.7
+1039,NY,Digital Marketing,iX.co,2,106000,47000,4.4
+1040,NY,Digital Marketing,Something Digital,2,120000,80000,3.9
+1041,IN,UI/UX Researcher,Delta Faucet Company,2,51000,26000,4.2
+1042,NY,Game Design,Steven Madden,2,60500,34500,3.4
+1043,NY,UI/UX Researcher,MongoDB,2,177000,108000,4.5
+1044,NY,UI/UX Researcher,Mount Sinai,2,146000,81000,3.5
+1045,NY,Game Design,"Steve Madden, Ltd",2,69000,41000,3.4
+1046,NY,UI/UX Researcher,Hudson's Bay Company (HBC),2,118000,54000,3.2
+1047,NY,UI/UX Researcher,INTURN,2,105000,71000,4.2
+1048,NY,Digital Marketing,Amazon,2,99000,50000,3.9
+1049,NY,Game Design,WE Communications,2,80000,40000,3.8
+1050,NY,Game Design,ABC Carpet &amp; Home,2,61000,33000,2.4
+1051,NY,UI/UX Researcher,Key Lime Interactive,2,136000,81000,3.6
+1052,IN,VR Engineering,Raytheon Intelligence &amp; Space,2,82000,53000,3.75
+1053,NY,UI/UX Researcher,Konrad,2,94000,70000,3.6
+1054,NY,Data Scientist,Deloitte,2,124000,71000,3.8
+1055,NY,UI/UX Researcher,INTERDIGITAL COMM CORP,2,139000,85500,3.2
+1056,NY,Digital Marketing,Ajax Union,2,58500,31000,3.1
+1057,NY,UI/UX Researcher,LexisNexis Risk Solutions,2,132000,62000,3.8
+1058,NY,UI/UX Researcher,MSCI Inc.,2,129000,61000,3.7
+1059,NY,UI/UX Researcher,IBISWorld,2,87000,41000,3.3
+1060,NY,Digital Marketing,Dun &amp; Bradstreet,2,101000,51000,3.15
+1061,NY,Digital Marketing,Fitch Ratings,2,102000,52000,3.7
+1062,NY,Game Design,Berkeley Point Capital Holdings,2,54000,28000,3.6
+1063,NY,Digital Marketing,Fhlb New York,2,110000,56000,2.6
+1064,NY,Digital Marketing,1-800-Flowers,2,53000,27000,2.6
+1065,IN,Digital Marketing,myCOI,2,75000,36500,3.7
+1066,IN,Digital Marketing,emarsys,2,91500,37500,4.6
+1067,NY,Digital Marketing,FleishmanHillard,2,58000,32000,3.6
+1068,NY,Game Design,Shindig,2,137000,107000,4.6
+1069,NY,Digital Marketing,Fora Financial LLC,2,82000,41000,3.2
+1070,NY,UI/UX Researcher,Parexel,2,109000,65000,3.3
+1071,NY,UI/UX Researcher,Pfizer,2,103000,57000,4.2
+1072,NY,Digital Marketing,Spark Foundry,2,81000,39000,3.2
+1073,NY,UI/UX Researcher,NYU Langone Health,2,64000,31000,4.1
+1074,NY,Digital Marketing,AbbVie,2,145000,92000,3.8
+1075,NY,UI/UX Researcher,Nb Ventures Inc,2,103000,50000,3.5
+1076,NY,Digital Marketing,Sartorius,2,83000,42000,3.8
+1077,NY,Digital Marketing,Salem Media Group,2,75000,26000,4.2
+1078,NY,Data Scientist,Foursquare,2,336000,205000,2.85
+1079,NY,Digital Marketing,Spin Master Ltd,2,128000,62000,3
+1080,IN,Game Design,Kaleidoscope,2,69000,36500,3.7
+1081,NY,Game Design,Spin Master Ltd,2,82000,44000,3
+1082,MN,UI/UX Researcher,Medtronic,2,105000,51500,3.9
+1083,NY,Data Scientist,Forbes Media,2,123000,86500,3.5
+1084,NY,Digital Marketing,Petrossian,2,63000,32000,3.1
+1085,NY,UI/UX Researcher,Digital Pulp,2,113000,52000,3.2
+1086,NY,Digital Marketing,Nickelodeon,2,122500,47500,4.1
+1087,NY,Digital Marketing,Blue Prism,2,100000,51000,3.7
+1088,NY,Data Scientist,NYC Data Science Academy,2,102000,57000,4.9
+1089,NY,Game Design,Kiss Products,2,47500,26500,2.5
+1090,NY,Digital Marketing,VSCO,2,100000,17000,4.2
+1091,NY,Game Design,Endevis,2,51000,28000,3.9
+1092,NY,Digital Marketing,Tinuiti,2,76000,43000,4.4
+1093,NY,Data Scientist,ShopKeep,2,134500,73500,3.4
+1094,NY,Game Design,Edgewood Properties,2,64000,34000,3.4
+1095,NY,UI/UX Researcher,"imre, LLC.",2,145000,70000,3.6
+1096,NY,Digital Marketing,Lotame,2,103000,64000,4
+1097,NY,UI/UX Researcher,Walmart,2,114500,51000,3.3
+1098,IN,Data Scientist,PayPal,2,82000,46000,4
+1099,NY,Digital Marketing,Ogilvy Health,2,83000,47000,3.3
+1100,NY,Game Design,Macy's,2,51000,31000,3.3
+1101,NY,Data Scientist,Boehringer Ingelheim,2,148500,87000,4
+1102,NY,UI/UX Researcher,Xero,2,145000,86000,4.2
+1103,NY,UI/UX Researcher,Cervello Inc,2,147000,75000,4.1
+1104,NY,UI/UX Researcher,Cedar Inc,2,107000,58000,3.4
+1105,NY,UI/UX Researcher,Zocdoc,2,130000,79000,3.2
+1106,NY,Data Scientist,Spotify,2,197000,108000,4
+1107,NY,Digital Marketing,LiveRamp,2,176000,93000,4.3
+1108,NY,Data Scientist,BD,2,172000,104000,3.8
+1109,NY,UI/UX Researcher,Vimeo,2,159000,80000,4
+1110,NY,Digital Marketing,Business Monitor International,2,82000,41000,2.2
+1111,NY,Data Scientist,"PTC Therapeutics, Inc.",2,80000,34000,3
+1112,WA,VR Engineering,Providence Health &amp; Services,2,149000,73000,3.5
+1113,NY,Data Scientist,Raytheon Technologies Corporate,2,158000,94000,3.7
+1114,NY,UI/UX Researcher,Braze,2,113500,63500,4.5
+1115,NY,Data Scientist,Amazon.com Services LLC,2,144000,89000,3.9
+1116,NY,Digital Marketing,ByteDance,2,80000,34000,3.9
+1117,NY,Digital Marketing,Mindshare,2,64000,35000,3.6
+1118,NY,Digital Marketing,Brookfield Properties,2,102000,52000,3.9
+1119,NY,Data Scientist,Plymouth Rock Assurance,2,125500,73500,3.7
+1120,WA,VR Engineering,"TuSimple, Inc.",2,144000,72000,3.7
+1121,NY,Data Scientist,RBC,2,151000,89000,4
+1122,NY,Data Scientist,Quartet Health,2,129500,108000,3.7
+1123,NY,Game Design,Global Brands Group,2,61000,34000,2.6
+1124,NY,Digital Marketing,MightyHive,2,112000,74000,4.4
+1125,IN,Data Scientist,Eurofins Scientific,2,59000,33000,3.4
+1126,IN,Data Scientist,Finish Line,2,115000,65500,3.8
+1127,IN,Data Scientist,IQVIA,2,73000,37500,3.7
+1128,NY,Data Scientist,New York University,2,94000,53000,4.3
+1129,NY,UI/UX Researcher,Blend360,2,70000,30000,4.5
+1130,NY,Digital Marketing,McCann Health,2,241000,101000,3.2
+1131,NY,UI/UX Researcher,CNEWS,2,181500,101500,4.1
+1132,NY,Data Scientist,Noom US,2,118000,69000,4.4
+1133,NY,UI/UX Researcher,Boehringer Ingelheim,2,104000,43000,4
+1134,NY,UI/UX Researcher,CKM Advisors,2,92000,42000,2.7
+1135,NY,UI/UX Researcher,CIA,2,121000,68500,4.1
+1136,NY,Digital Marketing,Brandwatch,2,101500,45000,3.7
+1137,NY,Game Design,Heartbeat,2,75000,39000,4.3
+1138,IN,Data Scientist,Indiana University Health,2,77000,44500,3.7
+1139,NY,Digital Marketing,VIANT,2,207000,84000,4.1
+1140,NY,Digital Marketing,JeffreyM Consulting,2,90000,45000,4.3
+1141,NY,UI/UX Researcher,Cox Automotive,2,114000,65500,3.6
+1142,NY,Digital Marketing,Padilla,2,78000,44000,3.5
+1143,IN,Digital Marketing,"Bloomerang, LLC",2,41000,22000,4.4
+1144,NY,UI/UX Researcher,The Rockridge Group,2,107000,88000,2.3
+1145,NY,UI/UX Researcher,The Trade Desk,2,119500,70000,3.7
+1146,NY,Digital Marketing,Columbia University,2,152000,81000,4.1
+1147,NY,Digital Marketing,Intouch Solutions,2,70000,39000,3.9
+1148,NY,Digital Marketing,Invesco,2,58000,32000,3.5
+1149,NY,Data Scientist,Synechron,2,118000,65500,3.8
+1150,IN,Digital Marketing,Anthem,2,84500,43000,3.4
+1151,NY,Data Scientist,Booz Allen Hamilton,2,100500,56000,4
+1152,NY,Data Scientist,Tapad,2,207500,126000,4.2
+1153,NY,Data Scientist,LexisNexis Risk Solutions,2,165000,96000,3.8
+1154,NY,Digital Marketing,Per Scholas Inc.,2,62000,31000,4.5
+1155,IN,Digital Marketing,Dealer Specialties,2,22000,7,2.6
+1156,NY,Digital Marketing,WW International,2,47000,29000,3.3
+1157,NY,Digital Marketing,Penguin Random House,2,41000,25000,3.8
+1158,NY,Digital Marketing,The Conference Board,2,81000,41000,3
+1159,NY,Digital Marketing,WE Communications,2,70000,37000,3.8
+1160,NY,UI/UX Researcher,The Conference Board,2,115000,46000,3
+1161,MN,UI/UX Researcher,Thomson Reuters,2,134000,68000,4.1
+1162,NY,Data Scientist,Jane Street,2,147000,132000,4.8
+1163,NY,Data Scientist,Langan Engineering and Environmental Services,2,83000,56000,4.3
+1164,NY,Game Design,Village Print ,2,55000,38500,2.3
+1165,NY,UI/UX Researcher,Comcast,2,158000,65000,3.8
+1166,IN,Data Scientist,Versiti - Blood Center of Wisconsin,2,50000,36000,3.7
+1167,NY,Game Design,Daggerwing Health,2,87000,63000,2.7
+1168,NY,UI/UX Researcher,VIVA USA,2,97000,43500,4.7
+1169,IN,Data Scientist,Stantec,2,60000,38000,3.7
+1170,NY,UI/UX Researcher,US Bank,2,100000,34000,3.6
+1171,NY,Digital Marketing,Kickstarter.com,2,116000,60000,3.5
+1172,NY,UI/UX Researcher,VMware,2,181000,106000,4.2
+1173,NY,Digital Marketing,Bespoke Post,2,88000,45000,3.7
+1174,NY,UI/UX Researcher,Updater,2,120000,64000,4
+1175,NY,UI/UX Researcher,U.S. Bank,2,107000,56000,3.6
+1176,NY,Digital Marketing,Zynga,1,148000,58000,4.2
+1177,NY,Digital Marketing,WebMD,1,67000,37000,2.8
+1178,NY,Digital Marketing,Zeno Group,1,103000,61000,3.4
+1179,CA,Digital Marketing,Streamline Healthcare,1,103000,45000,3.1
+1180,CA,Digital Marketing,SmartRecruiters Inc,1,245000,83000,3.9
+1181,CA,Digital Marketing,"Sony Pictures Entertainment, Inc.",1,116000,60000,3.9
+1182,NY,Digital Marketing,"Visual Lease, LLC",1,101000,61000,3.7
+1183,CA,Digital Marketing,Stem Inc,1,266000,43000,3.3
+1184,CA,Digital Marketing,Super Lucky Casino,1,67000,33000,5
+1185,CA,Digital Marketing,Starz,1,97000,49000,3.6
+1186,CA,Digital Marketing,SimplyInsured,1,184000,100000,3.5
+1187,CA,Digital Marketing,Syneos Health Commercial Solutions,1,57000,29000,3.7
+1188,CA,Digital Marketing,SimplePractice,1,100000,85000,4.5
+1189,CA,Digital Marketing,Sinclair Broadcast Group,1,179000,97000,2.8
+1190,CA,Digital Marketing,Spotify,1,86000,40000,4
+1191,CA,Digital Marketing,Supplyframe,1,129000,61000,3.6
+1192,NY,Digital Marketing,VaynerMedia LLC,1,63000,32000,2.8
+1193,NY,Digital Marketing,Wix,1,97000,36000,4.2
+1194,CA,Digital Marketing,TOMS,1,104000,57000,3.4
+1195,CA,Digital Marketing,TOMS ,1,85000,43000,3.4
+1196,NY,Digital Marketing,d exposito &amp; Partners,1,51000,32000,2.9
+1197,CA,Digital Marketing,Sojern,1,189000,106000,4.1
+1198,NY,Game Design,1stdibs.com,1,92000,49000,3.9
+1199,IN,Data Scientist,Bloodcenter of Wisconsin,1,62000,38000,3.1
+1200,CA,Digital Marketing,Nylas,1,113000,58000,4.4
+1201,CA,Digital Marketing,NuORDER,1,56000,29000,3.2
+1202,CA,Digital Marketing,ONEHOPE,1,117000,50000,4.8
+1203,NY,Game Design,David &amp; Young,1,54000,30000,2.3
+1204,NY,Game Design,Direct Agents,1,60000,30000,4.1
+1205,NY,Game Design,CreativeDrive,1,85000,41000,4
+1206,CA,Digital Marketing,PMX Agency,1,78000,39000,3.3
+1207,CA,Digital Marketing,"Operating Company ACTIVISION PUBLISHING, INC",1,148000,63000,3
+1208,CA,Digital Marketing,OpenX,1,185000,32000,2.8
+1209,CA,Digital Marketing,One Planet Ops,1,72000,39000,3.4
+1210,CA,Digital Marketing,OnPrem Solution Partners,1,101000,51000,4.3
+1211,CA,Digital Marketing,On Board Experiential Marketing,1,69000,38000,3.7
+1212,CA,Digital Marketing,Oldcastle BuildingEnvelope,1,108000,60000,3.8
+1213,NY,Game Design,Cuny Research Foundation,1,61000,32000,4
+1214,NY,Game Design,FanDuel,1,105000,54000,4
+1215,NY,Game Design,Fesco Distributors,1,73000,40000,2.6
+1216,NY,Game Design,Focus Lighting,1,48000,26000,4.5
+1217,CA,Digital Marketing,"MediaNews Group, Inc.",1,82000,30000,2.4
+1218,CA,Digital Marketing,MediaMonks,1,56000,30000,3.9
+1219,CA,Digital Marketing,NEXT Trucking,1,110000,57000,3.8
+1220,NY,Game Design,Freshly,1,58000,31000,2.8
+1221,CA,Digital Marketing,Markwins Beauty Brands,1,88000,45000,2.8
+1222,NY,Game Design,EVINS Communications,1,59000,29000,4
+1223,CA,Digital Marketing,Murad,1,93000,35000,3.2
+1224,NY,Game Design,Endeavor,1,99000,48000,3.2
+1225,NY,Game Design,Expert Institute,1,85000,75000,4
+1226,CA,Digital Marketing,Mission North,1,91000,48000,4.8
+1227,NY,Game Design,F. Schumacher &amp; Co.,1,61000,35000,3.7
+1228,CA,Digital Marketing,Mezzetta,1,99000,50000,3.5
+1229,CA,Digital Marketing,Metric Theory,1,132000,59000,4.5
+1230,CA,Digital Marketing,Restaurant Brands International,1,107000,55000,3.4
+1231,NY,Game Design,Authentic Brands Group,1,72000,36000,1.8
+1232,CA,Digital Marketing,"Rexford Industrial Realty, Inc.",1,176000,95000,3.5
+1233,NY,Game Design,Avani Technology Solutions,1,56000,30000,4.6
+1234,NY,Game Design,BARK,1,57000,30000,3.2
+1235,NY,Game Design,BGC Partners,1,85000,45000,3
+1236,NY,Game Design,Bandujo,1,66000,34000,4.1
+1237,CA,Digital Marketing,Red Ventures LLC,1,117000,68000,3.4
+1238,CA,Digital Marketing,Panda Express,1,47000,24000,3.7
+1239,CA,Digital Marketing,Seismic,1,197000,96000,4.6
+1240,CA,Digital Marketing,See's Candies,1,45000,29000,3.7
+1241,CA,Digital Marketing,San Francisco SPCA,1,155000,83000,3.1
+1242,NY,Game Design,Adorama,1,46000,46000,4.3
+1243,CA,Digital Marketing,Samuel &amp; Sons,1,54000,33000,4
+1244,CA,Digital Marketing,Samasource,1,203000,110000,4
+1245,NY,Game Design,Amazon,1,92000,90000,3.9
+1246,CA,Digital Marketing,Radiometer,1,89000,45000,3.1
+1247,CA,Digital Marketing,Plaid,1,165000,66000,4.7
+1248,NY,Game Design,Center for Reproductive Rights,1,65000,35000,2.1
+1249,NY,Game Design,Bizzabo,1,62000,33000,4.8
+1250,CA,Digital Marketing,Patreon,1,112000,57000,3.2
+1251,NY,Game Design,Coach,1,62000,34000,3.8
+1252,CA,Digital Marketing,Paradigm Management Services,1,75000,38000,2.7
+1253,CA,Digital Marketing,Pole To Win International,1,63000,33000,3.6
+1254,CA,Digital Marketing,ROSEWOOD Creative,1,162000,80000,2.2
+1255,NY,Game Design,BrightTALK,1,82000,43000,4
+1256,NY,Game Design,Brooklyn Museum,1,43000,24000,3.5
+1257,NY,Game Design,CBS Interactive,1,93000,48000,3.8
+1258,NY,Game Design,Celonis SE,1,75000,40000,3.8
+1259,CA,Digital Marketing,ViacomCBS,1,75000,41000,3.6
+1260,NY,Digital Marketing,PayPal,1,141000,75000,4
+1261,NY,Digital Marketing,Penske Media Corporation,1,80000,44000,4.4
+1262,CA,Game Design,"HealthyPets, Inc.",1,50000,27000,4.6
+1263,CA,Game Design,HAUS,1,90000,47000,4.4
+1264,CA,Game Design,Gobble,1,52000,29000,3.4
+1265,NY,Digital Marketing,Persado,1,117000,54000,3.9
+1266,CA,Game Design,GOAT Group,1,96000,50000,3.4
+1267,CA,Game Design,InVision Communications Inc.,1,69000,37000,3.6
+1268,CA,Game Design,Integra,1,67000,37000,3.6
+1269,NY,Digital Marketing,Oxford University Press,1,73000,42000,3.2
+1270,NY,Digital Marketing,Pall,1,84000,42000,3.4
+1271,CA,Game Design,IMVU,1,67000,34000,3.1
+1272,NY,Digital Marketing,Path Interactive,1,118000,60000,3.9
+1273,CA,Game Design,Flow Cannabis Co.,1,80000,44000,3.6
+1274,CA,Game Design,Comcast Spectacor Gaming,1,92000,47000,3.8
+1275,CA,Game Design,Comcast Spectacor,1,97000,51000,3.4
+1276,CA,Game Design,Coaster Company of America,1,47000,26000,3.1
+1277,CA,Game Design,Coalition Technologies,1,41000,23000,4.5
+1278,CA,Game Design,Centerfield Media,1,86000,40000,3.5
+1279,CA,Game Design,Centerfield,1,86000,40000,3.5
+1280,CA,Game Design,Curology,1,125000,68000,5
+1281,CA,Game Design,Etekcity Corporation,1,45000,25000,3.4
+1282,CA,Game Design,FleishmanHillard,1,69000,34000,3.6
+1283,CA,Game Design,First Republic Bank,1,104000,64000,3.9
+1284,NY,Digital Marketing,"Presidio, Inc.",1,135000,71000,3.3
+1285,CA,Game Design,Exponent,1,93000,52000,3.4
+1286,NY,Digital Marketing,Proud Moments ABA,1,108000,56000,4
+1287,CA,Game Design,DISH,1,154000,94000,2.7
+1288,NY,Digital Marketing,PulsePoint,1,169000,54000,4.4
+1289,CA,Game Design,"Dolby Laboratories, Inc.",1,134000,72000,3.8
+1290,CA,Game Design,Discord,1,189000,118000,4.9
+1291,CA,Game Design,Redfin,1,148000,93000,3.6
+1292,CA,Game Design,REACH Technologies,1,88000,57000,4.8
+1293,CA,Game Design,Quizlet,1,142000,87000,4.3
+1294,NY,Digital Marketing,Movable Ink,1,106000,46000,4.5
+1295,CA,Game Design,Reformation,1,88000,54000,3.1
+1296,CA,Game Design,Ria Financial,1,48000,27000,3.2
+1297,NY,Digital Marketing,Mission North,1,80000,39000,4.8
+1298,CA,Game Design,SmartAction,1,65000,36000,2.8
+1299,CA,Game Design,Skillz Inc.,1,142000,87000,4.2
+1300,CA,Game Design,Sinclair Broadcast Group,1,52000,29000,2.8
+1301,NY,Digital Marketing,NBCUniversal,1,70000,37000,4
+1302,CA,Game Design,MediaMonks,1,52000,24000,4
+1303,NY,Digital Marketing,NuORDER,1,57000,29000,3.2
+1304,CA,Game Design,Marine Layer,1,110000,68000,4
+1305,NY,Digital Marketing,Omnicom Health Group,1,103000,58000,3.4
+1306,CA,Game Design,MachineZone,1,111000,55000,2.8
+1307,NY,Digital Marketing,OnPrem Solution Partners,1,104000,53000,4.3
+1308,NY,Digital Marketing,National Football League,1,92000,42000,3.8
+1309,CA,Game Design,Lumosity,1,90000,49000,4.2
+1310,CA,Game Design,Logitech,1,74000,41000,4.1
+1311,CA,Game Design,Left Field Labs,1,103000,54000,4.2
+1312,CA,Game Design,LT Security,1,44000,23000,2.8
+1313,CA,Game Design,Method Products,1,134000,80000,3.8
+1314,CA,Game Design,Microsoft,1,147000,77000,4.3
+1315,NY,Digital Marketing,Neo Media World,1,67000,38000,3.7
+1316,NY,Digital Marketing,New Museum of Contemporary Art,1,104000,53000,2.5
+1317,NY,Digital Marketing,Nexamp,1,268000,147000,4
+1318,CA,Game Design,Oaktree Capital Management,1,101000,56000,3.4
+1319,CA,Game Design,Nox Solutions,1,66000,46000,3.6
+1320,CA,Game Design,Nordstrom,1,121000,56000,3.7
+1321,CA,Game Design,NZXT,1,89000,42000,2.3
+1322,CA,Game Design,MuleSoft,1,203000,126000,4.4
+1323,CA,Game Design,Mozilla Corporation,1,80000,45000,3.4
+1324,NY,Digital Marketing,TCS,1,76000,35000,4
+1325,CA,Digital Marketing,VIANT,1,159000,63000,3.9
+1326,NY,Digital Marketing,TD Bank,1,97000,49000,3.9
+1327,CA,Digital Marketing,Upgrade,1,99000,50000,4.1
+1328,CA,Digital Marketing,University of Southern California,1,72000,29000,4.3
+1329,CA,Digital Marketing,University of California San Francisco,1,101000,51000,4.2
+1330,NY,Digital Marketing,Tapad,1,133000,80000,4.2
+1331,NY,Digital Marketing,Tapestry,1,105000,54000,3.7
+1332,NY,Digital Marketing,Tata Consultancy Services (North America),1,76000,37000,3.7
+1333,NY,Digital Marketing,Syneos Health Commercial Solutions,1,60000,34000,3.6
+1334,CA,Digital Marketing,Verndale,1,207000,86000,3.2
+1335,NY,Digital Marketing,Starry,1,228000,125000,4.2
+1336,CA,Digital Marketing,Westland Real Estate Group,1,42000,25000,3.8
+1337,NY,Digital Marketing,Squarespace,1,157000,84000,3.4
+1338,NY,Digital Marketing,Suzy,1,93000,54000,4.3
+1339,CA,Digital Marketing,Viant,1,191000,73000,3.9
+1340,NY,Digital Marketing,TrueSense Marketing,1,110000,62000,3
+1341,CA,Digital Marketing,The Renee White Team,1,52000,30000,4.3
+1342,CA,Digital Marketing,UCSF Medical Center,1,138000,73000,4
+1343,CA,Digital Marketing,The Control Group,1,73000,48000,3.8
+1344,CA,Digital Marketing,The Clorox Company,1,141000,86000,4
+1345,NY,Digital Marketing,Unilever,1,112000,61000,4.1
+1346,CA,Digital Marketing,ThirdLove,1,54000,31000,3.2
+1347,CA,Digital Marketing,Thomas,1,75000,35000,3.4
+1348,NY,Digital Marketing,Teneo,1,126000,66000,3.8
+1349,NY,Digital Marketing,The Estée Lauder Companies,1,176000,95000,3.9
+1350,NY,Digital Marketing,The Marketing Arm,1,105000,60000,3.5
+1351,NY,Digital Marketing,Theorem Inc.,1,109000,59000,3.4
+1352,NY,Digital Marketing,ThomasArts,1,78000,39000,3.7
+1353,CA,Digital Marketing,Tinder,1,124000,71000,4.1
+1354,CA,Digital Marketing,Tile,1,123000,78000,4.1
+1355,NY,Digital Marketing,Tiffany &amp; Co.,1,98000,49000,3.4
+1356,CA,Game Design,CIA,1,82000,57000,4.1
+1357,CA,Game Design,Allstate,1,131000,79000,3.5
+1358,CA,Game Design,Ariat,1,130000,81000,4.3
+1359,CA,Game Design,Advanced Nutrients,1,120000,64000,2.9
+1360,NY,Digital Marketing,Sakara Life,1,74000,37000,3.5
+1361,CA,Game Design,Academia.edu,1,168000,103000,4.3
+1362,CA,Game Design,Abbyson Living Corporate,1,69000,37000,4
+1363,CA,Game Design,Ariat International,1,64000,38000,4.3
+1364,CA,Digital Marketing,Windsor Fashions,1,55000,30000,3.5
+1365,NY,Digital Marketing,Rapid Ratings,1,51000,29000,3.4
+1366,CA,Game Design,Bi-Rite Market ,1,66000,36000,4
+1367,CA,Game Design,Banana Republic,1,77000,44000,3.6
+1368,NY,Digital Marketing,Rightpoint,1,73000,40000,4
+1369,CA,Game Design,Atlassian,1,121000,73000,4.6
+1370,NY,Digital Marketing,Roku,1,184000,78000,3.8
+1371,NY,Digital Marketing,Schweiger Dermatology Group,1,60000,34000,3.8
+1372,CA,Digital Marketing,ZINFI SOFTWARE SYSTEMS,1,67000,35000,3
+1373,CA,Digital Marketing,Yext,1,173000,66000,4
+1374,CA,Digital Marketing,YDesign Group LLC,1,97000,59000,2.8
+1375,NY,Digital Marketing,Simon &amp; Schuster,1,106000,57000,2.9
+1376,CA,Digital Marketing,Wärtsilä,1,147000,78000,3.9
+1377,NY,Digital Marketing,Smartly.io,1,87000,33000,4.5
+1378,CA,Digital Marketing,Windstream Communications,1,74000,34000,3.1
+1379,CA,Digital Marketing,Zenni Optical,1,94000,53000,3.1
+1380,CA,Digital Marketing,simplehuman,1,85000,37000,3.8
+1381,CA,Digital Marketing,hibu Inc,1,67000,25000,3.8
+1382,CA,Digital Marketing,hibu,1,67000,23000,3.8
+1383,CA,Digital Marketing,coty,1,113000,58000,2.9
+1384,CA,Digital Marketing,Zynga,1,138000,68000,4.2
+1385,CA,Digital Marketing,Zumper,1,151000,80000,4.2
+1386,CA,Data Scientist,"Proterra, Inc.",1,176000,99000,3.5
+1387,CA,Data Scientist,Postmates,1,146000,90000,3.4
+1388,CA,Data Scientist,Perfect Day,1,72000,35000,4.7
+1389,NY,UI/UX Researcher,Snap,1,225000,112000,3.9
+1390,CA,Data Scientist,PepsiCo,1,156000,88000,3.8
+1391,CA,Data Scientist,Penumbra,1,144000,77000,3.4
+1392,CA,Data Scientist,PayPal,1,115000,66000,4
+1393,CA,Data Scientist,Patreon,1,159000,91000,3.2
+1394,NY,UI/UX Researcher,Postlight,1,153000,111000,3.3
+1395,CA,Data Scientist,Publicis Sapient,1,107000,59000,3.5
+1396,CA,Data Scientist,Quantcast,1,151000,86000,3.7
+1397,NY,UI/UX Researcher,Ogilvy,1,92000,41000,3.7
+1398,NY,UI/UX Researcher,New York Times,1,136000,52000,3.9
+1399,CA,Data Scientist,SADA,1,160000,86000,4.8
+1400,NY,UI/UX Researcher,New York University,1,84000,44000,4.3
+1401,CA,Data Scientist,Rubicon,1,124000,77000,4
+1402,CA,Data Scientist,Roofstock,1,260000,146000,4.5
+1403,CA,Data Scientist,"Rodan and Fields, LLC",1,117000,58000,2.3
+1404,NY,UI/UX Researcher,Northwell Health,1,98000,44000,4
+1405,CA,Data Scientist,Restoration Hardware,1,186000,108000,2.9
+1406,CA,Data Scientist,Reddit,1,281000,176000,3.8
+1407,CA,Data Scientist,Red Ventures,1,185000,96000,3.8
+1408,NY,UI/UX Researcher,Nuts.com,1,100000,45000,2.9
+1409,NY,UI/UX Researcher,Prudential,1,150000,73000,3.7
+1410,NY,UI/UX Researcher,S&amp;P Global Ratings,1,161000,89000,3.1
+1411,CA,Data Scientist,Medidata Solutions,1,211000,131000,4.4
+1412,CA,Data Scientist,MarinHealth Medical Center,1,142000,94000,3.4
+1413,NY,UI/UX Researcher,Scroll,1,126000,69000,5
+1414,NY,UI/UX Researcher,Sharecare Inc.,1,177000,92000,3.7
+1415,CA,Data Scientist,"Lockton, Inc.",1,76000,40000,4
+1416,CA,Data Scientist,LiveRamp,1,150000,140000,4.3
+1417,NY,UI/UX Researcher,Shindig,1,137000,107000,4.6
+1418,NY,UI/UX Researcher,SiriusXM,1,122000,73000,3.3
+1419,CA,Data Scientist,NTT DATA,1,178000,98000,3.5
+1420,NY,UI/UX Researcher,Publicis Media,1,105000,49000,3.6
+1421,CA,Data Scientist,"Operating Company ACTIVISION PUBLISHING, INC",1,125000,74000,3
+1422,NY,UI/UX Researcher,RELX,1,120000,55000,3.7
+1423,CA,Data Scientist,Nuna,1,190000,105000,4.1
+1424,NY,UI/UX Researcher,Ralph Lauren,1,146000,69000,3.7
+1425,CA,Data Scientist,Ngm Biopharmaceuticals,1,134000,65000,3.5
+1426,NY,UI/UX Researcher,Raytheon Technologies Corporate,1,127000,77000,3.7
+1427,CA,Data Scientist,Nestle USA,1,136000,64000,4
+1428,NY,UI/UX Researcher,Reaktor,1,173000,103000,4.9
+1429,CA,Data Scientist,Samba TV,1,161000,92000,2.8
+1430,CA,Data Scientist,Upstart,1,161000,93000,4.4
+1431,CA,Data Scientist,University of the Pacific,1,89000,54000,3.9
+1432,CA,Data Scientist,University of California Berkeley,1,162000,103000,3.7
+1433,NY,UI/UX Researcher,GroupM Data &amp; Technology,1,118000,67000,3.6
+1434,NY,UI/UX Researcher,Grubhub,1,100000,56000,4.1
+1435,NY,UI/UX Researcher,Harry's,1,221000,74000,3.8
+1436,NY,UI/UX Researcher,Hunter International,1,64000,32000,4.8
+1437,NY,UI/UX Researcher,Ironpaper,1,128000,60000,3.4
+1438,CA,Data Scientist,Triplebyte,1,225000,145000,3
+1439,CA,Data Scientist,Torani,1,152000,94000,3.5
+1440,CA,Data Scientist,Tides,1,118000,63000,3.6
+1441,CA,Data Scientist,"Upstart Network, Inc.",1,182000,114000,4.4
+1442,CA,Data Scientist,UserTesting,1,171000,95000,3.6
+1443,CA,Data Scientist,ThoughtWorks,1,300000,164000,4.2
+1444,CA,Data Scientist,Zaspar Technologies,1,90000,49000,2.8
+1445,CA,Data Scientist,Yummly,1,246000,157000,4.8
+1446,CA,Data Scientist,Xoom,1,193000,121000,3.6
+1447,NY,UI/UX Researcher,Food52,1,97000,44000,2.8
+1448,NY,UI/UX Researcher,Ford Foundation,1,229000,113000,3.7
+1449,CA,Data Scientist,Walmart,1,125000,78000,3.3
+1450,CA,Data Scientist,Visual Concepts,1,159000,95000,3.9
+1451,NY,UI/UX Researcher,Frame.io,1,221000,96000,3.9
+1452,NY,UI/UX Researcher,Fueled,1,171000,99000,4.6
+1453,NY,UI/UX Researcher,Glossier,1,207000,127000,3.3
+1454,CA,Data Scientist,"VIZIO, Inc.",1,207000,132000,3.2
+1455,CA,Data Scientist,Thrive Global,1,235000,150000,3.3
+1456,CA,Data Scientist,Scale AI,1,157000,74000,3.6
+1457,NY,UI/UX Researcher,Meredith Corporation,1,123000,57000,3.3
+1458,NY,UI/UX Researcher,Method,1,107000,59000,3.6
+1459,CA,Data Scientist,Solugenix Corporation,1,144000,90000,3.9
+1460,CA,Data Scientist,Snapchat,1,251000,151000,3.9
+1461,NY,UI/UX Researcher,Mount Sinai Health System,1,146000,81000,3.5
+1462,CA,Data Scientist,SiriusXM,1,104000,48000,3.3
+1463,CA,Data Scientist,Shipt,1,113000,69000,3.6
+1464,NY,UI/UX Researcher,NBCUniversal,1,163000,99000,4
+1465,NY,UI/UX Researcher,NetCom Learning,1,99000,70000,4.1
+1466,NY,UI/UX Researcher,"Mercedes-Benz USA, LLC",1,36000,24000,3.7
+1467,CA,Data Scientist,Spire,1,146000,86000,3.5
+1468,NY,UI/UX Researcher,Kettle,1,107000,84000,3.7
+1469,CA,Data Scientist,Spire Global,1,162000,97000,3.2
+1470,CA,Data Scientist,The Pill Club,1,121000,69000,2.5
+1471,CA,Data Scientist,TaskRabbit,1,208000,132000,4
+1472,NY,UI/UX Researcher,Langan Engineering and Environmental Services,1,88000,54000,4.3
+1473,CA,Data Scientist,SurveyMonkey,1,236000,143000,4.6
+1474,CA,Data Scientist,Stripe,1,125000,68000,4.2
+1475,NY,UI/UX Researcher,Macy's Technology,1,213000,105000,3.3
+1476,CA,Data Scientist,Standard Chartered,1,180000,113000,3.8
+1477,NY,UI/UX Researcher,Mailchimp,1,212000,110000,3.4
+1478,CA,Data Scientist,SquareTrade,1,89000,47000,3.5
+1479,NY,UI/UX Researcher,MakeSpace,1,129000,72000,4.6
+1480,CA,Data Scientist,CareDx,1,191000,95000,3
+1481,NY,UI/UX Researcher,pymetrics,1,151000,86000,3.8
+1482,CA,Data Scientist,Capital One,1,179000,112000,4
+1483,NY,VR Engineering,Buck,1,163000,95000,3.5
+1484,CA,Data Scientist,Calico,1,192000,114000,4
+1485,NY,VR Engineering,Lenovo,1,220000,82000,3.9
+1486,NY,VR Engineering,MLB.com,1,129000,97000,3.7
+1487,CA,Data Scientist,Brightidea,1,129000,80000,4.3
+1488,NY,VR Engineering,Pure Storage,1,207000,80000,3.7
+1489,CA,Data Scientist,Blue Shield of California,1,204000,113000,4.3
+1490,CA,Data Scientist,Bloomberg,1,256000,160000,4
+1491,WA,VR Engineering,Axon,1,163000,85000,3.5
+1492,CA,Data Scientist,Chan Zuckerberg Initiative,1,219000,123000,3.7
+1493,CA,Data Scientist,Change.org,1,193000,111000,4.2
+1494,CA,Data Scientist,Charles River Laboratories,1,120000,56000,3.3
+1495,CA,Data Scientist,CrowdRise,1,147000,83000,4.5
+1496,CA,Data Scientist,Credible,1,112000,64000,4.3
+1497,CA,Data Scientist,Course Hero,1,136000,73000,4.9
+1498,NY,UI/UX Researcher,Weill Cornell Medicine,1,118000,62000,3.8
+1499,NY,UI/UX Researcher,Wunderkind,1,110000,53000,3.8
+1500,CA,Data Scientist,Cognizant Softvision,1,169000,105000,4
+1501,NY,UI/UX Researcher,ZS Associates,1,134000,64000,3.9
+1502,CA,Data Scientist,CitiusTech,1,156000,97000,3.8
+1503,CA,Data Scientist,Cisco Systems,1,178000,101000,4.2
+1504,NY,UI/UX Researcher,Zola,1,120000,64000,4
+1505,CA,Data Scientist,Checkr,1,205000,129000,3.8
+1506,CA,Data Scientist,Charles Schwab,1,161000,89000,3.7
+1507,CA,Data Scientist,BRAZE,1,150000,83000,4.5
+1508,CA,Data Scientist,Alameda Alliance for Health,1,155000,82000,3
+1509,CA,Data Scientist,"Akvelon, Inc.",1,130000,75000,4.3
+1510,CA,Data Scientist,Adobe,1,186000,112000,4.3
+1511,WA,VR Engineering,Pure Storage,1,174000,90000,3.7
+1512,CA,Data Scientist,Activision Blizzard,1,137000,83000,3.6
+1513,CA,Data Scientist,AVANADE,1,87000,42000,3.9
+1514,CA,Data Scientist,"AAA Northern California, Nevada &amp; Utah",1,150000,95000,2.6
+1515,CA,Data Scientist,6sense,1,165000,103000,4.9
+1516,CA,Data Scientist,22nd Century Technologies,1,155000,110000,3.6
+1517,WA,VR Engineering,NVIDIA,1,142000,72000,4.8
+1518,CA,Data Scientist,BICP,1,175000,110000,5
+1519,CA,Data Scientist,Amazon,1,148000,109000,3.9
+1520,CA,Data Scientist,Avani Technology Solutions,1,148000,92000,4.6
+1521,CA,Data Scientist,Autodesk,1,164000,104000,4.1
+1522,WA,VR Engineering,"Bluetooth SIG, Inc.",1,157000,81000,2.8
+1523,WA,VR Engineering,Denali Advanced Integration,1,186000,86000,2.7
+1524,CA,Data Scientist,Asana,1,192000,108000,4.9
+1525,WA,VR Engineering,Magic Leap - Multiple Locations,1,109000,62000,3.6
+1526,WA,VR Engineering,MicroVision,1,89000,55000,2.7
+1527,CA,Data Scientist,Amobee,1,139000,83000,3.8
+1528,CA,Data Scientist,Amgen,1,171000,105000,3.9
+1529,CA,Data Scientist,AmeriCorps,1,58000,32000,3.6
+1530,CA,Data Scientist,Amazon.com Services LLC,1,145000,100000,3.9
+1531,CA,Data Scientist,Curology,1,116000,67000,5
+1532,CA,Data Scientist,Illumina,1,180000,115000,3.9
+1533,NY,UI/UX Researcher,Strategic Financial Solutions,1,250000,128000,3.7
+1534,NY,UI/UX Researcher,"TPR Education, LLC",1,101000,46000,4
+1535,NY,UI/UX Researcher,Talent Inc.,1,105000,55000,3.5
+1536,NY,UI/UX Researcher,Talkspace,1,106000,54000,3
+1537,NY,UI/UX Researcher,Teachable,1,113000,62000,4
+1538,CA,Data Scientist,HOVER,1,158000,94000,4.6
+1539,CA,Data Scientist,HCL Technologies,1,96000,53000,3.5
+1540,CA,Data Scientist,Gusto,1,171000,106000,3.5
+1541,CA,Data Scientist,Grand Rounds,1,234000,142000,4.3
+1542,NY,UI/UX Researcher,Text IQ,1,119000,66000,4.6
+1543,CA,Data Scientist,Google,1,191000,118000,4.5
+1544,CA,Data Scientist,Komodo Health,1,137000,75000,3.6
+1545,CA,Data Scientist,Kiva.org,1,117000,64000,4.2
+1546,CA,Data Scientist,KeepTruckin,1,136000,72000,3.1
+1547,CA,Data Scientist,Kabam,1,97000,52000,3.9
+1548,NY,UI/UX Researcher,Sotheby's,1,121000,65000,3.1
+1549,NY,UI/UX Researcher,Square,1,167000,103000,4.1
+1550,NY,UI/UX Researcher,Squarespace,1,140000,84000,3.4
+1551,CA,Data Scientist,Invitae,1,141000,88000,3.7
+1552,NY,UI/UX Researcher,Staffmark,1,96000,43000,3.8
+1553,NY,UI/UX Researcher,"Stefanini, Inc",1,91000,48000,3.6
+1554,NY,UI/UX Researcher,Teza Technologies,1,123000,76000,4.3
+1555,CA,Data Scientist,GitHub,1,175000,99000,4
+1556,CA,Data Scientist,Fanatics,1,113000,61000,3.5
+1557,NY,UI/UX Researcher,Thrive Global,1,149000,82000,3.3
+1558,CA,Data Scientist,FICO,1,170000,101000,3.6
+1559,CA,Data Scientist,Exact Sciences Corporation,1,169000,107000,4.2
+1560,CA,Data Scientist,Etsy,1,287000,178000,3.7
+1561,NY,UI/UX Researcher,Tripadvisor,1,79000,42000,3.5
+1562,CA,Data Scientist,Driven Brands,1,132000,82000,2.2
+1563,CA,Data Scientist,Disney Streaming Services,1,247000,157000,3.7
+1564,CA,Data Scientist,Dell Technologies,1,138000,85000,4.1
+1565,NY,UI/UX Researcher,Thomson Reuters,1,85000,49000,4.1
+1566,NY,UI/UX Researcher,The Clorox Company,1,127000,79000,4
+1567,CA,Data Scientist,Fandom,1,128000,70000,3.3
+1568,CA,Data Scientist,"GenapSys, Inc.",1,180000,88000,3.5
+1569,CA,Data Scientist,Geli,1,138000,109000,3.4
+1570,CA,Data Scientist,Fundbox,1,112000,62000,4.7
+1571,NY,UI/UX Researcher,The Knot Worldwide,1,94000,50000,3.9
+1572,CA,Data Scientist,Franklin Templeton Investments,1,142000,70000,3.8
+1573,NY,UI/UX Researcher,The NPD Group,1,117000,54000,3.8
+1574,CA,Data Scientist,Formation,1,225000,140000,2.9
+1575,CA,Data Scientist,Fivestars,1,170000,106000,4
+1576,CA,Data Scientist,Fitch Ratings,1,119000,74000,3.7
+1577,CA,Data Scientist,First American Financial Corporation,1,137000,86000,3.6
+1578,CA,Data Scientist,Federal Reserve Bank of San Francisco,1,192000,121000,3.7
+1579,CA,Data Scientist,"Farmer's Business Network, Inc.",1,177000,111000,3.4
+1580,CA,Data Scientist,iRhythm,1,253000,154000,3.5
+1581,CA,Digital Marketing,G4S,1,75000,40000,3.1
+1582,CA,Digital Marketing,Furniture of America,1,40000,35000,2.7
+1583,CA,Digital Marketing,Fuller Theological Seminary,1,44000,26000,3
+1584,CA,Digital Marketing,Freedom Financial,1,130000,68000,2.2
+1585,CA,Digital Marketing,Fox Sports,1,172000,93000,3.8
+1586,NY,Game Design,"Perry Ellis International, Inc.",1,43000,26000,2.7
+1587,NY,Game Design,Prime Studio,1,63000,34000,4.8
+1588,CA,Digital Marketing,GE,1,159000,85000,3.9
+1589,CA,Digital Marketing,GUESS?. INC.,1,55000,27000,3.3
+1590,CA,Digital Marketing,Grammarly,1,105000,53000,5
+1591,CA,Digital Marketing,Golin,1,57000,30000,3.8
+1592,CA,Digital Marketing,Golden West Food Group,1,102000,50000,3.2
+1593,NY,Game Design,Newmark Knight Frank,1,54000,28000,3.1
+1594,NY,Game Design,NowThis,1,66000,34000,3.5
+1595,NY,Game Design,Omnicom Health Group,1,89000,45000,3.4
+1596,CA,Digital Marketing,Gainsight,1,219000,73000,4.2
+1597,CA,Digital Marketing,Fanatics,1,111000,57000,3.5
+1598,NY,Game Design,Spotify,1,168000,99000,4
+1599,CA,Digital Marketing,Edmunds.com,1,52000,36000,3.9
+1600,CA,Digital Marketing,EVB Inc.,1,124000,71000,3
+1601,CA,Digital Marketing,Dun &amp; Bradstreet,1,113000,60000,3.1
+1602,CA,Digital Marketing,DoubleVerify,1,126000,60000,3.6
+1603,NY,Game Design,Strategic Financial Solutions,1,74000,36000,3.7
+1604,NY,Game Design,Systemax,1,49000,27000,2.5
+1605,CA,Digital Marketing,Direct Agents,1,78000,43000,4.1
+1606,NY,Game Design,SportsRecruits,1,71000,35000,4.2
+1607,CA,Digital Marketing,FanDuel,1,206000,112000,4
+1608,NY,Game Design,Saks Fifth Avenue,1,61000,34000,3.1
+1609,CA,Digital Marketing,FICO,1,204000,101000,3.7
+1610,CA,Digital Marketing,FASHIONPHILE,1,49000,27000,3.8
+1611,NY,Game Design,"Skidmore, Owings &amp; Merrill (SOM)",1,99000,56000,3.4
+1612,CA,Digital Marketing,Epic Games,1,126000,66000,3.9
+1613,CA,Digital Marketing,Groove.co,1,125000,65000,5
+1614,NY,Game Design,Iona College,1,57000,30000,3.6
+1615,NY,Game Design,Jane Street,1,107000,61000,4.8
+1616,CA,Digital Marketing,Kenshoo,1,217000,98000,4
+1617,CA,Digital Marketing,Kabam,1,193000,105000,3.9
+1618,CA,Digital Marketing,John McNeil Studio,1,131000,76000,3.2
+1619,CA,Digital Marketing,"Jensen Corporate Holdings, LLC",1,145000,77000,2.6
+1620,CA,Digital Marketing,JUST,1,61000,35000,2.9
+1621,NY,Game Design,Global Industrial,1,59000,31000,2.8
+1622,NY,Game Design,H-Mart,1,56000,32000,2.8
+1623,NY,Game Design,HLW,1,64000,34000,3.7
+1624,NY,Game Design,Hanwha Techwin America Inc,1,53000,29000,3.2
+1625,NY,Game Design,Harry's,1,64000,33000,3.7
+1626,CA,Digital Marketing,LendingTree,1,90000,70000,3.6
+1627,CA,Digital Marketing,Laundry Service,1,168000,94000,2.6
+1628,CA,Digital Marketing,GroupM Services,1,81000,53000,3.7
+1629,CA,Digital Marketing,Human Interest,1,76000,41000,4.4
+1630,NY,Game Design,Marc Jacobs,1,68000,37000,3.3
+1631,CA,Digital Marketing,Herbalife,1,44000,20000,4
+1632,NY,Game Design,Mendix,1,65000,35000,4
+1633,CA,Digital Marketing,Hearts and Science,1,62000,35000,3.3
+1634,CA,Digital Marketing,Handshake,1,159000,100000,3.9
+1635,CA,Digital Marketing,HCL Technologies,1,122000,58000,3.5
+1636,NY,Game Design,Momentum Solar,1,53000,27000,3.2
+1637,CA,Digital Marketing,Irwin Naturals,1,56000,29000,3.7
+1638,CA,Digital Marketing,IBM,1,115000,57000,3.8
+1639,CA,Digital Marketing,Intuit,1,201000,106000,4.3
+1640,NY,Game Design,M&amp;J Engineering,1,67000,37000,4.6
+1641,NY,Game Design,MSG,1,99000,51000,4
+1642,CA,Digital Marketing,Inspire,1,167000,80000,3
+1643,CA,Digital Marketing,InkHouse,1,136000,71000,4.4
+1644,NY,Game Design,Maesa,1,59000,33000,3
+1645,CA,Digital Marketing,InVision Communications Inc.,1,101000,33000,3.6
+1646,NY,Game Design,Talbots,1,88000,53000,3.6
+1647,NY,UI/UX Researcher,CentralReach,1,169000,98000,4.3
+1648,CA,Digital Marketing,BakeMark USA,1,94000,47000,3.3
+1649,NY,UI/UX Researcher,Centric Brands,1,84000,46000,2.9
+1650,NY,Game Design,Tapestry,1,71000,39000,3.7
+1651,CA,Digital Marketing,Automattic,1,92000,46000,4.5
+1652,NY,UI/UX Researcher,Citadel,1,174000,86000,3.9
+1653,CA,Digital Marketing,Athleta,1,222000,121000,4.1
+1654,NY,UI/UX Researcher,Cognizant Softvision,1,167000,85000,4
+1655,CA,Digital Marketing,Branded Entertainment Network,1,63000,30000,3.9
+1656,CA,Digital Marketing,Bolt,1,77000,37000,4.6
+1657,CA,Digital Marketing,Bobit Business Media,1,50000,25000,3.3
+1658,NY,UI/UX Researcher,CACI,1,88000,35000,3.8
+1659,NY,UI/UX Researcher,CUNY (City University of New York),1,55000,25000,3.8
+1660,NY,UI/UX Researcher,Cancer Support Community,1,84000,37000,3.1
+1661,CA,Digital Marketing,Assured Relocation,1,81000,40000,3.4
+1662,NY,UI/UX Researcher,Colgate-Palmolive,1,137000,65000,4.1
+1663,NY,UI/UX Researcher,Dun &amp; Bradstreet,1,182000,103000,3.2
+1664,CA,Digital Marketing,AUDIENCEX,1,135000,90000,4.2
+1665,NY,UI/UX Researcher,Epsilon,1,129000,50000,3.4
+1666,CA,Digital Marketing,AMV,1,83000,61000,3.4
+1667,CA,Digital Marketing,500 Startups,1,90000,45000,3.8
+1668,NY,UI/UX Researcher,Evoke Health,1,52000,34000,3.6
+1669,CA,Digital Marketing,Advertise Purple,1,65000,65000,4.6
+1670,CA,Digital Marketing,Agero,1,158000,80000,3.7
+1671,CA,Digital Marketing,Ariat International,1,166000,97000,4.3
+1672,NY,UI/UX Researcher,Columbia University,1,83000,42000,4.1
+1673,NY,UI/UX Researcher,Columbia University Medical Center,1,72000,41000,3.7
+1674,CA,Digital Marketing,AppsFlyer,1,161000,76000,4.5
+1675,CA,Digital Marketing,Antioch University,1,48000,25000,3.2
+1676,CA,Digital Marketing,"Amyris, Inc.",1,130000,68000,3.9
+1677,NY,UI/UX Researcher,Current,1,87000,46000,4.4
+1678,NY,UI/UX Researcher,Dataminr,1,225000,116000,3.7
+1679,CA,Digital Marketing,Akshaya Inc,1,141000,63000,4.4
+1680,CA,Digital Marketing,BrightEdge,1,128000,56000,3.1
+1681,NY,UI/UX Researcher,Bombas,1,211000,130000,4.9
+1682,CA,Digital Marketing,Coty,1,74000,45000,2.9
+1683,CA,Digital Marketing,Conversant Media,1,151000,76000,3.2
+1684,CA,Digital Marketing,Connexity,1,88000,48000,3.7
+1685,CA,Digital Marketing,Conill Advertising,1,75000,41000,2.7
+1686,NY,UI/UX Researcher,ADP,1,231000,126000,3.8
+1687,CA,Digital Marketing,Concord,1,267000,146000,4.2
+1688,NY,UI/UX Researcher,Alibaba,1,133000,49000,3.9
+1689,NY,Game Design,William Morris,1,52000,28000,3.8
+1690,NY,Game Design,William Hill US,1,115000,62000,2.9
+1691,NY,UI/UX Researcher,AlphaSights Ltd.,1,86000,45000,3.9
+1692,NY,Game Design,Walmart,1,75000,45000,3.3
+1693,CA,Digital Marketing,DealerSocket,1,133000,63000,3.9
+1694,NY,Game Design,The Halal Guys,1,49000,26000,3.1
+1695,CA,Digital Marketing,Dan Klores Communications,1,108000,59000,3.5
+1696,NY,Game Design,The Robin Hood Foundation,1,63000,34000,3.9
+1697,NY,Game Design,The Spark Group,1,60000,37000,4.6
+1698,NY,Game Design,Transwestern,1,66000,35000,4.2
+1699,NY,Game Design,University of Delaware,1,63000,33000,4.4
+1700,NY,Game Design,Vettery,1,142000,82000,3.2
+1701,CA,Digital Marketing,Critical Mass,1,138000,79000,3.3
+1702,NY,Game Design,Vox Media,1,78000,41000,3.8
+1703,CA,Digital Marketing,Coda,1,72000,36000,2.4
+1704,CA,Digital Marketing,Brightwheel,1,99000,50000,4.2
+1705,CA,Digital Marketing,CR Laurence,1,122000,69000,3.4
+1706,CA,Digital Marketing,CDK Global,1,102000,51000,3.2
+1707,NY,UI/UX Researcher,Bizzabo,1,152000,93000,4.8
+1708,CA,Digital Marketing,C-4 Analytics,1,48000,25000,3.6
+1709,NY,UI/UX Researcher,Blackstone,1,130000,82000,4
+1710,NY,UI/UX Researcher,Barnes &amp; Noble,1,117000,54000,3.6
+1711,NY,UI/UX Researcher,Athreya Inc,1,97000,44000,4.5
+1712,CA,Digital Marketing,Castlight Health,1,176000,95000,3.7
+1713,CA,Digital Marketing,CareDx,1,83000,42000,3
+1714,NY,UI/UX Researcher,BRAZE,1,102000,53000,4.5
+1715,DC,UI/UX Researcher,Planned Systems International,1,136000,67000,4.3
+1716,DC,UI/UX Researcher,Peraton,1,34000,22000,3.7
+1717,DC,UI/UX Researcher,Paradyme Management Inc.,1,119000,57000,3.2
+1718,DC,UI/UX Researcher,"Panum Group, LLC",1,117000,65000,3.9
+1719,DC,UI/UX Researcher,PPD,1,139000,85000,3.9
+1720,MN,UI/UX Researcher,Wunderman Thompson,1,138000,67000,3.4
+1721,MN,UI/UX Researcher,Xcel Energy,1,54000,28000,3.7
+1722,DC,UI/UX Researcher,Praxis Engineering,1,243000,86000,4.7
+1723,MN,UI/UX Researcher,iknowvate technologies,1,91000,43000,3.2
+1724,NY,Data Scientist,7Park Data,1,153000,89000,4
+1725,DC,UI/UX Researcher,NetImpact Strategies,1,91000,41000,4.2
+1726,DC,UI/UX Researcher,Navstar,1,169000,88000,4.2
+1727,DC,UI/UX Researcher,NORC at the University of Chicago,1,53000,33000,3
+1728,DC,UI/UX Researcher,NCI Information Systems Inc.,1,119000,57000,3.7
+1729,DC,UI/UX Researcher,ProObject,1,85000,41000,4
+1730,MN,UI/UX Researcher,Turner Construction Company,1,132000,62000,4.1
+1731,DC,UI/UX Researcher,Snagajob,1,138000,83000,3.8
+1732,DC,UI/UX Researcher,SiriusXM,1,110000,58000,3.3
+1733,DC,UI/UX Researcher,Shield Consulting Solutions,1,82000,51000,5
+1734,DC,UI/UX Researcher,Scientific Research Corporation,1,155000,87000,4.2
+1735,DC,UI/UX Researcher,Salesforce,1,142000,74000,4.4
+1736,MN,UI/UX Researcher,Thrivent,1,124000,63000,3.8
+1737,DC,UI/UX Researcher,SRC,1,95000,45000,4
+1738,DC,UI/UX Researcher,SHRM,1,110000,47000,3.3
+1739,MN,UI/UX Researcher,Vision Internet,1,77000,42000,3.9
+1740,DC,UI/UX Researcher,Red Alpha LLC,1,99000,59000,5
+1741,MN,UI/UX Researcher,Wells Fargo,1,121000,63000,3.6
+1742,DC,UI/UX Researcher,RELX,1,200000,105000,3.7
+1743,DC,UI/UX Researcher,RCLCO,1,71000,41000,4.1
+1744,NY,Data Scientist,ADP,1,122000,74000,3.8
+1745,NY,Data Scientist,AVANADE,1,107000,61000,3.9
+1746,DC,UI/UX Researcher,Solutions Through Innovative Technologies Inc,1,88000,42000,3.6
+1747,NY,Data Scientist,Aptus Health,1,135000,84000,3.5
+1748,NY,Data Scientist,Asana,1,144000,88000,4.9
+1749,NY,Data Scientist,Atlassian,1,166000,104000,4.6
+1750,NY,Data Scientist,BBC,1,120000,64000,4
+1751,DC,UI/UX Researcher,Highlight Technologies,1,102000,58000,4
+1752,DC,UI/UX Researcher,Higher Logic,1,133000,77000,3.5
+1753,DC,UI/UX Researcher,Henry M Jackson Foundation For The Advan,1,58000,34000,3.7
+1754,DC,UI/UX Researcher,Gunnison Consulting Group Inc,1,138000,70000,4.6
+1755,DC,UI/UX Researcher,Id.me,1,74000,42000,3.4
+1756,NY,Data Scientist,"Bio-Reference Laboratories, Inc.",1,171000,55000,2.7
+1757,NY,Data Scientist,Biz2Credit Inc,1,133000,88000,3.6
+1758,DC,UI/UX Researcher,Goldman Sachs,1,123000,59000,4.1
+1759,DC,UI/UX Researcher,GoCanvas,1,74000,42000,3.4
+1760,DC,UI/UX Researcher,George Washington University,1,50000,24000,3.8
+1761,NY,Data Scientist,Bluecore,1,204000,125000,4.3
+1762,NY,Data Scientist,Apple,1,169000,106000,4.2
+1763,NY,Data Scientist,Advance Local,1,119000,69000,3.2
+1764,DC,UI/UX Researcher,Michael Baker International,1,105000,61000,3.7
+1765,DC,UI/UX Researcher,Medical Science &amp; Computing,1,127000,72000,4.4
+1766,NY,Data Scientist,ActionIQ,1,166000,92000,4.7
+1767,DC,UI/UX Researcher,MITRE,1,178000,64000,3.5
+1768,DC,UI/UX Researcher,METIS Solutions,1,148000,56000,3.4
+1769,DC,UI/UX Researcher,LexisNexis Risk Solutions,1,177000,90000,3.8
+1770,DC,UI/UX Researcher,LOCKHEED MARTIN CORPORATION,1,135000,64000,3.9
+1771,NY,Data Scientist,Albert Einstein College of Medicine,1,79000,45000,3.9
+1772,DC,UI/UX Researcher,KPMG,1,149000,74000,3.9
+1773,NY,Data Scientist,Amplify,1,103000,60000,3.7
+1774,DC,UI/UX Researcher,Johns Hopkins University,1,49000,26000,4.2
+1775,NY,Data Scientist,Anheuser-Busch,1,196000,118000,3.5
+1776,DC,UI/UX Researcher,Intelliware Systems,1,76000,39000,4.3
+1777,DC,UI/UX Researcher,Intelligent Automation,1,80000,49000,3.7
+1778,DC,UI/UX Researcher,Institute for Defense Analyses,1,115000,70000,4.2
+1779,DC,UI/UX Researcher,Storyblocks,1,147000,81000,4.8
+1780,MN,UI/UX Researcher,Getac Video Solutions,1,48000,27000,4
+1781,MN,UI/UX Researcher,Granicus,1,80000,45000,4.1
+1782,IL,Data Scientist,AbbVie,1,208000,128000,3.8
+1783,MN,UI/UX Researcher,Hero Digital,1,133000,81000,4.2
+1784,MN,UI/UX Researcher,Honeywell,1,140000,69000,3.7
+1785,IL,Data Scientist,84.51°,1,106000,64000,4.3
+1786,IL,Data Scientist,#TeamGoHealth,1,117000,70000,3
+1787,MN,UI/UX Researcher,Microsoft,1,164000,75000,4.3
+1788,MN,UI/UX Researcher,Morries Automotive Group,1,48000,25000,4.1
+1789,FL,VR Engineering,Design Interactive,1,98000,56000,4.7
+1790,FL,VR Engineering,Cubic,1,50000,20000,3.2
+1791,MN,UI/UX Researcher,NextEra Energy,1,184000,93000,3.6
+1792,DC,UI/UX Researcher,steampunk,1,102000,48000,4.1
+1793,IL,Data Scientist,Allianz Global Corporate &amp; Specialty,1,155000,84000,3.7
+1794,MN,UI/UX Researcher,C.H. Robinson,1,129000,63000,3.5
+1795,IL,Data Scientist,Avant,1,144000,89000,3.2
+1796,MN,UI/UX Researcher,Best Buy ,1,141000,67000,3.9
+1797,MN,UI/UX Researcher,Blue Cross Blue Shield of Minnesota,1,178000,93000,3
+1798,IL,Data Scientist,Astellas Pharmaceuticals,1,95000,46000,4
+1799,IL,Data Scientist,Astellas,1,154000,98000,4.2
+1800,MN,UI/UX Researcher,Boston Scientific Corporation,1,160000,92000,4.4
+1801,MN,UI/UX Researcher,Deloitte,1,161000,107000,3.8
+1802,MN,UI/UX Researcher,Ceridian,1,120000,69000,4.2
+1803,MN,UI/UX Researcher,CircleCI,1,142000,45000,3.8
+1804,IL,Data Scientist,Annalect,1,114000,56000,3.8
+1805,IL,Data Scientist,American Medical Association,1,90000,51000,3.4
+1806,IL,Data Scientist,American Cancer Society,1,95000,57000,3.5
+1807,MN,UI/UX Researcher,Crossroads Technologies,1,73000,35000,3.3
+1808,MN,UI/UX Researcher,DELUXE CORPORATION,1,115000,61000,3
+1809,DC,UI/UX Researcher,"Strategic Education, Inc.",1,114000,53000,3
+1810,DC,UI/UX Researcher,The Knot Worldwide,1,113000,63000,3.9
+1811,DC,UI/UX Researcher,Total Wine &amp; More,1,114000,54000,3.3
+1812,MN,UI/UX Researcher,State of Minnesota,1,65000,32000,3.8
+1813,DC,UI/UX Researcher,"ThreatConnect, Inc.",1,183000,82000,4.4
+1814,DC,UI/UX Researcher,The Washington Post,1,110000,62000,4.6
+1815,DC,UI/UX Researcher,The Motley Fool,1,162000,84000,4.8
+1816,DC,UI/UX Researcher,The Geneva Foundation,1,138000,63000,4.5
+1817,DC,UI/UX Researcher,Tesla Government,1,94000,49000,4.6
+1818,DC,UI/UX Researcher,Tecolote Research,1,83000,35000,3.9
+1819,DC,UI/UX Researcher,Systems Plus,1,123000,60000,2.2
+1820,DC,UI/UX Researcher,Synergy BIS,1,153000,77000,2.8
+1821,DC,UI/UX Researcher,Symplicity Corporation,1,119000,57000,4.3
+1822,DC,UI/UX Researcher,"ZeniMax Media, Inc.",1,76000,43000,3.5
+1823,DC,UI/UX Researcher,Valex LLC,1,125000,61000,5
+1824,DC,UI/UX Researcher,WESTAT,1,59000,29000,3.1
+1825,MN,UI/UX Researcher,Radius Global Solutions,1,48000,25000,3
+1826,DC,UI/UX Researcher,Viasat,1,147000,84000,3.9
+1827,DC,UI/UX Researcher,Vectorworks,1,116000,50000,3.2
+1828,DC,UI/UX Researcher,VariQ,1,70000,39000,4.6
+1829,DC,UI/UX Researcher,Varen Technologies,1,125000,58000,4.2
+1830,DC,UI/UX Researcher,VW Credit,1,157000,79000,2.9
+1831,MN,UI/UX Researcher,Solution Design Group,1,133000,67000,4.9
+1832,DC,UI/UX Researcher,VMware,1,214000,128000,4.2
+1833,DC,UI/UX Researcher,VIVA USA,1,95000,55000,4.7
+1834,MN,UI/UX Researcher,Resideo,1,87000,39000,2.9
+1835,MN,UI/UX Researcher,Room&amp;Board,1,89000,48000,3.9
+1836,DC,UI/UX Researcher,US Department of Commerce,1,93000,48000,3.7
+1837,MN,UI/UX Researcher,Sleep Number,1,97000,45000,3.2
+1838,NY,Data Scientist,Freed Maxick,1,68000,33000,4
+1839,NY,Data Scientist,Fund For Public Health In New York Inc,1,136000,78000,3
+1840,DC,Data Scientist,Volkswagen Group of America,1,158000,98000,3.7
+1841,DC,Data Scientist,"Visionist, Inc.",1,144000,90000,4.9
+1842,NY,Data Scientist,"GENEWIZ, Inc.",1,55000,20000,2.8
+1843,NY,Data Scientist,Galvanize,1,141000,85000,4.3
+1844,DC,Data Scientist,Vanda Pharmaceuticals,1,126000,76000,2.8
+1845,DC,Data Scientist,Xator Corporation,1,148000,91000,3
+1846,NY,Data Scientist,Goodway Group,1,157000,96000,4.2
+1847,DC,Data Scientist,VTG,1,112000,67000,4
+1848,DC,Data Scientist,VETS,1,75000,40000,3.5
+1849,DC,Data Scientist,Unissant,1,120000,65000,4
+1850,DC,Data Scientist,US Department of the Navy,1,91000,51000,3.8
+1851,DC,Data Scientist,US Department of Transportation,1,74000,41000,4.2
+1852,DC,Data Scientist,Yes Marketing,1,119000,64000,3.9
+1853,DC,UI/UX Researcher,AINS,1,131000,65000,3.2
+1854,DC,UI/UX Researcher,Ageatia Technology Consultancy Services,1,100000,71000,3.1
+1855,DC,UI/UX Researcher,"Affiliated Engineers, Inc.",1,84000,50000,3.9
+1856,DC,UI/UX Researcher,Ad Hoc Team,1,133000,55000,4.6
+1857,NY,Data Scientist,Envision LLC,1,117000,67000,4.5
+1858,NY,Data Scientist,Etsy,1,187000,111000,3.7
+1859,DC,UI/UX Researcher,Accelera Solutions,1,164000,82000,2.6
+1860,DC,UI/UX Researcher,AARP,1,199000,104000,3.7
+1861,NY,Data Scientist,FOJP,1,138000,81000,2.6
+1862,NY,Data Scientist,Farfetch,1,147000,92000,4.1
+1863,DC,Data Scientist,iQuasar LLC,1,123000,72000,4.3
+1864,DC,Data Scientist,i360,1,129000,78000,4.1
+1865,DC,Data Scientist,U.S. Air Force,1,104000,58000,4.2
+1866,DC,UI/UX Researcher,"Focused Cyber, LLC",1,96000,60000,5
+1867,DC,Data Scientist,"Strategic Analysis, Inc.",1,101000,56000,3.2
+1868,DC,Data Scientist,Systems Plus,1,77000,41000,2.2
+1869,NY,Data Scientist,IFG Companies,1,182000,110000,2.7
+1870,DC,Data Scientist,Systems &amp; Technology Research,1,162000,93000,4.2
+1871,DC,Data Scientist,Synopsys,1,133000,68000,4.1
+1872,NY,Data Scientist,Icahn School of Medicine at Mount Sinai,1,109000,66000,3.8
+1873,DC,Data Scientist,SpringML,1,96000,92000,4.4
+1874,DC,Data Scientist,Spin Systems,1,89000,49000,4.7
+1875,NY,Data Scientist,Industrious,1,142000,81000,3.8
+1876,DC,Data Scientist,SoundExchange,1,129000,66000,4.4
+1877,NY,Data Scientist,Integral Ad Science,1,219000,134000,3.5
+1878,DC,Data Scientist,Softthink,1,112000,96000,3.5
+1879,NY,Data Scientist,IDT,1,123000,72000,3.6
+1880,DC,Data Scientist,Trident Systems Inc,1,112000,69000,3.4
+1881,DC,Data Scientist,Total Wine &amp; More,1,137000,73000,3.3
+1882,DC,Data Scientist,Thomson Reuters,1,146000,91000,4.1
+1883,DC,Data Scientist,The Interface Financial Group,1,119000,82000,4
+1884,DC,Data Scientist,The HSC Health Care System,1,75000,44000,3.1
+1885,NY,Data Scientist,Healthcare Risk Advisors,1,124000,73000,3
+1886,NY,Data Scientist,Healthfirst,1,136000,80000,3.2
+1887,DC,Data Scientist,The Brookings Institution,1,90000,51000,3.7
+1888,NY,Data Scientist,Homeserve USA,1,76000,40000,3.7
+1889,NY,Data Scientist,Horizon Media,1,94000,53000,4
+1890,DC,Data Scientist,Tecolote Research,1,69000,37000,3.9
+1891,NY,Data Scientist,Hudson River Trading,1,180000,99000,4.7
+1892,DC,UI/UX Researcher,"Agile Defense, Inc.",1,34000,24000,4.6
+1893,DC,UI/UX Researcher,Akima Infrastructure Services,1,163000,86000,3
+1894,DC,UI/UX Researcher,"Akima, LLC",1,209000,111000,3.4
+1895,NY,Data Scientist,Coalition for Queens,1,106000,58000,3
+1896,DC,UI/UX Researcher,DMI,1,145000,74000,3.6
+1897,NY,Data Scientist,Catholic Health Services of Long Island,1,145000,84000,3.2
+1898,NY,Data Scientist,City of New York,1,88000,51000,3.8
+1899,DC,UI/UX Researcher,CompQsoft,1,59000,33000,3.5
+1900,DC,UI/UX Researcher,Collage.com,1,178000,106000,4.7
+1901,NY,Data Scientist,CLEAR,1,120000,63000,3
+1902,NY,Data Scientist,Cognizant Technology Solutions,1,99000,55000,3.7
+1903,DC,UI/UX Researcher,CoStar Group,1,138000,70000,3
+1904,DC,UI/UX Researcher,Clarabridge,1,106000,52000,3.6
+1905,DC,UI/UX Researcher,Children's National Hospital,1,74000,36000,3.6
+1906,DC,UI/UX Researcher,Cherokee Nation Businesses,1,75000,42000,3.3
+1907,NY,Data Scientist,Colgate-Palmolive,1,82000,44000,4.1
+1908,DC,UI/UX Researcher,"Dovel Technologies, LLC",1,121000,69000,4.1
+1909,DC,UI/UX Researcher,Epilepsy Foundation,1,59000,26000,2.6
+1910,NY,Data Scientist,Bombas,1,139000,73000,4.9
+1911,DC,UI/UX Researcher,Federal Energy Regulatory Commission,1,97000,50000,4.4
+1912,DC,UI/UX Researcher,Fannie Mae,1,229000,83000,3.9
+1913,NY,Data Scientist,Bonobos,1,258000,154000,3.4
+1914,DC,UI/UX Researcher,Expression Networks,1,118000,45000,4.8
+1915,DC,UI/UX Researcher,Excella Consulting,1,150000,75000,4
+1916,DC,UI/UX Researcher,Esri,1,106000,52000,3.7
+1917,DC,UI/UX Researcher,EAB,1,79000,41000,3.6
+1918,DC,UI/UX Researcher,Enterprise Knowledge LLC,1,86000,40000,4.7
+1919,NY,Data Scientist,CIA,1,177000,106000,4.1
+1920,DC,UI/UX Researcher,Eastbanc Technologies,1,124000,62000,4.3
+1921,DC,UI/UX Researcher,ESAC Inc,1,108000,88000,3.6
+1922,DC,UI/UX Researcher,ERPi,1,100000,49000,3.6
+1923,NY,Data Scientist,CKM Advisors,1,103000,56000,2.7
+1924,NY,Data Scientist,Columbia University,1,138000,80000,4.1
+1925,DC,UI/UX Researcher,Champions Oncology Inc.,1,142000,67000,3
+1926,NY,Data Scientist,Datadog,1,173000,106000,4.2
+1927,DC,UI/UX Researcher,"Aveshka, Inc.",1,130000,61000,3.7
+1928,DC,UI/UX Researcher,Ava Consulting,1,108000,88000,4.4
+1929,DC,UI/UX Researcher,Autodesk,1,144000,76000,4.1
+1930,NY,Data Scientist,DoorDash,1,117000,72000,4
+1931,DC,UI/UX Researcher,AstraZeneca,1,121000,67000,4.1
+1932,DC,UI/UX Researcher,Assyst,1,110000,53000,3.2
+1933,DC,UI/UX Researcher,Applied Memetics LLC,1,76000,60000,4.6
+1934,NY,Data Scientist,Dun &amp; Bradstreet,1,167000,100000,3.1
+1935,DC,UI/UX Researcher,American Speech-Language-Hearing Association (ASHA),1,87000,39000,3.6
+1936,NY,Data Scientist,Emerald,1,120000,69000,2.8
+1937,NY,Data Scientist,DataDog,1,110000,60000,4.2
+1938,NY,Data Scientist,D. E. Shaw &amp; Co.,1,234000,119000,4.5
+1939,DC,UI/UX Researcher,Barbaricum,1,105000,52000,4.9
+1940,DC,UI/UX Researcher,Cedent Consulting,1,118000,97000,3.3
+1941,DC,UI/UX Researcher,Cancer Support Community,1,85000,38000,3.1
+1942,NY,Data Scientist,Conductor,1,113000,84000,4.5
+1943,NY,Data Scientist,Cooley LLP,1,215000,112000,4
+1944,DC,UI/UX Researcher,"CALIBRE Systems, Inc.",1,106000,51000,3.9
+1945,NY,Data Scientist,Co–Star,1,137000,84000,2.4
+1946,DC,UI/UX Researcher,CACI,1,100000,58000,3.8
+1947,DC,UI/UX Researcher,"Bravo Consulting Group, LLC",1,76000,39000,3.9
+1948,NY,Data Scientist,CreativeDrive,1,69000,36000,4
+1949,DC,UI/UX Researcher,Booz Allen Hamilton,1,109000,54000,4
+1950,NY,Data Scientist,Credibly,1,124000,71000,3.4
+1951,NY,Data Scientist,Crossix Solutions,1,82000,44000,3.2
+1952,MN,UI/UX Researcher,Avani Technology Solutions,1,101000,49000,4.6
+1953,IL,Data Scientist,BRAZE,1,119000,63000,4.5
+1954,IL,Data Scientist,Belvedere Trading,1,187000,104000,3.5
+1955,IL,Data Scientist,"Valid USA, Inc.",1,66000,36000,3.6
+1956,IN,Data Scientist,Versiti,1,60000,36000,3.7
+1957,IL,Data Scientist,WW International,1,126000,71000,3.3
+1958,IN,Data Scientist,Virtusa,1,124000,68000,3.2
+1959,IL,Data Scientist,"Vizient, Inc.",1,155000,94000,4
+1960,IL,Data Scientist,Virta Health,1,136000,80000,4.2
+1961,IL,Data Scientist,Vibes,1,170000,100000,3.8
+1962,IL,Data Scientist,Verndale,1,107000,58000,3.2
+1963,IN,Digital Marketing,AUDIENCEX,1,123000,51000,4.2
+1964,IN,Data Scientist,Varsity Tutors,1,48000,20000,4.2
+1965,IL,Data Scientist,University of Chicago Medicine,1,99000,57000,3.7
+1966,IL,Data Scientist,Univar,1,110000,65000,3.3
+1967,IL,Data Scientist,USG,1,82000,46000,3.9
+1968,IL,Data Scientist,USA Vein Clinics,1,64000,37000,3.2
+1969,IN,Digital Marketing,Apttus,1,306000,145000,2.9
+1970,IN,Data Scientist,Tata Consultancy Services (North America),1,88000,49000,3.7
+1971,IL,Data Scientist,"TuSimple, Inc.",1,184000,108000,3.7
+1972,IL,Data Scientist,Zekelman Industries,1,148000,77000,3
+1973,IN,Data Scientist,Pearson,1,116000,67000,3.4
+1974,IN,Data Scientist,Q2 Solutions,1,32000,24000,3.1
+1975,IL,Data Scientist,XPO Logistics,1,120000,72000,3.6
+1976,IN,Data Scientist,Simon Property Group,1,65000,37000,3
+1977,IN,Data Scientist,St. Vincent Health,1,85000,38000,3.6
+1978,IN,Data Scientist,"St. Vincent, IN",1,87000,39000,3.6
+1979,IN,Data Scientist,Stanley Black &amp; Decker,1,116000,69000,3.4
+1980,IL,Data Scientist,William Blair &amp; Company,1,159000,97000,4.7
+1981,IL,Data Scientist,William Blair,1,145000,75000,4.7
+1982,IN,Data Scientist,TCS,1,90000,50000,4
+1983,IL,Data Scientist,"Wheels, Inc.",1,136000,70000,3.4
+1984,IL,Data Scientist,Wheaton College (IL),1,61000,34000,4.1
+1985,IL,Data Scientist,Truckstop.com,1,140000,73000,3.4
+1986,IL,Data Scientist,RICEFW Technologies Inc,1,98000,52000,4.6
+1987,IL,Data Scientist,Spectrum Communications and Consulting,1,87000,59000,3.5
+1988,IN,Digital Marketing,Cummins Inc.,1,78000,40000,3.9
+1989,IL,Data Scientist,ServiceNow,1,184000,110000,4.1
+1990,IN,Digital Marketing,Covance,1,70000,35000,3.8
+1991,IN,Digital Marketing,Dominion Market Activator,1,97000,46000,2.4
+1992,IL,Data Scientist,"SPINS, LLC",1,134000,82000,3.6
+1993,IL,Data Scientist,SEI,1,132000,86000,4.6
+1994,IN,Digital Marketing,Early Learning Indiana,1,38000,18000,3.5
+1995,IL,Data Scientist,SADA,1,130000,67000,4.8
+1996,IL,Data Scientist,Rexroth,1,112000,66000,4
+1997,IN,Digital Marketing,Brooks Automation,1,97000,49000,3.3
+1998,IL,Data Scientist,TransUnion,1,158000,98000,3.9
+1999,IN,Digital Marketing,Badger Daylighting,1,110000,53000,2.9
+2000,IL,Data Scientist,Threadless,1,78000,39000,3.5
+2001,IN,Digital Marketing,Bradley Company,1,91000,46000,3.4
+2002,IN,Digital Marketing,Buckingham,1,71000,36000,4.4
+2003,IN,Digital Marketing,Conner Prairie Museum,1,77000,38000,4
+2004,IN,Digital Marketing,CECO Environmental,1,80000,12000,2.3
+2005,IL,Data Scientist,divvyDOSE,1,67000,36000,4
+2006,IL,Data Scientist,dunnhumby,1,131000,80000,4.1
+2007,IN,Data Scientist,Moser Consulting,1,121000,65000,4.8
+2008,IL,Game Design,Salesforce,1,52000,29000,4.4
+2009,IL,Game Design,SRAM,1,92000,49000,3.8
+2010,IL,Game Design,S&amp;S Activewear,1,43000,23000,2.8
+2011,IL,Game Design,One Hope United,1,44000,24000,2.5
+2012,IL,Game Design,NextCapital,1,72000,54000,4.2
+2013,IL,Game Design,NOW Foods,1,46000,26000,3.3
+2014,IL,Game Design,Midwest Goods Inc.,1,39000,22000,2.5
+2015,IL,Game Design,Mendix,1,56000,31000,4
+2016,IL,Game Design,Majestic Star,1,36000,20000,3.1
+2017,IL,Game Design,M1 Holdings,1,57000,32000,3.9
+2018,IN,Data Scientist,Franciscan Health,1,55000,26000,3.6
+2019,IL,Game Design,The UPS Store,1,32000,20000,3.5
+2020,IN,Data Scientist,DHL Supply Chain,1,64000,32000,3.8
+2021,IN,Data Scientist,Ascension,1,86000,39000,3.4
+2022,IN,Data Scientist,Community Health Network,1,111000,66000,3.7
+2023,IN,Data Scientist,Crowe,1,93000,60000,3.8
+2024,IN,Data Scientist,American Society for Clinical Pathology,1,66000,40000,2.4
+2025,IN,Data Scientist,3M,1,112000,64000,3.9
+2026,IL,Game Design,Trinity Christian College,1,51000,27000,4.5
+2027,IL,Game Design,Wheels,1,50000,28000,3.4
+2028,IL,Game Design,Weigel Broadcasting Co.,1,66000,34000,2.4
+2029,IL,Game Design,WaterSaver Faucet,1,53000,29000,3
+2030,IN,Data Scientist,DHL | Supply Chain,1,61000,30000,3.8
+2031,IL,Game Design,VTech Electronics,1,57000,32000,3.3
+2032,IL,Game Design,Loughran &amp; Co,1,44000,25000,3.9
+2033,IN,Data Scientist,Johnson Controls,1,164000,103000,3.4
+2034,IL,Game Design,CCC Information Services Inc.,1,63000,35000,4
+2035,IN,Data Scientist,Legacy Supply Chain,1,57000,33000,3.4
+2036,IL,Game Design,Broadcom,1,111000,53000,3.2
+2037,IL,Game Design,Backstop Solutions,1,100000,58000,3.5
+2038,IL,Game Design,BCD Travel,1,83000,45000,4
+2039,IL,Game Design,BCD Meetings &amp; Events,1,65000,35000,3.8
+2040,IN,Data Scientist,Liberty Healthcare Corporation,1,90000,51000,4.4
+2041,IL,Game Design,Accel Entertainment,1,62000,32000,3.8
+2042,IL,Game Design,Abt,1,58000,30000,3.7
+2043,IL,Game Design,1-800-Flowers,1,43000,23000,2.6
+2044,IN,Data Scientist,Medxcel,1,79000,38000,3.3
+2045,IL,Game Design,Deloitte,1,80000,42000,3.8
+2046,IN,Data Scientist,Jobvite,1,111000,57000,3.8
+2047,IL,Game Design,Level Ex,1,58000,29000,3.6
+2048,IL,Game Design,JENSEN HUGHES,1,59000,33000,3
+2049,IN,Data Scientist,Indygo,1,59000,33000,3
+2050,IL,Game Design,Imagination,1,76000,40000,3.3
+2051,IL,Game Design,"Hydro, Inc.",1,87000,46000,3.3
+2052,IL,Game Design,Hays Companies,1,55000,31000,4.4
+2053,IL,Game Design,"Hard Rock Cafe International (USA), Inc.",1,38000,9,3.5
+2054,IL,Game Design,Hallcon,1,36000,20000,2.6
+2055,IN,Data Scientist,Internal Revenue Service,1,109000,64000,3.7
+2056,IL,Game Design,GoHealth,1,55000,40000,3
+2057,IL,Game Design,Geometry Global,1,89000,46000,3.2
+2058,IL,Game Design,Fetch Rewards,1,115000,85000,4.9
+2059,IL,Game Design,"FTD Companies, Inc",1,65000,36000,3
+2060,IL,Data Scientist,Farmers Insurance,1,90000,54000,3.5
+2061,IN,Game Design,MuleSoft,1,136000,79000,4.4
+2062,IL,Data Scientist,Exelon Corporation,1,146000,90000,3.8
+2063,IL,Data Scientist,Exelon,1,146000,90000,3.8
+2064,IN,Game Design,Salesforce,1,158000,97000,4.4
+2065,IN,Game Design,The UPS Store 4266,1,28000,16000,3.5
+2066,IN,UI/UX Researcher,7Summits,1,155000,80000,3.5
+2067,IL,Data Scientist,Engtal,1,109000,60000,5
+2068,IN,UI/UX Researcher,Ad Hoc Team,1,123000,60000,4.6
+2069,IL,Data Scientist,Elkay Manufacturing,1,91000,64000,3.6
+2070,IL,Data Scientist,EY,1,116000,69000,3.9
+2071,IL,Data Scientist,Duff &amp; Phelps,1,144000,77000,3.7
+2072,IL,Data Scientist,Fluke,1,87000,47000,3.8
+2073,IL,Data Scientist,"Foot Locker, Inc.",1,166000,94000,3.7
+2074,IN,UI/UX Researcher,Ardagh Group,1,85000,46000,3.3
+2075,IL,Data Scientist,Google,1,157000,95000,4.5
+2076,IL,Data Scientist,Harris &amp; Harris,1,93000,50000,3.3
+2077,IN,Digital Marketing,dormakaba,1,105000,44000,3.2
+2078,IL,Data Scientist,HNI Corporation,1,119000,66000,3.4
+2079,IL,Data Scientist,HIMSS,1,128000,71000,3.1
+2080,IL,Data Scientist,Green Key Technologies ,1,107000,82000,4.3
+2081,IN,Game Design,Breakout Operating,1,38000,21000,3.4
+2082,IL,Data Scientist,Greater Chicago Food Depository,1,58000,33000,2.8
+2083,IN,Game Design,Breakout Operations LLC,1,38000,21000,3.4
+2084,IN,Game Design,Indiana State Fairgrounds &amp; Event Center,1,31000,17000,4.4
+2085,IL,Data Scientist,Gas Technology Institute,1,144000,69000,3.5
+2086,IL,Data Scientist,"Freeosk, Inc.",1,52000,28000,3.1
+2087,IN,Game Design,Heartland F P G,1,46000,26000,2.4
+2088,IN,Digital Marketing,Genesys,1,88000,36000,4.2
+2089,IL,Data Scientist,Catholic Charities of the Archdiocese of Chicago,1,56000,31000,3.1
+2090,IN,UI/UX Researcher,"Regenstrief Institute, Inc.",1,38000,19000,3.1
+2091,IL,Data Scientist,Capax Global LLC,1,134000,80000,4.7
+2092,IN,UI/UX Researcher,Studio Science,1,84000,38000,5
+2093,IN,UI/UX Researcher,TransLoc Inc.,1,94000,53000,3.1
+2094,IL,Data Scientist,"CTI Clinical Trial Services, Inc",1,170000,104000,4
+2095,IN,UI/UX Researcher,Pinnacle Partners,1,81000,37000,3.9
+2096,IN,UI/UX Researcher,myCOI,1,80000,38000,3.7
+2097,IL,Data Scientist,CNA,1,95000,60000,3.3
+2098,IN,VR Engineering,Eli Lilly and Company,1,126000,57000,4
+2099,IL,Data Scientist,C&amp;R Research,1,96000,38000,3.4
+2100,MN,UI/UX Researcher,Ad Hoc Team,1,120000,49000,4.6
+2101,IL,Data Scientist,"Cell Biologics, Inc",1,108000,48000,3.2
+2102,IN,UI/UX Researcher,Cox Automotive,1,98000,47000,3.6
+2103,IL,Data Scientist,Community Healthcare System,1,77000,43000,3.4
+2104,IL,Data Scientist,Curion,1,75000,32000,4
+2105,IN,UI/UX Researcher,DWA Healthcare Communications Group,1,91000,41000,3.6
+2106,IL,Data Scientist,"Concordia University, Chicago",1,53000,30000,3.3
+2107,IN,UI/UX Researcher,Etsy,1,120000,72000,3.7
+2108,IL,Data Scientist,"Community Foundation of Northwest Indiana, Inc.",1,88000,49000,3.6
+2109,IL,Data Scientist,Change Healthcare,1,123000,65000,2.9
+2110,IN,UI/UX Researcher,Freedom Mortgage,1,32000,22000,4.4
+2111,IN,UI/UX Researcher,Genesys,1,144000,88000,4.2
+2112,IL,Data Scientist,Citadel Securities,1,177000,137000,4.2
+2113,IL,Data Scientist,Cision,1,76000,40000,3
+2114,IN,UI/UX Researcher,KAR Auction Services,1,90000,42000,3.2
+2115,IN,UI/UX Researcher,MuleSoft,1,136000,79000,4.4
+2116,IN,Digital Marketing,Urban One,1,89000,31000,2.9
+2117,IL,Data Scientist,NorthBay Solutions ,1,133000,104000,3.4
+2118,IL,Data Scientist,National-Louis University,1,63000,35000,3.1
+2119,IN,Digital Marketing,Legends,1,58000,29000,3.9
+2120,IL,Data Scientist,Morningstar,1,127000,102000,4.1
+2121,IL,Data Scientist,Mintel,1,59000,33000,4
+2122,IL,Data Scientist,Microsoft,1,132000,84000,4.3
+2123,IL,Data Scientist,Metropolitan Family Services,1,63000,35000,3
+2124,IL,Data Scientist,Medidata Solutions,1,143000,73000,4.4
+2125,IL,Data Scientist,McKinsey &amp; Company,1,113000,66000,4.4
+2126,IN,Digital Marketing,Lids,1,45000,24000,2.9
+2127,IN,Digital Marketing,KSM Consulting,1,95000,48000,4.4
+2128,IL,Data Scientist,Huntington Bank,1,110000,65000,3.6
+2129,IL,Data Scientist,Productive Edge,1,120000,80000,4.3
+2130,IL,Data Scientist,Premier Research Group Limited,1,49000,26000,3
+2131,IL,Data Scientist,Physicians Immediate Care,1,61000,32000,3.5
+2132,IN,Digital Marketing,Homes.com,1,73000,38000,4.3
+2133,IN,Digital Marketing,"Hopebridge, LLC",1,50000,28000,3.9
+2134,IL,Data Scientist,Old World Industries,1,75000,41000,3.1
+2135,IN,Digital Marketing,Hylant,1,84000,32000,3.7
+2136,IL,Data Scientist,OSF HealthCare,1,68000,42000,3.8
+2137,IL,Data Scientist,Norwegian American Hospital,1,74000,43000,2.6
+2138,IN,Digital Marketing,Indiana State Fairgrounds &amp; Event Center,1,31000,17000,4.4
+2139,IL,Data Scientist,Mauser Packaging Solutions,1,88000,51000,2.7
+2140,IN,Digital Marketing,Ryan Homes,1,52000,32000,4.1
+2141,IN,Digital Marketing,"SilverTech, Inc.",1,78000,36000,3
+2142,IN,Digital Marketing,Spot Inc,1,50000,25000,2.7
+2143,IL,Data Scientist,Institute of Education Sciences,1,79000,56000,3
+2144,IL,Data Scientist,Ingredion,1,112000,59000,3.8
+2145,IN,Digital Marketing,Thompson Thrift,1,50000,28000,3.2
+2146,IL,Data Scientist,IMC Trading,1,177000,87000,4.5
+2147,IN,Digital Marketing,UFC Gym,1,49000,26000,3.3
+2148,IN,Digital Marketing,US Inspect,1,34000,8,3.5
+2149,IN,Digital Marketing,Roche,1,163000,93000,4.2
+2150,IN,Digital Marketing,Radial,1,45000,17000,2.9
+2151,IL,Data Scientist,Maine Pointe,1,87000,66000,4.4
+2152,IL,Data Scientist,MWRD of Greater Chicago,1,85000,55000,4
+2153,IN,Digital Marketing,Methodist Sports Medicine,1,63000,35000,3.1
+2154,IN,Digital Marketing,Mister Quik Home Services,1,30000,7,3
+2155,IL,Data Scientist,LogicGate,1,138000,73000,4.5
+2156,IN,Digital Marketing,"NVR, Inc",1,53000,33000,3.5
+2157,IL,Data Scientist,Lieberman Research Worldwide,1,102000,43000,3.7
+2158,IL,Data Scientist,Legal &amp; General Investment Management America,1,127000,60000,4.1
+2159,IL,Data Scientist,LanzaTech,1,90000,52000,2.8
+2160,IL,Data Scientist,Label Insight,1,126000,77000,4.4
+2161,IN,Digital Marketing,National Hot Rod Association,1,33000,20000,3.9
+2162,IN,Digital Marketing,PNC Financial Services Group,1,78000,40000,3.6
+2163,IN,Digital Marketing,POLARIS Laboratories,1,33000,19000,2.6
+2164,IL,Data Scientist,"Key Business Solutions, Inc.",1,200000,119000,3.7
+2165,DC,Data Scientist,Snagajob,1,108000,66000,3.8
+2166,CA,Game Design,"Software Resources, Inc.",1,62000,34000,4.4
+2167,CA,UI/UX Researcher,On Board Experiential Marketing,1,155000,75000,3.7
+2168,CA,UI/UX Researcher,Omada Health,1,158000,98000,3.9
+2169,CA,UI/UX Researcher,Niantic,1,143000,71000,4
+2170,CA,UI/UX Researcher,Nextdoor,1,199000,103000,4.4
+2171,CA,UI/UX Researcher,New Relic,1,171000,106000,4.3
+2172,NY,Digital Marketing,Equinox Fitness,1,53000,27000,3.5
+2173,CA,UI/UX Researcher,Oportun. Inc,1,177000,112000,4.2
+2174,CA,UI/UX Researcher,Punchcut,1,139000,66000,3.5
+2175,CA,UI/UX Researcher,Publicis Sapient,1,148000,77000,3.5
+2176,CA,UI/UX Researcher,"Public Health Foundation Enterprises, In",1,72000,38000,3.3
+2177,CA,UI/UX Researcher,PresenceLearning,1,151000,92000,4
+2178,CA,UI/UX Researcher,Postmates,1,178000,112000,3.4
+2179,CA,UI/UX Researcher,Plastiq,1,189000,117000,3.9
+2180,CA,UI/UX Researcher,Pearson,1,106000,64000,3.4
+2181,NY,Digital Marketing,Edelman,1,58000,44000,3.3
+2182,NY,Digital Marketing,Eileen Fisher,1,82000,41000,2.9
+2183,CA,UI/UX Researcher,Quizlet,1,142000,87000,4.3
+2184,CA,UI/UX Researcher,Kaiser Permanente,1,126000,86000,4
+2185,CA,UI/UX Researcher,IntelliPro Group Inc.,1,150000,81000,4.2
+2186,CA,UI/UX Researcher,Impossible Foods,1,78000,42000,3.8
+2187,CA,UI/UX Researcher,Idean,1,128000,64000,3.3
+2188,NY,Digital Marketing,Gap Inc.,1,120000,47000,3.6
+2189,NY,Digital Marketing,Global Industrial,1,114000,47000,2.8
+2190,NY,Digital Marketing,Glossier,1,110000,62000,3.3
+2191,CA,UI/UX Researcher,Movoto,1,135000,67000,4.6
+2192,CA,UI/UX Researcher,Morrison &amp; Foerster,1,101000,54000,3.5
+2193,NY,Digital Marketing,FanDuel,1,212000,115000,4
+2194,CA,UI/UX Researcher,Minted,1,227000,145000,3.6
+2195,NY,Digital Marketing,Fandom,1,235000,120000,3.4
+2196,CA,UI/UX Researcher,"Medallia, Inc.",1,131000,79000,4
+2197,CA,UI/UX Researcher,Lab126,1,163000,86000,3.8
+2198,CA,UI/UX Researcher,MasterClass,1,165000,103000,3.7
+2199,CA,UI/UX Researcher,Levi Strauss,1,163000,83000,3.9
+2200,CA,UI/UX Researcher,LendingClub,1,208000,132000,3.5
+2201,NY,Digital Marketing,Fiserv,1,177000,96000,3.2
+2202,CA,UI/UX Researcher,Lawrence Berkeley Lab,1,164000,86000,4.2
+2203,CA,UI/UX Researcher,Qualia,1,121000,73000,4.4
+2204,CA,UI/UX Researcher,Trion Worlds,1,91000,80000,3.1
+2205,CA,UI/UX Researcher,Tile,1,145000,89000,4.1
+2206,NY,Digital Marketing,Coty,1,94000,48000,2.9
+2207,CA,UI/UX Researcher,The Game Group,1,92000,52000,3.1
+2208,CA,UI/UX Researcher,TeaLeaf Technology,1,141000,71000,3.5
+2209,CA,UI/UX Researcher,Turo,1,158000,97000,4.6
+2210,CA,UI/UX Researcher,TaskRabbit,1,220000,139000,4
+2211,CA,UI/UX Researcher,"Take-Two Interactive Software, Inc.",1,123000,75000,3.9
+2212,CA,UI/UX Researcher,Synthego,1,58000,32000,3.1
+2213,CA,UI/UX Researcher,SurveyMonkey,1,193000,122000,4.6
+2214,CA,UI/UX Researcher,Sumo Logic,1,151000,94000,3.5
+2215,CA,UI/UX Researcher,Verizon Media,1,154000,94000,3.6
+2216,CA,UI/UX Researcher,Walt Disney Company,1,105000,50000,4.1
+2217,NY,Digital Marketing,Centrica,1,82000,41000,3.1
+2218,CA,UI/UX Researcher,Vicarious,1,104000,58000,4.5
+2219,CA,UI/UX Researcher,Udemy,1,154000,85000,4.4
+2220,CA,UI/UX Researcher,Veracyte,1,64000,35000,3.4
+2221,CA,UI/UX Researcher,Varo Bank,1,104000,51000,4.1
+2222,CA,UI/UX Researcher,UserTesting,1,180000,113000,3.6
+2223,CA,UI/UX Researcher,Upwork,1,172000,108000,4.1
+2224,NY,Digital Marketing,Cision,1,70000,27000,3
+2225,CA,UI/UX Researcher,UniversalGiving,1,115000,56000,4.5
+2226,CA,UI/UX Researcher,RH,1,118000,65000,2.9
+2227,NY,Digital Marketing,Digitas,1,106000,54000,3.5
+2228,NY,Digital Marketing,Diligent Corporation,1,97000,49000,3.5
+2229,NY,Digital Marketing,Disney Streaming Services,1,89000,45000,3.7
+2230,CA,UI/UX Researcher,SAP,1,141000,76000,4.6
+2231,CA,UI/UX Researcher,Reputation.com,1,178000,112000,4.2
+2232,CA,UI/UX Researcher,Redfin,1,148000,93000,3.6
+2233,CA,UI/UX Researcher,Reddit,1,178000,113000,3.8
+2234,CA,UI/UX Researcher,Samuel Merritt University,1,112000,59000,3.2
+2235,NY,Digital Marketing,DDB,1,121000,69000,3.2
+2236,CA,UI/UX Researcher,Sitecore,1,129000,64000,3.7
+2237,CA,UI/UX Researcher,Spin,1,138000,85000,4
+2238,NY,Digital Marketing,DLA Piper,1,118000,61000,3.6
+2239,CA,UI/UX Researcher,Snowflake,1,192000,121000,4.2
+2240,NY,Digital Marketing,Databricks,1,153000,82000,4.6
+2241,CA,UI/UX Researcher,Slack,1,218000,139000,4.8
+2242,CA,UI/UX Researcher,Skillz Inc.,1,142000,87000,4.1
+2243,CA,UI/UX Researcher,Scale AI,1,106000,61000,3.6
+2244,CA,UI/UX Researcher,SiriusXM,1,113000,66000,3.3
+2245,CA,UI/UX Researcher,Sift,1,215000,135000,3.7
+2246,CA,UI/UX Researcher,Sidecar,1,100000,87000,3.5
+2247,CA,UI/UX Researcher,Shipt,1,179000,113000,3.7
+2248,CA,UI/UX Researcher,Guidebook,1,90000,53000,3.8
+2249,CA,UI/UX Researcher,Grove Collaborative,1,181000,111000,4.1
+2250,CA,UI/UX Researcher,Granular,1,137000,84000,4.4
+2251,CA,Game Design,Walmart,1,74000,37000,3.3
+2252,CA,Game Design,art.com,1,69000,39000,3.2
+2253,NY,Digital Marketing,Leumi USA,1,75000,38000,3.9
+2254,CA,Game Design,Wedgewood Inc.,1,52000,29000,3.5
+2255,NY,Digital Marketing,Macy's,1,40000,38000,3.3
+2256,CA,Game Design,within,1,73000,35000,4.4
+2257,CA,Game Design,Unity Technologies,1,187000,119000,4.6
+2258,CA,UI/UX Researcher,Atlassian,1,203000,128000,4.6
+2259,CA,UI/UX Researcher,Amplitude Analytics,1,205000,129000,4.3
+2260,CA,UI/UX Researcher,American Express,1,237000,150000,4.2
+2261,CA,UI/UX Researcher,AllianceIT,1,87000,42000,4.5
+2262,CA,UI/UX Researcher,Alibaba,1,134000,81000,3.9
+2263,CA,UI/UX Researcher,Alation,1,171000,107000,4.8
+2264,NY,Digital Marketing,Kiss Products,1,55000,27000,2.5
+2265,NY,Digital Marketing,Kornit Digital,1,103000,52000,3.8
+2266,CA,UI/UX Researcher,ALTEN Calsoft Labs,1,75000,34000,3.2
+2267,NY,Digital Marketing,Laundry Service,1,119000,72000,2.6
+2268,NY,Digital Marketing,Lazard Asset Management,1,89000,53000,3.7
+2269,CA,Game Design,"Upstart Network, Inc.",1,104000,62000,4.4
+2270,CA,UI/UX Researcher,Grammarly,1,146000,90000,5
+2271,NY,Digital Marketing,Meredith Corporation,1,96000,48000,3.3
+2272,CA,Game Design,"Take-Two Interactive Software, Inc.",1,123000,75000,3.9
+2273,NY,Digital Marketing,Michael Kors,1,102000,52000,3.8
+2274,NY,Digital Marketing,Mekanism,1,140000,81000,4
+2275,CA,Game Design,Stitch Fix,1,104000,64000,3.5
+2276,NY,Digital Marketing,Micro Focus,1,81000,41000,3.3
+2277,CA,Game Design,"Spear Marketing Group, Inc",1,82000,43000,4.5
+2278,CA,Game Design,Southern California Institute of Technology,1,50000,26000,2.7
+2279,NY,Digital Marketing,Marshall Retail Group/InMotion,1,80000,39000,3.1
+2280,NY,Digital Marketing,Maharam,1,81000,47000,3.5
+2281,CA,Game Design,Trion Worlds,1,103000,48000,3.1
+2282,CA,Game Design,Touch of Modern,1,53000,29000,3.4
+2283,NY,Digital Marketing,MediaMonks,1,77000,43000,3.9
+2284,NY,Digital Marketing,McCann Worldgroup,1,93000,35000,3.6
+2285,CA,Game Design,The RealReal,1,68000,38000,2.9
+2286,CA,Game Design,The HydraFacial Company,1,67000,37000,3.5
+2287,CA,UI/UX Researcher,August Home,1,187000,97000,4.3
+2288,CA,UI/UX Researcher,Aura,1,157000,96000,3.5
+2289,CA,UI/UX Researcher,Doctor On Demand,1,168000,104000,3.8
+2290,CA,UI/UX Researcher,Envoy,1,105000,61000,2.9
+2291,CA,UI/UX Researcher,Envision LLC,1,124000,60000,4.5
+2292,CA,UI/UX Researcher,Energy and Environmental Economics,1,161000,68000,4.5
+2293,NY,Digital Marketing,Hello Alfred,1,138000,73000,3.4
+2294,NY,Digital Marketing,Hill Holliday,1,132000,77000,3.5
+2295,NY,Digital Marketing,Hotels At Home,1,52000,26000,3
+2296,CA,UI/UX Researcher,Discord,1,189000,118000,4.9
+2297,CA,UI/UX Researcher,Epic Games,1,224000,142000,3.9
+2298,CA,UI/UX Researcher,Dharma,1,184000,154000,5
+2299,CA,UI/UX Researcher,Dell Technologies,1,138000,85000,4.1
+2300,CA,UI/UX Researcher,Databricks,1,250000,131000,4.7
+2301,NY,Digital Marketing,Housing Works,1,44000,28000,2.3
+2302,CA,UI/UX Researcher,DISH,1,130000,95000,2.7
+2303,CA,UI/UX Researcher,Credible,1,172000,106000,4.3
+2304,NY,Digital Marketing,Healthcare Consultancy Group,1,105000,59000,4.2
+2305,CA,UI/UX Researcher,Goodyear,1,104000,63000,3.6
+2306,CA,UI/UX Researcher,GoodRx,1,189000,117000,4.6
+2307,CA,UI/UX Researcher,Getty Images,1,133000,83000,3.5
+2308,CA,UI/UX Researcher,Fuze,1,120000,99000,4.1
+2309,NY,Digital Marketing,GroupM Services,1,75000,49000,3.7
+2310,CA,UI/UX Researcher,Eventbrite,1,172000,108000,3.9
+2311,CA,UI/UX Researcher,Flexport,1,143000,89000,3.7
+2312,NY,Digital Marketing,Harry's,1,114000,59000,3.8
+2313,CA,UI/UX Researcher,Fitbit,1,170000,110000,4.1
+2314,CA,UI/UX Researcher,"Farmer's Business Network, Inc.",1,201000,127000,3.4
+2315,CA,UI/UX Researcher,Fandom,1,184000,114000,3.4
+2316,CA,UI/UX Researcher,Faire,1,172000,102000,4.4
+2317,CA,UI/UX Researcher,Extractable,1,99000,77000,3.1
+2318,NY,Digital Marketing,Human Rights Watch,1,57000,25000,3.7
+2319,CA,UI/UX Researcher,Capital One - US,1,157000,97000,4
+2320,NY,Digital Marketing,Institute of International Education,1,47000,25000,2.6
+2321,CA,UI/UX Researcher,CVHCare Home Health,1,120000,46000,3.7
+2322,CA,UI/UX Researcher,CIA,1,179000,90000,4.1
+2323,NY,Digital Marketing,Interactive One,1,100000,51000,2.7
+2324,CA,UI/UX Researcher,Brightwheel,1,174000,107000,4.2
+2325,CA,UI/UX Researcher,Blend Labs Inc.,1,161000,98000,4.1
+2326,CA,UI/UX Researcher,Big Fish Games,1,144000,87000,3
+2327,CA,UI/UX Researcher,Berkeley Lights,1,177000,109000,4.2
+2328,CA,UI/UX Researcher,BOLD,1,114000,56000,4.1
+2329,CA,UI/UX Researcher,BNP Paribas,1,42000,28000,3.6
+2330,CA,UI/UX Researcher,B-Stock Solutions Inc.,1,173000,108000,3.8
+2331,CA,UI/UX Researcher,Carta,1,159000,99000,3.8
+2332,CA,UI/UX Researcher,Castlight Health,1,232000,145000,3.7
+2333,NY,Digital Marketing,ICF,1,161000,87000,3.4
+2334,CA,UI/UX Researcher,Collective Health,1,201000,128000,3.2
+2335,CA,UI/UX Researcher,Coda,1,82000,48000,2.4
+2336,CA,UI/UX Researcher,ClimateWorks Foundation,1,48000,25000,4
+2337,NY,Digital Marketing,Industrious,1,298000,163000,3.8
+2338,CA,UI/UX Researcher,Change.org,1,219000,136000,4.2
+2339,CA,UI/UX Researcher,Wilbur-Ellis Company,1,102000,57000,3.8
+2340,NY,Data Scientist,Saks Fifth Avenue,1,147000,86000,3
+2341,DC,Data Scientist,"InnovaSystems International, LLC",1,156000,97000,3.8
+2342,DC,Data Scientist,Infinitive Inc,1,96000,50000,3.3
+2343,NY,Data Scientist,Ro,1,205000,122000,4.8
+2344,DC,Data Scientist,"Ideal Innovations, Inc.",1,110000,65000,3.9
+2345,NY,Data Scientist,Rockstar Games,1,170000,104000,4.2
+2346,NY,Data Scientist,Samsung Research America,1,231000,120000,3.7
+2347,NY,Data Scientist,Reonomy,1,153000,86000,4.2
+2348,NY,Data Scientist,Shareablee,1,119000,89000,2.2
+2349,NY,Data Scientist,Sharecare Inc.,1,114000,69000,3.7
+2350,DC,Data Scientist,IBSS CORP,1,68000,36000,4.3
+2351,NY,Data Scientist,Sia Partners,1,117000,59000,3.9
+2352,DC,Data Scientist,"I.M. Systems Group, Inc.",1,88000,51000,3.7
+2353,NY,Data Scientist,Snap,1,177000,108000,3.9
+2354,DC,Data Scientist,Institute for Defense Analyses,1,146000,89000,4.2
+2355,DC,Data Scientist,M R,1,70000,37000,2.8
+2356,DC,Data Scientist,"LinTech Global, Inc.",1,99000,53000,4.5
+2357,DC,Data Scientist,LexisNexis Risk Solutions,1,132000,79000,3.8
+2358,NY,Data Scientist,PulsePoint,1,187000,102000,4.4
+2359,DC,Data Scientist,Lab49,1,195000,105000,3
+2360,NY,Data Scientist,Reddit,1,252000,155000,3.8
+2361,DC,Data Scientist,Knowesis Inc.,1,173000,106000,4.4
+2362,DC,Data Scientist,Kingfisher Systems,1,99000,86000,4.5
+2363,NY,Data Scientist,RELX,1,129000,75000,3.7
+2364,DC,Data Scientist,KBR,1,95000,55000,3.7
+2365,DC,Data Scientist,Internal Revenue Service,1,119000,71000,3.7
+2366,NY,Data Scientist,Sony Electronics,1,78000,41000,4.2
+2367,DC,Data Scientist,Expression Networks,1,146000,87000,4.8
+2368,NY,Data Scientist,Taboola,1,99000,52000,3.9
+2369,DC,Data Scientist,Fannie Mae,1,140000,77000,3.9
+2370,NY,Data Scientist,Talent Inc.,1,102000,55000,3.5
+2371,NY,Data Scientist,Talkspace,1,133000,77000,3
+2372,DC,Data Scientist,FAA,1,94000,53000,3.9
+2373,DC,Data Scientist,Expanse,1,87000,46000,4.4
+2374,DC,Data Scientist,Excella Consulting,1,114000,60000,4
+2375,DC,Data Scientist,Everytown for Gun Safety,1,118000,68000,2.2
+2376,NY,Data Scientist,Teachers Pay Teachers,1,181000,110000,4.9
+2377,DC,Data Scientist,EY,1,152000,92000,3.9
+2378,NY,Data Scientist,TRANZACT,1,166000,102000,3.7
+2379,NY,Data Scientist,TCS,1,107000,59000,4
+2380,DC,Data Scientist,Great-Circle Technologies,1,127000,79000,2.2
+2381,DC,Data Scientist,Frontier Technology Inc.,1,190000,115000,4.2
+2382,DC,Data Scientist,Georgetown University,1,103000,62000,4.3
+2383,NY,Data Scientist,SundaySky,1,88000,49000,4.1
+2384,DC,Data Scientist,GTL,1,115000,60000,3.1
+2385,DC,Data Scientist,GSK,1,117000,68000,4
+2386,DC,Data Scientist,MOSAIC Technologies Group,1,150000,89000,4
+2387,DC,Data Scientist,MSAG,1,101000,54000,4.5
+2388,NY,Data Scientist,Patreon,1,147000,88000,3.2
+2389,DC,Data Scientist,PwC,1,119000,71000,3.8
+2390,DC,Data Scientist,Quantifind,1,138000,83000,4.4
+2391,NY,Data Scientist,Lorven Technologies Inc,1,129000,84000,4.2
+2392,DC,Data Scientist,QVine Corporation,1,144000,87000,3.7
+2393,NY,Data Scientist,Koch Engineered Solutions,1,139000,82000,3.8
+2394,NY,Data Scientist,Macquarie Group,1,113000,64000,3.7
+2395,NY,Data Scientist,Match Group,1,126000,76000,3.8
+2396,NY,Data Scientist,MaxisIT Inc,1,127000,74000,4.2
+2397,NY,Data Scientist,"Mercedes-Benz USA, LLC",1,129000,79000,3.7
+2398,DC,Data Scientist,ManTech,1,106000,64000,4.3
+2399,DC,Data Scientist,Riverside Research Institute,1,175000,87000,3.4
+2400,NY,Data Scientist,Invesco,1,158000,93000,3.5
+2401,DC,Data Scientist,Salient CRGT,1,104000,62000,3.6
+2402,NY,Data Scientist,JDRF International,1,136000,61000,3
+2403,DC,Data Scientist,SNAP Inc,1,183000,102000,3.9
+2404,NY,Data Scientist,"JPMorgan Chase Bank, N.A.",1,360000,215000,4
+2405,NY,Data Scientist,Jefferies,1,100000,58000,3.8
+2406,DC,Data Scientist,RiskSpan,1,107000,60000,4.5
+2407,DC,Data Scientist,Raytheon Intelligence &amp; Space,1,192000,117000,3.7
+2408,NY,Data Scientist,"Jefferies &amp; Company, Inc.",1,99000,55000,3.8
+2409,DC,Data Scientist,Resource Logistics Inc.,1,87000,51000,4.2
+2410,NY,Data Scientist,JetBlue Airways Corporation,1,114000,65000,4.1
+2411,NY,Data Scientist,KPMG,1,167000,92000,3.9
+2412,NY,Data Scientist,Kargo,1,169000,99000,3.5
+2413,NY,Data Scientist,Kensho,1,248000,142000,4.1
+2414,DC,Data Scientist,Pivotal Software,1,149000,112000,4.4
+2415,NY,Data Scientist,Meredith Corporation,1,174000,93000,3.3
+2416,DC,Data Scientist,Nestle USA,1,123000,74000,4
+2417,DC,Data Scientist,"Navstar, Inc.",1,126000,74000,4.2
+2418,NY,Data Scientist,NewtonX,1,118000,68000,4.7
+2419,NY,Data Scientist,Nielsen,1,111000,57000,3.7
+2420,NY,Data Scientist,Noom Inc.,1,154000,93000,4.4
+2421,DC,Data Scientist,Mitre Corporation,1,137000,85000,3.5
+2422,DC,Data Scientist,Miracorp Inc,1,79000,44000,4.8
+2423,NY,Data Scientist,OkCupid,1,186000,113000,4.2
+2424,DC,Data Scientist,Medstar Georgetown University Hospital,1,79000,45000,3.6
+2425,DC,Data Scientist,MedStar Health,1,72000,41000,3.8
+2426,DC,Data Scientist,McKinsey &amp; Company,1,135000,81000,4.4
+2427,NY,Data Scientist,Ordergroove,1,145000,87000,3.5
+2428,NY,Data Scientist,Oscar Health,1,197000,120000,3.8
+2429,DC,Data Scientist,Marriott,1,111000,67000,4.1
+2430,NY,Data Scientist,National Football League,1,183000,109000,3.8
+2431,DC,Data Scientist,NewDay USA,1,75000,42000,3.9
+2432,DC,Data Scientist,Par Government Systems Corporation,1,102000,63000,3.2
+2433,DC,Data Scientist,Pandera Systems,1,132000,69000,4.3
+2434,DC,Data Scientist,Outreach Process Partners,1,77000,50000,4.5
+2435,DC,Data Scientist,Orbital Insight,1,179000,90000,4.7
+2436,NY,Data Scientist,Milliman,1,164000,96000,4.1
+2437,NY,Data Scientist,NYC Health + Hospitals,1,94000,55000,3.6
+2438,NY,Data Scientist,NYSTEC,1,76000,42000,3.9
+2439,DC,Data Scientist,Nolij Consulting LLC,1,93000,53000,4.1
+2440,DC,Data Scientist,Noblis,1,98000,57000,4.1
+2441,DC,Data Scientist,"ERT, Inc.",1,99000,55000,4
+2442,DC,Data Scientist,"ENSCO, Inc.",1,72000,39000,3.7
+2443,CA,UI/UX Researcher,Wish,1,232000,148000,3.4
+2444,DC,Data Scientist,2U,1,143000,76000,3.7
+2445,DC,Data Scientist,ASET Partners,1,116000,69000,4.5
+2446,DC,Data Scientist,ALEX - Alternative Experts,1,77000,42000,4
+2447,DC,Data Scientist,AARP,1,100000,55000,3.7
+2448,CA,VR Engineering,Warner Content &amp; Enterprise Technology,1,112000,54000,3.8
+2449,DC,Data Scientist,ATAC,1,73000,39000,3.8
+2450,CA,VR Engineering,Warner Bros. Entertainment Group,1,109000,52000,4
+2451,CA,VR Engineering,Volkswagen Group of America,1,178000,101000,3.8
+2452,NY,Digital Marketing,B&amp;H Photo,1,134000,70000,3.4
+2453,NY,Digital Marketing,BD,1,82000,41000,3.8
+2454,NY,Digital Marketing,AppsFlyer,1,148000,69000,4.5
+2455,DC,Data Scientist,AVANADE,1,114000,60000,3.9
+2456,CA,VR Engineering,Spin Electric Scooters,1,126000,82000,4
+2457,DC,Data Scientist,Amazon.com Services LLC,1,218000,33000,3.9
+2458,DC,Data Scientist,Analytica,1,111000,65000,3.7
+2459,DC,Data Scientist,"Amyx, Inc.",1,98000,54000,3.9
+2460,DC,Data Scientist,Amida Technology Solutions,1,88000,47000,2.5
+2461,DC,Data Scientist,American Geophysical Union,1,73000,34000,3.6
+2462,DC,Data Scientist,American College of Radiology,1,61000,33000,3.6
+2463,DC,Data Scientist,Amazon Web Services,1,174000,109000,3.9
+2464,NY,Digital Marketing,Annalect,1,57000,32000,3.8
+2465,NY,Digital Marketing,Amobee,1,75000,42000,3.8
+2466,DC,Data Scientist,Akima Management Services,1,126000,75000,3.4
+2467,NY,Digital Marketing,Ampush,1,79000,44000,3.7
+2468,DC,Data Scientist,Airlines Reporting Corporation,1,135000,72000,3.8
+2469,DC,Data Scientist,"Afognak Native Corporation, Alutiiq LLC, and their subsidiaries",1,80000,46000,3.3
+2470,DC,Data Scientist,Advanced Bioscience Laboratories,1,127000,56000,3
+2471,DC,Data Scientist,Advanced BioScience Laboratories,1,127000,56000,3
+2472,NY,Digital Marketing,Barbarian,1,162000,88000,3
+2473,CA,VR Engineering,Analog Devices,1,177000,67000,3.9
+2474,NY,Digital Marketing,BrightEdge,1,122000,48000,3.1
+2475,CA,VR Engineering,Adobe,1,199000,124000,4.3
+2476,CA,UI/UX Researcher,projekt202,1,132000,82000,3.3
+2477,CA,UI/UX Researcher,eBay Inc.,1,295000,131000,3.9
+2478,CA,VR Engineering,Arup,1,140000,68000,4
+2479,CA,UI/UX Researcher,Zuora,1,158000,89000,3.8
+2480,CA,UI/UX Researcher,Zignal Labs,1,146000,89000,3.9
+2481,NY,Digital Marketing,Capgemini,1,92000,59000,3.8
+2482,CA,UI/UX Researcher,ZOOM+Care,1,199000,104000,3.3
+2483,NY,Digital Marketing,Cboe Global Markets,1,97000,49000,3.5
+2484,CA,VR Engineering,IntelliPro Group Inc.,1,140000,111000,4.2
+2485,NY,Digital Marketing,Bayer,1,116000,60000,4.1
+2486,CA,VR Engineering,Providence Health &amp; Services,1,140000,68000,3.5
+2487,CA,VR Engineering,Oracle,1,55000,27000,3.6
+2488,CA,VR Engineering,Meraki,1,149000,92000,3.4
+2489,CA,VR Engineering,Magic Leap - Multiple Locations,1,108000,60000,3.6
+2490,NY,Digital Marketing,Blink Health,1,118000,61000,2.6
+2491,NY,Digital Marketing,Bluecore,1,106000,54000,4.2
+2492,NY,Digital Marketing,Boxy Charm,1,78000,39000,3.1
+2493,CA,VR Engineering,Eaton,1,99000,65000,3.8
+2494,CA,VR Engineering,Cisco Systems,1,181000,112000,4.2
+2495,DC,Data Scientist,Arc Aspicio,1,61000,33000,3
+2496,DC,Data Scientist,Conference of State Bank Supervisors,1,179000,99000,3.6
+2497,DC,Data Scientist,Comcast,1,196000,121000,3.8
+2498,NY,Data Scientist,Vision Technology Services,1,126000,57000,3.5
+2499,NY,Data Scientist,Vyaire Medical,1,139000,82000,3
+2500,NY,Data Scientist,Vimeo,1,195000,120000,4
+2501,DC,Data Scientist,Children's National Hospital,1,95000,56000,3.6
+2502,DC,Data Scientist,"Cherokee Nation Businesses, LLC",1,140000,85000,3.3
+2503,DC,Data Scientist,Cherokee Nation Businesses,1,140000,85000,3.3
+2504,DC,Data Scientist,Chenega MIOS,1,123000,69000,4.4
+2505,DC,Data Scientist,Chenega Corporation,1,125000,67000,2.8
+2506,NY,Data Scientist,Warner Music Group,1,109000,63000,3.6
+2507,DC,Data Scientist,Center for Applied Linguistics,1,76000,33000,2.8
+2508,DC,Data Scientist,Centauri,1,176000,109000,4.6
+2509,NY,Data Scientist,The Knot Worldwide,1,113000,65000,3.9
+2510,NY,Data Scientist,TransRe,1,102000,65000,3.5
+2511,NY,Data Scientist,Triplebyte,1,225000,145000,3
+2512,NY,Data Scientist,Truveris,1,134000,77000,3.1
+2513,DC,Data Scientist,DataLab USA,1,116000,67000,3.6
+2514,NY,Data Scientist,UBS,1,138000,80000,3.8
+2515,DC,Data Scientist,Contingent Network Services,1,122000,73000,3.1
+2516,DC,Data Scientist,DCG Communications,1,125000,65000,3.6
+2517,DC,Data Scientist,"Culmen International, LLC",1,117000,70000,3.9
+2518,DC,Data Scientist,"Credence Management Solutions, LLC",1,147000,81000,4.3
+2519,DC,Data Scientist,Credence Management Solutions,1,117000,66000,4.3
+2520,NY,Data Scientist,Viacom,1,177000,105000,3.6
+2521,NY,Data Scientist,Wheels Up Partners LLC,1,124000,72000,3.2
+2522,NY,Data Scientist,Workhuman,1,152000,81000,4.3
+2523,DC,Data Scientist,BlueLabs,1,98000,58000,4.5
+2524,DC,Data Scientist,"Berkeley Research Group, LLC",1,103000,60000,2.9
+2525,DC,Data Scientist,Barbaricum,1,101000,59000,4.9
+2526,NY,Digital Marketing,Access Intelligence,1,79000,39000,3.6
+2527,DC,Data Scientist,Cape Fox Shared Services,1,84000,46000,4.1
+2528,DC,Data Scientist,"Aveshka, Inc.",1,135000,81000,3.7
+2529,DC,Data Scientist,Avantus Federal,1,97000,58000,4.5
+2530,DC,Data Scientist,Avalonbay Communities,1,85000,75000,4.1
+2531,DC,Data Scientist,Atlas Research,1,92000,52000,3
+2532,DC,Data Scientist,"Assured Information Security, Inc. (AIS)",1,152000,93000,4.3
+2533,DC,Data Scientist,BlueLabs Analytics,1,68000,36000,4.5
+2534,NY,Digital Marketing,ANN Corporate,1,66000,33000,1.8
+2535,NY,Digital Marketing,AMC Networks Inc.,1,78000,43000,3.9
+2536,NY,Data Scientist,Xylem,1,139000,82000,3.4
+2537,NY,Data Scientist,Yext,1,183000,113000,4
+2538,DC,Data Scientist,CENCORE LLC,1,67000,37000,4
+2539,NY,Data Scientist,h2o.ai,1,224000,140000,4
+2540,NY,Data Scientist,pymetrics,1,152000,92000,3.8
+2541,DC,Data Scientist,CAQH,1,194000,122000,4.2
+2542,DC,Data Scientist,C3.ai,1,142000,88000,4.5
+2543,DC,Data Scientist,By Light Professional IT Services LLC,1,153000,90000,3.4
+2544,NY,Digital Marketing,2U,1,84000,47000,3.7
+2545,DC,Data Scientist,Brivo,1,176000,95000,3.3
+2546,NY,Digital Marketing,AESOP Corporate,1,88000,44000,3.3
+2547,DC,Data Scientist,"Bravo Consulting Group, LLC",1,90000,49000,3.9
+2548,DC,Data Scientist,"TCG, Inc.",1,90000,43000,4.8
