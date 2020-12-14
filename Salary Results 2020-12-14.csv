@@ -1,0 +1,2584 @@
+,State,Role,Employer,Salary Range: Maximum,Salary Range: Minimum
+0,CA,Data Scientist,22nd Century Technologies,155000.0,110000.0
+1,CA,Data Scientist,2K,137000.0,79000.0
+2,CA,Data Scientist,6sense,165000.0,103000.0
+3,CA,Data Scientist,AVANADE,110000.0,56500.0
+4,CA,Data Scientist,Accenture,271000.0,162500.0
+5,CA,Data Scientist,Activision Blizzard,137000.0,83000.0
+6,CA,Data Scientist,Activision Publishing,125000.0,74000.0
+7,CA,Data Scientist,Adobe,227000.0,138000.0
+8,CA,Data Scientist,Agenus,82000.0,45000.0
+9,CA,Data Scientist,Airbnb,233500.0,143000.0
+10,CA,Data Scientist,"Akvelon, Inc.",130000.0,75000.0
+11,CA,Data Scientist,Alameda Health System,294000.0,165000.0
+12,CA,Data Scientist,Allstate,157000.0,99000.0
+13,CA,Data Scientist,Amazon,145000.0,104000.0
+14,CA,Data Scientist,Amazon.com Services LLC,152000.0,145000.0
+15,CA,Data Scientist,AmeriCorps,58000.0,32000.0
+16,CA,Data Scientist,Amunix,130000.0,81000.0
+17,CA,Data Scientist,Amyris,128500.0,61500.0
+18,CA,Data Scientist,Ancestry,261000.0,166000.0
+19,CA,Data Scientist,App Annie,188000.0,118000.0
+20,CA,Data Scientist,AppleOne,85000.0,54000.0
+21,CA,Data Scientist,Asana,163000.0,102000.0
+22,CA,Data Scientist,Atlassian,184000.0,117000.0
+23,CA,Data Scientist,AutoGrid Systems,220000.0,183000.0
+24,CA,Data Scientist,Autodesk,155000.0,88500.0
+25,CA,Data Scientist,Avani Technology Solutions,148000.0,92000.0
+26,CA,Data Scientist,BICP,175000.0,110000.0
+27,CA,Data Scientist,BigCommerce,122000.0,67000.0
+28,CA,Data Scientist,Bloomberg,256000.0,160000.0
+29,CA,Data Scientist,Boomi,151000.0,96000.0
+30,CA,Data Scientist,"Borrego Solar Systems, Inc.",168000.0,94000.0
+31,CA,Data Scientist,Brightidea,129000.0,80000.0
+32,CA,Data Scientist,C3.ai,175000.0,111000.0
+33,CA,Data Scientist,CIA,193000.0,123000.0
+34,CA,Data Scientist,"CTI Clinical Trial Services, Inc",185000.0,117000.0
+35,CA,Data Scientist,California Department of Industrial Relations,80000.0,45000.0
+36,CA,Data Scientist,Callisto Media,159000.0,89000.0
+37,CA,Data Scientist,Capgemini,191000.0,121000.0
+38,CA,Data Scientist,Capital One,179000.0,111000.0
+39,CA,Data Scientist,Chan Zuckerberg Initiative,241000.0,146000.0
+40,CA,Data Scientist,Change Healthcare,196000.0,110000.0
+41,CA,Data Scientist,Change.org,193000.0,111000.0
+42,CA,Data Scientist,Charles River Laboratories,120000.0,56000.0
+43,CA,Data Scientist,Charles Schwab,161000.0,89000.0
+44,CA,Data Scientist,Checkr,205000.0,129000.0
+45,CA,Data Scientist,Chime,192000.0,119000.0
+46,CA,Data Scientist,CircleUp,411000.0,260000.0
+47,CA,Data Scientist,Cisco Systems,175000.0,103000.0
+48,CA,Data Scientist,CitiusTech,156000.0,97000.0
+49,CA,Data Scientist,Clarivate Analytics,146000.0,90000.0
+50,CA,Data Scientist,Cognizant Technology Solutions,136000.0,78000.0
+51,CA,Data Scientist,Collective Health,176000.0,107000.0
+52,CA,Data Scientist,"Conch Technologies, Inc",132000.0,71000.0
+53,CA,Data Scientist,Course Hero,136000.0,73000.0
+54,CA,Data Scientist,Credible,112000.0,64000.0
+55,CA,Data Scientist,Crowe,121000.0,79000.0
+56,CA,Data Scientist,Cruise,273000.0,166000.0
+57,CA,Data Scientist,DataRobot,174000.0,109000.0
+58,CA,Data Scientist,Databricks,260000.0,163000.0
+59,CA,Data Scientist,Dell Technologies,186000.0,118000.0
+60,CA,Data Scientist,Denali Therapeutics,138000.0,90000.0
+61,CA,Data Scientist,Dictionary.com,146000.0,80000.0
+62,CA,Data Scientist,Doctor On Demand,195000.0,115000.0
+63,CA,Data Scientist,DoorDash,152000.0,84500.0
+64,CA,Data Scientist,Dropbox,197000.0,109000.0
+65,CA,Data Scientist,Duetto,222000.0,123000.0
+66,CA,Data Scientist,EY,191000.0,120000.0
+67,CA,Data Scientist,Eaze,160000.0,100000.0
+68,CA,Data Scientist,Etsy,287000.0,178000.0
+69,CA,Data Scientist,Everlane,193000.0,123000.0
+70,CA,Data Scientist,Exact Sciences Corporation,169000.0,107000.0
+71,CA,Data Scientist,Exelixis,116000.0,59000.0
+72,CA,Data Scientist,Facebook,198000.0,126000.0
+73,CA,Data Scientist,Faire,192500.0,123000.0
+74,CA,Data Scientist,Fanatics,113000.0,61000.0
+75,CA,Data Scientist,Fandom,128000.0,70000.0
+76,CA,Data Scientist,"FireEye, Inc.",242000.0,152000.0
+77,CA,Data Scientist,First Republic Bank,130000.0,64000.0
+78,CA,Data Scientist,Fitch Ratings Inc.,119000.0,74000.0
+79,CA,Data Scientist,Fivestars,170000.0,106000.0
+80,CA,Data Scientist,Fivetran,152000.0,84000.0
+81,CA,Data Scientist,ForgeRock,325000.0,180000.0
+82,CA,Data Scientist,FortressIQ,181000.0,149000.0
+83,CA,Data Scientist,Fundbox,112000.0,62000.0
+84,CA,Data Scientist,GBG,71000.0,37000.0
+85,CA,Data Scientist,GENENTECH,191500.0,116000.0
+86,CA,Data Scientist,Gap Inc.,215000.0,138000.0
+87,CA,Data Scientist,Geli,138000.0,109000.0
+88,CA,Data Scientist,Genentech,202000.0,129000.0
+89,CA,Data Scientist,GitHub,175000.0,99000.0
+90,CA,Data Scientist,Glass Lewis,109000.0,52000.0
+91,CA,Data Scientist,Glassdoor,193000.0,161000.0
+92,CA,Data Scientist,GlaxoSmithKline,202000.0,121000.0
+93,CA,Data Scientist,Glu Mobile,152500.0,89500.0
+94,CA,Data Scientist,GoodRx,249000.0,157000.0
+95,CA,Data Scientist,Goodway Group,214000.0,125000.0
+96,CA,Data Scientist,Google,192000.0,119000.0
+97,CA,Data Scientist,Grammarly,168500.0,93500.0
+98,CA,Data Scientist,Grand Rounds,266000.0,167000.0
+99,CA,Data Scientist,Granular,187000.0,90000.0
+100,CA,Data Scientist,Groundspeed,149000.0,81000.0
+101,CA,Data Scientist,Gusto,171000.0,106000.0
+102,CA,Data Scientist,IQVIA,120000.0,78000.0
+103,CA,Data Scientist,Instacart,148000.0,147000.0
+104,CA,Data Scientist,Institute on Aging,106000.0,53000.0
+105,CA,Data Scientist,IntelliPro Group Inc.,110000.0,83000.0
+106,CA,Data Scientist,Internal Revenue Service,146000.0,91000.0
+107,CA,Data Scientist,Intuit,170000.0,98000.0
+108,CA,Data Scientist,Invitae,141000.0,88000.0
+109,CA,Data Scientist,KPMG,191500.0,121000.0
+110,CA,Data Scientist,Kabam,97000.0,52000.0
+111,CA,Data Scientist,Kaiser Permanente,126000.0,86000.0
+112,CA,Data Scientist,Kiva.org,117000.0,64000.0
+113,CA,Data Scientist,Komodo Health,222000.0,139000.0
+114,CA,Data Scientist,Lawrence Berkeley National Laboratory,131000.0,82000.0
+115,CA,Data Scientist,LegalZoom,258000.0,122000.0
+116,CA,Data Scientist,Levi Strauss,167000.0,106000.0
+117,CA,Data Scientist,Levi Strauss &amp; Co.,233000.0,149000.0
+118,CA,Data Scientist,LiveRamp,150000.0,140000.0
+119,CA,Data Scientist,"Lockton, Inc.",76000.0,40000.0
+120,CA,Data Scientist,Logic20/20,151500.0,92000.0
+121,CA,Data Scientist,Lonza,98000.0,44000.0
+122,CA,Data Scientist,Lumiata,205000.0,129000.0
+123,CA,Data Scientist,MarinHealth Medical Center,142000.0,94000.0
+124,CA,Data Scientist,MarkMonitor,195500.0,122500.0
+125,CA,Data Scientist,Matrix Resources,207000.0,121000.0
+126,CA,Data Scientist,Medidata Solutions,211000.0,131000.0
+127,CA,Data Scientist,Medium,201000.0,128000.0
+128,CA,Data Scientist,Meraki,167000.0,97000.0
+129,CA,Data Scientist,MightyHive,184000.0,115000.0
+130,CA,Data Scientist,Morning Consult,144000.0,89000.0
+131,CA,Data Scientist,Natera,150000.0,89000.0
+132,CA,Data Scientist,New Relic,114000.0,63000.0
+133,CA,Data Scientist,Nextdoor,176000.0,112000.0
+134,CA,Data Scientist,Ngm Biopharmaceuticals,134000.0,65000.0
+135,CA,Data Scientist,Niantic,176000.0,108000.0
+136,CA,Data Scientist,NinthDecimal,178000.0,114000.0
+137,CA,Data Scientist,ON24,247000.0,156000.0
+138,CA,Data Scientist,OPPORTUNITY FUND NORTHERN CALIFORNIA,129000.0,66000.0
+139,CA,Data Scientist,Opendoor,232000.0,146000.0
+140,CA,Data Scientist,"Operating Company ACTIVISION PUBLISHING, INC",125000.0,74000.0
+141,CA,Data Scientist,Oportun Inc,208000.0,130000.0
+142,CA,Data Scientist,Oportun. Inc,176000.0,111000.0
+143,CA,Data Scientist,Oracle,167000.0,106000.0
+144,CA,Data Scientist,Oracle ,173000.0,110000.0
+145,CA,Data Scientist,PACT Pharma,139000.0,63000.0
+146,CA,Data Scientist,Park Computer Systems Inc,143000.0,89000.0
+147,CA,Data Scientist,Patreon,159000.0,91000.0
+148,CA,Data Scientist,Penumbra US,144000.0,77000.0
+149,CA,Data Scientist,PepsiCo,126000.0,68000.0
+150,CA,Data Scientist,Personal Capital,103000.0,59000.0
+151,CA,Data Scientist,Pinterest,246000.0,150000.0
+152,CA,Data Scientist,Pivot Bio,199000.0,127000.0
+153,CA,Data Scientist,Plaid,155000.0,130000.0
+154,CA,Data Scientist,Pocket Gems,122000.0,66000.0
+155,CA,Data Scientist,Premier Research Group Limited,182000.0,114000.0
+156,CA,Data Scientist,PubMatic,184000.0,115000.0
+157,CA,Data Scientist,PwC,146000.0,92000.0
+158,CA,Data Scientist,Quantcast,151000.0,86000.0
+159,CA,Data Scientist,QuinStreet,94000.0,51000.0
+160,CA,Data Scientist,REX,194000.0,108000.0
+161,CA,Data Scientist,RICEFW Technologies Inc,102000.0,55000.0
+162,CA,Data Scientist,Reddit,241000.0,150500.0
+163,CA,Data Scientist,"Redolent, Inc",114000.0,61000.0
+164,CA,Data Scientist,Roblox,187000.0,119000.0
+165,CA,Data Scientist,Roche,180000.0,101000.0
+166,CA,Data Scientist,Rubicon,124000.0,77000.0
+167,CA,Data Scientist,SACC,101000.0,74000.0
+168,CA,Data Scientist,Sage Intacct,289000.0,176000.0
+169,CA,Data Scientist,Salesforce,223000.0,138000.0
+170,CA,Data Scientist,Samba TV,202000.0,127000.0
+171,CA,Data Scientist,Scale AI,149000.0,74000.0
+172,CA,Data Scientist,Seagen,184000.0,117000.0
+173,CA,Data Scientist,Sendoso,229000.0,142000.0
+174,CA,Data Scientist,Sequoia Consulting Group,173000.0,96000.0
+175,CA,Data Scientist,Shutterfly,188000.0,119000.0
+176,CA,Data Scientist,Silicon Valley Bank,93000.0,49000.0
+177,CA,Data Scientist,Snap,251000.0,151000.0
+178,CA,Data Scientist,Snapchat,251000.0,151000.0
+179,CA,Data Scientist,Snowflake,213000.0,134000.0
+180,CA,Data Scientist,SoFi,139000.0,87000.0
+181,CA,Data Scientist,Softvision - North America,166000.0,104000.0
+182,CA,Data Scientist,Solugenix Corporation,144000.0,90000.0
+183,CA,Data Scientist,Sony PlayStation,241000.0,147000.0
+184,CA,Data Scientist,Spin,220000.0,141000.0
+185,CA,Data Scientist,Spin Electric Scooters,220000.0,141000.0
+186,CA,Data Scientist,Spire,146000.0,86000.0
+187,CA,Data Scientist,Spire Global,162000.0,97000.0
+188,CA,Data Scientist,Splunk,195000.0,122500.0
+189,CA,Data Scientist,Square,192000.0,112000.0
+190,CA,Data Scientist,Standard Chartered,180000.0,113000.0
+191,CA,Data Scientist,"Stefanini, Inc",81000.0,43000.0
+192,CA,Data Scientist,Stitch Fix,218000.0,136000.0
+193,CA,Data Scientist,Sunrun,188000.0,120000.0
+194,CA,Data Scientist,Susquehanna International Group,194000.0,109500.0
+195,CA,Data Scientist,TCS,127000.0,72000.0
+196,CA,Data Scientist,Tapjoy,202000.0,123000.0
+197,CA,Data Scientist,TaskRabbit,87000.0,41000.0
+198,CA,Data Scientist,Tata Consultancy Services (North America),127000.0,71000.0
+199,CA,Data Scientist,TechnoGen Inc,191000.0,120000.0
+200,CA,Data Scientist,Telnet INC,130000.0,81000.0
+201,CA,Data Scientist,Tempus Labs,200000.0,126000.0
+202,CA,Data Scientist,The Climate Corporation,155000.0,95000.0
+203,CA,Data Scientist,The Pill Club,121000.0,69000.0
+204,CA,Data Scientist,The Trade Desk,216000.0,135000.0
+205,CA,Data Scientist,Thermo Fisher Scientific,140000.0,88000.0
+206,CA,Data Scientist,Thrive Global,235000.0,150000.0
+207,CA,Data Scientist,Thumbtack,187000.0,110000.0
+208,CA,Data Scientist,Torani,152000.0,94000.0
+209,CA,Data Scientist,Tredence,122000.0,99000.0
+210,CA,Data Scientist,Trianz,140000.0,76000.0
+211,CA,Data Scientist,Triplebyte,225000.0,145000.0
+212,CA,Data Scientist,"TuSimple, Inc.",186500.0,112000.0
+213,CA,Data Scientist,Tubi,208000.0,126000.0
+214,CA,Data Scientist,Turo,266000.0,149000.0
+215,CA,Data Scientist,Twitch,188000.0,113500.0
+216,CA,Data Scientist,Twitter,224000.0,138000.0
+217,CA,Data Scientist,Twitter Inc,149000.0,84000.0
+218,CA,Data Scientist,UCSF Medical Center,109000.0,65000.0
+219,CA,Data Scientist,Uber,200000.0,128000.0
+220,CA,Data Scientist,Ubisoft,203000.0,128000.0
+221,CA,Data Scientist,Udemy,198000.0,126000.0
+222,CA,Data Scientist,Unity Technologies,179000.0,103000.0
+223,CA,Data Scientist,University of California Berkeley,162000.0,103000.0
+224,CA,Data Scientist,University of California San Francisco,93000.0,54000.0
+225,CA,Data Scientist,University of the Pacific,89000.0,54000.0
+226,CA,Data Scientist,Upstart,161000.0,93000.0
+227,CA,Data Scientist,"Upstart Network, Inc.",182000.0,114000.0
+228,CA,Data Scientist,"VIZIO, Inc.",207000.0,132000.0
+229,CA,Data Scientist,Vensoft Inc,86000.0,47000.0
+230,CA,Data Scientist,Visual Concepts,159000.0,95000.0
+231,CA,Data Scientist,Vituity,133000.0,70000.0
+232,CA,Data Scientist,Vizio Inc.,270000.0,173000.0
+233,CA,Data Scientist,Wells Fargo,232000.0,147000.0
+234,CA,Data Scientist,West Monroe Partners,110000.0,67000.0
+235,CA,Data Scientist,"Williams-Sonoma, Inc.",115000.0,70000.0
+236,CA,Data Scientist,Winwire Technologies,150000.0,94000.0
+237,CA,Data Scientist,Wish,160000.0,95000.0
+238,CA,Data Scientist,Xoom,186000.0,117500.0
+239,CA,Data Scientist,ZS Associates,186000.0,112000.0
+240,CA,Data Scientist,h2o.ai,268000.0,169000.0
+241,CA,Data Scientist,iRhythm,253000.0,154000.0
+242,CA,Data Scientist,iknowvate technologies,126000.0,68000.0
+243,CA,Digital Marketing,2K,98000.0,45000.0
+244,CA,Digital Marketing,3Q Digital,143000.0,82000.0
+245,CA,Digital Marketing,AESOP Corporate,86000.0,43000.0
+246,CA,Digital Marketing,AIG,96000.0,49000.0
+247,CA,Digital Marketing,AMV,83000.0,61000.0
+248,CA,Digital Marketing,AUDIENCEX,153000.0,64000.0
+249,CA,Digital Marketing,Accenture,57500.0,26000.0
+250,CA,Digital Marketing,Activision Blizzard,56000.0,34000.0
+251,CA,Digital Marketing,AdMedia.,145000.0,77000.0
+252,CA,Digital Marketing,Adobe,146000.0,79000.0
+253,CA,Digital Marketing,Adtaxi,71000.0,41000.0
+254,CA,Digital Marketing,Advertise Purple,94000.0,43000.0
+255,CA,Digital Marketing,Adyen,116000.0,60000.0
+256,CA,Digital Marketing,Agero,158000.0,80000.0
+257,CA,Digital Marketing,Allstate,69000.0,39000.0
+258,CA,Digital Marketing,Amazon,136000.0,72000.0
+259,CA,Digital Marketing,"Amazon Web Services, Inc.",197000.0,107000.0
+260,CA,Digital Marketing,AmeriCorps,47000.0,25000.0
+261,CA,Digital Marketing,Ampush,89000.0,49000.0
+262,CA,Digital Marketing,Amyris,180000.0,98000.0
+263,CA,Digital Marketing,Appetize,239000.0,131000.0
+264,CA,Digital Marketing,AppsFlyer,161000.0,76000.0
+265,CA,Digital Marketing,Apttus,128000.0,75000.0
+266,CA,Digital Marketing,Ariat International,166000.0,97000.0
+267,CA,Digital Marketing,Assured Relocation,81000.0,40000.0
+268,CA,Digital Marketing,Athleta,222000.0,121000.0
+269,CA,Digital Marketing,Augmedix Inc.,56000.0,34000.0
+270,CA,Digital Marketing,Autodesk,165000.0,35000.0
+271,CA,Digital Marketing,Automattic,92000.0,46000.0
+272,CA,Digital Marketing,AvantStay,60000.0,30000.0
+273,CA,Digital Marketing,BNP Paribas,157000.0,83000.0
+274,CA,Digital Marketing,BakeMark USA,94000.0,47000.0
+275,CA,Digital Marketing,Bank of the West,136000.0,76500.0
+276,CA,Digital Marketing,Beekeeper,79000.0,48000.0
+277,CA,Digital Marketing,Belkin,86000.0,43000.0
+278,CA,Digital Marketing,"Bio-Rad Laboratories, Inc.",111000.0,59000.0
+279,CA,Digital Marketing,BlackLine,75000.0,38000.0
+280,CA,Digital Marketing,Blavity,81000.0,41000.0
+281,CA,Digital Marketing,Blue Shield of California,142500.0,74000.0
+282,CA,Digital Marketing,Bobit Business Media,50000.0,25000.0
+283,CA,Digital Marketing,Bolt,77000.0,37000.0
+284,CA,Digital Marketing,Brafton,59000.0,33500.0
+285,CA,Digital Marketing,Branded Entertainment Network,65500.0,38000.0
+286,CA,Digital Marketing,Brex,85000.0,45000.0
+287,CA,Digital Marketing,BrightEdge,128000.0,56000.0
+288,CA,Digital Marketing,Brightwheel,99000.0,50000.0
+289,CA,Digital Marketing,ByteDance,86000.0,45000.0
+290,CA,Digital Marketing,Bytedance,86000.0,45000.0
+291,CA,Digital Marketing,C-4 Analytics,48000.0,25000.0
+292,CA,Digital Marketing,C3.ai,171000.0,36000.0
+293,CA,Digital Marketing,CBRE,123000.0,64000.0
+294,CA,Digital Marketing,CBS Interactive,101000.0,43500.0
+295,CA,Digital Marketing,CDK Global,102000.0,51000.0
+296,CA,Digital Marketing,CIT Group,91000.0,54000.0
+297,CA,Digital Marketing,CR Laurence,110000.0,61000.0
+298,CA,Digital Marketing,CRH,170000.0,99000.0
+299,CA,Digital Marketing,Campbell-Ewald,101000.0,65000.0
+300,CA,Digital Marketing,Cashmere Agency,59500.0,34000.0
+301,CA,Digital Marketing,Castlight Health,176000.0,95000.0
+302,CA,Digital Marketing,Centerfield Media,55000.0,35000.0
+303,CA,Digital Marketing,Checkr,263000.0,166000.0
+304,CA,Digital Marketing,Cognizant Technology Solutions,88000.0,44000.0
+305,CA,Digital Marketing,Collective Inc,108000.0,55000.0
+306,CA,Digital Marketing,Community Psychiatry,74500.0,37500.0
+307,CA,Digital Marketing,Commvault,120000.0,23000.0
+308,CA,Digital Marketing,Computer Courage,121000.0,63000.0
+309,CA,Digital Marketing,Constellation Brands,139500.0,73500.0
+310,CA,Digital Marketing,ConsumerTrack,98000.0,44000.0
+311,CA,Digital Marketing,Conversant Media,151000.0,76000.0
+312,CA,Digital Marketing,Core Digital Media,110000.0,56000.0
+313,CA,Digital Marketing,Critical Mass,119000.0,62000.0
+314,CA,Digital Marketing,Crown Bioscience,103000.0,26000.0
+315,CA,Digital Marketing,Cruise,155000.0,92000.0
+316,CA,Digital Marketing,Crunchyroll,140500.0,75500.0
+317,CA,Digital Marketing,Curology,95000.0,47000.0
+318,CA,Digital Marketing,DFS Group,73000.0,37000.0
+319,CA,Digital Marketing,Dan Klores Communications,108000.0,59000.0
+320,CA,Digital Marketing,Databricks,158000.0,85000.0
+321,CA,Digital Marketing,Deloitte,122000.0,70000.0
+322,CA,Digital Marketing,Digital First Media,53000.0,27000.0
+323,CA,Digital Marketing,Direct Agents,78000.0,43000.0
+324,CA,Digital Marketing,DocuSign,175000.0,81000.0
+325,CA,Digital Marketing,DoorDash,133000.0,69000.0
+326,CA,Digital Marketing,Earnest,118000.0,61000.0
+327,CA,Digital Marketing,Edelman,64000.0,48000.0
+328,CA,Digital Marketing,Edmunds.com,52000.0,36000.0
+329,CA,Digital Marketing,Ednovate,74000.0,37000.0
+330,CA,Digital Marketing,"Electrosonic, Inc.",121000.0,60000.0
+331,CA,Digital Marketing,Entercom Communications Corp.,76000.0,26000.0
+332,CA,Digital Marketing,Epic Games,183000.0,99000.0
+333,CA,Digital Marketing,Epsilon,197000.0,103000.0
+334,CA,Digital Marketing,Exponent,122000.0,63000.0
+335,CA,Digital Marketing,FASHIONPHILE,49000.0,27000.0
+336,CA,Digital Marketing,Facebook,139000.0,33000.0
+337,CA,Digital Marketing,Fanatics,111000.0,57000.0
+338,CA,Digital Marketing,Fanatics Inc.,109000.0,53000.0
+339,CA,Digital Marketing,Fender,97000.0,49000.0
+340,CA,Digital Marketing,FinancialForce,201000.0,66000.0
+341,CA,Digital Marketing,Finn Partners,139000.0,67000.0
+342,CA,Digital Marketing,Firebrand Communications,75000.0,50000.0
+343,CA,Digital Marketing,First Capitol Consulting,137000.0,72000.0
+344,CA,Digital Marketing,First Republic Bank,162000.0,85000.0
+345,CA,Digital Marketing,FleishmanHillard,86000.0,35500.0
+346,CA,Digital Marketing,Flex College Prep,180000.0,98000.0
+347,CA,Digital Marketing,"Foot Locker, Inc.",99000.0,53000.0
+348,CA,Digital Marketing,Forward,106000.0,54000.0
+349,CA,Digital Marketing,Furniture of America,40000.0,35000.0
+350,CA,Digital Marketing,GOAT Group,91000.0,46000.0
+351,CA,Digital Marketing,GUESS?. INC.,55000.0,27000.0
+352,CA,Digital Marketing,Gannett,123000.0,58500.0
+353,CA,Digital Marketing,Gap,118000.0,66000.0
+354,CA,Digital Marketing,Gap Inc.,181000.0,91500.0
+355,CA,Digital Marketing,Girl Scouts of Greater Los Angeles,110000.0,56000.0
+356,CA,Digital Marketing,Golden Gate University,112000.0,42000.0
+357,CA,Digital Marketing,Golden Hippo,79000.0,37000.0
+358,CA,Digital Marketing,Golin,57000.0,30000.0
+359,CA,Digital Marketing,GoodRx,167000.0,90000.0
+360,CA,Digital Marketing,Goodway Group,153000.0,77000.0
+361,CA,Digital Marketing,Google,156500.0,95000.0
+362,CA,Digital Marketing,Google Fiber,156000.0,34000.0
+363,CA,Digital Marketing,Grammarly,105000.0,53000.0
+364,CA,Digital Marketing,Granular,110000.0,56000.0
+365,CA,Digital Marketing,Green Hasson Janks,66000.0,34000.0
+366,CA,Digital Marketing,Guardant Health,113000.0,58000.0
+367,CA,Digital Marketing,H&amp;L Partners,86000.0,48500.0
+368,CA,Digital Marketing,HBO Max,93000.0,47000.0
+369,CA,Digital Marketing,HOVER,97000.0,49000.0
+370,CA,Digital Marketing,Handshake,159000.0,100000.0
+371,CA,Digital Marketing,Harmless Harvest,133000.0,70000.0
+372,CA,Digital Marketing,Harness,130000.0,67000.0
+373,CA,Digital Marketing,Hearts and Science,62000.0,35000.0
+374,CA,Digital Marketing,Human Interest,76000.0,41000.0
+375,CA,Digital Marketing,IBM,115000.0,57000.0
+376,CA,Digital Marketing,IDEO,92000.0,50000.0
+377,CA,Digital Marketing,IXL Learning,90000.0,28000.0
+378,CA,Digital Marketing,Ignited,65000.0,35000.0
+379,CA,Digital Marketing,Impossible Foods,137000.0,61000.0
+380,CA,Digital Marketing,InVision Communications Inc.,101000.0,33000.0
+381,CA,Digital Marketing,Indiegogo,80500.0,40000.0
+382,CA,Digital Marketing,Informa,75000.0,38000.0
+383,CA,Digital Marketing,Instacart,93000.0,47000.0
+384,CA,Digital Marketing,Integral Ad Science,194000.0,84000.0
+385,CA,Digital Marketing,IntelliPro Group Inc.,68500.0,32500.0
+386,CA,Digital Marketing,Internet Brands,156000.0,84000.0
+387,CA,Digital Marketing,Intuit,110000.0,56000.0
+388,CA,Digital Marketing,Irwin Naturals,56000.0,29000.0
+389,CA,Digital Marketing,Jukin Media,136000.0,80000.0
+390,CA,Digital Marketing,Just Global,175000.0,100000.0
+391,CA,Digital Marketing,"Just, Inc",61000.0,35000.0
+392,CA,Digital Marketing,JustAnswer,88000.0,44000.0
+393,CA,Digital Marketing,"Juvo Plus, Inc.",60000.0,32000.0
+394,CA,Digital Marketing,KERN,135000.0,104000.0
+395,CA,Digital Marketing,Kabam,193000.0,105000.0
+396,CA,Digital Marketing,"Kendo, a division of LVMH",104000.0,56000.0
+397,CA,Digital Marketing,Kepler Group,95500.0,47000.0
+398,CA,Digital Marketing,Ketchum,67000.0,46000.0
+399,CA,Digital Marketing,Keyrus USA,97000.0,36000.0
+400,CA,Digital Marketing,Kiosk,56000.0,27000.0
+401,CA,Digital Marketing,Kraken Digital Asset Exchange,218000.0,119000.0
+402,CA,Digital Marketing,LEWIS Global Communications,85000.0,47000.0
+403,CA,Digital Marketing,LQ Digital,109000.0,54000.0
+404,CA,Digital Marketing,Laserfiche,81000.0,41000.0
+405,CA,Digital Marketing,Laundry Service,168000.0,94000.0
+406,CA,Digital Marketing,Learfield IMG College,59000.0,37000.0
+407,CA,Digital Marketing,LegalZoom,74000.0,44000.0
+408,CA,Digital Marketing,Lever,200000.0,114000.0
+409,CA,Digital Marketing,Levi Strauss,84000.0,42000.0
+410,CA,Digital Marketing,Linqia,79000.0,40000.0
+411,CA,Digital Marketing,Live Nation,124000.0,64000.0
+412,CA,Digital Marketing,LiveRamp,150000.0,140000.0
+413,CA,Digital Marketing,Living Spaces,64000.0,33000.0
+414,CA,Digital Marketing,Lyra Health,110000.0,56000.0
+415,CA,Digital Marketing,M+R,96000.0,55000.0
+416,CA,Digital Marketing,Match Group,107000.0,60000.0
+417,CA,Digital Marketing,MediaMonks,56000.0,30000.0
+418,CA,Digital Marketing,"MediaNews Group, Inc.",78000.0,33500.0
+419,CA,Digital Marketing,Meredith Corporation,93000.0,47000.0
+420,CA,Digital Marketing,Meyer Corporation,74000.0,37000.0
+421,CA,Digital Marketing,Mezzetta,99000.0,50000.0
+422,CA,Digital Marketing,Micro Focus,79000.0,40000.0
+423,CA,Digital Marketing,MightyHive,120000.0,78000.0
+424,CA,Digital Marketing,Mitchell Silberberg &amp; Knupp,54000.0,29000.0
+425,CA,Digital Marketing,MotorTrend Group,75000.0,38000.0
+426,CA,Digital Marketing,MuleSoft,128000.0,67000.0
+427,CA,Digital Marketing,Murad,93000.0,35000.0
+428,CA,Digital Marketing,MuteSix,75000.0,36000.0
+429,CA,Digital Marketing,NEXT Trucking,110000.0,57000.0
+430,CA,Digital Marketing,National Positions,59000.0,31000.0
+431,CA,Digital Marketing,Nearmap,101000.0,51000.0
+432,CA,Digital Marketing,Neustar,80000.0,45000.0
+433,CA,Digital Marketing,New Relic,201000.0,104500.0
+434,CA,Digital Marketing,NuORDER,56000.0,29000.0
+435,CA,Digital Marketing,OMD,97000.0,49000.0
+436,CA,Digital Marketing,Old Navy,80000.0,43000.0
+437,CA,Digital Marketing,Oldcastle BuildingEnvelope,108000.0,60000.0
+438,CA,Digital Marketing,"Oldcastle, Inc.",170000.0,99000.0
+439,CA,Digital Marketing,On Board Experiential Marketing,69000.0,38000.0
+440,CA,Digital Marketing,OnPrem Solution Partners,101000.0,51000.0
+441,CA,Digital Marketing,One Planet Ops,72000.0,39000.0
+442,CA,Digital Marketing,OpenTable,143000.0,76000.0
+443,CA,Digital Marketing,OpenX,185000.0,32000.0
+444,CA,Digital Marketing,"Operating Company ACTIVISION PUBLISHING, INC",119000.0,63000.0
+445,CA,Digital Marketing,Optum,107000.0,55000.0
+446,CA,Digital Marketing,Oracle,128000.0,67000.0
+447,CA,Digital Marketing,Panda Restaurant Group,50000.0,26000.0
+448,CA,Digital Marketing,Paradigm Management Services,75000.0,38000.0
+449,CA,Digital Marketing,"Pasona N A, Inc.",51000.0,24000.0
+450,CA,Digital Marketing,PatientPop,130000.0,63000.0
+451,CA,Digital Marketing,Penumbra US,91000.0,25000.0
+452,CA,Digital Marketing,Performics,80000.0,48000.0
+453,CA,Digital Marketing,Persado,133000.0,60000.0
+454,CA,Digital Marketing,Plaid,165000.0,66000.0
+455,CA,Digital Marketing,Pole To Win International,63000.0,33000.0
+456,CA,Digital Marketing,Postclick,116000.0,53000.0
+457,CA,Digital Marketing,Providence Health &amp; Services,140000.0,68000.0
+458,CA,Digital Marketing,Publicis Groupe,106000.0,56000.0
+459,CA,Digital Marketing,QuinStreet,65000.0,37000.0
+460,CA,Digital Marketing,RAPP,161000.0,73000.0
+461,CA,Digital Marketing,RealtyMogul,83000.0,41000.0
+462,CA,Digital Marketing,Red Bull,130000.0,70000.0
+463,CA,Digital Marketing,Red Ventures,136000.0,80000.0
+464,CA,Digital Marketing,Red Ventures LLC,117000.0,68000.0
+465,CA,Digital Marketing,Remind,104000.0,53000.0
+466,CA,Digital Marketing,Rentokil Initial,80000.0,40000.0
+467,CA,Digital Marketing,Rentokil North America,82000.0,41000.0
+468,CA,Digital Marketing,Rescale,106000.0,54000.0
+469,CA,Digital Marketing,Ring,98500.0,42000.0
+470,CA,Digital Marketing,Roku,171000.0,68000.0
+471,CA,Digital Marketing,Route,61000.0,32000.0
+472,CA,Digital Marketing,Salem Media Group,69000.0,24000.0
+473,CA,Digital Marketing,Salesforce,156000.0,77000.0
+474,CA,Digital Marketing,San Francisco Opera,78000.0,43000.0
+475,CA,Digital Marketing,See's Candies,45000.0,29000.0
+476,CA,Digital Marketing,Sephora,204500.0,125000.0
+477,CA,Digital Marketing,Serena &amp; Lily,59000.0,36000.0
+478,CA,Digital Marketing,ServiceNow,155000.0,68000.0
+479,CA,Digital Marketing,ServiceTitan,142000.0,69000.0
+480,CA,Digital Marketing,Shape Security,74000.0,38000.0
+481,CA,Digital Marketing,Siegel+Gale,49000.0,28000.0
+482,CA,Digital Marketing,Siemens,154000.0,70000.0
+483,CA,Digital Marketing,Siemens Healthineers,143000.0,64000.0
+484,CA,Digital Marketing,Sierra Club,81000.0,41000.0
+485,CA,Digital Marketing,SimilarWeb,211000.0,104000.0
+486,CA,Digital Marketing,SimplyInsured,184000.0,100000.0
+487,CA,Digital Marketing,Sinclair Broadcast Group,179000.0,97000.0
+488,CA,Digital Marketing,SiriusXM,122000.0,60000.0
+489,CA,Digital Marketing,Sitecore,287000.0,157000.0
+490,CA,Digital Marketing,Smartly.io,99000.0,48500.0
+491,CA,Digital Marketing,Snap,150000.0,80000.0
+492,CA,Digital Marketing,SoCalGas,103000.0,50000.0
+493,CA,Digital Marketing,"Sony Pictures Entertainment, Inc.",116000.0,60000.0
+494,CA,Digital Marketing,Sony PlayStation,121000.0,56000.0
+495,CA,Digital Marketing,Southern California Public Radio,71000.0,29000.0
+496,CA,Digital Marketing,Spectrum,69000.0,30000.0
+497,CA,Digital Marketing,Splunk,138500.0,51500.0
+498,CA,Digital Marketing,Stanford University,84000.0,37000.0
+499,CA,Digital Marketing,Stem Inc,266000.0,43000.0
+500,CA,Digital Marketing,Studio71,58000.0,34000.0
+501,CA,Digital Marketing,Subaru of America,72000.0,36000.0
+502,CA,Digital Marketing,Sunny Health and Fitness,74000.0,37000.0
+503,CA,Digital Marketing,Super Lucky Casino,67000.0,33000.0
+504,CA,Digital Marketing,Supplyframe,129000.0,61000.0
+505,CA,Digital Marketing,Syneos Health Commercial Solutions,57000.0,29000.0
+506,CA,Digital Marketing,TA Digital,141000.0,75000.0
+507,CA,Digital Marketing,TOMS,94500.0,50000.0
+508,CA,Digital Marketing,Tealium,199000.0,89000.0
+509,CA,Digital Marketing,TechStyle Fashion Group,56000.0,31000.0
+510,CA,Digital Marketing,Terracare Associates,122000.0,63000.0
+511,CA,Digital Marketing,Thanx,119000.0,71000.0
+512,CA,Digital Marketing,The Boldt Company,76000.0,45000.0
+513,CA,Digital Marketing,The Control Group,73000.0,48000.0
+514,CA,Digital Marketing,The Corcoran Group,83000.0,40000.0
+515,CA,Digital Marketing,The Honest Company,134000.0,65000.0
+516,CA,Digital Marketing,The Integer Group,160000.0,92000.0
+517,CA,Digital Marketing,Thermo Fisher Scientific,86500.0,43000.0
+518,CA,Digital Marketing,ThirdLove,54000.0,31000.0
+519,CA,Digital Marketing,Thomas,125000.0,42000.0
+520,CA,Digital Marketing,Tile,123000.0,78000.0
+521,CA,Digital Marketing,Tillster,105000.0,58000.0
+522,CA,Digital Marketing,Turner Broadcasting,91000.0,46000.0
+523,CA,Digital Marketing,Twitter,118000.0,61000.0
+524,CA,Digital Marketing,UCSF Medical Center,138000.0,73000.0
+525,CA,Digital Marketing,Udemy,113000.0,58000.0
+526,CA,Digital Marketing,Unity Technologies,126000.0,66000.0
+527,CA,Digital Marketing,University of California Berkeley,94000.0,50000.0
+528,CA,Digital Marketing,University of California San Francisco,101000.0,51000.0
+529,CA,Digital Marketing,University of Southern California,72000.0,29000.0
+530,CA,Digital Marketing,Upgrade,99000.0,50000.0
+531,CA,Digital Marketing,"Upstart Network, Inc.",93000.0,47000.0
+532,CA,Digital Marketing,VMware,117000.0,61000.0
+533,CA,Digital Marketing,Varo Money,104000.0,51000.0
+534,CA,Digital Marketing,Verndale,207000.0,86000.0
+535,CA,Digital Marketing,Viacom,90000.0,45000.0
+536,CA,Digital Marketing,ViacomCBS,122000.0,46000.0
+537,CA,Digital Marketing,Viant,175000.0,68000.0
+538,CA,Digital Marketing,Viasat,101000.0,51000.0
+539,CA,Digital Marketing,Viscira,110500.0,44500.0
+540,CA,Digital Marketing,Volta Charging,145000.0,33000.0
+541,CA,Digital Marketing,Walker Advertising,79000.0,39000.0
+542,CA,Digital Marketing,Walmart,162000.0,93000.0
+543,CA,Digital Marketing,Wells Fargo,160000.0,87000.0
+544,CA,Digital Marketing,"Williams-Sonoma, Inc.",58000.0,35000.0
+545,CA,Digital Marketing,Wilson Sonsini Goodrich &amp; Rosati,138000.0,66000.0
+546,CA,Digital Marketing,Windsor Fashions Inc.,55000.0,30000.0
+547,CA,Digital Marketing,Wish,105000.0,52000.0
+548,CA,Digital Marketing,Workday,148000.0,79000.0
+549,CA,Digital Marketing,Wpromote,105000.0,52000.0
+550,CA,Digital Marketing,Wyzant,130000.0,68000.0
+551,CA,Digital Marketing,Xometry Inc.,60000.0,29000.0
+552,CA,Digital Marketing,YDesign Group LLC,97000.0,59000.0
+553,CA,Digital Marketing,ZEISS Group,152000.0,71000.0
+554,CA,Digital Marketing,ZINFI SOFTWARE SYSTEMS,70000.0,37000.0
+555,CA,Digital Marketing,ZS Associates,167000.0,80000.0
+556,CA,Digital Marketing,Zazzle,85000.0,43000.0
+557,CA,Digital Marketing,Zeta Global,76000.0,39000.0
+558,CA,Digital Marketing,coty,67000.0,40000.0
+559,CA,Digital Marketing,eBay Inc.,117000.0,60000.0
+560,CA,Digital Marketing,eHealth,62000.0,33000.0
+561,CA,Digital Marketing,goPuff,94000.0,57000.0
+562,CA,Digital Marketing,hibu,67000.0,23000.0
+563,CA,Digital Marketing,hibu Inc,67000.0,23000.0
+564,CA,Digital Marketing,thredUP Inc,97000.0,36000.0
+565,CA,Game Design,2K,146000.0,79000.0
+566,CA,Game Design,Academia.edu,209000.0,130000.0
+567,CA,Game Design,Activision Blizzard,123000.0,58000.0
+568,CA,Game Design,Activision Publishing,112000.0,51000.0
+569,CA,Game Design,Age of Learning,115000.0,56000.0
+570,CA,Game Design,Ampush,69000.0,37000.0
+571,CA,Game Design,"Applied Minds, LLC",69000.0,38000.0
+572,CA,Game Design,Arena Solutions,71000.0,38000.0
+573,CA,Game Design,Ariat International,130000.0,81000.0
+574,CA,Game Design,Athleta,90000.0,45000.0
+575,CA,Game Design,Atlassian,121000.0,73000.0
+576,CA,Game Design,Aurora,88000.0,49000.0
+577,CA,Game Design,BOEING,201000.0,113000.0
+578,CA,Game Design,Banana Republic,77000.0,44000.0
+579,CA,Game Design,Betabrand Corporation,76000.0,46000.0
+580,CA,Game Design,Bi-Rite Market ,66000.0,36000.0
+581,CA,Game Design,Big Fish Games,160000.0,84000.0
+582,CA,Game Design,BlackRock,256000.0,138000.0
+583,CA,Game Design,CBS Interactive,116000.0,61000.0
+584,CA,Game Design,Carvana,177000.0,93000.0
+585,CA,Game Design,Cloud Imperium Games,95000.0,60000.0
+586,CA,Game Design,Coalition Technologies,41000.0,23000.0
+587,CA,Game Design,Coaster Company of America,47000.0,26000.0
+588,CA,Game Design,Cognizant Technology Solutions,87000.0,53000.0
+589,CA,Game Design,Colliers International,62000.0,34000.0
+590,CA,Game Design,Comcast Spectacor,97000.0,51000.0
+591,CA,Game Design,Crystal Dynamics,98000.0,52000.0
+592,CA,Game Design,Curology,105000.0,56000.0
+593,CA,Game Design,Cushman &amp; Wakefield,64000.0,37000.0
+594,CA,Game Design,DISH,130000.0,95000.0
+595,CA,Game Design,Discord,189000.0,118000.0
+596,CA,Game Design,Dolby,134000.0,72000.0
+597,CA,Game Design,Electronic Arts,122000.0,60000.0
+598,CA,Game Design,Epic Games,224000.0,142000.0
+599,CA,Game Design,Etekcity Corporation,45000.0,25000.0
+600,CA,Game Design,Eventbrite,182000.0,111000.0
+601,CA,Game Design,Exponent,93000.0,52000.0
+602,CA,Game Design,FASTSIGNS #2177,49000.0,37000.0
+603,CA,Game Design,FIGS,84000.0,47000.0
+604,CA,Game Design,FabFitFun,134000.0,74000.0
+605,CA,Game Design,Facebook,133000.0,72000.0
+606,CA,Game Design,Fashion Nova - Careers,55000.0,33000.0
+607,CA,Game Design,First Republic Bank,104000.0,64000.0
+608,CA,Game Design,FleishmanHillard,69000.0,34000.0
+609,CA,Game Design,Forward,196000.0,122000.0
+610,CA,Game Design,GAMEVIL COM2US USA,95000.0,45000.0
+611,CA,Game Design,GOAT Group,96000.0,50000.0
+612,CA,Game Design,Gensler,113000.0,54000.0
+613,CA,Game Design,Geopaq Logic,59000.0,34000.0
+614,CA,Game Design,Glu Mobile,76000.0,41000.0
+615,CA,Game Design,Gobble,52000.0,29000.0
+616,CA,Game Design,Handshake,187000.0,116000.0
+617,CA,Game Design,Hasbro,78000.0,43000.0
+618,CA,Game Design,Heavy Iron Studios,72500.0,35500.0
+619,CA,Game Design,Hot Topic,60000.0,33000.0
+620,CA,Game Design,Humble Bundle,154000.0,94000.0
+621,CA,Game Design,IMVU,67000.0,34000.0
+622,CA,Game Design,"INFINITY WARD, INC.",155000.0,91500.0
+623,CA,Game Design,IPSY,67000.0,37000.0
+624,CA,Game Design,InVision Communications Inc.,69000.0,37000.0
+625,CA,Game Design,Industrial Light &amp; Magic,88000.0,44000.0
+626,CA,Game Design,Insomniac Games,145000.0,77000.0
+627,CA,Game Design,Jam City,86500.0,45000.0
+628,CA,Game Design,LGO Hospitality,54000.0,29000.0
+629,CA,Game Design,LT Security,44000.0,23000.0
+630,CA,Game Design,Left Field Labs,103000.0,54000.0
+631,CA,Game Design,Logitech,74000.0,41000.0
+632,CA,Game Design,Magnopus,128000.0,63000.0
+633,CA,Game Design,Marcus &amp; Millichap,76000.0,43000.0
+634,CA,Game Design,Marine Layer,110000.0,68000.0
+635,CA,Game Design,Marmol Radziner,58500.0,34500.0
+636,CA,Game Design,Mattel,87500.0,47500.0
+637,CA,Game Design,Method Products,134000.0,80000.0
+638,CA,Game Design,Microsoft,165000.0,80500.0
+639,CA,Game Design,Mozilla Corporation,80000.0,45000.0
+640,CA,Game Design,MuleSoft,197000.0,103000.0
+641,CA,Game Design,NZXT,89000.0,42000.0
+642,CA,Game Design,"Netmarble US, Inc.",63000.0,34000.0
+643,CA,Game Design,Niantic,123000.0,62000.0
+644,CA,Game Design,Nordstrom,121000.0,56000.0
+645,CA,Game Design,Nox Solutions,66000.0,46000.0
+646,CA,Game Design,ONEHOPE,78000.0,41000.0
+647,CA,Game Design,Oaktree Capital Management,101000.0,56000.0
+648,CA,Game Design,Omaze,130000.0,72000.0
+649,CA,Game Design,On Board Experiential Marketing,124000.0,66000.0
+650,CA,Game Design,"Operating Company ACTIVISION PUBLISHING, INC",96500.0,45000.0
+651,CA,Game Design,PUBG,95000.0,50000.0
+652,CA,Game Design,"Paula's Choice, LLC",73000.0,41000.0
+653,CA,Game Design,Pocket Gems,92000.0,48500.0
+654,CA,Game Design,REACH Technologies,88000.0,57000.0
+655,CA,Game Design,Reformation,88000.0,54000.0
+656,CA,Game Design,Regal Medical Group,58000.0,32000.0
+657,CA,Game Design,Respawn Entertainment,134500.0,81000.0
+658,CA,Game Design,Riot Games,150000.0,78000.0
+659,CA,Game Design,Roblox,295000.0,156000.0
+660,CA,Game Design,Ryptic Room Escape,92000.0,61000.0
+661,CA,Game Design,"SLEDGEHAMMER GAMES, INC.",91500.0,49000.0
+662,CA,Game Design,Salesforce,207000.0,111000.0
+663,CA,Game Design,Sinclair Broadcast Group,52000.0,29000.0
+664,CA,Game Design,Skillz Inc.,142000.0,87000.0
+665,CA,Game Design,Sony PlayStation,106500.0,55000.0
+666,CA,Game Design,Southern California Institute of Technology,50000.0,26000.0
+667,CA,Game Design,"Spear Marketing Group, Inc",82000.0,43000.0
+668,CA,Game Design,"Stacy and Witbeck, Inc.",70000.0,38000.0
+669,CA,Game Design,Stitch Fix,104000.0,64000.0
+670,CA,Game Design,"Sunwest Mortgage Company, Inc.",83000.0,44000.0
+671,CA,Game Design,Super Lucky Casino,105500.0,81000.0
+672,CA,Game Design,Survios,111000.0,56000.0
+673,CA,Game Design,TechStyle,69000.0,42000.0
+674,CA,Game Design,TechStyle Fashion Group,75000.0,41000.0
+675,CA,Game Design,Tencent,97000.0,58000.0
+676,CA,Game Design,The Aerospace Corporation,103000.0,54000.0
+677,CA,Game Design,The HydraFacial Company,67000.0,37000.0
+678,CA,Game Design,The UPS Store,47000.0,26000.0
+679,CA,Game Design,Trion Worlds,91000.0,80000.0
+680,CA,Game Design,Turner Broadcasting,172500.0,108000.0
+681,CA,Game Design,Twitch,185000.0,96000.0
+682,CA,Game Design,Twitter,126000.0,79000.0
+683,CA,Game Design,Ubisoft,99000.0,51000.0
+684,CA,Game Design,Unity Technologies,187000.0,119000.0
+685,CA,Game Design,University of Southern California,65000.0,39000.0
+686,CA,Game Design,"Upstart Network, Inc.",104000.0,62000.0
+687,CA,Game Design,Versus Systems,85000.0,76000.0
+688,CA,Game Design,ViacomCBS,90000.0,47000.0
+689,CA,Game Design,Visa,95000.0,55000.0
+690,CA,Game Design,WB Games,73000.0,39000.0
+691,CA,Game Design,WB Games San Francisco,151000.0,98000.0
+692,CA,Game Design,Walt Disney Animation Studios,141000.0,80000.0
+693,CA,Game Design,Walt Disney Company,91000.0,45000.0
+694,CA,Game Design,Warner Bros. Entertainment Group,109500.0,60500.0
+695,CA,Game Design,Within,73000.0,35000.0
+696,CA,Game Design,"Zinus, Inc",59000.0,33000.0
+697,CA,Game Design,Zynga,107000.0,50500.0
+698,CA,Game Design,art.com,69000.0,39000.0
+699,CA,Game Design,iconmobile GmbH,123000.0,65000.0
+700,CA,Game Design,rue21,57000.0,35000.0
+701,CA,UI/UX Researcher,7Summits,221000.0,116000.0
+702,CA,UI/UX Researcher,AbleTo,166000.0,101000.0
+703,CA,UI/UX Researcher,Academia.edu,171500.0,104500.0
+704,CA,UI/UX Researcher,Adobe,136000.0,81500.0
+705,CA,UI/UX Researcher,Airbnb,211500.0,119000.0
+706,CA,UI/UX Researcher,Alibaba,134000.0,81000.0
+707,CA,UI/UX Researcher,AllianceIT,87000.0,42000.0
+708,CA,UI/UX Researcher,Allstate,134000.0,79000.0
+709,CA,UI/UX Researcher,Amazon,184000.0,115000.0
+710,CA,UI/UX Researcher,Amplitude Analytics,205000.0,129000.0
+711,CA,UI/UX Researcher,Asana,134500.0,82000.0
+712,CA,UI/UX Researcher,Atlassian,203000.0,128000.0
+713,CA,UI/UX Researcher,Atomic,192000.0,121000.0
+714,CA,UI/UX Researcher,August Home,146000.0,73000.0
+715,CA,UI/UX Researcher,Aura,157000.0,96000.0
+716,CA,UI/UX Researcher,Autodesk,160000.0,99000.0
+717,CA,UI/UX Researcher,Automattic,236000.0,151000.0
+718,CA,UI/UX Researcher,B-Stock Solutions Inc.,173000.0,108000.0
+719,CA,UI/UX Researcher,BNP Paribas,42000.0,28000.0
+720,CA,UI/UX Researcher,BOLD,114000.0,56000.0
+721,CA,UI/UX Researcher,BPM,106000.0,48000.0
+722,CA,UI/UX Researcher,Banana Republic,127000.0,68000.0
+723,CA,UI/UX Researcher,Bank of the West,44000.0,28000.0
+724,CA,UI/UX Researcher,Berkeley Lights,177000.0,109000.0
+725,CA,UI/UX Researcher,Big Fish Games,203000.0,105000.0
+726,CA,UI/UX Researcher,BlackRock,256000.0,138000.0
+727,CA,UI/UX Researcher,Brex,179000.0,110000.0
+728,CA,UI/UX Researcher,C3.ai,167000.0,104000.0
+729,CA,UI/UX Researcher,CIA,140000.0,83500.0
+730,CA,UI/UX Researcher,CVHCare Home Health,120000.0,46000.0
+731,CA,UI/UX Researcher,California Department of Industrial Relations,80000.0,45000.0
+732,CA,UI/UX Researcher,Capital One,155000.0,96000.0
+733,CA,UI/UX Researcher,Castlight Health,232000.0,145000.0
+734,CA,UI/UX Researcher,"Central Business Solutions, Inc",96000.0,47000.0
+735,CA,UI/UX Researcher,Chan Zuckerberg Initiative,235000.0,146500.0
+736,CA,UI/UX Researcher,Change.org,219000.0,136000.0
+737,CA,UI/UX Researcher,Chime,168000.0,71000.0
+738,CA,UI/UX Researcher,Cisco Systems,220000.0,140000.0
+739,CA,UI/UX Researcher,ClimateWorks Foundation,48000.0,25000.0
+740,CA,UI/UX Researcher,Coinbase,204000.0,128000.0
+741,CA,UI/UX Researcher,Collective Health,192000.0,122000.0
+742,CA,UI/UX Researcher,Conduent,36000.0,24000.0
+743,CA,UI/UX Researcher,Course Hero,116000.0,70000.0
+744,CA,UI/UX Researcher,Credible,172000.0,106000.0
+745,CA,UI/UX Researcher,Cruise,214000.0,135000.0
+746,CA,UI/UX Researcher,Curology,233000.0,144000.0
+747,CA,UI/UX Researcher,DISH,130000.0,95000.0
+748,CA,UI/UX Researcher,Databricks,250000.0,131000.0
+749,CA,UI/UX Researcher,Dell Technologies,165000.0,102000.0
+750,CA,UI/UX Researcher,Dharma,184000.0,154000.0
+751,CA,UI/UX Researcher,Discord,189000.0,118000.0
+752,CA,UI/UX Researcher,Doctor On Demand,168000.0,104000.0
+753,CA,UI/UX Researcher,DocuSign,196000.0,112000.0
+754,CA,UI/UX Researcher,DoorDash,134000.0,83000.0
+755,CA,UI/UX Researcher,Dropbox,201000.0,124000.0
+756,CA,UI/UX Researcher,Dun &amp; Bradstreet,129000.0,64000.0
+757,CA,UI/UX Researcher,Dwell,123000.0,61000.0
+758,CA,UI/UX Researcher,EPAM Systems,340000.0,177000.0
+759,CA,UI/UX Researcher,Eaze,174000.0,107000.0
+760,CA,UI/UX Researcher,Energy and Environmental Economics,161000.0,68000.0
+761,CA,UI/UX Researcher,Envision LLC,124000.0,60000.0
+762,CA,UI/UX Researcher,Epic,152500.0,92500.0
+763,CA,UI/UX Researcher,Eventbrite,172000.0,108000.0
+764,CA,UI/UX Researcher,Extractable,99000.0,77000.0
+765,CA,UI/UX Researcher,Facebook,179000.0,114000.0
+766,CA,UI/UX Researcher,Faire,172000.0,102000.0
+767,CA,UI/UX Researcher,Fandom,184000.0,114000.0
+768,CA,UI/UX Researcher,"Five9, Inc.",163000.0,84000.0
+769,CA,UI/UX Researcher,Fivetran,185000.0,115000.0
+770,CA,UI/UX Researcher,Flexport,152000.0,94000.0
+771,CA,UI/UX Researcher,Forward,196000.0,122000.0
+772,CA,UI/UX Researcher,Front App,179000.0,112000.0
+773,CA,UI/UX Researcher,Fuze,120000.0,99000.0
+774,CA,UI/UX Researcher,GENENTECH,87000.0,47000.0
+775,CA,UI/UX Researcher,Gap Inc.,126000.0,61000.0
+776,CA,UI/UX Researcher,Gilead Sciences,144000.0,85000.0
+777,CA,UI/UX Researcher,GoDaddy,158000.0,99000.0
+778,CA,UI/UX Researcher,Google,209000.0,96000.0
+779,CA,UI/UX Researcher,"Grammarly, Inc.",142000.0,86000.0
+780,CA,UI/UX Researcher,Grand Rounds,170000.0,104000.0
+781,CA,UI/UX Researcher,Gusto,170000.0,108000.0
+782,CA,UI/UX Researcher,HOVER,155000.0,97000.0
+783,CA,UI/UX Researcher,Handshake,156000.0,97000.0
+784,CA,UI/UX Researcher,Idean,197000.0,104000.0
+785,CA,UI/UX Researcher,Industrial Light &amp; Magic,126000.0,61000.0
+786,CA,UI/UX Researcher,Informatica,203000.0,107000.0
+787,CA,UI/UX Researcher,IntelliPro Group Inc.,150000.0,81000.0
+788,CA,UI/UX Researcher,Kaiser Permanente,126000.0,86000.0
+789,CA,UI/UX Researcher,Kiva.org,139000.0,85000.0
+790,CA,UI/UX Researcher,Lab126,163000.0,86000.0
+791,CA,UI/UX Researcher,Lawrence Berkeley Lab,74000.0,39000.0
+792,CA,UI/UX Researcher,Lawrence Berkeley National Laboratory,125000.0,78000.0
+793,CA,UI/UX Researcher,LendingClub,208000.0,132000.0
+794,CA,UI/UX Researcher,LinkedIn,182000.0,114000.0
+795,CA,UI/UX Researcher,Lyft,131000.0,79000.0
+796,CA,UI/UX Researcher,MasterClass,165000.0,103000.0
+797,CA,UI/UX Researcher,Matrix Resources,187000.0,117000.0
+798,CA,UI/UX Researcher,Medallia,131000.0,79000.0
+799,CA,UI/UX Researcher,Meraki,161000.0,101000.0
+800,CA,UI/UX Researcher,Minted,227000.0,145000.0
+801,CA,UI/UX Researcher,Morrison &amp; Foerster,101000.0,54000.0
+802,CA,UI/UX Researcher,Movoto,135000.0,67000.0
+803,CA,UI/UX Researcher,MuleSoft,197000.0,103000.0
+804,CA,UI/UX Researcher,Myriad Genetics Inc.,202000.0,105000.0
+805,CA,UI/UX Researcher,New Relic,171000.0,106000.0
+806,CA,UI/UX Researcher,Nextdoor,199000.0,103000.0
+807,CA,UI/UX Researcher,Ngm Biopharmaceuticals,183000.0,113000.0
+808,CA,UI/UX Researcher,Niantic,153000.0,77000.0
+809,CA,UI/UX Researcher,NimbleRx,168000.0,102000.0
+810,CA,UI/UX Researcher,Nomis Solutions,161000.0,83000.0
+811,CA,UI/UX Researcher,NuORDER,189000.0,98000.0
+812,CA,UI/UX Researcher,Nurx,147000.0,80000.0
+813,CA,UI/UX Researcher,ON24,141000.0,72000.0
+814,CA,UI/UX Researcher,OSIsoft,127000.0,78000.0
+815,CA,UI/UX Researcher,Old Navy,173000.0,96000.0
+816,CA,UI/UX Researcher,On Board Experiential Marketing,155000.0,75000.0
+817,CA,UI/UX Researcher,Opendoor,206000.0,130000.0
+818,CA,UI/UX Researcher,Oportun. Inc,177000.0,112000.0
+819,CA,UI/UX Researcher,Oracle,164000.0,90000.0
+820,CA,UI/UX Researcher,Oracle ,196500.0,96500.0
+821,CA,UI/UX Researcher,Parexel,138000.0,86500.0
+822,CA,UI/UX Researcher,Patreon,217000.0,127000.0
+823,CA,UI/UX Researcher,Pearson,116000.0,70000.0
+824,CA,UI/UX Researcher,Pivotal,181000.0,114000.0
+825,CA,UI/UX Researcher,Postmates,178000.0,112000.0
+826,CA,UI/UX Researcher,Prosper,120000.0,71000.0
+827,CA,UI/UX Researcher,Qualia,121000.0,73000.0
+828,CA,UI/UX Researcher,Rally Health,186000.0,116000.0
+829,CA,UI/UX Researcher,Red Ventures,133000.0,80500.0
+830,CA,UI/UX Researcher,Reddit,178000.0,113000.0
+831,CA,UI/UX Researcher,Redfin,148000.0,93000.0
+832,CA,UI/UX Researcher,Reputation.com,178000.0,112000.0
+833,CA,UI/UX Researcher,RingCentral,202000.0,106000.0
+834,CA,UI/UX Researcher,Roblox,235000.0,148000.0
+835,CA,UI/UX Researcher,SADA,134000.0,67000.0
+836,CA,UI/UX Researcher,SAP,141000.0,76000.0
+837,CA,UI/UX Researcher,Salesforce,216500.0,127500.0
+838,CA,UI/UX Researcher,Samsara,184000.0,115000.0
+839,CA,UI/UX Researcher,Samsung Research America,194000.0,102000.0
+840,CA,UI/UX Researcher,Samuel Merritt University,112000.0,59000.0
+841,CA,UI/UX Researcher,Sauce Labs,163000.0,100000.0
+842,CA,UI/UX Researcher,Scale AI,106000.0,61000.0
+843,CA,UI/UX Researcher,Secureworks,109000.0,60000.0
+844,CA,UI/UX Researcher,ServiceNow,295000.0,188000.0
+845,CA,UI/UX Researcher,Shippo,147500.0,87000.0
+846,CA,UI/UX Researcher,Shipt,179000.0,113000.0
+847,CA,UI/UX Researcher,Sift,215000.0,135000.0
+848,CA,UI/UX Researcher,Silicon Valley Bank,181000.0,95000.0
+849,CA,UI/UX Researcher,Skillz Inc.,142000.0,87000.0
+850,CA,UI/UX Researcher,Slack,218000.0,139000.0
+851,CA,UI/UX Researcher,"Snapdocs, Inc.",120500.0,75000.0
+852,CA,UI/UX Researcher,Snowflake,203000.0,127000.0
+853,CA,UI/UX Researcher,SoFi,176000.0,109000.0
+854,CA,UI/UX Researcher,Sonder,190000.0,120000.0
+855,CA,UI/UX Researcher,Spin Electric Scooters,138000.0,85000.0
+856,CA,UI/UX Researcher,Spotify,263000.0,144000.0
+857,CA,UI/UX Researcher,Square,247000.0,155500.0
+858,CA,UI/UX Researcher,Stitch Fix,194500.0,123500.0
+859,CA,UI/UX Researcher,Sumo Logic,151000.0,94000.0
+860,CA,UI/UX Researcher,SurveyMonkey,125500.0,54500.0
+861,CA,UI/UX Researcher,Sutter Health,143000.0,74000.0
+862,CA,UI/UX Researcher,Synack,95000.0,52000.0
+863,CA,UI/UX Researcher,Synthego,58000.0,32000.0
+864,CA,UI/UX Researcher,Teespring,195000.0,121000.0
+865,CA,UI/UX Researcher,The Clorox Company,141000.0,86000.0
+866,CA,UI/UX Researcher,The Game Group,92000.0,52000.0
+867,CA,UI/UX Researcher,The Trade Desk,172000.0,109000.0
+868,CA,UI/UX Researcher,ThousandEyes,220000.0,138000.0
+869,CA,UI/UX Researcher,Thumbtack,156000.0,97500.0
+870,CA,UI/UX Researcher,Tile,145000.0,89000.0
+871,CA,UI/UX Researcher,Trion Worlds,91000.0,80000.0
+872,CA,UI/UX Researcher,"TuSimple, Inc.",168000.0,102000.0
+873,CA,UI/UX Researcher,Turo,158000.0,97000.0
+874,CA,UI/UX Researcher,Twitch,185000.0,96000.0
+875,CA,UI/UX Researcher,Twitter,216000.0,134000.0
+876,CA,UI/UX Researcher,UCSF Medical Center,50000.0,30000.0
+877,CA,UI/UX Researcher,US Bank,161000.0,85000.0
+878,CA,UI/UX Researcher,Uber,157500.0,91500.0
+879,CA,UI/UX Researcher,Unity Technologies,187000.0,119000.0
+880,CA,UI/UX Researcher,UniversalGiving,115000.0,56000.0
+881,CA,UI/UX Researcher,University of California Berkeley,94000.0,53000.0
+882,CA,UI/UX Researcher,University of California San Francisco,53000.0,31000.0
+883,CA,UI/UX Researcher,"University of California, Berkeley",101000.0,55000.0
+884,CA,UI/UX Researcher,Updater,139000.0,76000.0
+885,CA,UI/UX Researcher,Upwork,178000.0,111500.0
+886,CA,UI/UX Researcher,VMware,207000.0,129000.0
+887,CA,UI/UX Researcher,VSCO,205000.0,128000.0
+888,CA,UI/UX Researcher,Varo Bank,104000.0,51000.0
+889,CA,UI/UX Researcher,Veracyte,64000.0,35000.0
+890,CA,UI/UX Researcher,Verkada,244000.0,127000.0
+891,CA,UI/UX Researcher,Volkswagen Group of America,171000.0,86000.0
+892,CA,UI/UX Researcher,Volta Charging,190000.0,99000.0
+893,CA,UI/UX Researcher,WW International,173000.0,106500.0
+894,CA,UI/UX Researcher,WW International (formerly Weight Watchers),173000.0,107000.0
+895,CA,UI/UX Researcher,Walmart,224000.0,129500.0
+896,CA,UI/UX Researcher,Walt Disney Company,105000.0,50000.0
+897,CA,UI/UX Researcher,Wilbur-Ellis Company,102000.0,57000.0
+898,CA,UI/UX Researcher,Wish,161000.0,100000.0
+899,CA,UI/UX Researcher,Y Media Labs Inc.,181000.0,112000.0
+900,CA,UI/UX Researcher,ZOOM+Care,199000.0,104000.0
+901,CA,UI/UX Researcher,Zendesk,223000.0,140000.0
+902,CA,UI/UX Researcher,Zignal Labs,146000.0,89000.0
+903,CA,UI/UX Researcher,Zymergen,74000.0,43000.0
+904,CA,UI/UX Researcher,Zynga,120000.0,63000.0
+905,CA,UI/UX Researcher,eBay Inc.,295000.0,131000.0
+906,CA,UI/UX Researcher,iRhythm,208000.0,131000.0
+907,CA,UI/UX Researcher,projekt202,132000.0,82000.0
+908,CA,UI/UX Researcher,shopkick,127000.0,77000.0
+909,CA,UI/UX Researcher,thredUP,141000.0,84000.0
+910,CA,VR Engineering,Adobe,199000.0,124000.0
+911,CA,VR Engineering,Amazon,159500.0,138000.0
+912,CA,VR Engineering,Analog Devices,177000.0,67000.0
+913,CA,VR Engineering,Apple,123500.0,49500.0
+914,CA,VR Engineering,Arup,152000.0,75000.0
+915,CA,VR Engineering,Eaton,99000.0,65000.0
+916,CA,VR Engineering,Electronic Arts,149000.0,76000.0
+917,CA,VR Engineering,Facebook,163000.0,93500.0
+918,CA,VR Engineering,IMVU,187500.0,104000.0
+919,CA,VR Engineering,Industrial Light &amp; Magic,111000.0,52500.0
+920,CA,VR Engineering,IntelliPro Group Inc.,140000.0,111000.0
+921,CA,VR Engineering,Magic Leap - Multiple Locations,98000.0,54500.0
+922,CA,VR Engineering,Moog Inc.,114000.0,67000.0
+923,CA,VR Engineering,Oracle,55000.0,27000.0
+924,CA,VR Engineering,Penumbra,157000.0,73000.0
+925,CA,VR Engineering,Penumbra US,70000.0,42000.0
+926,CA,VR Engineering,Providence Health &amp; Services,140000.0,68000.0
+927,CA,VR Engineering,Respawn Entertainment,202000.0,102000.0
+928,CA,VR Engineering,Spin,168000.0,93000.0
+929,CA,VR Engineering,Spin Electric Scooters,198000.0,74000.0
+930,CA,VR Engineering,Survios,92000.0,72000.0
+931,CA,VR Engineering,"TuSimple, Inc.",148000.0,73000.0
+932,CA,VR Engineering,Turner Broadcasting,172000.0,87000.0
+933,CA,VR Engineering,Udacity,169000.0,83000.0
+934,CA,VR Engineering,Unity Technologies,205000.0,105000.0
+935,CA,VR Engineering,Verizon,141000.0,72000.0
+936,CA,VR Engineering,Volkswagen Group of America,178000.0,101000.0
+937,CA,VR Engineering,Walt Disney Company,153500.0,75500.0
+938,CA,VR Engineering,Warner Bros. Entertainment Group,141000.0,70000.0
+939,CA,VR Engineering,Warner Content &amp; Enterprise Technology,157000.0,79000.0
+940,DC,Data Scientist,22nd Century Technologies,114000.0,78500.0
+941,DC,Data Scientist,2U,131000.0,79000.0
+942,DC,Data Scientist,AARP,100000.0,55000.0
+943,DC,Data Scientist,"ADNET Systems, Inc.",126000.0,76000.0
+944,DC,Data Scientist,ANSER,80000.0,43000.0
+945,DC,Data Scientist,ASET Partners,116000.0,69000.0
+946,DC,Data Scientist,ASRC Federal Holding Company,95000.0,54000.0
+947,DC,Data Scientist,AVANADE,114000.0,60000.0
+948,DC,Data Scientist,Absolute Business Solutions Corp,145000.0,87000.0
+949,DC,Data Scientist,Accenture,121000.0,72000.0
+950,DC,Data Scientist,Advanced BioScience Laboratories,127000.0,56000.0
+951,DC,Data Scientist,Advanced Bioscience Laboratories,127000.0,56000.0
+952,DC,Data Scientist,Airlines Reporting Corporation (ARC),135000.0,72000.0
+953,DC,Data Scientist,Akima Infrastructure Services,125000.0,74500.0
+954,DC,Data Scientist,Akima Management Services,126000.0,75000.0
+955,DC,Data Scientist,Amazon,138000.0,83000.0
+956,DC,Data Scientist,Amazon.com Services LLC,123000.0,79000.0
+957,DC,Data Scientist,American Chemical Society,105000.0,62000.0
+958,DC,Data Scientist,American College of Radiology,61000.0,33000.0
+959,DC,Data Scientist,American Geophysical Union,73000.0,34000.0
+960,DC,Data Scientist,Amida Technology Solutions,88000.0,47000.0
+961,DC,Data Scientist,"Amyx, Inc.",98000.0,54000.0
+962,DC,Data Scientist,Analytica,111000.0,65000.0
+963,DC,Data Scientist,Applied Information Sciences,130000.0,70000.0
+964,DC,Data Scientist,"Assured Information Security, Inc. (AIS)",152000.0,93000.0
+965,DC,Data Scientist,AstraZeneca,127000.0,66000.0
+966,DC,Data Scientist,Atlas Research,92000.0,52000.0
+967,DC,Data Scientist,Attain,105000.0,61000.0
+968,DC,Data Scientist,Avalonbay Communities,85000.0,75000.0
+969,DC,Data Scientist,Avantus Federal,97000.0,58000.0
+970,DC,Data Scientist,"Aveshka, Inc.",135000.0,81000.0
+971,DC,Data Scientist,Axle Informatics,127000.0,81000.0
+972,DC,Data Scientist,BAE Systems,116000.0,70000.0
+973,DC,Data Scientist,BAE Systems USA,119000.0,72000.0
+974,DC,Data Scientist,BRMi,110000.0,65000.0
+975,DC,Data Scientist,Barbaricum,81000.0,44000.0
+976,DC,Data Scientist,Battelle,203000.0,126000.0
+977,DC,Data Scientist,BlueLabs,98000.0,58000.0
+978,DC,Data Scientist,BlueLabs Analytics,98000.0,58000.0
+979,DC,Data Scientist,Boeing Intelligence &amp; Analytics,112000.0,61000.0
+980,DC,Data Scientist,Booz Allen Hamilton,100500.0,57500.0
+981,DC,Data Scientist,Booz Allen Hamilton Inc.,106500.0,61000.0
+982,DC,Data Scientist,Bowie State University,61000.0,33000.0
+983,DC,Data Scientist,"Bravo Consulting Group, LLC",90000.0,49000.0
+984,DC,Data Scientist,"Bright MLS, Inc",121000.0,67000.0
+985,DC,Data Scientist,Brillient,85000.0,45000.0
+986,DC,Data Scientist,Brivo,176000.0,95000.0
+987,DC,Data Scientist,Buchanan &amp; Edwards,123000.0,73000.0
+988,DC,Data Scientist,By Light Professional IT Services LLC,153000.0,90000.0
+989,DC,Data Scientist,C3.ai,142000.0,88000.0
+990,DC,Data Scientist,CACI,153500.0,94000.0
+991,DC,Data Scientist,CACI International,165000.0,101000.0
+992,DC,Data Scientist,CALIBRE,88000.0,49000.0
+993,DC,Data Scientist,CAQH,194000.0,122000.0
+994,DC,Data Scientist,CEDENT,157000.0,115000.0
+995,DC,Data Scientist,CIA,160000.0,98000.0
+996,DC,Data Scientist,CNA Corporation,130500.0,72000.0
+997,DC,Data Scientist,Cape Fox Government Services,72000.0,38000.0
+998,DC,Data Scientist,Cape Fox Shared Services,84000.0,46000.0
+999,DC,Data Scientist,Capital One,115000.0,70500.0
+1000,DC,Data Scientist,Capital One - US,130000.0,79000.0
+1001,DC,Data Scientist,Cedent Consulting,155000.0,119000.0
+1002,DC,Data Scientist,Centauri,176000.0,109000.0
+1003,DC,Data Scientist,Center for Applied Linguistics,76000.0,33000.0
+1004,DC,Data Scientist,"Central Business Solutions, Inc",85000.0,48000.0
+1005,DC,Data Scientist,Change Healthcare,121000.0,67000.0
+1006,DC,Data Scientist,Chenega Corporation,125000.0,67000.0
+1007,DC,Data Scientist,Children's National Hospital,95000.0,56000.0
+1008,DC,Data Scientist,Civis Analytics,167000.0,105000.0
+1009,DC,Data Scientist,ClearEdge,127000.0,60000.0
+1010,DC,Data Scientist,"Culmen International, LLC",117000.0,70000.0
+1011,DC,Data Scientist,DPR Construction,155000.0,88000.0
+1012,DC,Data Scientist,"DRT Strategies, Inc.",69000.0,40000.0
+1013,DC,Data Scientist,DataLab USA,116000.0,67000.0
+1014,DC,Data Scientist,DataRobot,141000.0,87000.0
+1015,DC,Data Scientist,Defense Counterintelligence and Security Agency,139000.0,85000.0
+1016,DC,Data Scientist,Deloitte,124000.0,74000.0
+1017,DC,Data Scientist,Dev Technology,140000.0,72000.0
+1018,DC,Data Scientist,Dexis Consulting Group,133000.0,78000.0
+1019,DC,Data Scientist,"DirectViz Solutions, LLC",117000.0,69000.0
+1020,DC,Data Scientist,Dun &amp; Bradstreet,151000.0,92000.0
+1021,DC,Data Scientist,ECS Federal LLC,151000.0,92000.0
+1022,DC,Data Scientist,"ECS Federal, LLC",94000.0,51000.0
+1023,DC,Data Scientist,"ENSCO, Inc.",72000.0,39000.0
+1024,DC,Data Scientist,ERPi,101000.0,59000.0
+1025,DC,Data Scientist,EY,151000.0,92000.0
+1026,DC,Data Scientist,Elder Research Inc,126500.0,78000.0
+1027,DC,Data Scientist,Everytown for Gun Safety,118000.0,68000.0
+1028,DC,Data Scientist,Evidera,138000.0,83000.0
+1029,DC,Data Scientist,Excella Consulting,117500.0,66000.0
+1030,DC,Data Scientist,Expanse,87000.0,46000.0
+1031,DC,Data Scientist,Expression Networks,193000.0,116000.0
+1032,DC,Data Scientist,FINRA,115000.0,68000.0
+1033,DC,Data Scientist,Facebook,142000.0,86000.0
+1034,DC,Data Scientist,Federal Energy Regulatory Commission,89000.0,50000.0
+1035,DC,Data Scientist,"FireEye, Inc.",145000.0,90000.0
+1036,DC,Data Scientist,First American,148000.0,92000.0
+1037,DC,Data Scientist,Freddie Mac,168500.0,90000.0
+1038,DC,Data Scientist,GEICO,113000.0,62000.0
+1039,DC,Data Scientist,GSK,117000.0,68000.0
+1040,DC,Data Scientist,GTL,115000.0,60000.0
+1041,DC,Data Scientist,General Dynamics Information Technology,114000.0,66000.0
+1042,DC,Data Scientist,George Washington University,118000.0,64000.0
+1043,DC,Data Scientist,Georgetown University,103000.0,62000.0
+1044,DC,Data Scientist,Grant Thornton,114000.0,68000.0
+1045,DC,Data Scientist,Guidehouse,167000.0,102000.0
+1046,DC,Data Scientist,Halfaker and Associates,120000.0,72000.0
+1047,DC,Data Scientist,Henry M Jackson Foundation For The Advan,97000.0,57000.0
+1048,DC,Data Scientist,Howard Hughes Medical Institute,231000.0,144000.0
+1049,DC,Data Scientist,Howard University,96000.0,53000.0
+1050,DC,Data Scientist,Human Resources Research Organization,127000.0,76000.0
+1051,DC,Data Scientist,Huntington Ingalls Industries Inc.,114000.0,64000.0
+1052,DC,Data Scientist,"I.M. Systems Group, Inc.",88000.0,51000.0
+1053,DC,Data Scientist,IBM,137000.0,83500.0
+1054,DC,Data Scientist,ICF,104000.0,53000.0
+1055,DC,Data Scientist,ID.me,99000.0,52000.0
+1056,DC,Data Scientist,IT Resonance Inc,128000.0,76000.0
+1057,DC,Data Scientist,ITA International,165000.0,102000.0
+1058,DC,Data Scientist,"Ideal Innovations, Inc.",110000.0,65000.0
+1059,DC,Data Scientist,Indotronix International Corporation,148000.0,86000.0
+1060,DC,Data Scientist,Inova Health System,435000.0,219000.0
+1061,DC,Data Scientist,Intelligent Automation,123000.0,60000.0
+1062,DC,Data Scientist,Inter-American Development Bank,77000.0,41000.0
+1063,DC,Data Scientist,Internal Revenue Service,119000.0,71000.0
+1064,DC,Data Scientist,IronNet Cybersecurity,243500.0,137000.0
+1065,DC,Data Scientist,Jacobs,143000.0,87000.0
+1066,DC,Data Scientist,Johns Hopkins Applied Physics Laboratory (APL),160000.0,100000.0
+1067,DC,Data Scientist,Johns Hopkins University Applied Physics Laboratory,157000.0,90000.0
+1068,DC,Data Scientist,KPMG,110000.0,63000.0
+1069,DC,Data Scientist,KeyBank,157000.0,97000.0
+1070,DC,Data Scientist,Kingfisher Systems,99000.0,86000.0
+1071,DC,Data Scientist,Knowesis Inc.,173000.0,106000.0
+1072,DC,Data Scientist,"Koniag, Inc.",118000.0,66000.0
+1073,DC,Data Scientist,LMI,135500.0,82000.0
+1074,DC,Data Scientist,LOCKHEED MARTIN CORPORATION,150000.0,93000.0
+1075,DC,Data Scientist,Leidos,134000.0,79000.0
+1076,DC,Data Scientist,LexisNexis Risk Solutions,132000.0,79000.0
+1077,DC,Data Scientist,Lockheed Martin,118000.0,74000.0
+1078,DC,Data Scientist,Logistics Management Institute,76000.0,41000.0
+1079,DC,Data Scientist,MAXIMUS,77500.0,42500.0
+1080,DC,Data Scientist,MITRE,134500.0,83000.0
+1081,DC,Data Scientist,MOSAIC Technologies Group,150000.0,89000.0
+1082,DC,Data Scientist,Macro Solutions,143000.0,77000.0
+1083,DC,Data Scientist,ManTech,107000.0,63000.0
+1084,DC,Data Scientist,Maxar Technologies,125000.0,75000.0
+1085,DC,Data Scientist,McKinsey &amp; Company,135000.0,81000.0
+1086,DC,Data Scientist,"Metron, Inc.",122000.0,91000.0
+1087,DC,Data Scientist,"Metronome, LLC",136000.0,74000.0
+1088,DC,Data Scientist,Mid-Atlantic Permanente Medical Group PC,101000.0,57000.0
+1089,DC,Data Scientist,MindX,116000.0,70000.0
+1090,DC,Data Scientist,Mission Essential,130000.0,79000.0
+1091,DC,Data Scientist,Mitre Corporation,132000.0,81000.0
+1092,DC,Data Scientist,NJVC,162000.0,89000.0
+1093,DC,Data Scientist,NT Concepts,120000.0,64000.0
+1094,DC,Data Scientist,National Institutes of Health,118000.0,70000.0
+1095,DC,Data Scientist,National Telecommunications and Information Administration,112000.0,56000.0
+1096,DC,Data Scientist,"Navstar, Inc.",126000.0,74000.0
+1097,DC,Data Scientist,Navy Federal Credit Union,120500.0,63500.0
+1098,DC,Data Scientist,Nestle USA,123000.0,74000.0
+1099,DC,Data Scientist,NetImpact Strategies Inc.,103000.0,60000.0
+1100,DC,Data Scientist,NewDay USA,75000.0,42000.0
+1101,DC,Data Scientist,NewGen Technologies,119000.0,71000.0
+1102,DC,Data Scientist,Next Century,149000.0,86000.0
+1103,DC,Data Scientist,Noblis,117000.0,40500.0
+1104,DC,Data Scientist,Nolij Consulting LLC,93000.0,53000.0
+1105,DC,Data Scientist,NorthTide Group,127000.0,74000.0
+1106,DC,Data Scientist,Northrop Grumman,195000.0,123000.0
+1107,DC,Data Scientist,Novavax,107000.0,46000.0
+1108,DC,Data Scientist,Novetta,173500.0,106500.0
+1109,DC,Data Scientist,OneGlobe LLC,182500.0,105500.0
+1110,DC,Data Scientist,Optoro,98000.0,56000.0
+1111,DC,Data Scientist,POLITICO,172000.0,104000.0
+1112,DC,Data Scientist,Par Government Systems Corporation,102000.0,63000.0
+1113,DC,Data Scientist,Peraton,153000.0,84000.0
+1114,DC,Data Scientist,Perspecta,128000.0,78000.0
+1115,DC,Data Scientist,Pivotal Software,149000.0,112000.0
+1116,DC,Data Scientist,Planned Systems International,94000.0,51000.0
+1117,DC,Data Scientist,Praescient Analytics,128000.0,75500.0
+1118,DC,Data Scientist,Praxis Engineering,155000.0,95000.0
+1119,DC,Data Scientist,QVine Corporation,144000.0,87000.0
+1120,DC,Data Scientist,QinetiQ North America,119000.0,71000.0
+1121,DC,Data Scientist,QuantiTech LLC,182000.0,111000.0
+1122,DC,Data Scientist,REI Systems,112000.0,69000.0
+1123,DC,Data Scientist,RELX Group,110000.0,62000.0
+1124,DC,Data Scientist,Raytheon Intelligence &amp; Space,192000.0,117000.0
+1125,DC,Data Scientist,Red Arch Solutions,193000.0,118000.0
+1126,DC,Data Scientist,Redhorse Corporation,129000.0,77000.0
+1127,DC,Data Scientist,RiskSpan,107000.0,60000.0
+1128,DC,Data Scientist,Royce Geospatial,127000.0,95000.0
+1129,DC,Data Scientist,SADA,139000.0,73000.0
+1130,DC,Data Scientist,SAIC,113000.0,68000.0
+1131,DC,Data Scientist,Salesforce,142000.0,87000.0
+1132,DC,Data Scientist,Salient CRGT,104000.0,62000.0
+1133,DC,Data Scientist,SemanticBits LLC,140000.0,87000.0
+1134,DC,Data Scientist,SeraCare Life Sciences,101000.0,42000.0
+1135,DC,Data Scientist,Sharpedge Solutions Inc,87000.0,48000.0
+1136,DC,Data Scientist,Sierra Nevada Corporation,129000.0,78000.0
+1137,DC,Data Scientist,Snagajob,116000.0,65000.0
+1138,DC,Data Scientist,Softthink,112000.0,96000.0
+1139,DC,Data Scientist,Spin Systems,89000.0,49000.0
+1140,DC,Data Scientist,SpringML,96000.0,92000.0
+1141,DC,Data Scientist,Spry Methods,91000.0,48000.0
+1142,DC,Data Scientist,Storyblocks,199000.0,113000.0
+1143,DC,Data Scientist,"Strategic Analysis, Inc.",101000.0,56000.0
+1144,DC,Data Scientist,Systems Evolution,128000.0,84000.0
+1145,DC,Data Scientist,"Systems Planning and Analysis, Inc.",101000.0,60000.0
+1146,DC,Data Scientist,"TCG, Inc.",73000.0,40000.0
+1147,DC,Data Scientist,"Technomics, Inc",85000.0,45000.0
+1148,DC,Data Scientist,Tecolote Research,69000.0,37000.0
+1149,DC,Data Scientist,Teledyne Brown Engineering,111000.0,65000.0
+1150,DC,Data Scientist,The Brookings Institution,90000.0,51000.0
+1151,DC,Data Scientist,The E.W. Scripps Company,137000.0,83000.0
+1152,DC,Data Scientist,The HSC Health Care System,75000.0,44000.0
+1153,DC,Data Scientist,The Henry M. Jackson Foundation,97000.0,57000.0
+1154,DC,Data Scientist,The Knot Worldwide,110000.0,64000.0
+1155,DC,Data Scientist,The Motley Fool,159500.0,87000.0
+1156,DC,Data Scientist,Thomson Reuters,146000.0,91000.0
+1157,DC,Data Scientist,TransVoyant,122000.0,75000.0
+1158,DC,Data Scientist,Trident Systems Inc,112000.0,69000.0
+1159,DC,Data Scientist,U.S. Marine Corps,88000.0,49000.0
+1160,DC,Data Scientist,US Defense Information Systems Agency,95000.0,54000.0
+1161,DC,Data Scientist,US Department of Commerce,112000.0,66000.0
+1162,DC,Data Scientist,US Department of Defense,104000.0,63000.0
+1163,DC,Data Scientist,US Department of the Navy,91000.0,51000.0
+1164,DC,Data Scientist,US Patent and Trademark Office,124000.0,74000.0
+1165,DC,Data Scientist,Unissant,120000.0,65000.0
+1166,DC,Data Scientist,VETS,75000.0,40000.0
+1167,DC,Data Scientist,VMLY&amp;R,166000.0,101000.0
+1168,DC,Data Scientist,VTG,112000.0,67000.0
+1169,DC,Data Scientist,Valiant Integrated Services,122000.0,74000.0
+1170,DC,Data Scientist,Vanda Pharmaceuticals,126000.0,76000.0
+1171,DC,Data Scientist,Varen Technologies,152000.0,92000.0
+1172,DC,Data Scientist,Visa Inc.,165000.0,104000.0
+1173,DC,Data Scientist,"Visionist, Inc.",144000.0,90000.0
+1174,DC,Data Scientist,Whiteboard Federal,142000.0,87000.0
+1175,DC,Data Scientist,World Bank,83000.0,49000.0
+1176,DC,Data Scientist,Wyzant,188000.0,118000.0
+1177,DC,Data Scientist,Yes Marketing,119000.0,64000.0
+1178,DC,Data Scientist,i360,129000.0,78000.0
+1179,DC,Data Scientist,steampunk,146000.0,88000.0
+1180,DC,UI/UX Researcher,22nd Century Technologies,97000.0,66000.0
+1181,DC,UI/UX Researcher,AARP,199000.0,104000.0
+1182,DC,UI/UX Researcher,AINS,131000.0,65000.0
+1183,DC,UI/UX Researcher,AM LLC,110000.0,60000.0
+1184,DC,UI/UX Researcher,Accenture,52000.0,33000.0
+1185,DC,UI/UX Researcher,Acumen Solutions,117000.0,54000.0
+1186,DC,UI/UX Researcher,Adventist HealthCare,76000.0,44000.0
+1187,DC,UI/UX Researcher,"Affiliated Engineers, Inc.",84000.0,50000.0
+1188,DC,UI/UX Researcher,Ageatia Technology Consultancy Services,100000.0,71000.0
+1189,DC,UI/UX Researcher,"Agile Defense, Inc.",34000.0,24000.0
+1190,DC,UI/UX Researcher,Amazon,131000.0,78500.0
+1191,DC,UI/UX Researcher,Amazon.com Services LLC,123000.0,77000.0
+1192,DC,UI/UX Researcher,American Society of Clinical Oncology,91000.0,48000.0
+1193,DC,UI/UX Researcher,American Speech-Language-Hearing Association (ASHA),87000.0,39000.0
+1194,DC,UI/UX Researcher,Amtrak,58000.0,34000.0
+1195,DC,UI/UX Researcher,Applied Information Sciences,115000.0,55000.0
+1196,DC,UI/UX Researcher,Assyst,110000.0,53000.0
+1197,DC,UI/UX Researcher,AstraZeneca,121000.0,67000.0
+1198,DC,UI/UX Researcher,Atlas Research,50000.0,32000.0
+1199,DC,UI/UX Researcher,Autodesk,144000.0,76000.0
+1200,DC,UI/UX Researcher,Ava Consulting,108000.0,88000.0
+1201,DC,UI/UX Researcher,"Aveshka, Inc.",130000.0,61000.0
+1202,DC,UI/UX Researcher,B-Line Medical,99000.0,47000.0
+1203,DC,UI/UX Researcher,Barbaricum,105000.0,52000.0
+1204,DC,UI/UX Researcher,Battelle,117000.0,52000.0
+1205,DC,UI/UX Researcher,Beacon Roofing Supply,120000.0,58000.0
+1206,DC,UI/UX Researcher,Booz Allen Hamilton,111000.0,53000.0
+1207,DC,UI/UX Researcher,Booz Allen Hamilton Inc.,109000.0,54000.0
+1208,DC,UI/UX Researcher,"Bravo Consulting Group, LLC",76000.0,39000.0
+1209,DC,UI/UX Researcher,Brown Advisory,119000.0,54000.0
+1210,DC,UI/UX Researcher,CACI,86000.0,36000.0
+1211,DC,UI/UX Researcher,CACI International,97000.0,58000.0
+1212,DC,UI/UX Researcher,"CALIBRE Systems, Inc.",106000.0,51000.0
+1213,DC,UI/UX Researcher,CNA,132000.0,65000.0
+1214,DC,UI/UX Researcher,CNA Corporation,153000.0,77000.0
+1215,DC,UI/UX Researcher,CNEWS,194000.0,113000.0
+1216,DC,UI/UX Researcher,Cancer Support Community,85000.0,38000.0
+1217,DC,UI/UX Researcher,Capital One,118500.0,61500.0
+1218,DC,UI/UX Researcher,Capital One - US,132000.0,76000.0
+1219,DC,UI/UX Researcher,Cedent Consulting,118000.0,97000.0
+1220,DC,UI/UX Researcher,Celerity,95000.0,43000.0
+1221,DC,UI/UX Researcher,Central Intelligence Agency,156000.0,75000.0
+1222,DC,UI/UX Researcher,Champions Oncology Inc.,142000.0,67000.0
+1223,DC,UI/UX Researcher,Chenega Corporation,146500.0,56000.0
+1224,DC,UI/UX Researcher,Chenega MIOS,169500.0,61000.0
+1225,DC,UI/UX Researcher,Cherokee Nation Businesses,75000.0,42000.0
+1226,DC,UI/UX Researcher,Children's National Hospital,80000.0,44000.0
+1227,DC,UI/UX Researcher,Clarabridge,106000.0,52000.0
+1228,DC,UI/UX Researcher,CoStar Group,138000.0,70000.0
+1229,DC,UI/UX Researcher,Collage.com,178000.0,106000.0
+1230,DC,UI/UX Researcher,Comcast,133000.0,75000.0
+1231,DC,UI/UX Researcher,Compass,140000.0,52000.0
+1232,DC,UI/UX Researcher,Contingent Network Services,88000.0,49000.0
+1233,DC,UI/UX Researcher,Creative Systems and Consulting,96000.0,57000.0
+1234,DC,UI/UX Researcher,Cynet Systems,69000.0,36000.0
+1235,DC,UI/UX Researcher,DLH,101000.0,47000.0
+1236,DC,UI/UX Researcher,DMI,145000.0,74000.0
+1237,DC,UI/UX Researcher,"DealerOn, Inc.",75000.0,35000.0
+1238,DC,UI/UX Researcher,Deloitte,108000.0,51000.0
+1239,DC,UI/UX Researcher,Dovel Technologies,106000.0,60000.0
+1240,DC,UI/UX Researcher,"Dovel Technologies, LLC",102500.0,57500.0
+1241,DC,UI/UX Researcher,ECS Federal LLC,89000.0,41000.0
+1242,DC,UI/UX Researcher,EMMES,128000.0,76000.0
+1243,DC,UI/UX Researcher,EPAM Systems,97500.0,58500.0
+1244,DC,UI/UX Researcher,ERPi,100000.0,49000.0
+1245,DC,UI/UX Researcher,ESAC Inc,108000.0,88000.0
+1246,DC,UI/UX Researcher,Eastbanc Technologies,124000.0,62000.0
+1247,DC,UI/UX Researcher,Esri,146500.0,84000.0
+1248,DC,UI/UX Researcher,Evidera,150000.0,90000.0
+1249,DC,UI/UX Researcher,Excella,150000.0,75000.0
+1250,DC,UI/UX Researcher,Expression Networks,118000.0,45000.0
+1251,DC,UI/UX Researcher,Facebook,214000.0,115000.0
+1252,DC,UI/UX Researcher,"Focused Cyber, LLC",96000.0,60000.0
+1253,DC,UI/UX Researcher,Gartner,189000.0,120000.0
+1254,DC,UI/UX Researcher,General Dynamics Information Technology,105000.0,40500.0
+1255,DC,UI/UX Researcher,George Washington University,50000.0,24000.0
+1256,DC,UI/UX Researcher,GoCanvas,74000.0,42000.0
+1257,DC,UI/UX Researcher,Goldman Sachs,123000.0,59000.0
+1258,DC,UI/UX Researcher,Google,172000.0,73000.0
+1259,DC,UI/UX Researcher,Graduate Management Admission Council®,136000.0,57000.0
+1260,DC,UI/UX Researcher,Guidehouse,184000.0,94000.0
+1261,DC,UI/UX Researcher,Higher Logic,82000.0,47000.0
+1262,DC,UI/UX Researcher,Highlight Technologies,102000.0,58000.0
+1263,DC,UI/UX Researcher,Huntington Ingalls Industries Inc.,142000.0,79000.0
+1264,DC,UI/UX Researcher,IBM,123000.0,67000.0
+1265,DC,UI/UX Researcher,ICF,114000.0,66000.0
+1266,DC,UI/UX Researcher,Institute for Defense Analyses,115000.0,70000.0
+1267,DC,UI/UX Researcher,IntelliWare Systems,76000.0,39000.0
+1268,DC,UI/UX Researcher,Intelligent Automation,80000.0,49000.0
+1269,DC,UI/UX Researcher,IronNet Cybersecurity,124000.0,60000.0
+1270,DC,UI/UX Researcher,J.P. Morgan,101000.0,38000.0
+1271,DC,UI/UX Researcher,"JPMorgan Chase Bank, N.A.",131000.0,49000.0
+1272,DC,UI/UX Researcher,Johns Hopkins University,58500.0,32000.0
+1273,DC,UI/UX Researcher,Johns Hopkins University Applied Physics Laboratory,156000.0,85000.0
+1274,DC,UI/UX Researcher,KPMG,149000.0,74000.0
+1275,DC,UI/UX Researcher,Leidos,148000.0,75000.0
+1276,DC,UI/UX Researcher,LexisNexis Risk Solutions,177000.0,90000.0
+1277,DC,UI/UX Researcher,Lockheed Martin,135000.0,64000.0
+1278,DC,UI/UX Researcher,MEDSTAR HEALTH,64000.0,29000.0
+1279,DC,UI/UX Researcher,METIS Solutions,148000.0,56000.0
+1280,DC,UI/UX Researcher,MedStar Washington Hospital Center,79000.0,33000.0
+1281,DC,UI/UX Researcher,Medical Science &amp; Computing,127000.0,72000.0
+1282,DC,UI/UX Researcher,Michael Baker International,105000.0,61000.0
+1283,DC,UI/UX Researcher,Mitre Corporation,178000.0,64000.0
+1284,DC,UI/UX Researcher,Morning Consult,130000.0,71000.0
+1285,DC,UI/UX Researcher,NCI Information Systems Inc.,119000.0,57000.0
+1286,DC,UI/UX Researcher,National Security Agency,129500.0,61000.0
+1287,DC,UI/UX Researcher,Navy Federal Credit Union,162000.0,99000.0
+1288,DC,UI/UX Researcher,NetImpact Strategies Inc.,91000.0,41000.0
+1289,DC,UI/UX Researcher,Next Century,106000.0,51000.0
+1290,DC,UI/UX Researcher,"Onyx Point, Inc.",91500.0,44500.0
+1291,DC,UI/UX Researcher,PPD,139000.0,85000.0
+1292,DC,UI/UX Researcher,"Panum Group, LLC",117000.0,65000.0
+1293,DC,UI/UX Researcher,Paradyme Management Inc.,119000.0,57000.0
+1294,DC,UI/UX Researcher,Peraton,68000.0,37000.0
+1295,DC,UI/UX Researcher,Perspecta,56000.0,29000.0
+1296,DC,UI/UX Researcher,Planned Systems International,136000.0,67000.0
+1297,DC,UI/UX Researcher,Praxis Engineering,243000.0,86000.0
+1298,DC,UI/UX Researcher,ProObject,87000.0,65000.0
+1299,DC,UI/UX Researcher,Publicis Sapient,127000.0,65000.0
+1300,DC,UI/UX Researcher,RCLCO,71000.0,41000.0
+1301,DC,UI/UX Researcher,Raytheon Intelligence &amp; Space,98000.0,45000.0
+1302,DC,UI/UX Researcher,Red Alpha LLC,99000.0,59000.0
+1303,DC,UI/UX Researcher,Redfin,128000.0,72000.0
+1304,DC,UI/UX Researcher,Redhorse Corporation,139000.0,68000.0
+1305,DC,UI/UX Researcher,Research Innovations ,156000.0,67000.0
+1306,DC,UI/UX Researcher,"Robbins Gioia, LLC",104000.0,48000.0
+1307,DC,UI/UX Researcher,SAIC,151000.0,74000.0
+1308,DC,UI/UX Researcher,SHRM,110000.0,47000.0
+1309,DC,UI/UX Researcher,SRC,95000.0,45000.0
+1310,DC,UI/UX Researcher,Salesforce,142000.0,74000.0
+1311,DC,UI/UX Researcher,Scientific Research Corporation,155000.0,87000.0
+1312,DC,UI/UX Researcher,Shield Consulting Solutions,82000.0,51000.0
+1313,DC,UI/UX Researcher,SimilarWeb,125000.0,26000.0
+1314,DC,UI/UX Researcher,Snagajob,138000.0,83000.0
+1315,DC,UI/UX Researcher,Spatial Front,83000.0,47000.0
+1316,DC,UI/UX Researcher,Steampunk,102000.0,48000.0
+1317,DC,UI/UX Researcher,Storyblocks,147000.0,81000.0
+1318,DC,UI/UX Researcher,Symplicity Corporation,119000.0,57000.0
+1319,DC,UI/UX Researcher,Synergy BIS,153000.0,77000.0
+1320,DC,UI/UX Researcher,Systems Plus,123000.0,60000.0
+1321,DC,UI/UX Researcher,TechFlow,107000.0,52000.0
+1322,DC,UI/UX Researcher,Tecolote Research,83000.0,35000.0
+1323,DC,UI/UX Researcher,Tesla Government,94000.0,49000.0
+1324,DC,UI/UX Researcher,The Knot Worldwide,113000.0,63000.0
+1325,DC,UI/UX Researcher,The Motley Fool,162000.0,84000.0
+1326,DC,UI/UX Researcher,The Washington Post,110000.0,62000.0
+1327,DC,UI/UX Researcher,Total Wine &amp; More,114000.0,54000.0
+1328,DC,UI/UX Researcher,Turner Broadcasting,212000.0,124000.0
+1329,DC,UI/UX Researcher,Twitter Inc,148000.0,64000.0
+1330,DC,UI/UX Researcher,U.S. Food and Drug Administration,134000.0,84000.0
+1331,DC,UI/UX Researcher,USC,86000.0,49000.0
+1332,DC,UI/UX Researcher,USfalcon,165000.0,94000.0
+1333,DC,UI/UX Researcher,UnitedHealth Group,143000.0,72000.0
+1334,DC,UI/UX Researcher,University of Southern California,158000.0,88000.0
+1335,DC,UI/UX Researcher,VIVA USA,95000.0,55000.0
+1336,DC,UI/UX Researcher,VMware,214000.0,128000.0
+1337,DC,UI/UX Researcher,Valex LLC,125000.0,61000.0
+1338,DC,UI/UX Researcher,Varen Technologies,125000.0,58000.0
+1339,DC,UI/UX Researcher,VariQ,70000.0,39000.0
+1340,DC,UI/UX Researcher,Vectorworks,116000.0,50000.0
+1341,DC,UI/UX Researcher,Viasat,147000.0,84000.0
+1342,DC,UI/UX Researcher,WESTAT,59000.0,29000.0
+1343,DC,UI/UX Researcher,WOOD Consulting Services,79000.0,35000.0
+1344,DC,UI/UX Researcher,iStrategyLabs,98000.0,44000.0
+1345,FL,VR Engineering,Design Interactive,98000.0,56000.0
+1346,FL,VR Engineering,Lockheed Martin,121000.0,74000.0
+1347,FL,VR Engineering,Unity Technologies,178000.0,118000.0
+1348,IL,Data Scientist,#TeamGoHealth,104000.0,62000.0
+1349,IL,Data Scientist,22nd Century Technologies,88000.0,46000.0
+1350,IL,Data Scientist,ACS Group,117000.0,64000.0
+1351,IL,Data Scientist,ARYZTA,121000.0,72000.0
+1352,IL,Data Scientist,AVANADE,106000.0,56000.0
+1353,IL,Data Scientist,Abbott Laboratories,149000.0,76500.0
+1354,IL,Data Scientist,Accenture,104500.0,54000.0
+1355,IL,Data Scientist,ActiveCampaign,101000.0,56000.0
+1356,IL,Data Scientist,Advocate Aurora Health,92000.0,53000.0
+1357,IL,Data Scientist,Alight,78000.0,43000.0
+1358,IL,Data Scientist,Alight Solutions,116000.0,69000.0
+1359,IL,Data Scientist,Alliant Credit Union,87000.0,48000.0
+1360,IL,Data Scientist,Allstate,136500.0,85000.0
+1361,IL,Data Scientist,Amazon,134000.0,77000.0
+1362,IL,Data Scientist,"Amazon Web Services, Inc.",175000.0,110000.0
+1363,IL,Data Scientist,"American CyberSystems, Inc.",120000.0,66000.0
+1364,IL,Data Scientist,American Medical Association,142000.0,86000.0
+1365,IL,Data Scientist,Ann &amp; Robert H. Lurie Children's Hospital of Chicago,102000.0,60000.0
+1366,IL,Data Scientist,Ann &amp; Robert H. Lurie Children’s Hospital of Chicago,70000.0,39000.0
+1367,IL,Data Scientist,Annalect,113000.0,54000.0
+1368,IL,Data Scientist,Aon,100000.0,50500.0
+1369,IL,Data Scientist,Argonne National Laboratory,179500.0,104500.0
+1370,IL,Data Scientist,Arrive Logistics,120000.0,72000.0
+1371,IL,Data Scientist,Astellas Pharmaceuticals,154000.0,98000.0
+1372,IL,Data Scientist,Avanade,102000.0,53000.0
+1373,IL,Data Scientist,Avani Technology Solutions,77500.0,46000.0
+1374,IL,Data Scientist,Avant,119500.0,71000.0
+1375,IL,Data Scientist,BDO,109500.0,61500.0
+1376,IL,Data Scientist,BDO USA,101500.0,57500.0
+1377,IL,Data Scientist,BRAZE,211000.0,130000.0
+1378,IL,Data Scientist,Belvedere Trading,187000.0,104000.0
+1379,IL,Data Scientist,Beyond Finance,97000.0,50000.0
+1380,IL,Data Scientist,"Blue Cross Blue Shield of IL, MT, NM, OK &amp; TX",180000.0,136000.0
+1381,IL,Data Scientist,BlueGranite,86000.0,55000.0
+1382,IL,Data Scientist,Braze,211000.0,130000.0
+1383,IL,Data Scientist,Bristol-Myers Squibb,96000.0,57000.0
+1384,IL,Data Scientist,C&amp;R Research,96000.0,38000.0
+1385,IL,Data Scientist,CCC Information Services Inc.,101000.0,52000.0
+1386,IL,Data Scientist,CGN Global,108000.0,64000.0
+1387,IL,Data Scientist,CIT Group,82000.0,46000.0
+1388,IL,Data Scientist,CNA Insurance,150000.0,91000.0
+1389,IL,Data Scientist,CVS Health,127000.0,76000.0
+1390,IL,Data Scientist,Capax Global LLC,134000.0,80000.0
+1391,IL,Data Scientist,Capgemini,104500.0,58000.0
+1392,IL,Data Scientist,Capital One,240000.0,151000.0
+1393,IL,Data Scientist,Capital One - US,135000.0,74000.0
+1394,IL,Data Scientist,Cedent Consulting,103000.0,57000.0
+1395,IL,Data Scientist,Centene,74000.0,44000.0
+1396,IL,Data Scientist,Chamberlain Group Inc,130000.0,79000.0
+1397,IL,Data Scientist,Chicago Public Schools,99500.0,58000.0
+1398,IL,Data Scientist,Cision,76000.0,40000.0
+1399,IL,Data Scientist,Citadel,157000.0,111000.0
+1400,IL,Data Scientist,Citadel Securities,174500.0,111500.0
+1401,IL,Data Scientist,Cognizant Technology Solutions,122000.0,68000.0
+1402,IL,Data Scientist,Columbia Advisory Group,116000.0,61000.0
+1403,IL,Data Scientist,"Conch Technologies, Inc",99000.0,57000.0
+1404,IL,Data Scientist,Concurrency,134000.0,81000.0
+1405,IL,Data Scientist,ConsumerTrack,105000.0,58000.0
+1406,IL,Data Scientist,Covance,137000.0,65000.0
+1407,IL,Data Scientist,Coyote Logistics,98000.0,50000.0
+1408,IL,Data Scientist,Crowe,112000.0,67000.0
+1409,IL,Data Scientist,Cynet Systems,110500.0,63000.0
+1410,IL,Data Scientist,DRW,181500.0,92500.0
+1411,IL,Data Scientist,"Darwill, Inc.",141500.0,82000.0
+1412,IL,Data Scientist,DataRobot,142000.0,86000.0
+1413,IL,Data Scientist,DePaul University,60000.0,34000.0
+1414,IL,Data Scientist,Deloitte,164000.0,95000.0
+1415,IL,Data Scientist,DocuSign,143000.0,90000.0
+1416,IL,Data Scientist,Duff &amp; Phelps,144000.0,77000.0
+1417,IL,Data Scientist,EY,108000.0,56000.0
+1418,IL,Data Scientist,Echo Global Logistics,157000.0,85500.0
+1419,IL,Data Scientist,Edward Hospital,68000.0,42000.0
+1420,IL,Data Scientist,Epsilon,204500.0,120000.0
+1421,IL,Data Scientist,Exelon Corporation,146000.0,90000.0
+1422,IL,Data Scientist,Exponent,121000.0,70000.0
+1423,IL,Data Scientist,FINRA,80000.0,47000.0
+1424,IL,Data Scientist,"FTD Companies, Inc",141000.0,73000.0
+1425,IL,Data Scientist,Farmers Insurance,127000.0,79000.0
+1426,IL,Data Scientist,Ferrara Candy Company,135000.0,83000.0
+1427,IL,Data Scientist,Fetch Rewards,79000.0,41000.0
+1428,IL,Data Scientist,Forfeiture Support Associates,79000.0,43000.0
+1429,IL,Data Scientist,Franciscan Health,67000.0,38000.0
+1430,IL,Data Scientist,"Freeosk, Inc.",50000.0,27000.0
+1431,IL,Data Scientist,GTI,133000.0,64000.0
+1432,IL,Data Scientist,Gas Technology Institute,144000.0,69000.0
+1433,IL,Data Scientist,Ginkgo LLC,174000.0,122000.0
+1434,IL,Data Scientist,GoHealth,168000.0,95000.0
+1435,IL,Data Scientist,Goodway Group,177000.0,101000.0
+1436,IL,Data Scientist,Google,157000.0,95000.0
+1437,IL,Data Scientist,Grant Thornton,173000.0,108000.0
+1438,IL,Data Scientist,Great Wolf Lodge,62000.0,34000.0
+1439,IL,Data Scientist,Green Key Technologies ,107000.0,82000.0
+1440,IL,Data Scientist,Grubhub,177000.0,109000.0
+1441,IL,Data Scientist,Guaranteed Rate,84000.0,47000.0
+1442,IL,Data Scientist,HCSC,129000.0,78000.0
+1443,IL,Data Scientist,HERE Technologies,163000.0,102000.0
+1444,IL,Data Scientist,HIMSS,85000.0,47000.0
+1445,IL,Data Scientist,Harris &amp; Harris,93000.0,50000.0
+1446,IL,Data Scientist,Honeywell,87000.0,51000.0
+1447,IL,Data Scientist,Hopkins Manufacturing Corporation,79000.0,44000.0
+1448,IL,Data Scientist,Hopper,165000.0,102000.0
+1449,IL,Data Scientist,Humana,150000.0,91000.0
+1450,IL,Data Scientist,"IAA, Inc.",91000.0,47000.0
+1451,IL,Data Scientist,IBM,144000.0,77000.0
+1452,IL,Data Scientist,IFG Companies,137000.0,70000.0
+1453,IL,Data Scientist,IIT Research Institute,62000.0,32000.0
+1454,IL,Data Scientist,IRI,128000.0,77000.0
+1455,IL,Data Scientist,"IT EBusiness Consulting Services, Inc",62000.0,31000.0
+1456,IL,Data Scientist,Illinois Institute of Technology,82000.0,37000.0
+1457,IL,Data Scientist,Infutor Data Solutions LLC,115000.0,60000.0
+1458,IL,Data Scientist,Ingredion,112000.0,59000.0
+1459,IL,Data Scientist,"Insight Enterprises, Inc.",151000.0,80000.0
+1460,IL,Data Scientist,Institute of Education Sciences,79000.0,56000.0
+1461,IL,Data Scientist,Integral Ad Science,126000.0,102000.0
+1462,IL,Data Scientist,Intelligent Medical Objects,147000.0,78000.0
+1463,IL,Data Scientist,Invenergy,119000.0,64000.0
+1464,IL,Data Scientist,Iron Galaxy Studios,94000.0,49000.0
+1465,IL,Data Scientist,JLL,79500.0,44500.0
+1466,IL,Data Scientist,"JPMorgan Chase Bank, N.A.",160000.0,99000.0
+1467,IL,Data Scientist,John Deere,154000.0,87000.0
+1468,IL,Data Scientist,Jones Lang LaSalle,111000.0,62000.0
+1469,IL,Data Scientist,Jump Trading,97000.0,55000.0
+1470,IL,Data Scientist,KPMG,159500.0,100500.0
+1471,IL,Data Scientist,Kelton,114000.0,46000.0
+1472,IL,Data Scientist,Kemper,281000.0,178000.0
+1473,IL,Data Scientist,KeyBank,127000.0,69000.0
+1474,IL,Data Scientist,Kin + Carta,159000.0,91500.0
+1475,IL,Data Scientist,Koch Engineered Solutions,146000.0,90000.0
+1476,IL,Data Scientist,Kraft Heinz Company,83000.0,47000.0
+1477,IL,Data Scientist,Label Insight,126000.0,77000.0
+1478,IL,Data Scientist,LanzaTech,90000.0,52000.0
+1479,IL,Data Scientist,Legal &amp; General Investment Management America,127000.0,60000.0
+1480,IL,Data Scientist,Livingston International,71000.0,40000.0
+1481,IL,Data Scientist,LogicGate,138000.0,73000.0
+1482,IL,Data Scientist,M1 Holdings,144000.0,80000.0
+1483,IL,Data Scientist,MDLIVE,95000.0,47000.0
+1484,IL,Data Scientist,MWRD of Greater Chicago,85000.0,55000.0
+1485,IL,Data Scientist,Maine Pointe,87000.0,66000.0
+1486,IL,Data Scientist,Mars,107000.0,49000.0
+1487,IL,Data Scientist,Marsh and McLennan,86000.0,54000.0
+1488,IL,Data Scientist,McDonald's Corporate,120500.0,67000.0
+1489,IL,Data Scientist,McDonald's Corporation,112000.0,58000.0
+1490,IL,Data Scientist,McKinsey &amp; Company,135000.0,82000.0
+1491,IL,Data Scientist,Metropolitan Family Services,63000.0,35000.0
+1492,IL,Data Scientist,MightyHive,101000.0,65000.0
+1493,IL,Data Scientist,Mintel,59000.0,33000.0
+1494,IL,Data Scientist,Morningstar,137000.0,89500.0
+1495,IL,Data Scientist,Movéo,93000.0,52000.0
+1496,IL,Data Scientist,MuleSoft,155000.0,82000.0
+1497,IL,Data Scientist,NORC at the University of Chicago,130000.0,70500.0
+1498,IL,Data Scientist,New Relic,153000.0,87000.0
+1499,IL,Data Scientist,Nielsen,90000.0,47000.0
+1500,IL,Data Scientist,NorthShore University HealthSystem,143000.0,67000.0
+1501,IL,Data Scientist,Northern Trust,118000.0,55000.0
+1502,IL,Data Scientist,Northern Trust Corp.,74000.0,37000.0
+1503,IL,Data Scientist,Northwestern Medicine,60000.0,42000.0
+1504,IL,Data Scientist,Northwestern Memorial Healthcare,60000.0,42000.0
+1505,IL,Data Scientist,Northwestern University,73500.0,41500.0
+1506,IL,Data Scientist,Norwegian American Hospital,74000.0,43000.0
+1507,IL,Data Scientist,Numerator,152000.0,85000.0
+1508,IL,Data Scientist,Oak Street Health,74000.0,41000.0
+1509,IL,Data Scientist,Old Mission Capital,166000.0,92000.0
+1510,IL,Data Scientist,Old World Industries,75000.0,41000.0
+1511,IL,Data Scientist,PCMI Corporation,71000.0,40000.0
+1512,IL,Data Scientist,PPD,73000.0,38000.0
+1513,IL,Data Scientist,PRICE WATERHOUSE COOPERS,134000.0,81000.0
+1514,IL,Data Scientist,Palos Health,65000.0,37000.0
+1515,IL,Data Scientist,PayPal,131000.0,69000.0
+1516,IL,Data Scientist,Perkinelmer,138000.0,92000.0
+1517,IL,Data Scientist,PlaceIQ,246000.0,126000.0
+1518,IL,Data Scientist,Pluralsight,157000.0,83000.0
+1519,IL,Data Scientist,Premier Research Group Limited,151000.0,93000.0
+1520,IL,Data Scientist,Publicis Groupe,208000.0,130000.0
+1521,IL,Data Scientist,Publicis Sapient,151000.0,90000.0
+1522,IL,Data Scientist,Rally Health,204000.0,123000.0
+1523,IL,Data Scientist,Redwood Logistics,188000.0,113000.0
+1524,IL,Data Scientist,Rewards Network,130000.0,79000.0
+1525,IL,Data Scientist,Rexroth,112000.0,66000.0
+1526,IL,Data Scientist,RiverPoint,65000.0,41000.0
+1527,IL,Data Scientist,Roseland Community Hospital,68000.0,39000.0
+1528,IL,Data Scientist,Rush University Medical Center,73000.0,41000.0
+1529,IL,Data Scientist,SADA,129000.0,67000.0
+1530,IL,Data Scientist,SEI,132000.0,86000.0
+1531,IL,Data Scientist,"SPINS, LLC",134000.0,82000.0
+1532,IL,Data Scientist,Saggezza,80000.0,42000.0
+1533,IL,Data Scientist,Salesforce,192500.0,115000.0
+1534,IL,Data Scientist,ServiceNow,184000.0,110000.0
+1535,IL,Data Scientist,Shure Incorporated,178000.0,113000.0
+1536,IL,Data Scientist,Sogeti,116000.0,69000.0
+1537,IL,Data Scientist,Spectrum Communications and Consulting,96500.0,69000.0
+1538,IL,Data Scientist,Sphinix Solutions,75000.0,42000.0
+1539,IL,Data Scientist,State of Illinois,119000.0,71000.0
+1540,IL,Data Scientist,Stenograph LLC,105000.0,54000.0
+1541,IL,Data Scientist,Stepan,95000.0,52000.0
+1542,IL,Data Scientist,"Sunrise Futures, LLC",173000.0,102000.0
+1543,IL,Data Scientist,Syngenta,122500.0,71500.0
+1544,IL,Data Scientist,TTX Company,77000.0,43000.0
+1545,IL,Data Scientist,Teladoc Health,105000.0,62000.0
+1546,IL,Data Scientist,Tempus Labs,91000.0,59000.0
+1547,IL,Data Scientist,The Climate Corporation,154000.0,84000.0
+1548,IL,Data Scientist,The University of Chicago,60000.0,32000.0
+1549,IL,Data Scientist,ThoughtWorks,230000.0,125500.0
+1550,IL,Data Scientist,Tiger Analytics,112000.0,64000.0
+1551,IL,Data Scientist,Toyota Research Institute,211000.0,107000.0
+1552,IL,Data Scientist,Traeger Wood Pellet Grills,66000.0,35000.0
+1553,IL,Data Scientist,TransUnion,173000.0,107000.0
+1554,IL,Data Scientist,Truckstop.com,140000.0,73000.0
+1555,IL,Data Scientist,"TuSimple, Inc.",184000.0,108000.0
+1556,IL,Data Scientist,U.S. Cellular,109500.0,64500.0
+1557,IL,Data Scientist,UNCOMN,139000.0,76000.0
+1558,IL,Data Scientist,US Bank,163000.0,90000.0
+1559,IL,Data Scientist,USA Vein Clinics,64000.0,37000.0
+1560,IL,Data Scientist,USG Corporation,82000.0,47000.0
+1561,IL,Data Scientist,Uber,85000.0,39000.0
+1562,IL,Data Scientist,Uline,79000.0,65000.0
+1563,IL,Data Scientist,Underwriters Laboratories,224000.0,128000.0
+1564,IL,Data Scientist,University of Chicago Medicine,99000.0,57000.0
+1565,IL,Data Scientist,University of Illinois Hospital &amp; Health Sciences System,79000.0,44000.0
+1566,IL,Data Scientist,University of Illinois at Chicago,82000.0,37000.0
+1567,IL,Data Scientist,VMware,125000.0,70000.0
+1568,IL,Data Scientist,"Valid USA, Inc.",66000.0,36000.0
+1569,IL,Data Scientist,Varsity Tutors,56000.0,22000.0
+1570,IL,Data Scientist,Verndale,107000.0,58000.0
+1571,IL,Data Scientist,Vibes,170000.0,100000.0
+1572,IL,Data Scientist,VillageMD,120000.0,75000.0
+1573,IL,Data Scientist,Virta Health,136000.0,80000.0
+1574,IL,Data Scientist,"Vizient, Inc.",155000.0,94000.0
+1575,IL,Data Scientist,WALGREENS,145000.0,88000.0
+1576,IL,Data Scientist,WW (formerly Weight Watchers),85000.0,51000.0
+1577,IL,Data Scientist,WW International,126000.0,71000.0
+1578,IL,Data Scientist,Walgreens,124000.0,76000.0
+1579,IL,Data Scientist,WellNow Urgent Care,111000.0,59000.0
+1580,IL,Data Scientist,Wells Fargo,191000.0,120000.0
+1581,IL,Data Scientist,West Monroe Partners,120000.0,72000.0
+1582,IL,Data Scientist,Wheaton College (IL),61000.0,34000.0
+1583,IL,Data Scientist,Wi-Tronix,123000.0,70000.0
+1584,IL,Data Scientist,William Blair,145000.0,75000.0
+1585,IL,Data Scientist,William Blair &amp; Company,159000.0,97000.0
+1586,IL,Data Scientist,Wintrust Financial,96000.0,55000.0
+1587,IL,Data Scientist,Wintrust Financial Corporation,96000.0,55000.0
+1588,IL,Data Scientist,Wolters Kluwer,87000.0,47000.0
+1589,IL,Data Scientist,Wolverine Trading,182000.0,113000.0
+1590,IL,Data Scientist,WorkFusion,122000.0,70000.0
+1591,IL,Data Scientist,Wyzant,189000.0,118000.0
+1592,IL,Data Scientist,XPO Logistics,120000.0,72000.0
+1593,IL,Data Scientist,XR Trading LLC,177000.0,99000.0
+1594,IL,Data Scientist,ZS Associates,149500.0,87500.0
+1595,IL,Data Scientist,Zekelman Industries,148000.0,77000.0
+1596,IL,Data Scientist,Zoro Tools,138500.0,81500.0
+1597,IL,Data Scientist,divvyDOSE,86000.0,48000.0
+1598,IL,Data Scientist,dunnhumby,131000.0,80000.0
+1599,IL,Data Scientist,project44,145000.0,90000.0
+1600,IL,Game Design,Allstate,99000.0,54000.0
+1601,IL,Game Design,Aon,45000.0,25000.0
+1602,IL,Game Design,BCD Meetings &amp; Events,65000.0,35000.0
+1603,IL,Game Design,CBRE,70000.0,39500.0
+1604,IL,Game Design,CCC Information Services Inc.,63000.0,35000.0
+1605,IL,Game Design,CIBC,63000.0,36000.0
+1606,IL,Game Design,CIBC US,52000.0,30000.0
+1607,IL,Game Design,Capital One,99000.0,61000.0
+1608,IL,Game Design,Chicago Sport LLC,41000.0,23000.0
+1609,IL,Game Design,Deloitte,80000.0,42000.0
+1610,IL,Game Design,FASTSIGNS 601,43000.0,33000.0
+1611,IL,Game Design,"FTD Companies, Inc",65000.0,36000.0
+1612,IL,Game Design,Fetch Rewards,115000.0,85000.0
+1613,IL,Game Design,Geometry Global,89000.0,46000.0
+1614,IL,Game Design,Goldman Sachs,89000.0,45000.0
+1615,IL,Game Design,Green Thumb Industries,53000.0,30000.0
+1616,IL,Game Design,"Hard Rock Cafe International (USA), Inc.",38000.0,9.0
+1617,IL,Game Design,Hays Companies,55000.0,31000.0
+1618,IL,Game Design,Hill+Knowlton Strategies,66000.0,34000.0
+1619,IL,Game Design,"Hydro, Inc.",87000.0,46000.0
+1620,IL,Game Design,Iron Galaxy Studios,56000.0,28500.0
+1621,IL,Game Design,JENSEN HUGHES,59000.0,33000.0
+1622,IL,Game Design,JLL,54000.0,32000.0
+1623,IL,Game Design,Level Ex,58000.0,29000.0
+1624,IL,Game Design,Loughran &amp; Co,44000.0,25000.0
+1625,IL,Game Design,M1 Holdings,57000.0,32000.0
+1626,IL,Game Design,Majestic Star,36000.0,20000.0
+1627,IL,Game Design,Midwest Goods Inc.,39000.0,22000.0
+1628,IL,Game Design,Motorola Solutions,59000.0,33000.0
+1629,IL,Game Design,NOW Foods,46000.0,26000.0
+1630,IL,Game Design,NewGround,64000.0,36000.0
+1631,IL,Game Design,NextCapital,72000.0,54000.0
+1632,IL,Game Design,One Hope United,44000.0,24000.0
+1633,IL,Game Design,Parts Town,90000.0,35000.0
+1634,IL,Game Design,Relo Direct,60000.0,33000.0
+1635,IL,Game Design,Rightpoint,68500.0,39000.0
+1636,IL,Game Design,"Ryan Companies US, Inc.",91000.0,56000.0
+1637,IL,Game Design,SMS Assist,79000.0,38000.0
+1638,IL,Game Design,SRAM,92000.0,49000.0
+1639,IL,Game Design,Sinclair Broadcast Group,53500.0,28500.0
+1640,IL,Game Design,Spectrum Communications and Consulting,44500.0,25000.0
+1641,IL,Game Design,SteelSeries,67000.0,57000.0
+1642,IL,Game Design,The UPS Store,32000.0,20000.0
+1643,IL,Game Design,Trinity Christian College,51000.0,27000.0
+1644,IL,Game Design,United States Soccer Federation,47000.0,26500.0
+1645,IL,Game Design,VTech Electronics,57000.0,32000.0
+1646,IL,Game Design,Wargaming,63000.0,32000.0
+1647,IL,Game Design,WaterSaver Faucet,53000.0,29000.0
+1648,IL,Game Design,Weigel Broadcasting Co.,66000.0,34000.0
+1649,IL,Game Design,"Wheels, Inc.",50000.0,28000.0
+1650,IL,Game Design,Zynga,86000.0,37000.0
+1651,IN,Data Scientist,3M,112000.0,64000.0
+1652,IN,Data Scientist,Accenture,94000.0,47000.0
+1653,IN,Data Scientist,Allegan General Hospital,65000.0,37000.0
+1654,IN,Data Scientist,American United Life Ins Co,104000.0,57500.0
+1655,IN,Data Scientist,Ascension,86000.0,39000.0
+1656,IN,Data Scientist,"Backhaul Direct, LLC",77000.0,46000.0
+1657,IN,Data Scientist,Beckman Coulter Life Sciences,97000.0,11000.0
+1658,IN,Data Scientist,Bloodcenter of Wisconsin,62000.0,38000.0
+1659,IN,Data Scientist,Corteva Agriscience,154000.0,77000.0
+1660,IN,Data Scientist,Covance,75500.0,33000.0
+1661,IN,Data Scientist,"Crew Carwash, Inc.",77000.0,42000.0
+1662,IN,Data Scientist,Crowe,93000.0,60000.0
+1663,IN,Data Scientist,Cynet Systems,114000.0,63000.0
+1664,IN,Data Scientist,DHL Supply Chain,64000.0,32000.0
+1665,IN,Data Scientist,DHL | Supply Chain,61000.0,30000.0
+1666,IN,Data Scientist,Delta Faucet Company,83000.0,41000.0
+1667,IN,Data Scientist,Elanco,112000.0,64000.0
+1668,IN,Data Scientist,Eli Lilly,141000.0,73000.0
+1669,IN,Data Scientist,Eli Lilly and Company,169500.0,85500.0
+1670,IN,Data Scientist,Eurofins,69000.0,30000.0
+1671,IN,Data Scientist,Eurofins Central Laboratory,72000.0,32000.0
+1672,IN,Data Scientist,Finish Line,134000.0,74000.0
+1673,IN,Data Scientist,HNTB Corporation,72500.0,42500.0
+1674,IN,Data Scientist,Indiana University,66000.0,37000.0
+1675,IN,Data Scientist,Indygo,59000.0,33000.0
+1676,IN,Data Scientist,Infotree Service Inc,92000.0,58000.0
+1677,IN,Data Scientist,Internal Revenue Service,109000.0,64000.0
+1678,IN,Data Scientist,Johnson Controls,164000.0,103000.0
+1679,IN,Data Scientist,Kairos Technologies,92000.0,52000.0
+1680,IN,Data Scientist,Knowledge Services,68000.0,35000.0
+1681,IN,Data Scientist,Liberty Healthcare Corporation,90000.0,51000.0
+1682,IN,Data Scientist,Liberty Mutual Insurance,98000.0,59000.0
+1683,IN,Data Scientist,Masco,86000.0,42000.0
+1684,IN,Data Scientist,Medxcel Facilities Management,79000.0,38000.0
+1685,IN,Data Scientist,Moser Consulting,121000.0,65000.0
+1686,IN,Data Scientist,NAVIENT,60000.0,34000.0
+1687,IN,Data Scientist,Orbis,66000.0,38000.0
+1688,IN,Data Scientist,Orbis Education,59000.0,33000.0
+1689,IN,Data Scientist,PayPal,82000.0,46000.0
+1690,IN,Data Scientist,Pearson,116000.0,67000.0
+1691,IN,Data Scientist,Pinnacle Partners,69000.0,40000.0
+1692,IN,Data Scientist,Polysciences Inc,117000.0,50000.0
+1693,IN,Data Scientist,Q2 Solutions,109000.0,49000.0
+1694,IN,Data Scientist,Salesforce,172000.0,93000.0
+1695,IN,Data Scientist,Simon Property Group,65000.0,37000.0
+1696,IN,Data Scientist,SpringML,81000.0,52000.0
+1697,IN,Data Scientist,St. Vincent Health,85000.0,38000.0
+1698,IN,Data Scientist,"St. Vincent, IN",87000.0,39000.0
+1699,IN,Data Scientist,Stanley Black &amp; Decker,90500.0,52500.0
+1700,IN,Data Scientist,T&amp;M Associates,59000.0,37000.0
+1701,IN,Data Scientist,USIC,45000.0,25000.0
+1702,IN,Data Scientist,Varsity Tutors,48000.0,20000.0
+1703,IN,Data Scientist,Versiti,60000.0,36000.0
+1704,IN,Data Scientist,Virtusa,124000.0,68000.0
+1705,IN,Data Scientist,Wyndham Destinations,90000.0,53000.0
+1706,IN,Digital Marketing,AES Corporation,104000.0,58000.0
+1707,IN,Digital Marketing,AUDIENCEX,123000.0,51000.0
+1708,IN,Digital Marketing,American United Life Ins Co,177000.0,86000.0
+1709,IN,Digital Marketing,Anthem,82000.0,42500.0
+1710,IN,Digital Marketing,Anytime Fitness,63500.0,23500.0
+1711,IN,Digital Marketing,Apttus,196500.0,97000.0
+1712,IN,Digital Marketing,Back On My Feet,51000.0,27000.0
+1713,IN,Digital Marketing,Badger Daylighting,110000.0,53000.0
+1714,IN,Digital Marketing,"Bloomerang, LLC",41000.0,22000.0
+1715,IN,Digital Marketing,BlueSky Commerce,96000.0,49000.0
+1716,IN,Digital Marketing,Brooks Automation,97000.0,49000.0
+1717,IN,Digital Marketing,CECO Environmental,80000.0,12000.0
+1718,IN,Digital Marketing,Covance,102000.0,52000.0
+1719,IN,Digital Marketing,Deloitte,108000.0,57000.0
+1720,IN,Digital Marketing,Dominion Market Activator,97000.0,46000.0
+1721,IN,Digital Marketing,Element Three,212000.0,103000.0
+1722,IN,Digital Marketing,Formstack,67000.0,33000.0
+1723,IN,Digital Marketing,G&amp;H Orthodontics,48000.0,26000.0
+1724,IN,Digital Marketing,Gannett,51000.0,24000.0
+1725,IN,Digital Marketing,Gleaners Food Bank Of In Inc.,57000.0,34000.0
+1726,IN,Digital Marketing,Heartland F P G,68000.0,38000.0
+1727,IN,Digital Marketing,Homes.com,73000.0,38000.0
+1728,IN,Digital Marketing,"Hopebridge, LLC",50000.0,28000.0
+1729,IN,Digital Marketing,Hylant,84000.0,32000.0
+1730,IN,Digital Marketing,Indiana State Fairgrounds &amp; Event Center,31000.0,17000.0
+1731,IN,Digital Marketing,Infosys,137000.0,74000.0
+1732,IN,Digital Marketing,Infosys Limited,109000.0,81000.0
+1733,IN,Digital Marketing,Interactive One,94000.0,33000.0
+1734,IN,Digital Marketing,Legends,49000.0,24500.0
+1735,IN,Digital Marketing,Lids,45000.0,24000.0
+1736,IN,Digital Marketing,Mister Quik Home Services,30000.0,7.0
+1737,IN,Digital Marketing,MuleSoft,127000.0,74000.0
+1738,IN,Digital Marketing,National Hot Rod Association,33000.0,20000.0
+1739,IN,Digital Marketing,New Relic,179000.0,63000.0
+1740,IN,Digital Marketing,POLARIS Laboratories,33000.0,19000.0
+1741,IN,Digital Marketing,Pearson,72000.0,35000.0
+1742,IN,Digital Marketing,Radial,45000.0,17000.0
+1743,IN,Digital Marketing,Radio One,89000.0,31000.0
+1744,IN,Digital Marketing,Roche,163000.0,93000.0
+1745,IN,Digital Marketing,Salesforce,127500.0,64500.0
+1746,IN,Digital Marketing,Sharpen Technologies Inc.,82000.0,41000.0
+1747,IN,Digital Marketing,Shift Digital,53000.0,29000.0
+1748,IN,Digital Marketing,"SilverTech, Inc.",78000.0,36000.0
+1749,IN,Digital Marketing,Spot Inc,50000.0,25000.0
+1750,IN,Digital Marketing,UFC Gym,49000.0,26000.0
+1751,IN,Digital Marketing,US Inspect,34000.0,8.0
+1752,IN,Digital Marketing,Wiley,56000.0,26500.0
+1753,IN,Digital Marketing,Wunderkind,141000.0,59500.0
+1754,IN,Digital Marketing,dormakaba,106500.0,50500.0
+1755,IN,Digital Marketing,myCOI,75000.0,36500.0
+1756,IN,Game Design,Breakout Operating,38000.0,21000.0
+1757,IN,Game Design,Breakout Operations LLC,38000.0,21000.0
+1758,IN,Game Design,Indiana State Fairgrounds &amp; Event Center,31000.0,17000.0
+1759,IN,Game Design,Indianapolis,34000.0,18000.0
+1760,IN,Game Design,Kaleidoscope,69000.0,36500.0
+1761,IN,Game Design,The UPS Store 4266,28000.0,16000.0
+1762,IN,Game Design,TransLoc Inc.,52000.0,29000.0
+1763,IN,UI/UX Researcher,7Summits,155000.0,80000.0
+1764,IN,UI/UX Researcher,Anthem,69000.0,45000.0
+1765,IN,UI/UX Researcher,Ardagh Group,85000.0,46000.0
+1766,IN,UI/UX Researcher,BlueSky Commerce,96000.0,49000.0
+1767,IN,UI/UX Researcher,Cox Automotive,98000.0,47000.0
+1768,IN,UI/UX Researcher,DWA Healthcare Communications Group,91000.0,41000.0
+1769,IN,UI/UX Researcher,Delta Faucet Company,51000.0,26000.0
+1770,IN,UI/UX Researcher,Freedom Mortgage,32000.0,22000.0
+1771,IN,UI/UX Researcher,Genesys,144000.0,65000.0
+1772,IN,UI/UX Researcher,"Healthx, Inc.",75000.0,42000.0
+1773,IN,UI/UX Researcher,Indiana University,53000.0,26000.0
+1774,IN,UI/UX Researcher,Jobvite,107000.0,53000.0
+1775,IN,UI/UX Researcher,Kaleidoscope,109000.0,53500.0
+1776,IN,UI/UX Researcher,Masco,52000.0,27000.0
+1777,IN,UI/UX Researcher,OneCause,89000.0,50000.0
+1778,IN,UI/UX Researcher,Pinnacle Partners,81000.0,37000.0
+1779,IN,UI/UX Researcher,"Regenstrief Institute, Inc.",38000.0,19000.0
+1780,IN,UI/UX Researcher,Salesforce,154000.0,93000.0
+1781,IN,UI/UX Researcher,Studio Science,84000.0,38000.0
+1782,IN,UI/UX Researcher,TransLoc Inc.,94000.0,53000.0
+1783,IN,UI/UX Researcher,dormakaba,47000.0,27000.0
+1784,IN,UI/UX Researcher,myCOI,80000.0,38000.0
+1785,IN,VR Engineering,Eli Lilly and Company,126000.0,57000.0
+1786,MN,UI/UX Researcher,22nd Century Technologies,80000.0,63000.0
+1787,MN,UI/UX Researcher,Allina Health,61000.0,30000.0
+1788,MN,UI/UX Researcher,Amazon.com Services LLC,134000.0,84000.0
+1789,MN,UI/UX Researcher,Avani Technology Solutions,101000.0,49000.0
+1790,MN,UI/UX Researcher,Best Buy,108500.0,57500.0
+1791,MN,UI/UX Researcher,Boston Scientific,160000.0,92000.0
+1792,MN,UI/UX Researcher,C.H. Robinson,129000.0,63000.0
+1793,MN,UI/UX Researcher,Calabrio,170000.0,106000.0
+1794,MN,UI/UX Researcher,Ceridian,120000.0,69000.0
+1795,MN,UI/UX Researcher,Children's Minnesota,114000.0,54000.0
+1796,MN,UI/UX Researcher,CircleCI,142000.0,45000.0
+1797,MN,UI/UX Researcher,Collage.com,164000.0,96000.0
+1798,MN,UI/UX Researcher,Crossroads Technologies,73000.0,35000.0
+1799,MN,UI/UX Researcher,DELUXE CORPORATION,115000.0,61000.0
+1800,MN,UI/UX Researcher,Deloitte,129000.0,76500.0
+1801,MN,UI/UX Researcher,ECMC,61000.0,32000.0
+1802,MN,UI/UX Researcher,Empyrean Benefit Solutions,57000.0,32000.0
+1803,MN,UI/UX Researcher,Entrust Datacard,80000.0,43000.0
+1804,MN,UI/UX Researcher,Eurofins Central Laboratory,77000.0,32000.0
+1805,MN,UI/UX Researcher,Getac Video Solutions,74000.0,44000.0
+1806,MN,UI/UX Researcher,Granicus,80000.0,45000.0
+1807,MN,UI/UX Researcher,Honeywell,140000.0,69000.0
+1808,MN,UI/UX Researcher,IBM,111000.0,58500.0
+1809,MN,UI/UX Researcher,Iora Health,85000.0,47000.0
+1810,MN,UI/UX Researcher,Jostens,147000.0,94000.0
+1811,MN,UI/UX Researcher,Land O'Lakes,136000.0,68000.0
+1812,MN,UI/UX Researcher,Marvin,90000.0,41000.0
+1813,MN,UI/UX Researcher,Open Systems Technologies Inc,83000.0,47000.0
+1814,MN,UI/UX Researcher,RICEFW Technologies Inc,108000.0,51000.0
+1815,MN,UI/UX Researcher,Resideo,87000.0,39000.0
+1816,MN,UI/UX Researcher,Sleep Number,145000.0,58000.0
+1817,MN,UI/UX Researcher,Sleep Number Corporation,97000.0,45000.0
+1818,MN,UI/UX Researcher,Solution Design Group,171000.0,87000.0
+1819,MN,UI/UX Researcher,Sopheon,90000.0,52000.0
+1820,MN,UI/UX Researcher,Spok,114000.0,56000.0
+1821,MN,UI/UX Researcher,State of Minnesota,59000.0,26000.0
+1822,MN,UI/UX Researcher,Target,102500.0,59500.0
+1823,MN,UI/UX Researcher,Thomson Reuters,134000.0,68000.0
+1824,MN,UI/UX Researcher,Total Expert,142000.0,82000.0
+1825,MN,UI/UX Researcher,Trane Technologies,105000.0,49000.0
+1826,MN,UI/UX Researcher,Turner Construction Company,116000.0,53000.0
+1827,MN,UI/UX Researcher,U.S. Bank,89000.0,42000.0
+1828,MN,UI/UX Researcher,US Bank,99000.0,51000.0
+1829,MN,UI/UX Researcher,UnitedHealth Group,149000.0,72000.0
+1830,MN,UI/UX Researcher,University of Minnesota,64500.0,29500.0
+1831,MN,UI/UX Researcher,Vensoft Inc,90000.0,43000.0
+1832,MN,UI/UX Researcher,Vision Internet,77000.0,42000.0
+1833,MN,UI/UX Researcher,Wunderman Thompson,138000.0,67000.0
+1834,MN,UI/UX Researcher,iknowvate technologies,91000.0,43000.0
+1835,NY,Data Scientist,1stdibs.com,151000.0,82000.0
+1836,NY,Data Scientist,ACS,117000.0,67000.0
+1837,NY,Data Scientist,ADP,122000.0,74000.0
+1838,NY,Data Scientist,AVANADE,107000.0,61000.0
+1839,NY,Data Scientist,Acacia Network,76000.0,44000.0
+1840,NY,Data Scientist,ActionIQ,166000.0,92000.0
+1841,NY,Data Scientist,Advance Local,119000.0,69000.0
+1842,NY,Data Scientist,Aetna,179000.0,109000.0
+1843,NY,Data Scientist,Agio,144000.0,85000.0
+1844,NY,Data Scientist,Agoda,104000.0,56000.0
+1845,NY,Data Scientist,Albert Einstein College of Medicine,79000.0,45000.0
+1846,NY,Data Scientist,Allianz Global Investors,148000.0,87000.0
+1847,NY,Data Scientist,Alteryx,123000.0,63000.0
+1848,NY,Data Scientist,Amazon,150000.0,102000.0
+1849,NY,Data Scientist,"Amazon Web Services, Inc.",144000.0,89000.0
+1850,NY,Data Scientist,Amazon.com Services LLC,144000.0,89000.0
+1851,NY,Data Scientist,American Arbitration Association,75000.0,36000.0
+1852,NY,Data Scientist,American Express,186000.0,104000.0
+1853,NY,Data Scientist,Andela,117000.0,66000.0
+1854,NY,Data Scientist,Apple,164500.0,103000.0
+1855,NY,Data Scientist,Aptus Health,135000.0,84000.0
+1856,NY,Data Scientist,Arena,169000.0,157000.0
+1857,NY,Data Scientist,Asana,144000.0,88000.0
+1858,NY,Data Scientist,Asembia,76000.0,42000.0
+1859,NY,Data Scientist,Athreya Inc,100000.0,59000.0
+1860,NY,Data Scientist,Atlassian,166000.0,104000.0
+1861,NY,Data Scientist,Audible,153000.0,92000.0
+1862,NY,Data Scientist,"Audible, Inc.",144000.0,89000.0
+1863,NY,Data Scientist,BARK,31000.0,25000.0
+1864,NY,Data Scientist,BICP,109000.0,64000.0
+1865,NY,Data Scientist,BNY Mellon,119000.0,69000.0
+1866,NY,Data Scientist,BRAZE,149000.0,87000.0
+1867,NY,Data Scientist,Balyasny Asset Management,213000.0,107000.0
+1868,NY,Data Scientist,Bank of America,120000.0,70000.0
+1869,NY,Data Scientist,Barnabas Health,86000.0,49000.0
+1870,NY,Data Scientist,Barnes &amp; Noble Education,86000.0,43000.0
+1871,NY,Data Scientist,Beckman Coulter Diagnostics,161000.0,96000.0
+1872,NY,Data Scientist,"Bio-Reference Laboratories, Inc.",171000.0,55000.0
+1873,NY,Data Scientist,Biz2Credit Inc,133000.0,88000.0
+1874,NY,Data Scientist,Blackstone Group,160000.0,95000.0
+1875,NY,Data Scientist,Bloomberg,204000.0,124000.0
+1876,NY,Data Scientist,BlueVoyant,141000.0,69000.0
+1877,NY,Data Scientist,Bluecore,177500.0,105000.0
+1878,NY,Data Scientist,Booz Allen Hamilton,133000.0,76000.0
+1879,NY,Data Scientist,Booz Allen Hamilton Inc.,100000.0,86000.0
+1880,NY,Data Scientist,Bounce Exchange,218000.0,130000.0
+1881,NY,Data Scientist,Braze,142500.0,79000.0
+1882,NY,Data Scientist,CEDENT,100000.0,76000.0
+1883,NY,Data Scientist,CIA,177000.0,106000.0
+1884,NY,Data Scientist,CIT Group,147000.0,74000.0
+1885,NY,Data Scientist,CKM Advisors,103000.0,56000.0
+1886,NY,Data Scientist,CRISIL LIMITED,135000.0,79000.0
+1887,NY,Data Scientist,CVS Health,184000.0,109000.0
+1888,NY,Data Scientist,Capgemini,108000.0,61000.0
+1889,NY,Data Scientist,Capital One,158000.0,90500.0
+1890,NY,Data Scientist,Capital One - US,174000.0,104000.0
+1891,NY,Data Scientist,Caserta,133000.0,88000.0
+1892,NY,Data Scientist,Casper,126000.0,67000.0
+1893,NY,Data Scientist,Catholic Health Services of Long Island,145000.0,84000.0
+1894,NY,Data Scientist,Catholic Home Care,124000.0,71000.0
+1895,NY,Data Scientist,Cedent Consulting,106000.0,88000.0
+1896,NY,Data Scientist,Citadel,121000.0,105000.0
+1897,NY,Data Scientist,Citadel Securities,187500.0,117000.0
+1898,NY,Data Scientist,Citi,180000.0,89000.0
+1899,NY,Data Scientist,Citibank,155000.0,77000.0
+1900,NY,Data Scientist,CitiusTech,185000.0,111000.0
+1901,NY,Data Scientist,City National Bank,158000.0,94000.0
+1902,NY,Data Scientist,City of New York,79000.0,44000.0
+1903,NY,Data Scientist,Cityblock Health,83000.0,45000.0
+1904,NY,Data Scientist,Codecademy,169500.0,103000.0
+1905,NY,Data Scientist,Cognizant Technology Solutions,98000.0,54000.0
+1906,NY,Data Scientist,Colgate-Palmolive,138000.0,80000.0
+1907,NY,Data Scientist,Columbia University,82000.0,45000.0
+1908,NY,Data Scientist,Compass,80000.0,41000.0
+1909,NY,Data Scientist,CompuForce,126000.0,81000.0
+1910,NY,Data Scientist,"Conch Technologies, Inc",121000.0,63000.0
+1911,NY,Data Scientist,Conde Nast,142000.0,84000.0
+1912,NY,Data Scientist,Conductor,113000.0,84000.0
+1913,NY,Data Scientist,Contingent Network Services,109000.0,62000.0
+1914,NY,Data Scientist,Co–Star,137000.0,84000.0
+1915,NY,Data Scientist,CreativeDrive,69000.0,36000.0
+1916,NY,Data Scientist,Criteo,95000.0,50000.0
+1917,NY,Data Scientist,Crossix Solutions,165000.0,97000.0
+1918,NY,Data Scientist,Crunchbase,198000.0,116000.0
+1919,NY,Data Scientist,DataDog,110000.0,60000.0
+1920,NY,Data Scientist,Deloitte,129500.0,74500.0
+1921,NY,Data Scientist,Digitas,128000.0,73000.0
+1922,NY,Data Scientist,DoorDash,117000.0,72000.0
+1923,NY,Data Scientist,Dow Jones,133000.0,69000.0
+1924,NY,Data Scientist,Dun &amp; Bradstreet,167000.0,100000.0
+1925,NY,Data Scientist,Edward Daniels Group,126000.0,72000.0
+1926,NY,Data Scientist,Eisai,148000.0,87000.0
+1927,NY,Data Scientist,Essen Health Care,74000.0,40000.0
+1928,NY,Data Scientist,Etsy,187000.0,111000.0
+1929,NY,Data Scientist,FOJP,138000.0,81000.0
+1930,NY,Data Scientist,Facebook,168000.0,103000.0
+1931,NY,Data Scientist,FanDuel,159000.0,94000.0
+1932,NY,Data Scientist,Farfetch,147000.0,92000.0
+1933,NY,Data Scientist,Ferrero,58000.0,32000.0
+1934,NY,Data Scientist,"Fiserv, Inc.",114000.0,69000.0
+1935,NY,Data Scientist,Flatiron Health,219000.0,136000.0
+1936,NY,Data Scientist,FocusKPI Inc.,87000.0,42000.0
+1937,NY,Data Scientist,Food52,77000.0,42000.0
+1938,NY,Data Scientist,Forbes Media,109000.0,80000.0
+1939,NY,Data Scientist,Foursquare,336000.0,205000.0
+1940,NY,Data Scientist,Fragomen Worldwide,64000.0,33000.0
+1941,NY,Data Scientist,Fund For Public Health In New York Inc,136000.0,78000.0
+1942,NY,Data Scientist,GAF Materials,156000.0,93000.0
+1943,NY,Data Scientist,Gemini,198000.0,118000.0
+1944,NY,Data Scientist,Genesis Research,135000.0,100000.0
+1945,NY,Data Scientist,Getty Images,153000.0,93000.0
+1946,NY,Data Scientist,GlaxoSmithKline,116000.0,66000.0
+1947,NY,Data Scientist,Goldman Sachs,143000.0,79000.0
+1948,NY,Data Scientist,Google,171000.0,102000.0
+1949,NY,Data Scientist,GroupM Data &amp; Technology,132000.0,76000.0
+1950,NY,Data Scientist,GroupM Services,171000.0,101000.0
+1951,NY,Data Scientist,Grubhub,189000.0,115000.0
+1952,NY,Data Scientist,Guardian News &amp; Media,134000.0,78000.0
+1953,NY,Data Scientist,Gusto,233000.0,145000.0
+1954,NY,Data Scientist,HarperCollins Publishers,133000.0,78000.0
+1955,NY,Data Scientist,Harry's,99000.0,53000.0
+1956,NY,Data Scientist,Healthcare Risk Advisors,124000.0,73000.0
+1957,NY,Data Scientist,Healthfirst,136000.0,80000.0
+1958,NY,Data Scientist,Hearst Media Services,81000.0,46000.0
+1959,NY,Data Scientist,Homeserve USA,76000.0,40000.0
+1960,NY,Data Scientist,Hornblower Cruises and Events,110000.0,63000.0
+1961,NY,Data Scientist,Houghton Mifflin Harcourt,87000.0,48000.0
+1962,NY,Data Scientist,Hudson River Trading,180000.0,99000.0
+1963,NY,Data Scientist,IBM,157000.0,90000.0
+1964,NY,Data Scientist,IFG Companies,182000.0,110000.0
+1965,NY,Data Scientist,IHS Markit,129000.0,79000.0
+1966,NY,Data Scientist,ION Group,172000.0,92000.0
+1967,NY,Data Scientist,Industrious,142000.0,81000.0
+1968,NY,Data Scientist,"Insider, Inc.",153000.0,90000.0
+1969,NY,Data Scientist,Integral Ad Science,157500.0,92500.0
+1970,NY,Data Scientist,Internal Revenue Service,132000.0,76000.0
+1971,NY,Data Scientist,International Rescue Committee,73000.0,41000.0
+1972,NY,Data Scientist,Invitae,126000.0,66000.0
+1973,NY,Data Scientist,J.S. Held,63000.0,40000.0
+1974,NY,Data Scientist,JDRF International,136000.0,61000.0
+1975,NY,Data Scientist,"JPMorgan Chase Bank, N.A.",147000.0,86000.0
+1976,NY,Data Scientist,Jane Street,166000.0,143000.0
+1977,NY,Data Scientist,"Jefferies &amp; Company, Inc.",99000.0,55000.0
+1978,NY,Data Scientist,JetBlue Airways Corporation,114000.0,65000.0
+1979,NY,Data Scientist,KPMG,180000.0,109000.0
+1980,NY,Data Scientist,Kargo,181000.0,107000.0
+1981,NY,Data Scientist,Kelton,121000.0,52000.0
+1982,NY,Data Scientist,Kensho,248000.0,142000.0
+1983,NY,Data Scientist,Known,297000.0,165000.0
+1984,NY,Data Scientist,Koch Engineered Solutions,139000.0,82000.0
+1985,NY,Data Scientist,Komodo Health,197000.0,121000.0
+1986,NY,Data Scientist,"Kroll Bond Rating Agency, LLC",165000.0,98000.0
+1987,NY,Data Scientist,LG Electronics,182000.0,110000.0
+1988,NY,Data Scientist,Lab49,206000.0,112000.0
+1989,NY,Data Scientist,LeafLink,167000.0,93000.0
+1990,NY,Data Scientist,LexisNexis Risk Solutions,165000.0,96000.0
+1991,NY,Data Scientist,Liquidnet,215000.0,129000.0
+1992,NY,Data Scientist,Lorven Technologies Inc,129000.0,84000.0
+1993,NY,Data Scientist,Luxoft,133000.0,71000.0
+1994,NY,Data Scientist,M3 USA,114000.0,61000.0
+1995,NY,Data Scientist,MAXIMUS,92000.0,45000.0
+1996,NY,Data Scientist,MSCI Inc.,147000.0,87000.0
+1997,NY,Data Scientist,Macy's,187000.0,111000.0
+1998,NY,Data Scientist,Marina Maher Communications,99000.0,56000.0
+1999,NY,Data Scientist,Mark43,143000.0,115000.0
+2000,NY,Data Scientist,Marsh &amp; McLennan Companies,136000.0,75000.0
+2001,NY,Data Scientist,"Maslansky + Partners, LLC",64000.0,33000.0
+2002,NY,Data Scientist,MassMutual,215000.0,129000.0
+2003,NY,Data Scientist,MediaMath,210000.0,130000.0
+2004,NY,Data Scientist,Medidata Solutions,187000.0,115000.0
+2005,NY,Data Scientist,Memorial Sloan-Kettering Cancer Center,87000.0,49000.0
+2006,NY,Data Scientist,MetroPlus Health Plan,82000.0,45000.0
+2007,NY,Data Scientist,MightyHive,163000.0,100000.0
+2008,NY,Data Scientist,Millennium,186000.0,110000.0
+2009,NY,Data Scientist,Milliman,126000.0,73000.0
+2010,NY,Data Scientist,MongoDB,140000.0,81000.0
+2011,NY,Data Scientist,Morgan Stanley,117500.0,67000.0
+2012,NY,Data Scientist,Mount Sinai,69500.0,40000.0
+2013,NY,Data Scientist,Mount Sinai Health System,66000.0,37000.0
+2014,NY,Data Scientist,NJOY,77000.0,41000.0
+2015,NY,Data Scientist,NVIDIA,214000.0,135000.0
+2016,NY,Data Scientist,NYC Data Science Academy,102000.0,57000.0
+2017,NY,Data Scientist,NYC Health + Hospitals,86500.0,50000.0
+2018,NY,Data Scientist,NYU Langone Health,187000.0,105000.0
+2019,NY,Data Scientist,National Audubon Society,116000.0,67000.0
+2020,NY,Data Scientist,National Football League,183000.0,109000.0
+2021,NY,Data Scientist,New York City DEPARTMENT OF CORRECTION,108000.0,61000.0
+2022,NY,Data Scientist,New York City DEPARTMENT OF INVESTIGATION,97000.0,53000.0
+2023,NY,Data Scientist,New York Times,136000.0,119000.0
+2024,NY,Data Scientist,New York University,94000.0,53000.0
+2025,NY,Data Scientist,NewtonX,118000.0,68000.0
+2026,NY,Data Scientist,Noom Inc.,154000.0,93000.0
+2027,NY,Data Scientist,Noom US,118000.0,69000.0
+2028,NY,Data Scientist,Nordstrom,117000.0,68000.0
+2029,NY,Data Scientist,On-Board Companies,110000.0,48000.0
+2030,NY,Data Scientist,Oracle ,139000.0,70000.0
+2031,NY,Data Scientist,Ordergroove,145000.0,87000.0
+2032,NY,Data Scientist,Oscar Health,197000.0,120000.0
+2033,NY,Data Scientist,PA Consulting Group,123000.0,71000.0
+2034,NY,Data Scientist,PA Media Group,121000.0,69000.0
+2035,NY,Data Scientist,PDDN INC.,123000.0,72000.0
+2036,NY,Data Scientist,PNC Financial Services Group,182000.0,108000.0
+2037,NY,Data Scientist,PPD,69000.0,36000.0
+2038,NY,Data Scientist,Palantir Technologies,183000.0,99000.0
+2039,NY,Data Scientist,"Pasona N A, Inc.",54000.0,31000.0
+2040,NY,Data Scientist,Patreon,147000.0,88000.0
+2041,NY,Data Scientist,Paxos,127000.0,73000.0
+2042,NY,Data Scientist,PayPal,138000.0,86000.0
+2043,NY,Data Scientist,Peloton,158000.0,96000.0
+2044,NY,Data Scientist,Peloton Interactive,94000.0,53500.0
+2045,NY,Data Scientist,PepsiCo,151000.0,89000.0
+2046,NY,Data Scientist,Pluralsight,177000.0,95000.0
+2047,NY,Data Scientist,Plymouth Rock Assurance,102000.0,58000.0
+2048,NY,Data Scientist,Point72,147000.0,119000.0
+2049,NY,Data Scientist,Proclinical Staffing,73000.0,40000.0
+2050,NY,Data Scientist,Prudential,127000.0,73000.0
+2051,NY,Data Scientist,Quartet Health,129500.0,108000.0
+2052,NY,Data Scientist,RBC,151000.0,89000.0
+2053,NY,Data Scientist,RELX Group,129000.0,75000.0
+2054,NY,Data Scientist,RWJBarnabas Health,81000.0,48000.0
+2055,NY,Data Scientist,Raytheon Technologies Corporate,183500.0,110000.0
+2056,NY,Data Scientist,Reddit,252000.0,155000.0
+2057,NY,Data Scientist,"Redolent, Inc",85000.0,43000.0
+2058,NY,Data Scientist,Reonomy,153000.0,86000.0
+2059,NY,Data Scientist,Ro,125000.0,70000.0
+2060,NY,Data Scientist,Rockefeller Capital Management,86000.0,47000.0
+2061,NY,Data Scientist,Rockstar Games,170000.0,104000.0
+2062,NY,Data Scientist,S&amp;P DOW JONES INDICES,177000.0,89000.0
+2063,NY,Data Scientist,S&amp;P Global,198000.0,118000.0
+2064,NY,Data Scientist,SADA,148000.0,77000.0
+2065,NY,Data Scientist,SS&amp;C Technologies,164000.0,97000.0
+2066,NY,Data Scientist,Saint Peter's University,83000.0,46000.0
+2067,NY,Data Scientist,Saks Fifth Avenue,147000.0,86000.0
+2068,NY,Data Scientist,Salesforce,153000.0,95000.0
+2069,NY,Data Scientist,Samsung Research America,231000.0,120000.0
+2070,NY,Data Scientist,SeatGeek,137000.0,67000.0
+2071,NY,Data Scientist,Shareablee,119000.0,89000.0
+2072,NY,Data Scientist,Sharecare Inc.,114000.0,69000.0
+2073,NY,Data Scientist,ShopKeep,134500.0,73500.0
+2074,NY,Data Scientist,Sia Partners,117000.0,59000.0
+2075,NY,Data Scientist,Simons Foundation,185000.0,108000.0
+2076,NY,Data Scientist,SmartAsset,86000.0,44000.0
+2077,NY,Data Scientist,Snapchat,177000.0,108000.0
+2078,NY,Data Scientist,SoFi,122000.0,74000.0
+2079,NY,Data Scientist,Sony Electronics,78000.0,41000.0
+2080,NY,Data Scientist,Sphinix Network Solutions Inc.,77000.0,41000.0
+2081,NY,Data Scientist,Sphinix Solutions,125000.0,76000.0
+2082,NY,Data Scientist,Spotify,184000.0,114000.0
+2083,NY,Data Scientist,StarsHR,100000.0,94000.0
+2084,NY,Data Scientist,Success Academy Charter Schools,86000.0,46000.0
+2085,NY,Data Scientist,Synechron,118000.0,65500.0
+2086,NY,Data Scientist,Systems Evolution,138000.0,91000.0
+2087,NY,Data Scientist,TRANZACT,166000.0,102000.0
+2088,NY,Data Scientist,Taboola,99000.0,52000.0
+2089,NY,Data Scientist,Tapad,239000.0,145000.0
+2090,NY,Data Scientist,Tapestry,183000.0,109000.0
+2091,NY,Data Scientist,Teachable,99000.0,54000.0
+2092,NY,Data Scientist,Teachers Pay Teachers,181000.0,110000.0
+2093,NY,Data Scientist,Temboo,130000.0,74000.0
+2094,NY,Data Scientist,The Daily Beast,96000.0,54000.0
+2095,NY,Data Scientist,The Economist Newspaper Limited,131000.0,77000.0
+2096,NY,Data Scientist,The Fidelis Group,59000.0,31000.0
+2097,NY,Data Scientist,The Knot Worldwide,92500.0,53500.0
+2098,NY,Data Scientist,The Trade Desk,106000.0,51000.0
+2099,NY,Data Scientist,Thomas,130000.0,75000.0
+2100,NY,Data Scientist,Thrive Global,220000.0,130000.0
+2101,NY,Data Scientist,Tower Research Capital,163000.0,84000.0
+2102,NY,Data Scientist,Tradeweb Markets LLC,165000.0,98000.0
+2103,NY,Data Scientist,TransRe,102000.0,65000.0
+2104,NY,Data Scientist,TriNet,161000.0,94000.0
+2105,NY,Data Scientist,Triplebyte,225000.0,145000.0
+2106,NY,Data Scientist,Truveris,134000.0,77000.0
+2107,NY,Data Scientist,Twitter,185000.0,111000.0
+2108,NY,Data Scientist,Twitter Inc,177000.0,108000.0
+2109,NY,Data Scientist,Two Sigma,220000.0,115000.0
+2110,NY,Data Scientist,"Two Sigma Investments, LLC.",195000.0,117000.0
+2111,NY,Data Scientist,UBS,252000.0,135000.0
+2112,NY,Data Scientist,Uber,99000.0,53000.0
+2113,NY,Data Scientist,VISITING NURSE SERVICE OF NEW YORK,73000.0,40000.0
+2114,NY,Data Scientist,VMLY&amp;R,120000.0,71000.0
+2115,NY,Data Scientist,VSCO,79000.0,44000.0
+2116,NY,Data Scientist,VTS,221000.0,136000.0
+2117,NY,Data Scientist,Veeva Systems,163000.0,101000.0
+2118,NY,Data Scientist,Via Transportation,123000.0,69500.0
+2119,NY,Data Scientist,ViacomCBS,177000.0,105000.0
+2120,NY,Data Scientist,Virtual Clarity,116000.0,73000.0
+2121,NY,Data Scientist,Vydia,94000.0,73000.0
+2122,NY,Data Scientist,WITHIN,174000.0,102000.0
+2123,NY,Data Scientist,Warner Music Group,109000.0,63000.0
+2124,NY,Data Scientist,WeWork,125000.0,74000.0
+2125,NY,Data Scientist,WebMD,141000.0,83000.0
+2126,NY,Data Scientist,Weill Cornell Medicine,132000.0,76000.0
+2127,NY,Data Scientist,Wells Fargo,211000.0,126000.0
+2128,NY,Data Scientist,Wheels Up Partners LLC,124000.0,72000.0
+2129,NY,Data Scientist,Willis Towers Watson,142000.0,82000.0
+2130,NY,Data Scientist,WorkFusion,147500.0,88000.0
+2131,NY,Data Scientist,Workhuman,172000.0,101000.0
+2132,NY,Data Scientist,Yieldmo,227000.0,135000.0
+2133,NY,Data Scientist,YipitData,109000.0,57000.0
+2134,NY,Data Scientist,ZS Associates,159000.0,86000.0
+2135,NY,Data Scientist,Zoetis,138000.0,80000.0
+2136,NY,Data Scientist,Zoetis US,125000.0,66000.0
+2137,NY,Data Scientist,eBay,145000.0,79000.0
+2138,NY,Data Scientist,h2o.ai,224000.0,140000.0
+2139,NY,Data Scientist,pymetrics,152000.0,92000.0
+2140,NY,Digital Marketing,1000heads,55000.0,30000.0
+2141,NY,Digital Marketing,1stdibs.com,73000.0,44000.0
+2142,NY,Digital Marketing,2U,84000.0,47000.0
+2143,NY,Digital Marketing,3Q Digital,136000.0,77000.0
+2144,NY,Digital Marketing,AESOP Corporate,88000.0,44000.0
+2145,NY,Digital Marketing,AIG,96000.0,41000.0
+2146,NY,Digital Marketing,AbbVie,145000.0,92000.0
+2147,NY,Digital Marketing,Acadaca,84000.0,31000.0
+2148,NY,Digital Marketing,Access Intelligence,79000.0,39000.0
+2149,NY,Digital Marketing,Adobe,183000.0,77000.0
+2150,NY,Digital Marketing,Adorama,57000.0,28000.0
+2151,NY,Digital Marketing,Advantage Solutions,80500.0,38500.0
+2152,NY,Digital Marketing,Amalgamated Bank of NY,91000.0,46000.0
+2153,NY,Digital Marketing,Amazon,107000.0,55000.0
+2154,NY,Digital Marketing,Amazon Advertising LLC,155000.0,71000.0
+2155,NY,Digital Marketing,American Management Association,79000.0,42000.0
+2156,NY,Digital Marketing,Amobee,75000.0,42000.0
+2157,NY,Digital Marketing,Ampush,79000.0,44000.0
+2158,NY,Digital Marketing,AppsFlyer,158500.0,69500.0
+2159,NY,Digital Marketing,Ares Management,79000.0,45000.0
+2160,NY,Digital Marketing,Axis Group,73000.0,41000.0
+2161,NY,Digital Marketing,B&amp;H Photo,73000.0,42000.0
+2162,NY,Digital Marketing,BLEND360,64000.0,37000.0
+2163,NY,Digital Marketing,Bayer,97000.0,49000.0
+2164,NY,Digital Marketing,Biz2Credit Inc,42000.0,24000.0
+2165,NY,Digital Marketing,Blink Health,118000.0,61000.0
+2166,NY,Digital Marketing,Blue Prism,100000.0,51000.0
+2167,NY,Digital Marketing,BlueVine,87000.0,50000.0
+2168,NY,Digital Marketing,Bluecore,106000.0,54000.0
+2169,NY,Digital Marketing,Bombas,72000.0,28000.0
+2170,NY,Digital Marketing,BrainPOP,56000.0,32000.0
+2171,NY,Digital Marketing,Brandwatch,89000.0,42000.0
+2172,NY,Digital Marketing,Brookfield Properties,102000.0,52000.0
+2173,NY,Digital Marketing,CBS Interactive,88000.0,44000.0
+2174,NY,Digital Marketing,Cepheid,105000.0,54000.0
+2175,NY,Digital Marketing,City Harvest,65000.0,35000.0
+2176,NY,Digital Marketing,Colgate-Palmolive,111000.0,55000.0
+2177,NY,Digital Marketing,Columbia University,152000.0,81000.0
+2178,NY,Digital Marketing,Conductor,177000.0,95500.0
+2179,NY,Digital Marketing,Coty,94000.0,48000.0
+2180,NY,Digital Marketing,Criteo,92000.0,50000.0
+2181,NY,Digital Marketing,Crossix Solutions,80000.0,48000.0
+2182,NY,Digital Marketing,D'Artagnan,70000.0,43000.0
+2183,NY,Digital Marketing,DDB,121000.0,69000.0
+2184,NY,Digital Marketing,DLA Piper,111000.0,57000.0
+2185,NY,Digital Marketing,Dailymotion,148000.0,79000.0
+2186,NY,Digital Marketing,Databricks,153000.0,82000.0
+2187,NY,Digital Marketing,David Yurman,102000.0,55000.0
+2188,NY,Digital Marketing,Deloitte,81000.0,40000.0
+2189,NY,Digital Marketing,Diligent Corporation,97000.0,49000.0
+2190,NY,Digital Marketing,Direct Agents,70000.0,40000.0
+2191,NY,Digital Marketing,Disney Streaming Services,106000.0,54000.0
+2192,NY,Digital Marketing,EY,127000.0,66000.0
+2193,NY,Digital Marketing,Eataly North America,62000.0,33000.0
+2194,NY,Digital Marketing,Edelman,58000.0,44000.0
+2195,NY,Digital Marketing,Eileen Fisher,82000.0,41000.0
+2196,NY,Digital Marketing,Enfusion,70000.0,35000.0
+2197,NY,Digital Marketing,Epsilon,159000.0,87000.0
+2198,NY,Digital Marketing,Extreme Reach,78000.0,42000.0
+2199,NY,Digital Marketing,"FTI Consulting, Inc.",79000.0,40000.0
+2200,NY,Digital Marketing,FULLBEAUTY Brands,145000.0,79000.0
+2201,NY,Digital Marketing,Facebook,122000.0,63000.0
+2202,NY,Digital Marketing,FanDuel,212000.0,115000.0
+2203,NY,Digital Marketing,Fandom,235000.0,120000.0
+2204,NY,Digital Marketing,Federal Home Loan Bank of New York,110000.0,56000.0
+2205,NY,Digital Marketing,Fiserv,177000.0,96000.0
+2206,NY,Digital Marketing,Fitch Ratings Inc.,102000.0,52000.0
+2207,NY,Digital Marketing,Food52,47000.0,28000.0
+2208,NY,Digital Marketing,Fora Financial LLC,47000.0,27000.0
+2209,NY,Digital Marketing,Forbes Media,74000.0,63000.0
+2210,NY,Digital Marketing,GAF Materials,98000.0,50000.0
+2211,NY,Digital Marketing,Gannett,68000.0,35000.0
+2212,NY,Digital Marketing,Green Dot ,124000.0,65000.0
+2213,NY,Digital Marketing,GroundTruth,78000.0,45000.0
+2214,NY,Digital Marketing,Gympass,85000.0,43000.0
+2215,NY,Digital Marketing,HarperCollins Publishers,82000.0,41000.0
+2216,NY,Digital Marketing,Harris Computer ,77000.0,38000.0
+2217,NY,Digital Marketing,Harry's,114000.0,59000.0
+2218,NY,Digital Marketing,Havas Worldwide,119000.0,68000.0
+2219,NY,Digital Marketing,Haymarket Media Inc.,79000.0,40000.0
+2220,NY,Digital Marketing,Healthcare Consultancy Group,105000.0,59000.0
+2221,NY,Digital Marketing,Healthfirst,97000.0,49000.0
+2222,NY,Digital Marketing,Hearts and Science,69000.0,39000.0
+2223,NY,Digital Marketing,Hello Alfred,138000.0,73000.0
+2224,NY,Digital Marketing,Housing Works,44000.0,28000.0
+2225,NY,Digital Marketing,IBM,129000.0,60000.0
+2226,NY,Digital Marketing,Icreon Tech,106000.0,54000.0
+2227,NY,Digital Marketing,Ingram Content Group,89000.0,45000.0
+2228,NY,Digital Marketing,Integral Ad Science,123000.0,48000.0
+2229,NY,Digital Marketing,IntelliPro Group Inc.,82000.0,41000.0
+2230,NY,Digital Marketing,Interactive One,98000.0,49000.0
+2231,NY,Digital Marketing,Intouch Group,70000.0,39000.0
+2232,NY,Digital Marketing,Ironpaper,67000.0,33000.0
+2233,NY,Digital Marketing,JeffreyM Consulting,90000.0,45000.0
+2234,NY,Digital Marketing,Kepler Group,67500.0,37000.0
+2235,NY,Digital Marketing,Kettle,81000.0,45000.0
+2236,NY,Digital Marketing,Kiss Products,55000.0,27000.0
+2237,NY,Digital Marketing,Klarna,135000.0,71000.0
+2238,NY,Digital Marketing,Kobre &amp; Kim LLP,58000.0,32000.0
+2239,NY,Digital Marketing,Kyriba Corp.,79000.0,38000.0
+2240,NY,Digital Marketing,Lazard,85000.0,45000.0
+2241,NY,Digital Marketing,Lazard Asset Management,89000.0,53000.0
+2242,NY,Digital Marketing,Lazard Ltd.,94000.0,56000.0
+2243,NY,Digital Marketing,Leica Biosystems,114000.0,59000.0
+2244,NY,Digital Marketing,Litify,147000.0,78000.0
+2245,NY,Digital Marketing,LiveRamp,176000.0,93000.0
+2246,NY,Digital Marketing,Lotame,103000.0,64000.0
+2247,NY,Digital Marketing,Macy's,63000.0,38000.0
+2248,NY,Digital Marketing,Madison Logic,75000.0,36000.0
+2249,NY,Digital Marketing,Maharam,81000.0,47000.0
+2250,NY,Digital Marketing,Marsh &amp; McLennan Companies,110000.0,56000.0
+2251,NY,Digital Marketing,Michael Kors,98000.0,53000.0
+2252,NY,Digital Marketing,MightyHive,112000.0,74000.0
+2253,NY,Digital Marketing,Mindshare,64000.0,35000.0
+2254,NY,Digital Marketing,MongoDB,120000.0,62000.0
+2255,NY,Digital Marketing,Morgan Stanley,91000.0,46000.0
+2256,NY,Digital Marketing,Movable Ink,106000.0,46000.0
+2257,NY,Digital Marketing,NBCUniversal,93000.0,47000.0
+2258,NY,Digital Marketing,NYCEDC,65000.0,35000.0
+2259,NY,Digital Marketing,NYU Langone Health,143000.0,76000.0
+2260,NY,Digital Marketing,Neiman Marcus,159000.0,85000.0
+2261,NY,Digital Marketing,Neo Media World,75000.0,49000.0
+2262,NY,Digital Marketing,NetCom Learning,53000.0,29000.0
+2263,NY,Digital Marketing,New Museum of Contemporary Art,104000.0,53000.0
+2264,NY,Digital Marketing,Newell Brands,68000.0,42000.0
+2265,NY,Digital Marketing,NewsMax Media,92000.0,42000.0
+2266,NY,Digital Marketing,Nexamp,268000.0,147000.0
+2267,NY,Digital Marketing,Nickelodeon,122500.0,47500.0
+2268,NY,Digital Marketing,"Octagon, Inc",59000.0,32000.0
+2269,NY,Digital Marketing,Ogilvy Health,83000.0,47000.0
+2270,NY,Digital Marketing,OnPrem Solution Partners,104000.0,53000.0
+2271,NY,Digital Marketing,OpenTable,132000.0,69000.0
+2272,NY,Digital Marketing,Outbrain,120000.0,47500.0
+2273,NY,Digital Marketing,OwnBackup,103000.0,52000.0
+2274,NY,Digital Marketing,PEI Media,61000.0,30000.0
+2275,NY,Digital Marketing,PGA Tour Superstore,69000.0,32000.0
+2276,NY,Digital Marketing,Padilla,78000.0,44000.0
+2277,NY,Digital Marketing,PayPal,124000.0,61000.0
+2278,NY,Digital Marketing,Peloton,154000.0,25000.0
+2279,NY,Digital Marketing,Penguin Random House LLC,41000.0,25000.0
+2280,NY,Digital Marketing,Penske Media Corporation,80000.0,44000.0
+2281,NY,Digital Marketing,Per Scholas Inc.,62000.0,31000.0
+2282,NY,Digital Marketing,Persado,118000.0,53000.0
+2283,NY,Digital Marketing,Philips Electronics,99000.0,50000.0
+2284,NY,Digital Marketing,Policygenius,99000.0,50000.0
+2285,NY,Digital Marketing,Prosek,115000.0,74000.0
+2286,NY,Digital Marketing,Prosek Partners,299000.0,158000.0
+2287,NY,Digital Marketing,Proud Moments ABA,108000.0,56000.0
+2288,NY,Digital Marketing,Prudential,53000.0,29000.0
+2289,NY,Digital Marketing,PubWorx,121000.0,60000.0
+2290,NY,Digital Marketing,PulsePoint,169000.0,54000.0
+2291,NY,Digital Marketing,Purposive,56000.0,29000.0
+2292,NY,Digital Marketing,Quotient Technology Inc.,233000.0,105000.0
+2293,NY,Digital Marketing,RMS Computer,89000.0,50000.0
+2294,NY,Digital Marketing,RSM US LLP,77000.0,38000.0
+2295,NY,Digital Marketing,Radio One,60000.0,30000.0
+2296,NY,Digital Marketing,Rapid Ratings,51000.0,29000.0
+2297,NY,Digital Marketing,Rightpoint,84000.0,43000.0
+2298,NY,Digital Marketing,Roku,184000.0,78000.0
+2299,NY,Digital Marketing,"SHS, Incorporated",77000.0,32000.0
+2300,NY,Digital Marketing,Sakara Life,74000.0,37000.0
+2301,NY,Digital Marketing,Saks Fifth Avenue,71000.0,42000.0
+2302,NY,Digital Marketing,Salesforce,131000.0,62000.0
+2303,NY,Digital Marketing,Sartorius,83000.0,42000.0
+2304,NY,Digital Marketing,Schweiger Dermatology Group,60000.0,34000.0
+2305,NY,Digital Marketing,ShopBop,87000.0,48000.0
+2306,NY,Digital Marketing,Showtime,153000.0,76000.0
+2307,NY,Digital Marketing,Shutterstock,74000.0,42000.0
+2308,NY,Digital Marketing,SmartAsset,102000.0,59000.0
+2309,NY,Digital Marketing,Smartly.io,102500.0,39500.0
+2310,NY,Digital Marketing,Something Digital,120000.0,80000.0
+2311,NY,Digital Marketing,Spark Foundry,81000.0,39000.0
+2312,NY,Digital Marketing,Spin Master Ltd,128000.0,62000.0
+2313,NY,Digital Marketing,StepStone Group LP,57000.0,30000.0
+2314,NY,Digital Marketing,StoneTurn,73000.0,37000.0
+2315,NY,Digital Marketing,Studio71,68000.0,25000.0
+2316,NY,Digital Marketing,T-Mobile,89000.0,45000.0
+2317,NY,Digital Marketing,Tapad,350000.0,192000.0
+2318,NY,Digital Marketing,Tapestry,105000.0,54000.0
+2319,NY,Digital Marketing,The Conference Board,81000.0,41000.0
+2320,NY,Digital Marketing,The Corcoran Group,86000.0,43000.0
+2321,NY,Digital Marketing,The Marketing Arm,70000.0,39000.0
+2322,NY,Digital Marketing,The Nature’s Bounty Co,172000.0,90000.0
+2323,NY,Digital Marketing,The Spark Group,44000.0,38000.0
+2324,NY,Digital Marketing,Thermo Fisher Scientific,89000.0,45000.0
+2325,NY,Digital Marketing,Third and Grove,74000.0,41000.0
+2326,NY,Digital Marketing,ThomasArts,78000.0,39000.0
+2327,NY,Digital Marketing,Tishman Speyer,252000.0,138000.0
+2328,NY,Digital Marketing,Tradeweb Markets LLC,121000.0,63000.0
+2329,NY,Digital Marketing,Treasure Data,167000.0,68000.0
+2330,NY,Digital Marketing,TripAdvisor,250000.0,137000.0
+2331,NY,Digital Marketing,Trustpilot,90000.0,45000.0
+2332,NY,Digital Marketing,Turner Broadcasting,101000.0,51000.0
+2333,NY,Digital Marketing,"Two Sigma Investments, LLC.",144000.0,77000.0
+2334,NY,Digital Marketing,VISITING NURSE SERVICE OF NEW YORK,54000.0,32000.0
+2335,NY,Digital Marketing,VaynerMedia LLC,63000.0,32000.0
+2336,NY,Digital Marketing,Verizon,133000.0,64000.0
+2337,NY,Digital Marketing,ViacomCBS,85000.0,42500.0
+2338,NY,Digital Marketing,Viant,207000.0,84000.0
+2339,NY,Digital Marketing,Vida Shoes International,67000.0,33000.0
+2340,NY,Digital Marketing,"Visual Lease, LLC",101000.0,61000.0
+2341,NY,Digital Marketing,Vivial,61000.0,34000.0
+2342,NY,Digital Marketing,W2O,90000.0,50000.0
+2343,NY,Digital Marketing,WE Communications,70000.0,37000.0
+2344,NY,Digital Marketing,WITHIN,110000.0,56000.0
+2345,NY,Digital Marketing,WW International,47000.0,29000.0
+2346,NY,Digital Marketing,Walmart,216000.0,118000.0
+2347,NY,Digital Marketing,Walt Disney Company,140000.0,74000.0
+2348,NY,Digital Marketing,WebMD,92000.0,47000.0
+2349,NY,Digital Marketing,Wolters Kluwer,113000.0,63000.0
+2350,NY,Digital Marketing,coty,129000.0,81000.0
+2351,NY,Digital Marketing,iProspect,74000.0,44000.0
+2352,NY,Digital Marketing,"imre, LLC.",78500.0,46000.0
+2353,NY,Game Design,Adorama,46000.0,46000.0
+2354,NY,Game Design,Amazon,92000.0,90000.0
+2355,NY,Game Design,Arkadium,98000.0,74000.0
+2356,NY,Game Design,"Ascena Retail Group, Inc.",58000.0,31000.0
+2357,NY,Game Design,Authentic Brands Group,72000.0,36000.0
+2358,NY,Game Design,Avani Technology Solutions,56000.0,30000.0
+2359,NY,Game Design,BGC Partners,85000.0,45000.0
+2360,NY,Game Design,Bandujo,66000.0,34000.0
+2361,NY,Game Design,Berkeley Point Capital Holdings,54000.0,28000.0
+2362,NY,Game Design,Blue Apron,68000.0,35000.0
+2363,NY,Game Design,Bonobos,99000.0,53000.0
+2364,NY,Game Design,BrightTALK,82000.0,43000.0
+2365,NY,Game Design,Brooklyn Museum,43000.0,24000.0
+2366,NY,Game Design,BuzzFeed,74000.0,34000.0
+2367,NY,Game Design,CBRE,58000.0,32000.0
+2368,NY,Game Design,CIA,71000.0,46000.0
+2369,NY,Game Design,CLEAR,88000.0,46500.0
+2370,NY,Game Design,CNEWS,174000.0,98000.0
+2371,NY,Game Design,Capgemini,61000.0,32000.0
+2372,NY,Game Design,Capital One,109000.0,66000.0
+2373,NY,Game Design,Center for Court Innovation,60000.0,34000.0
+2374,NY,Game Design,Center for Reproductive Rights,65000.0,35000.0
+2375,NY,Game Design,Coach,62000.0,34000.0
+2376,NY,Game Design,Constellation,87000.0,46000.0
+2377,NY,Game Design,Crunch Corporate Clubs,52000.0,29000.0
+2378,NY,Game Design,Cynet Systems,109000.0,58000.0
+2379,NY,Game Design,Daggerwing Health,87000.0,63000.0
+2380,NY,Game Design,Direct Agents,54000.0,28000.0
+2381,NY,Game Design,Dreamwear Inc.,63000.0,37000.0
+2382,NY,Game Design,ELLKAY LLC,78000.0,42000.0
+2383,NY,Game Design,EVINS Communications,59000.0,29000.0
+2384,NY,Game Design,Edgewood Properties,64000.0,34000.0
+2385,NY,Game Design,Empire State Realty Trust,83000.0,45000.0
+2386,NY,Game Design,Endeavor,99000.0,48000.0
+2387,NY,Game Design,Endevis,51000.0,28000.0
+2388,NY,Game Design,FASTSIGNS #153,50000.0,28000.0
+2389,NY,Game Design,FanDuel,88500.0,48500.0
+2390,NY,Game Design,Firmenich,60000.0,33000.0
+2391,NY,Game Design,Fleishman-Hillard,50000.0,25000.0
+2392,NY,Game Design,Gemini,160000.0,80000.0
+2393,NY,Game Design,Global Brands Group,60000.0,34000.0
+2394,NY,Game Design,Group Nine Media,58000.0,31000.0
+2395,NY,Game Design,H Mart,65000.0,36000.0
+2396,NY,Game Design,H-Mart,56000.0,32000.0
+2397,NY,Game Design,HLW,64000.0,34000.0
+2398,NY,Game Design,HOTELS AT HOME,40000.0,22000.0
+2399,NY,Game Design,Hanwha Techwin America Inc,53000.0,29000.0
+2400,NY,Game Design,Harry's,64000.0,33000.0
+2401,NY,Game Design,Heartbeat,75000.0,39000.0
+2402,NY,Game Design,Hinge,163000.0,95000.0
+2403,NY,Game Design,Iona College,57000.0,30000.0
+2404,NY,Game Design,Jane Street,107000.0,61000.0
+2405,NY,Game Design,Kiss Products,47000.0,26000.0
+2406,NY,Game Design,L'Oreal,67000.0,38000.0
+2407,NY,Game Design,M&amp;J Engineering,67000.0,37000.0
+2408,NY,Game Design,MSG,99000.0,51000.0
+2409,NY,Game Design,Madison Square Garden Entertainment,67000.0,35000.0
+2410,NY,Game Design,Maesa,59000.0,33000.0
+2411,NY,Game Design,Match Group,147000.0,85000.0
+2412,NY,Game Design,Momentum Solar,53000.0,27000.0
+2413,NY,Game Design,Morgan &amp; Morgan,45000.0,24000.0
+2414,NY,Game Design,New School,61000.0,32000.0
+2415,NY,Game Design,Newmark Knight Frank,54000.0,28000.0
+2416,NY,Game Design,NowThis,66000.0,34000.0
+2417,NY,Game Design,Oaktree Capital Management,104000.0,58000.0
+2418,NY,Game Design,Omnicom Health Group,89000.0,45000.0
+2419,NY,Game Design,One Jeanswear Group,50000.0,45500.0
+2420,NY,Game Design,Oscar Health,63000.0,35000.0
+2421,NY,Game Design,PEI Media,58000.0,32000.0
+2422,NY,Game Design,Parigi Group,70000.0,56000.0
+2423,NY,Game Design,Peloton Interactive,133000.0,66000.0
+2424,NY,Game Design,Penguin Random House LLC,59000.0,31000.0
+2425,NY,Game Design,Prime Studio,63000.0,34000.0
+2426,NY,Game Design,Publicis Groupe,70500.0,38000.0
+2427,NY,Game Design,Research Foundation of The City University of New York,61000.0,32000.0
+2428,NY,Game Design,Rightpoint,69000.0,37000.0
+2429,NY,Game Design,Rockstar Games,92000.0,46500.0
+2430,NY,Game Design,Saks Fifth Avenue,61000.0,34000.0
+2431,NY,Game Design,Sean John,66000.0,37000.0
+2432,NY,Game Design,Shindig,138000.0,68000.0
+2433,NY,Game Design,Siege Media,61000.0,31000.0
+2434,NY,Game Design,Spin Master Ltd,82000.0,44000.0
+2435,NY,Game Design,SportsRecruits,71000.0,35000.0
+2436,NY,Game Design,Spotify,168000.0,99000.0
+2437,NY,Game Design,Standard Motor Products Inc,64000.0,36000.0
+2438,NY,Game Design,Strategic Financial Solutions,74000.0,36000.0
+2439,NY,Game Design,Tapestry,71000.0,39000.0
+2440,NY,Game Design,The Durst Organization,69000.0,38000.0
+2441,NY,Game Design,The Halal Guys,49000.0,26000.0
+2442,NY,Game Design,The Kasper Group,77000.0,61000.0
+2443,NY,Game Design,The Robin Hood Foundation,63000.0,34000.0
+2444,NY,Game Design,The Spark Group,60000.0,37000.0
+2445,NY,Game Design,The Topps Company,76000.0,40000.0
+2446,NY,Game Design,Transwestern,66000.0,35000.0
+2447,NY,Game Design,Two Bulls,119000.0,53000.0
+2448,NY,Game Design,University of Delaware,63000.0,33000.0
+2449,NY,Game Design,Village Print ,39000.0,38000.0
+2450,NY,Game Design,Vox Media,78000.0,41000.0
+2451,NY,Game Design,WE Communications,80000.0,40000.0
+2452,NY,Game Design,WeWork,79000.0,43000.0
+2453,NY,Game Design,William Hill US,115000.0,62000.0
+2454,NY,Game Design,William Morris,52000.0,28000.0
+2455,NY,Game Design,Work &amp; Co,120000.0,67000.0
+2456,NY,Game Design,amika,88000.0,46000.0
+2457,NY,UI/UX Researcher,ACS Group,116000.0,53000.0
+2458,NY,UI/UX Researcher,ADP,231000.0,126000.0
+2459,NY,UI/UX Researcher,Adobe,125000.0,58000.0
+2460,NY,UI/UX Researcher,Alibaba,133000.0,49000.0
+2461,NY,UI/UX Researcher,Amazon,111000.0,66000.0
+2462,NY,UI/UX Researcher,Athreya Inc,97000.0,44000.0
+2463,NY,UI/UX Researcher,BNY Mellon,95000.0,35000.0
+2464,NY,UI/UX Researcher,Barnes &amp; Noble,117000.0,54000.0
+2465,NY,UI/UX Researcher,Better.com,193500.0,99000.0
+2466,NY,UI/UX Researcher,Bizzabo,152000.0,93000.0
+2467,NY,UI/UX Researcher,BlackBerry,157000.0,80000.0
+2468,NY,UI/UX Researcher,BlackRock,121000.0,57000.0
+2469,NY,UI/UX Researcher,Blackbaud,108000.0,52000.0
+2470,NY,UI/UX Researcher,Blackstone,130000.0,82000.0
+2471,NY,UI/UX Researcher,Blend360,53000.0,21000.0
+2472,NY,UI/UX Researcher,Bloomberg,171500.0,92500.0
+2473,NY,UI/UX Researcher,Bombas,203000.0,124000.0
+2474,NY,UI/UX Researcher,Boomi,159000.0,100000.0
+2475,NY,UI/UX Researcher,Braze,155500.0,90000.0
+2476,NY,UI/UX Researcher,Brookhaven National Laboratory,68000.0,37000.0
+2477,NY,UI/UX Researcher,CIA,156000.0,75000.0
+2478,NY,UI/UX Researcher,CNEWS,161000.0,89000.0
+2479,NY,UI/UX Researcher,Capital One,106000.0,62000.0
+2480,NY,UI/UX Researcher,CentralReach,169000.0,98000.0
+2481,NY,UI/UX Researcher,Citadel,174000.0,86000.0
+2482,NY,UI/UX Researcher,Citi,130000.0,63000.0
+2483,NY,UI/UX Researcher,Clover,161000.0,81000.0
+2484,NY,UI/UX Researcher,Colgate-Palmolive,137000.0,65000.0
+2485,NY,UI/UX Researcher,Compass,165500.0,86500.0
+2486,NY,UI/UX Researcher,Cox Automotive,99000.0,61000.0
+2487,NY,UI/UX Researcher,Deloitte,73000.0,37000.0
+2488,NY,UI/UX Researcher,Digital Pulp,113000.0,52000.0
+2489,NY,UI/UX Researcher,Dotdash,70000.0,34000.0
+2490,NY,UI/UX Researcher,Dow Jones,138000.0,66000.0
+2491,NY,UI/UX Researcher,Etsy,147000.0,90000.0
+2492,NY,UI/UX Researcher,Facebook,153000.0,96000.0
+2493,NY,UI/UX Researcher,Fiserv,100000.0,49000.0
+2494,NY,UI/UX Researcher,Fitch Solutions Inc.,118000.0,61000.0
+2495,NY,UI/UX Researcher,Food52,97000.0,44000.0
+2496,NY,UI/UX Researcher,Glossier,205000.0,126000.0
+2497,NY,UI/UX Researcher,Google,173000.0,95500.0
+2498,NY,UI/UX Researcher,Grubhub,100000.0,56000.0
+2499,NY,UI/UX Researcher,Havas Worldwide,70000.0,46000.0
+2500,NY,UI/UX Researcher,Hinge,174000.0,107000.0
+2501,NY,UI/UX Researcher,Hospital for Special Surgery,52000.0,33000.0
+2502,NY,UI/UX Researcher,Hunter International,61000.0,29000.0
+2503,NY,UI/UX Researcher,IBM,143000.0,70000.0
+2504,NY,UI/UX Researcher,ION Group,146000.0,69000.0
+2505,NY,UI/UX Researcher,"JPMorgan Chase Bank, N.A.",221000.0,134000.0
+2506,NY,UI/UX Researcher,Kettle,146000.0,69000.0
+2507,NY,UI/UX Researcher,Kin + Carta,102000.0,49000.0
+2508,NY,UI/UX Researcher,Konrad,94000.0,70000.0
+2509,NY,UI/UX Researcher,L'Oreal,130000.0,61000.0
+2510,NY,UI/UX Researcher,Langan Engineering and Environmental Services,88000.0,54000.0
+2511,NY,UI/UX Researcher,Macy's,227000.0,112000.0
+2512,NY,UI/UX Researcher,Match Group,138000.0,84000.0
+2513,NY,UI/UX Researcher,NBCUniversal,163000.0,99000.0
+2514,NY,UI/UX Researcher,NYU Langone Health,64000.0,31000.0
+2515,NY,UI/UX Researcher,NetCom Learning,90000.0,40000.0
+2516,NY,UI/UX Researcher,New Jersey Institute of Technology,69000.0,39000.0
+2517,NY,UI/UX Researcher,New School,61500.0,26500.0
+2518,NY,UI/UX Researcher,Noom US,99000.0,54000.0
+2519,NY,UI/UX Researcher,Northwell health,98000.0,44000.0
+2520,NY,UI/UX Researcher,Oracle ,171000.0,74000.0
+2521,NY,UI/UX Researcher,Penguin Random House LLC,88000.0,39000.0
+2522,NY,UI/UX Researcher,PepsiCo,233000.0,115000.0
+2523,NY,UI/UX Researcher,Raytheon Technologies Corporate,127000.0,77000.0
+2524,NY,UI/UX Researcher,Reaktor,173000.0,103000.0
+2525,NY,UI/UX Researcher,Samsung Electronics,223000.0,122000.0
+2526,NY,UI/UX Researcher,Samsung Electronics America,227000.0,125000.0
+2527,NY,UI/UX Researcher,Samsung Research America,231000.0,120000.0
+2528,NY,UI/UX Researcher,Sapphire Digital,113000.0,55000.0
+2529,NY,UI/UX Researcher,Sauce Labs,121000.0,71000.0
+2530,NY,UI/UX Researcher,Shopbop Mobile LLC,111000.0,66000.0
+2531,NY,UI/UX Researcher,SiriusXM,122000.0,73000.0
+2532,NY,UI/UX Researcher,Skillshare,192000.0,115000.0
+2533,NY,UI/UX Researcher,Spin Master Ltd,82000.0,44000.0
+2534,NY,UI/UX Researcher,Spotify,168000.0,100000.0
+2535,NY,UI/UX Researcher,Squarespace,191000.0,112000.0
+2536,NY,UI/UX Researcher,Sterling National Bank,135000.0,74000.0
+2537,NY,UI/UX Researcher,"TPR Education, LLC",101000.0,46000.0
+2538,NY,UI/UX Researcher,Teza Technologies,123000.0,76000.0
+2539,NY,UI/UX Researcher,The City University of New York (CUNY),85000.0,40000.0
+2540,NY,UI/UX Researcher,The Conference Board,115000.0,46000.0
+2541,NY,UI/UX Researcher,The Knot Worldwide,94000.0,50000.0
+2542,NY,UI/UX Researcher,The Rockefeller University,81000.0,36000.0
+2543,NY,UI/UX Researcher,The Rockridge Group,107000.0,88000.0
+2544,NY,UI/UX Researcher,The Trade Desk,162000.0,100000.0
+2545,NY,UI/UX Researcher,Tommy John,91000.0,41000.0
+2546,NY,UI/UX Researcher,Tripadvisor,79000.0,42000.0
+2547,NY,UI/UX Researcher,Twitter Inc,169000.0,103000.0
+2548,NY,UI/UX Researcher,Two Bulls,127000.0,75000.0
+2549,NY,UI/UX Researcher,UBS,128000.0,63000.0
+2550,NY,UI/UX Researcher,US Bank,99000.0,46000.0
+2551,NY,UI/UX Researcher,University of Delaware,55500.0,30500.0
+2552,NY,UI/UX Researcher,VMLY&amp;R,139000.0,73000.0
+2553,NY,UI/UX Researcher,VTS,83000.0,43000.0
+2554,NY,UI/UX Researcher,Verizon,159000.0,81500.0
+2555,NY,UI/UX Researcher,WE Communications,83000.0,46000.0
+2556,NY,UI/UX Researcher,Weber Shandwick,74000.0,44000.0
+2557,NY,UI/UX Researcher,Weill Cornell Medicine,118000.0,62000.0
+2558,NY,UI/UX Researcher,Wunderkind,110000.0,53000.0
+2559,NY,UI/UX Researcher,Xero,145000.0,86000.0
+2560,NY,UI/UX Researcher,Zocdoc,130000.0,79000.0
+2561,NY,UI/UX Researcher,"imre, LLC.",145000.0,70000.0
+2562,NY,VR Engineering,Arup,146000.0,71000.0
+2563,NY,VR Engineering,Facebook,160000.0,94000.0
+2564,NY,VR Engineering,Lenovo,220000.0,82000.0
+2565,NY,VR Engineering,Pure Storage,207000.0,80000.0
+2566,NY,VR Engineering,ZT Systems,98000.0,76000.0
+2567,WA,VR Engineering,Amazon,132000.0,93500.0
+2568,WA,VR Engineering,Amazon.com Services LLC,137000.0,68000.0
+2569,WA,VR Engineering,Axon,163000.0,85000.0
+2570,WA,VR Engineering,Facebook,160000.0,89000.0
+2571,WA,VR Engineering,Magic Leap - Multiple Locations,109000.0,62000.0
+2572,WA,VR Engineering,MicroVision,154000.0,91000.0
+2573,WA,VR Engineering,Microsoft,177000.0,114000.0
+2574,WA,VR Engineering,Providence Health &amp; Services,149000.0,73000.0
+2575,WA,VR Engineering,Pure Storage,174000.0,90000.0
+2576,WA,VR Engineering,Tata Technologies,105000.0,56000.0
+2577,WA,VR Engineering,Tata Technologies Inc.,105000.0,56000.0
+2578,WA,VR Engineering,"TuSimple, Inc.",144000.0,72000.0
+2579,WA,VR Engineering,Unity Technologies,215000.0,116500.0
+2580,WA,VR Engineering,VMware,184000.0,111000.0
+2581,WA,VR Engineering,Valve Corporation,177500.0,91000.0
+2582,WA,VR Engineering,Verizon,127000.0,64000.0

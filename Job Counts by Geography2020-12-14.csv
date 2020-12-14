@@ -1,0 +1,23 @@
+,State,Role,Job Count,Salary Range: Maximum,Salary Range: Minimum,Median Company Rating
+0,CA,Digital Marketing,1800,105000.0,51000.0,3.9
+1,CA,Data Scientist,902,178000.0,110000.0,4.0
+2,NY,Data Scientist,902,140000.0,84000.0,3.9
+3,DC,Data Scientist,902,127000.0,75000.0,3.9
+4,NY,Digital Marketing,900,89000.0,47000.0,3.9
+5,IL,Data Scientist,869,118000.0,66500.0,3.8
+6,CA,UI/UX Researcher,778,166500.0,98000.0,4.1
+7,CA,Game Design,629,99500.0,53500.0,3.8
+8,DC,UI/UX Researcher,448,118000.0,60000.0,3.9
+9,NY,Game Design,333,66000.0,36000.0,3.8
+10,NY,UI/UX Researcher,241,127000.0,66000.0,3.9
+11,IN,Digital Marketing,180,80000.0,36000.0,3.8
+12,IN,Data Scientist,157,87000.0,45000.0,3.7
+13,MN,UI/UX Researcher,154,106000.0,53000.0,3.8
+14,IL,Game Design,111,59000.0,33000.0,3.6
+15,CA,VR Engineering,106,157000.0,79000.0,4.0
+16,WA,VR Engineering,80,157000.0,89500.0,4.5
+17,IN,UI/UX Researcher,40,89000.0,46000.0,3.8499999999999996
+18,NY,VR Engineering,20,146000.0,87000.0,4.0
+19,IN,Game Design,15,38000.0,21000.0,4.05
+20,FL,VR Engineering,10,121000.0,74000.0,4.65
+21,IN,VR Engineering,3,126000.0,57000.0,3.6
